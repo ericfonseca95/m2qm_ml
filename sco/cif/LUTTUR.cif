@@ -1,0 +1,142 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_LUTTUR
+_audit_creation_date 2015-10-07
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD LUTTUR
+_database_code_depnum_ccdc_archive 'CCDC 1420556'
+_chemical_formula_sum 'C28 H34 Fe1 N4'
+_chemical_formula_moiety
+;
+C28 H34 Fe1 N4
+;
+_journal_coden_Cambridge 1290
+_journal_year 2015
+_journal_page_first 5457
+_journal_name_full 'Eur.J.Inorg.Chem. '
+loop_
+_publ_author_name
+"C.Thie"
+"C.Bruhn"
+"Ulrich Siemeling"
+_chemical_name_systematic
+;
+1,1'-bis(((4-(dimethylamino)phenyl)methyl)amino)ferrocene
+;
+_cell_volume    573.616
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.397
+_exptl_crystal_description 'needle'
+_diffrn_ambient_temperature 100
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0628
+_refine_ls_wR_factor_gt 0.0628
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 6.1923(6)
+_cell_length_b 9.5443(10)
+_cell_length_c 10.5382(11)
+_cell_angle_alpha 101.821(8)
+_cell_angle_beta 102.876(8)
+_cell_angle_gamma 101.759(8)
+_cell_formula_units_Z 1
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Fe 1.52
+N 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.3619(7) 1.1820(5) 0.5406(4)
+C2 C 0.3594(8) 1.1041(5) 0.6412(4)
+H1 H 0.22730 1.05940 0.66460
+C3 C 0.5906(8) 1.1042(5) 0.7015(4)
+H2 H 0.63910 1.06110 0.77280
+C4 C 0.7353(8) 1.1803(5) 0.6358(4)
+H3 H 0.89730 1.19750 0.65570
+C5 C 0.5916(7) 1.2264(5) 0.5339(4)
+H4 H 0.64140 1.27750 0.47290
+C6 C 0.1812(8) 1.2548(5) 0.3421(4)
+H5 H 0.20990 1.17110 0.28130
+H6 H 0.30970 1.34340 0.35920
+C7 C -0.0387(8) 1.2844(5) 0.2751(4)
+C8 C -0.2044(8) 1.1773(5) 0.1709(5)
+H7 H -0.17700 1.08320 0.14140
+C9 C -0.4081(8) 1.2026(5) 0.1085(4)
+H8 H -0.51700 1.12620 0.03700
+C10 C -0.4569(8) 1.3394(5) 0.1488(4)
+C11 C -0.2877(8) 1.4486(5) 0.2548(4)
+H9 H -0.31340 1.54300 0.28510
+C12 C -0.0862(8) 1.4203(5) 0.3148(4)
+H10 H 0.02450 1.49620 0.38590
+C13 C -0.7026(9) 1.5094(5) 0.1263(5)
+H11 H -0.61890 1.57690 0.08450
+H12 H -0.65040 1.54870 0.22460
+H13 H -0.86740 1.50030 0.09470
+C14 C -0.8213(8) 1.2556(6) -0.0264(5)
+H14 H -0.86550 1.16180 -0.00280
+H15 H -0.74990 1.24030 -0.10060
+H16 H -0.95800 1.29070 -0.05460
+N1 N 0.1725(7) 1.2193(4) 0.4692(4)
+H17 H 0.05(1) 1.166(6) 0.462(5)
+N2 N -0.6598(7) 1.3649(4) 0.0896(4)
+Fe1 Fe 0.50000 1.00000 0.50000
+C1A C 0.6381(7) 0.8180(5) 0.4594(4)
+C2A C 0.6406(8) 0.8959(5) 0.3588(4)
+H1A H 0.77270 0.94060 0.33540
+C3A C 0.4094(8) 0.8958(5) 0.2985(4)
+H2A H 0.36090 0.93890 0.22720
+C4A C 0.2647(8) 0.8197(5) 0.3642(4)
+H3A H 0.10270 0.80250 0.34430
+C5A C 0.4084(7) 0.7736(5) 0.4661(4)
+H4A H 0.35860 0.72250 0.52710
+C6A C 0.8188(8) 0.7452(5) 0.6579(4)
+H5A H 0.79010 0.82890 0.71870
+H6A H 0.69030 0.65660 0.64080
+C7A C 1.0387(8) 0.7156(5) 0.7249(4)
+C8A C 1.2044(8) 0.8227(5) 0.8291(5)
+H7A H 1.17700 0.91680 0.85860
+C9A C 1.4081(8) 0.7974(5) 0.8915(4)
+H8A H 1.51700 0.87380 0.96300
+C10A C 1.4569(8) 0.6606(5) 0.8512(4)
+C11A C 1.2877(8) 0.5514(5) 0.7452(4)
+H9A H 1.31340 0.45700 0.71490
+C12A C 1.0862(8) 0.5797(5) 0.6852(4)
+H10A H 0.97550 0.50380 0.61410
+C13A C 1.7026(9) 0.4906(5) 0.8737(5)
+H11A H 1.61890 0.42310 0.91550
+H12A H 1.65040 0.45130 0.77540
+H13A H 1.86740 0.49970 0.90530
+C14A C 1.8213(8) 0.7444(6) 1.0264(5)
+H14A H 1.86550 0.83820 1.00280
+H15A H 1.74990 0.75970 1.10060
+H16A H 1.95800 0.70930 1.05460
+N1A N 0.8275(7) 0.7807(4) 0.5308(4)
+H17A H 0.95(1) 0.834(6) 0.538(5)
+N2A N 1.6598(7) 0.6351(4) 0.9104(4)
+#END

@@ -1,0 +1,114 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_MERJOJ
+_audit_creation_date 2007-02-13
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD MERJOJ
+_database_code_depnum_ccdc_archive 'CCDC 630258'
+_chemical_formula_sum 'C14 H6 Cr1 O6 S1'
+_chemical_formula_moiety
+;
+C14 H6 Cr1 O6 S1
+;
+_journal_coden_Cambridge 579
+_journal_volume 25
+_journal_year 2006
+_journal_page_first 5301
+_journal_name_full 'Organometallics '
+loop_
+_publ_author_name
+"Zhaoyan Zheng"
+"Jinzhu Chen"
+"Ning Luo"
+"Zhengkun Yu"
+"Xiuwen Han"
+_chemical_name_systematic
+;
+Pentacarbonyl-(chromene-2-thione-S)-chromium
+;
+_chemical_melting_point 423.15
+_cell_volume    722.777
+_exptl_crystal_colour 'black'
+_exptl_crystal_density_diffrn 1.628
+_exptl_special_details
+;
+Melts above 423.15K
+
+;
+_exptl_crystal_description 'prismatic'
+_exptl_crystal_preparation '30-60 petroleum ether/dichloromethane'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0343
+_refine_ls_wR_factor_gt 0.0343
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 6.9915(8)
+_cell_length_b 9.296(1)
+_cell_length_c 11.6505(12)
+_cell_angle_alpha 95.864(2)
+_cell_angle_beta 100.443(2)
+_cell_angle_gamma 101.288(2)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cr 1.35
+O 0.68
+S 1.02
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cr1 Cr 0.68062(4) 0.70586(3) 0.86738(2)
+S1 S 0.65656(9) 0.64271(5) 0.65960(4)
+O1 O 0.7983(3) 0.4120(2) 0.89872(17)
+O2 O 0.2393(3) 0.5648(2) 0.82067(19)
+O3 O 0.7073(3) 0.7535(2) 1.12738(14)
+O4 O 0.5655(3) 1.00397(18) 0.85974(15)
+O5 O 1.1104(3) 0.8710(2) 0.8986(2)
+O6 O 0.7575(2) 0.92184(13) 0.64664(10)
+C1 C 0.7551(3) 0.5217(2) 0.88526(18)
+C2 C 0.4049(4) 0.6150(2) 0.83893(19)
+C3 C 0.6965(4) 0.7357(2) 1.02865(19)
+C4 C 0.6080(3) 0.8919(2) 0.85911(17)
+C5 C 0.9525(4) 0.8076(3) 0.8869(2)
+C6 C 0.6976(3) 0.7851(2) 0.58548(16)
+C7 C 0.6695(3) 0.7677(2) 0.46055(17)
+H1 H 0.63150 0.67310 0.41770
+C8 C 0.6973(3) 0.8863(2) 0.40352(17)
+H2 H 0.67750 0.87330 0.32170
+C9 C 0.7570(3) 1.0318(2) 0.46835(16)
+C10 C 0.7863(3) 1.0463(2) 0.59027(16)
+C11 C 0.8450(3) 1.1818(2) 0.66187(19)
+H3 H 0.86470 1.18810 0.74350
+C12 C 0.8731(3) 1.3068(2) 0.6083(2)
+H4 H 0.91210 1.39930 0.65450
+C13 C 0.8447(3) 1.2980(2) 0.4873(2)
+H5 H 0.86330 1.38430 0.45290
+C14 C 0.7888(3) 1.1621(3) 0.41712(19)
+H6 H 0.77220 1.15680 0.33570
+#END

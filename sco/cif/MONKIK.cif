@@ -1,0 +1,117 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_MONKIK
+_audit_creation_date 2009-06-23
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD MONKIK
+_database_code_depnum_ccdc_archive 'CCDC 666391'
+_chemical_formula_sum 'C10 H22 Mn1 N4 O5.5'
+_chemical_formula_moiety
+;
+C8 H17 Mn1 N4 O5,0.5(C4 H10 O1)
+;
+_journal_coden_Cambridge 222
+_journal_year 2009
+_journal_page_first 41
+_journal_name_full 'Dalton Trans. '
+loop_
+_publ_author_name
+"T.C.Stamatatos"
+"K.A.Abboud"
+"G.Christou"
+_chemical_name_systematic
+;
+Azido-(2-(2-hydroxethyl(2-oxyethyl)amino)-2-(hydroxymethyl)-3-hydroxypropanola
+to-N,O,O',O'',O''')-manganese(iii) diethyl ether solvate
+;
+_cell_volume    721.016
+_exptl_crystal_colour 'brown'
+_exptl_crystal_density_diffrn 1.572
+_exptl_crystal_description 'needle'
+_diffrn_ambient_temperature 173
+_refine_special_details
+;
+The solvent molecule is disordered about an inversion centre and its 
+contribution has been accounted for using SQUEEZE/PLATON.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0332
+_refine_ls_wR_factor_gt 0.0332
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 7.8789(7)
+_cell_length_b 9.3663(8)
+_cell_length_c 9.9722(8)
+_cell_angle_alpha 92.000(2)
+_cell_angle_beta 93.201(2)
+_cell_angle_gamma 100.783(2)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Mn 1.35
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mn1 Mn 1.52301(4) 0.55417(3) 0.75019(3)
+O1 O 1.65887(17) 0.67822(13) 0.88776(13)
+O2 O 1.64782(18) 0.69794(15) 0.59868(15)
+H1 H 1.640(3) 0.655(2) 0.529(2)
+O3 O 1.35755(17) 0.45235(14) 0.62144(14)
+O4 O 1.32882(19) 0.46163(17) 0.89436(16)
+H2 H 1.332(3) 0.426(3) 0.965(3)
+O5 O 1.0030(2) 0.75662(18) 0.83525(19)
+H3 H 0.911(4) 0.738(3) 0.851(3)
+N1 N 1.6730(2) 0.40770(18) 0.7589(2)
+N2 N 1.6164(2) 0.2788(2) 0.75632(18)
+N3 N 1.5691(3) 0.1552(2) 0.7561(2)
+N4 N 1.3616(2) 0.70406(17) 0.75015(16)
+C1 C 1.6017(3) 0.8140(2) 0.9131(2)
+H4 H 1.66590 0.89010 0.85880
+H5 H 1.62670 0.84510 1.00920
+C2 C 1.4091(3) 0.7970(2) 0.8777(2)
+H6 H 1.34330 0.75100 0.95170
+H7 H 1.37870 0.89380 0.86550
+C3 C 1.5737(3) 0.8258(2) 0.5912(2)
+H8 H 1.57960 0.86130 0.49890
+H9 H 1.64040 0.90330 0.65370
+C4 C 1.3858(3) 0.7923(2) 0.6279(2)
+H10 H 1.34530 0.88490 0.64420
+H11 H 1.31360 0.73860 0.55110
+C5 C 1.1861(2) 0.5993(2) 0.7436(2)
+C6 C 1.1924(3) 0.4920(2) 0.6247(2)
+H12 H 1.10300 0.40350 0.63240
+H13 H 1.16600 0.53700 0.53960
+C7 C 1.1728(3) 0.5151(2) 0.8717(2)
+H14 H 1.15630 0.57960 0.94870
+H15 H 1.07280 0.43320 0.86190
+C8 C 1.0294(3) 0.6705(2) 0.7209(2)
+H16 H 1.04560 0.73260 0.64250
+H17 H 0.92510 0.59420 0.70000
+#END

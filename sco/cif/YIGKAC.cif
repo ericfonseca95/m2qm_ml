@@ -1,0 +1,134 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_YIGKAC
+_audit_creation_date 2013-06-16
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD YIGKAC
+_database_code_depnum_ccdc_archive 'CCDC 921740'
+_chemical_formula_sum 'C16 H16 Cr1 N4 S2'
+_chemical_formula_moiety
+;
+C14 H16 Cr1 1+,C2 N4 S2 1-
+;
+_journal_coden_Cambridge 9
+_journal_volume 52
+_journal_year 2013
+_journal_page_first 6654
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"N.A.Semenov"
+"N.A.Pushkarevsky"
+"E.A.Suturina"
+"E.A.Chulanova"
+"N.V.Kuratieva"
+"A.S.Bogomyakov"
+"I.G.Irtegova"
+"N.V.Vasilieva"
+"L.S.Konstantinova"
+"N.P.Gritsan"
+"O.A.Rakitin"
+"V.I.Ovcharenko"
+"S.N.Konchenko"
+"A.V.Zibarev"
+_chemical_name_systematic
+;
+bis(\h^6^-Toluene)-chromium radical cation 
+[1,2,5]thiadiazolo[3,4-c][1,2,5]thiadiazole radical anion
+;
+_cell_volume   1535.071
+_exptl_crystal_colour 'black'
+_exptl_crystal_density_diffrn 1.646
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 150
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0228
+_refine_ls_wR_factor_gt 0.0228
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,-1/2+z
+7 -1/2-x,-1/2-y,-z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 12.3474(5)
+_cell_length_b 9.9269(4)
+_cell_length_c 13.0243(5)
+_cell_angle_alpha 90
+_cell_angle_beta 105.934(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cr 1.39
+N 0.68
+S 1.02
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cr1 Cr 0.00000 0.31722(2) 0.25000
+C1 C 0.17521(8) 0.28710(11) 0.25581(8)
+C2 C 0.14486(8) 0.42428(10) 0.23336(8)
+H1 H 0.18890 0.49320 0.27570
+C3 C 0.04973(9) 0.45958(11) 0.14869(9)
+H2 H 0.03020 0.55170 0.13480
+C4 C -0.01624(9) 0.35785(13) 0.08487(8)
+H3 H -0.08010 0.38150 0.02810
+C5 C 0.01312(9) 0.22120(12) 0.10574(8)
+H4 H -0.03070 0.15270 0.06270
+C6 C 0.10802(9) 0.18603(10) 0.19093(9)
+H5 H 0.12690 0.09380 0.20480
+C7 C 0.27298(9) 0.25111(13) 0.34892(9)
+H6 H 0.34160 0.24510 0.32520
+H7 H 0.25870 0.16410 0.37820
+H8 H 0.28250 0.32060 0.40410
+S1 S 0.38135(3) 0.38126(3) 0.11148(3)
+N1 N 0.36755(10) 0.21505(11) 0.10984(9)
+N2 N 0.22679(10) 0.07357(10) -0.00984(9)
+C8 C 0.27696(11) 0.19006(11) 0.02844(9)
+C1A C -0.17521(8) 0.28710(11) 0.24419(8)
+C2A C -0.14486(8) 0.42428(10) 0.26664(8)
+H1A H -0.18890 0.49320 0.22430
+C3A C -0.04973(9) 0.45958(11) 0.35131(9)
+H2A H -0.03020 0.55170 0.36520
+C4A C 0.01624(9) 0.35785(13) 0.41513(8)
+H3A H 0.08010 0.38150 0.47190
+C5A C -0.01312(9) 0.22120(12) 0.39426(8)
+H4A H 0.03070 0.15270 0.43730
+C6A C -0.10802(9) 0.18603(10) 0.30907(9)
+H5A H -0.12690 0.09380 0.29520
+C7A C -0.27298(9) 0.25111(13) 0.15108(9)
+H6A H -0.34160 0.24510 0.17480
+H7A H -0.25870 0.16410 0.12180
+H8A H -0.28250 0.32060 0.09590
+S1F S 0.11865(3) 0.11874(3) -0.11148(3)
+N1F N 0.13245(10) 0.28495(11) -0.10984(9)
+N2F N 0.27321(10) 0.42643(10) 0.00984(9)
+C8F C 0.22304(11) 0.30994(11) -0.02844(9)
+#END

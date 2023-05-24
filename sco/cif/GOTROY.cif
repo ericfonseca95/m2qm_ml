@@ -1,0 +1,131 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_GOTROY
+_audit_creation_date 2014-12-04
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD GOTROY
+_database_code_depnum_ccdc_archive 'CCDC 994536'
+_chemical_formula_sum 'C12 H21 Cl3 Cr1 N3'
+_chemical_formula_moiety
+;
+C12 H21 Cl3 Cr1 N3
+;
+_journal_coden_Cambridge 580
+_journal_volume 84
+_journal_year 2014
+_journal_page_first 3
+_journal_name_full 'Polyhedron '
+loop_
+_publ_author_name
+"R.D.Kohn"
+"A.G.N.Coxon"
+"C.R.Hawkins"
+"D.Smith"
+"S.Mihan"
+"K.Schuhen"
+"M.Schiendorfer"
+"G.Kociok-Kohn"
+_chemical_name_systematic
+;
+trichloro-(1,3,5-triallyl-1,3,5-triazinane)-chromium(iii)
+;
+_cell_volume    848.726
+_exptl_crystal_colour 'purple'
+_exptl_crystal_density_diffrn 1.431
+_exptl_special_details
+;
+Absolute configuration
+
+;
+_exptl_crystal_description 'needle'
+_diffrn_ambient_temperature 150
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0228
+_refine_ls_wR_factor_gt 0.0228
+_symmetry_cell_setting hexagonal
+_symmetry_space_group_name_H-M 'P 63'
+_symmetry_Int_Tables_number 173
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,1/2+z
+3 -y,x-y,z
+4 -x+y,-x,z
+5 x-y,x,1/2+z
+6 y,-x+y,1/2+z
+_cell_length_a 11.8914(3)
+_cell_length_b 11.8914(3)
+_cell_length_c 6.9306(1)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+Cr 1.39
+N 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cr1 Cr 0.33330 0.66670 0.83615(6)
+Cl1 Cl 0.40101(4) 0.54180(4) 0.99241(6)
+N1 N 0.45936(13) 0.70951(13) 0.6007(2)
+C1 C 0.37849(14) 0.57798(15) 0.5163(3)
+H1 H 0.37680 0.58110 0.37370
+H2 H 0.40920 0.51810 0.55680
+C2 C 0.60084(16) 0.75823(17) 0.6061(3)
+H3 H 0.61590 0.69040 0.66250
+H4 H 0.64270 0.83520 0.69150
+C3 C 0.66364(18) 0.79462(19) 0.4114(3)
+H5 H 0.62960 0.73160 0.31140
+C4 C 0.7638(2) 0.9098(2) 0.3719(3)
+H6 H 0.79970 0.97450 0.46940
+H7 H 0.80020 0.92810 0.24590
+N1B N 0.29049(13) 0.74985(13) 0.6007(2)
+C1B C 0.42202(14) 0.80051(15) 0.5163(3)
+H1B H 0.41890 0.79570 0.37370
+H2B H 0.48190 0.89110 0.55680
+C2B C 0.24177(16) 0.84261(17) 0.6061(3)
+H3B H 0.30960 0.92550 0.66250
+H4B H 0.16480 0.80750 0.69150
+C3B C 0.20538(18) 0.86902(19) 0.4114(3)
+H5B H 0.26840 0.89800 0.31140
+C4B C 0.0902(2) 0.8540(2) 0.3719(3)
+H6B H 0.02550 0.82520 0.46940
+H7B H 0.07190 0.87210 0.24590
+N1C N 0.25015(13) 0.54064(13) 0.6007(2)
+C1C C 0.19949(14) 0.62151(15) 0.5163(3)
+H1C H 0.20430 0.62320 0.37370
+H2C H 0.10890 0.59080 0.55680
+C2C C 0.15739(16) 0.39916(17) 0.6061(3)
+H3C H 0.07450 0.38410 0.66250
+H4C H 0.19250 0.35730 0.69150
+C3C C 0.13098(18) 0.33636(19) 0.4114(3)
+H5C H 0.10200 0.37040 0.31140
+C4C C 0.1460(2) 0.2362(2) 0.3719(3)
+H6C H 0.17480 0.20030 0.46940
+H7C H 0.12790 0.19980 0.24590
+Cl1B Cl 0.45820(4) 0.85921(4) 0.99241(6)
+Cl1C Cl 0.14079(4) 0.59899(4) 0.99241(6)
+#END

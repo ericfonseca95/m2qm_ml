@@ -1,0 +1,127 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_ZERDIJ
+_audit_creation_date 1996-06-03
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD ZERDIJ
+_chemical_formula_sum 'C16 H18 Br1 Mn1 N2 O1 S2'
+_chemical_formula_moiety
+;
+C16 H18 Br1 Mn1 N2 O1 S2
+;
+_journal_coden_Cambridge 186
+_journal_year 1995
+_journal_page_first 2619
+_journal_name_full 'J.Chem.Soc.,Dalton Trans. '
+loop_
+_publ_author_name
+"S.B.Kumar"
+"S.Bhattacharyya"
+"S.K.Dutta"
+"E.R.T.Tiekink"
+"M.Chaudhury"
+_chemical_name_systematic
+;
+Bromo-(methyl 
+2-(2-(salicylideneamino)ethylamino)-cyclopent-1-ene-1-carbothioato-N,N',O,S)-m
+anganese(iii)
+;
+_cell_volume   1717.026
+_exptl_crystal_density_diffrn 1.753
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.037
+_refine_ls_wR_factor_gt 0.037
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C c'
+_symmetry_Int_Tables_number 9
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 x,-y,1/2+z
+3 1/2+x,1/2+y,z
+4 1/2+x,1/2-y,1/2+z
+_cell_length_a 7.754(3)
+_cell_length_b 16.235(6)
+_cell_length_c 13.708(2)
+_cell_angle_alpha 90
+_cell_angle_beta 95.73(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Br 1.21
+Mn 1.35
+N 0.68
+O 0.68
+S 1.02
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mn1 Mn -0.0353(2) -0.00393(7) 0.2488(1)
+Br1 Br 0.25570 -0.01738(6) 0.18720
+S1 S -0.2514(3) -0.0170(1) 0.1252(2)
+S2 S -0.3935(4) -0.1407(1) -0.0169(2)
+O1 O -0.0675(9) 0.1091(3) 0.2367(4)
+N1 N -0.0371(9) -0.1203(4) 0.2815(4)
+N2 N 0.0311(9) 0.0092(4) 0.3912(4)
+C1 C -0.257(1) -0.1180(5) 0.0881(6)
+C2 C -0.4695(14) -0.0462(6) -0.0664(7)
+C3 C -0.1718(11) -0.1816(5) 0.1324(6)
+C4 C -0.073(1) -0.1828(5) 0.2245(5)
+C5 C -0.0241(12) -0.2689(4) 0.2498(6)
+C6 C -0.0423(12) -0.3131(5) 0.1530(7)
+C7 C -0.1879(12) -0.2680(5) 0.0941(6)
+C8 C 0.0649(12) -0.1367(5) 0.3762(6)
+C9 C 0.0368(13) -0.0684(5) 0.4444(6)
+C10 C 0.0764(11) 0.0757(5) 0.4347(6)
+C11 C 0.0689(11) 0.1555(5) 0.3886(6)
+C12 C -0.0072(11) 0.1682(5) 0.2935(6)
+C13 C -0.0215(12) 0.2481(5) 0.2592(7)
+C14 C 0.0407(13) 0.3119(5) 0.3149(8)
+C15 C 0.1214(13) 0.2983(5) 0.4087(7)
+C16 C 0.1341(12) 0.2227(5) 0.4446(6)
+H1 H -0.37270 -0.01420 -0.08540
+H2 H -0.55120 -0.05620 -0.12350
+H3 H -0.52650 -0.01610 -0.01760
+H4 H 0.09430 -0.27180 0.28000
+H5 H -0.10140 -0.29230 0.29390
+H6 H 0.06410 -0.30940 0.12140
+H7 H -0.07190 -0.37050 0.16140
+H8 H -0.29930 -0.29150 0.10500
+H9 H -0.17330 -0.26970 0.02460
+H10 H 0.02750 -0.18820 0.40320
+H11 H 0.18700 -0.14030 0.36670
+H12 H 0.13110 -0.06710 0.49650
+H13 H -0.07200 -0.07670 0.47230
+H14 H 0.11910 0.07280 0.50360
+H15 H -0.07730 0.25840 0.19380
+H16 H 0.02920 0.36760 0.28940
+H17 H 0.16830 0.34440 0.44790
+H18 H 0.18930 0.21370 0.51040
+#END

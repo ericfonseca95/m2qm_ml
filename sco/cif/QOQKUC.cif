@@ -1,0 +1,135 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_QOQKUC
+_audit_creation_date 2001-08-17
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD QOQKUC
+_database_code_depnum_ccdc_archive 'CCDC 165626'
+_chemical_formula_sum 'C20 H20 Cl2 Mn1 N4 O2'
+_chemical_formula_moiety
+;
+C20 H20 Cl2 Mn1 N4 O2
+;
+_journal_coeditor_code "IUCr BR6016"
+_journal_coden_Cambridge 1370
+_journal_volume 57
+_journal_year 2001
+_journal_page_first m183
+_journal_name_full 'Acta Crystallogr.,Sect.E:Struct.Rep.Online '
+loop_
+_publ_author_name
+"R.Kruszynski"
+"T.J.Bartczak"
+"A.Adamczyk"
+"D.Czakis-Sulikowska"
+"J.Kaluzna"
+_chemical_name_systematic
+;
+Diaqua-bis(2,4'-bipyridyl-N')-dichloro-manganese(ii)
+;
+_cell_volume    503.870
+_exptl_crystal_colour 'light yellow'
+_exptl_crystal_density_diffrn 1.563
+_exptl_crystal_description 'plate'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0616
+_refine_ls_wR_factor_gt 0.0616
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 6.8000(7)
+_cell_length_b 8.6443(8)
+_cell_length_c 8.9244(9)
+_cell_angle_alpha 84.512(10)
+_cell_angle_beta 79.866(9)
+_cell_angle_gamma 77.834(9)
+_cell_formula_units_Z 1
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+Mn 1.35
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mn1 Mn 0.00000 0.00000 0.00000
+Cl1 Cl 0.28164(19) 0.13807(13) -0.12855(13)
+O1 O 0.2329(6) -0.1442(5) 0.1325(5)
+N1 N 0.0842(6) -0.1715(4) -0.1880(4)
+C1 C 0.1239(8) -0.1236(5) -0.3357(5)
+C2 C 0.1782(8) -0.2232(5) -0.4523(6)
+C3 C 0.1998(7) -0.3864(5) -0.4208(5)
+C4 C 0.1605(8) -0.4368(5) -0.2684(5)
+C5 C 0.1041(8) -0.3270(5) -0.1582(5)
+C6 C 0.2593(7) -0.5000(5) -0.5434(5)
+N2 N 0.2789(6) -0.4371(5) -0.6885(4)
+C7 C 0.3369(9) -0.5385(7) -0.7990(6)
+C8 C 0.3764(8) -0.7006(6) -0.7760(6)
+C9 C 0.3540(9) -0.7622(6) -0.6308(7)
+C10 C 0.2950(8) -0.6621(6) -0.5107(6)
+H1 H 0.333(10) -0.135(8) 0.115(7)
+H2 H 0.180(9) -0.526(7) -0.241(6)
+H3 H 0.278(8) -0.710(6) -0.414(7)
+H4 H 0.417(8) -0.756(7) -0.849(7)
+H5 H 0.347(8) -0.498(7) -0.893(7)
+H6 H 0.093(8) -0.354(7) -0.057(7)
+H7 H 0.383(8) -0.861(7) -0.604(6)
+H8 H 0.207(8) -0.181(6) -0.543(7)
+H9 H 0.111(8) -0.032(7) -0.360(6)
+H10 H 0.258(9) -0.210(7) 0.194(7)
+Cl1A Cl -0.28164(19) -0.13807(13) 0.12855(13)
+O1A O -0.2329(6) 0.1442(5) -0.1325(5)
+H1A H -0.333(10) 0.135(8) -0.115(7)
+H10A H -0.258(9) 0.210(7) -0.194(7)
+N1A N -0.0842(6) 0.1715(4) 0.1880(4)
+C1A C -0.1239(8) 0.1236(5) 0.3357(5)
+C2A C -0.1782(8) 0.2232(5) 0.4523(6)
+C3A C -0.1998(7) 0.3864(5) 0.4208(5)
+C4A C -0.1605(8) 0.4368(5) 0.2684(5)
+C5A C -0.1041(8) 0.3270(5) 0.1582(5)
+H6A H -0.093(8) 0.354(7) 0.057(7)
+H2A H -0.180(9) 0.526(7) 0.241(6)
+C6A C -0.2593(7) 0.5000(5) 0.5434(5)
+N2A N -0.2789(6) 0.4371(5) 0.6885(4)
+C7A C -0.3369(9) 0.5385(7) 0.7990(6)
+C8A C -0.3764(8) 0.7006(6) 0.7760(6)
+C9A C -0.3540(9) 0.7622(6) 0.6308(7)
+C10A C -0.2950(8) 0.6621(6) 0.5107(6)
+H3A H -0.278(8) 0.710(6) 0.414(7)
+H7A H -0.383(8) 0.861(7) 0.604(6)
+H4A H -0.417(8) 0.756(7) 0.849(7)
+H5A H -0.347(8) 0.498(7) 0.893(7)
+H8A H -0.207(8) 0.181(6) 0.543(7)
+H9A H -0.111(8) 0.032(7) 0.360(6)
+#END

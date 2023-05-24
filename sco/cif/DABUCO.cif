@@ -1,0 +1,132 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_DABUCO
+_audit_creation_date 1978-06-15
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD DABUCO
+_database_code_depnum_ccdc_archive 'CCDC 1134976'
+_chemical_formula_sum 'C8 H21.42 Br1 Co1 N4 O5.71'
+_chemical_formula_moiety
+;
+C8 H18 Co1 N4 O4 1+,Br1 1-,1.71(H2 O1)
+;
+_journal_coeditor_code "IUCr A15833"
+_journal_coden_Cambridge 107
+_journal_volume 34
+_journal_year 1978
+_journal_page_first 656
+_journal_name_full 'Acta Crystallogr.,Sect.B:Struct.Crystallogr.Cryst.Chem. '
+loop_
+_publ_author_name
+"W.A.Freeman"
+_chemical_name_systematic
+;
+trans,cis,cis-abc,fed-bis((S)-2,4-Diaminobutyrato)-cobalt(iii) bromide hydrate
+;
+_cell_volume   1489.241
+_exptl_crystal_density_diffrn 1.81
+_exptl_special_details
+;
+H(N12) REMOVED BECAUSE OF COORDINATE ERROR
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+THE BROMINE ATOM IS DISORDERED.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0524
+_refine_ls_wR_factor_gt 0.0524
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'C 2 2 21'
+_symmetry_Int_Tables_number 20
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 x,-y,-z
+4 1/2+x,1/2-y,-z
+5 -x,y,1/2-z
+6 1/2-x,1/2+y,1/2-z
+7 -x,-y,1/2+z
+8 1/2-x,1/2-y,1/2+z
+_cell_length_a 14.164(10)
+_cell_length_b 9.809(5)
+_cell_length_c 10.719(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Co 1.33
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O -0.39850 0.00000 0.00000
+H1 H -0.37200 -0.03500 0.04500
+O2 O 0.06370 0.00000 0.00000
+Co1 Co 0.32562 0.00000 0.00000
+O3 O 0.32140 0.00370 -0.17640
+O4 O 0.28340 0.13570 -0.33670
+N1 N 0.23290 0.14580 -0.01320
+N2 N 0.42170 0.14450 0.01770
+C1 C 0.28610 0.11330 -0.22430
+C2 C 0.25630 0.22010 -0.12950
+C3 C 0.33870 0.31580 -0.10820
+C4 C 0.43100 0.24450 -0.08620
+H2 H 0.17600 0.11200 -0.01860
+H3 H 0.47650 0.10460 0.02590
+H4 H 0.40860 0.18980 0.08530
+H5 H 0.20360 0.27250 -0.15660
+H6 H 0.32470 0.37110 -0.03780
+H7 H 0.34510 0.37190 -0.18010
+H8 H 0.44970 0.19830 -0.16010
+H9 H 0.47770 0.31020 -0.06480
+H1B H -0.37200 0.03500 -0.04500
+O3B O 0.32140 -0.00370 0.17640
+N1B N 0.23290 -0.14580 0.01320
+N2B N 0.42170 -0.14450 -0.01770
+C1B C 0.28610 -0.11330 0.22430
+C2B C 0.25630 -0.22010 0.12950
+H2B H 0.17600 -0.11200 0.01860
+C4B C 0.43100 -0.24450 0.08620
+H3B H 0.47650 -0.10460 -0.02590
+H4B H 0.40860 -0.18980 -0.08530
+O4B O 0.28340 -0.13570 0.33670
+C3B C 0.33870 -0.31580 0.10820
+H5B H 0.20360 -0.27250 0.15660
+H8B H 0.44970 -0.19830 0.16010
+H9B H 0.47770 -0.31020 0.06480
+H6B H 0.32470 -0.37110 0.03780
+H7B H 0.34510 -0.37190 0.18010
+#END

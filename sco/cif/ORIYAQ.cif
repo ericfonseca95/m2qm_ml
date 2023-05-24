@@ -1,0 +1,138 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_ORIYAQ
+_audit_creation_date 2011-08-04
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD ORIYAQ
+_database_code_depnum_ccdc_archive 'CCDC 762865'
+_chemical_formula_sum 'C18 H32 Fe1 N4 P2 S2'
+_chemical_formula_moiety
+;
+C18 H32 Fe1 N4 P2 S2
+;
+_journal_coden_Cambridge 155
+_journal_volume 364
+_journal_year 2010
+_journal_page_first 30
+_journal_name_full 'Inorg.Chim.Acta '
+loop_
+_publ_author_name
+"A.R.Seibert"
+"W.G.Dougherty"
+"W.S.Kassel"
+"C.Nataro"
+_chemical_name_systematic
+;
+1,1'-bis(bis(dimethylamino)phosphorothioyl)ferrocene
+;
+_cell_volume    582.559
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.386
+_exptl_crystal_description 'plate'
+_diffrn_ambient_temperature 150
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.037
+_refine_ls_wR_factor_gt 0.037
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 7.1044(10)
+_cell_length_b 7.2447(9)
+_cell_length_c 12.0012(16)
+_cell_angle_alpha 81.012(5)
+_cell_angle_beta 72.928(4)
+_cell_angle_gamma 84.781(4)
+_cell_formula_units_Z 1
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Fe 1.52
+N 0.68
+P 1.05
+S 1.02
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe1 Fe 1.00000 0.50000 0.50000
+N1 N 0.57539(19) 0.89094(17) 0.74898(11)
+N2 N 0.7977(2) 0.6282(2) 0.82384(13)
+P1 P 0.65975(6) 0.67030(5) 0.73327(3)
+S1 S 0.46101(7) 0.48539(6) 0.76222(4)
+C1 C 0.8090(2) 0.69519(19) 0.58322(13)
+C2 C 0.7487(2) 0.6498(2) 0.48725(14)
+H1 H 0.62050 0.59670 0.49320
+C3 C 0.9031(3) 0.6923(2) 0.38229(14)
+H2 H 0.90270 0.67260 0.30170
+C4 C 1.0589(3) 0.7630(2) 0.41093(15)
+H3 H 1.18750 0.80230 0.35430
+C5 C 1.0029(2) 0.7658(2) 0.53448(15)
+H4 H 1.08470 0.80860 0.57980
+C6 C 0.4569(3) 0.9229(2) 0.86750(15)
+H5 H 0.45310 1.05610 0.87470
+H6 H 0.51580 0.84980 0.92580
+H7 H 0.32240 0.88390 0.88120
+C7 C 0.4882(3) 0.9914(2) 0.65968(15)
+H8 H 0.46570 1.12380 0.67040
+H9 H 0.36240 0.93800 0.66730
+H10 H 0.57800 0.97980 0.58130
+C8 C 0.9298(3) 0.7651(3) 0.8326(2)
+H11 H 0.89560 0.79180 0.91390
+H12 H 0.91600 0.88070 0.78040
+H13 H 1.06620 0.71450 0.80930
+C9 C 0.8029(4) 0.4525(3) 0.90021(17)
+H14 H 0.93880 0.40000 0.88440
+H15 H 0.71930 0.36440 0.88520
+H16 H 0.75420 0.47450 0.98260
+N1A N 1.42461(19) 0.10906(17) 0.25102(11)
+N2A N 1.2023(2) 0.3718(2) 0.17616(13)
+P1A P 1.34025(6) 0.32970(5) 0.26673(3)
+S1A S 1.53899(7) 0.51461(6) 0.23778(4)
+C1A C 1.1910(2) 0.30481(19) 0.41678(13)
+C2A C 1.2513(2) 0.3502(2) 0.51275(14)
+H1A H 1.37950 0.40330 0.50680
+C3A C 1.0969(3) 0.3077(2) 0.61771(14)
+H2A H 1.09730 0.32740 0.69830
+C4A C 0.9411(3) 0.2370(2) 0.58907(15)
+H3A H 0.81250 0.19770 0.64570
+C5A C 0.9971(2) 0.2342(2) 0.46552(15)
+H4A H 0.91530 0.19140 0.42020
+C6A C 1.5431(3) 0.0771(2) 0.13250(15)
+H5A H 1.54690 -0.05610 0.12530
+H6A H 1.48420 0.15020 0.07420
+H7A H 1.67760 0.11610 0.11880
+C7A C 1.5118(3) 0.0086(2) 0.34032(15)
+H8A H 1.53430 -0.12380 0.32960
+H9A H 1.63760 0.06200 0.33270
+H10A H 1.42200 0.02020 0.41870
+C8A C 1.0702(3) 0.2349(3) 0.1674(2)
+H11A H 1.10440 0.20820 0.08610
+H12A H 1.08400 0.11930 0.21960
+H13A H 0.93380 0.28550 0.19070
+C9A C 1.1971(4) 0.5475(3) 0.09979(17)
+H14A H 1.06120 0.60000 0.11560
+H15A H 1.28070 0.63560 0.11480
+H16A H 1.24580 0.52550 0.01740
+#END

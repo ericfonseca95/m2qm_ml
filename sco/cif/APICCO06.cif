@@ -1,0 +1,118 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_APICCO06
+_audit_creation_date 2014-02-17
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD APICCO06
+_database_code_depnum_ccdc_archive 'CCDC 913361'
+_chemical_formula_sum 'C12 H16 Co1 N2 O8'
+_chemical_formula_moiety
+;
+C12 H12 Co1 N2 O6,2(H2 O1)
+;
+_journal_coden_Cambridge 1835
+_journal_volume 2014
+_journal_year 2014
+_journal_page_first 641608
+_journal_name_full 'Sci. World J. '
+loop_
+_publ_author_name
+"Di Li"
+"Guo-Qing Zhong"
+_chemical_name_systematic
+;
+trans-Diaqua-bis(pyridine-2-carboxylato)-cobalt(ii) dihydrate
+;
+_cell_volume    747.960
+_exptl_crystal_density_diffrn 1.666
+_diffrn_ambient_temperature 298
+_refine_special_details
+;
+H4D and H4B disordered over two sites with occupancies 0.50:0.50.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0297
+_refine_ls_wR_factor_gt 0.0297
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 9.8468(7)
+_cell_length_b 5.2013(4)
+_cell_length_c 14.6041(15)
+_cell_angle_alpha 90
+_cell_angle_beta 90.231(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Co 1.26
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Co1 Co 0.50000 0.50000 0.50000
+N1 N 0.68872(18) 0.5718(4) 0.56547(13)
+O1 O 0.62074(15) 0.2173(3) 0.44160(11)
+O2 O 0.83181(18) 0.0606(4) 0.43816(13)
+O3 O 0.46127(16) 0.2590(3) 0.61642(11)
+H1 H 0.42920 0.11230 0.60250
+H2 H 0.41290 0.32320 0.65890
+C1 C 0.7441(2) 0.2089(4) 0.46877(15)
+C2 C 0.7827(2) 0.3948(4) 0.54384(15)
+C3 C 0.9072(2) 0.3790(5) 0.58724(17)
+H3 H 0.97030 0.25460 0.57070
+C4 C 0.9353(3) 0.5544(5) 0.65630(19)
+H4 H 1.01770 0.54780 0.68760
+C5 C 0.8401(3) 0.7386(5) 0.67820(17)
+H5 H 0.85760 0.85810 0.72410
+C6 C 0.7183(2) 0.7432(5) 0.63099(16)
+H6 H 0.65480 0.86930 0.64520
+O4 O 0.8195(2) 0.9839(3) 0.25550(15)
+H7 H 0.82560 1.01560 0.31240
+H8 H 0.77970 0.84010 0.24890
+H9? H 0.77390 1.10150 0.22930
+N1B N 0.31128(18) 0.4282(4) 0.43453(13)
+O1B O 0.37926(15) 0.7827(3) 0.55840(11)
+O2B O 0.16819(18) 0.9394(4) 0.56184(13)
+O3B O 0.53873(16) 0.7410(3) 0.38358(11)
+H1B H 0.57080 0.88770 0.39750
+H2B H 0.58710 0.67680 0.34110
+C1B C 0.2559(2) 0.7911(4) 0.53123(15)
+C2B C 0.2173(2) 0.6052(4) 0.45616(15)
+C3B C 0.0928(2) 0.6210(5) 0.41276(17)
+H3B H 0.02970 0.74540 0.42930
+C4B C 0.0647(3) 0.4456(5) 0.34370(19)
+H4B H -0.01770 0.45220 0.31240
+C5B C 0.1599(3) 0.2614(5) 0.32180(17)
+H5B H 0.14240 0.14190 0.27590
+C6B C 0.2817(2) 0.2568(5) 0.36901(16)
+H6B H 0.34520 0.13070 0.35480
+#END

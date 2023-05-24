@@ -1,0 +1,140 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_TTACOP
+_audit_creation_date 1979-02-14
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD TTACOP
+_database_code_depnum_ccdc_archive 'CCDC 1275914'
+_chemical_formula_sum 'C26 H18 Co1 F6 N2 O4 S2'
+_chemical_formula_moiety
+;
+C26 H18 Co1 F6 N2 O4 S2
+;
+_journal_coden_Cambridge 42
+_journal_volume 40
+_journal_year 1978
+_journal_page_first 1745
+_journal_name_full 'J.Inorg.Nucl.Chem. '
+loop_
+_publ_author_name
+"J.A.Pretorius"
+"J.C.A.Boeyens"
+_chemical_name_systematic
+;
+bis(2-Thenoyl-trifluoroacetonato)-bis(pyridine)-cobalt(ii)
+;
+_cell_volume    711.898
+_exptl_crystal_density_diffrn 1.538
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.058
+_refine_ls_wR_factor_gt 0.058
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 9.667(4)
+_cell_length_b 9.693(3)
+_cell_length_c 9.654(3)
+_cell_angle_alpha 114.91(19)
+_cell_angle_beta 99.32(18)
+_cell_angle_gamma 110.98(21)
+_cell_formula_units_Z 1
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Co 1.33
+F 0.64
+N 0.68
+O 0.68
+S 1.02
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Co1 Co 0.00000 0.00000 0.00000
+O1 O 0.09990 0.23040 0.01040
+O2 O -0.14950 0.07200 0.10280
+S1 S 0.31990 0.51250 0.00310
+F1 F -0.37700 0.14920 0.19040
+F2 F -0.20470 0.40990 0.35960
+F3 F -0.19730 0.21390 0.39480
+N1 N -0.16690 -0.11810 -0.24380
+C1 C -0.22360 0.25290 0.28250
+C2 C -0.11900 0.22790 0.18230
+C3 C -0.00900 0.37020 0.19100
+C4 C 0.09420 0.36390 0.10260
+C5 C 0.20290 0.52500 0.11530
+C6 C 0.22780 0.70160 0.21780
+C7 C 0.35400 0.80670 0.18610
+C8 C 0.40990 0.72490 0.08100
+C9 C -0.32160 -0.21360 -0.28690
+C10 C -0.43040 -0.28630 -0.44110
+C11 C -0.37880 -0.26170 -0.55570
+C12 C -0.22110 -0.16730 -0.51440
+C13 C -0.11850 -0.09400 -0.35660
+H1 H 0.00580 0.47890 0.27090
+H2 H 0.16670 0.74330 0.29790
+H3 H 0.38430 0.92210 0.24500
+H4 H 0.47450 0.74920 0.03140
+H5 H -0.35200 -0.23810 -0.20270
+H6 H -0.54290 -0.35820 -0.47280
+H7 H -0.45210 -0.32730 -0.67130
+H8 H -0.18180 -0.12900 -0.58250
+H9 H -0.00280 -0.02680 -0.32070
+O1A O -0.09990 -0.23040 -0.01040
+O2A O 0.14950 -0.07200 -0.10280
+N1A N 0.16690 0.11810 0.24380
+C4A C -0.09420 -0.36390 -0.10260
+C2A C 0.11900 -0.22790 -0.18230
+C9A C 0.32160 0.21360 0.28690
+C13A C 0.11850 0.09400 0.35660
+C3A C 0.00900 -0.37020 -0.19100
+C5A C -0.20290 -0.52500 -0.11530
+C1A C 0.22360 -0.25290 -0.28250
+C10A C 0.43040 0.28630 0.44110
+H5A H 0.35200 0.23810 0.20270
+C12A C 0.22110 0.16730 0.51440
+H9A H 0.00280 0.02680 0.32070
+H1A H -0.00580 -0.47890 -0.27090
+S1A S -0.31990 -0.51250 -0.00310
+C6A C -0.22780 -0.70160 -0.21780
+F1A F 0.37700 -0.14920 -0.19040
+F2A F 0.20470 -0.40990 -0.35960
+F3A F 0.19730 -0.21390 -0.39480
+C11A C 0.37880 0.26170 0.55570
+H6A H 0.54290 0.35820 0.47280
+H8A H 0.18180 0.12900 0.58250
+C8A C -0.40990 -0.72490 -0.08100
+C7A C -0.35400 -0.80670 -0.18610
+H2A H -0.16670 -0.74330 -0.29790
+H7A H 0.45210 0.32730 0.67130
+H4A H -0.47450 -0.74920 -0.03140
+H3A H -0.38430 -0.92210 -0.24500
+#END

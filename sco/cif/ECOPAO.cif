@@ -1,0 +1,116 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_ECOPAO
+_audit_creation_date 2006-05-29
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD ECOPAO
+_database_code_depnum_ccdc_archive 'CCDC 268048'
+_chemical_formula_sum 'C12 H9 Cl2 Fe1 N4 O2'
+_chemical_formula_moiety
+;
+C12 H9 Cl2 Fe1 N4 O2
+;
+_journal_coden_Cambridge 489
+_journal_volume 10
+_journal_year 2005
+_journal_page_first 761
+_journal_name_full 'J.Biol.Inorg.Chem.(JBIC) '
+loop_
+_publ_author_name
+"P.V.Bernhardt"
+"Piao Chin"
+"P.C.Sharpe"
+"Jing-Yan C.Wang"
+"D.R.Richardson"
+_chemical_name_systematic
+;
+(1,2-bis(picolinoyl)hydrazinato-N,N',O)-dichloro-iron(iii)
+;
+_cell_volume    701.179
+_exptl_crystal_colour 'green'
+_exptl_crystal_density_diffrn 1.743
+_exptl_special_details
+;
+In the paper the space group given is unclear but it should be P-1 as given 
+in CIF
+;
+_exptl_crystal_description 'prism'
+_exptl_crystal_preparation 'acetonitrile/toluene'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0646
+_refine_ls_wR_factor_gt 0.0646
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 6.876(1)
+_cell_length_b 9.262(1)
+_cell_length_c 11.841(2)
+_cell_angle_alpha 83.77(1)
+_cell_angle_beta 83.90(1)
+_cell_angle_gamma 69.70(1)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+Fe 1.34
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe1 Fe -0.0014(2) 0.84772(18) 0.25848(13)
+Cl1 Cl -0.0031(5) 0.6885(3) 0.4106(2)
+Cl2 Cl 0.2571(4) 0.9355(3) 0.2619(2)
+C1 C 0.3509(17) 0.4142(14) -0.1410(11)
+H1 H 0.45720 0.31900 -0.13720
+C2 C 0.2637(17) 0.4774(14) -0.2419(11)
+H2 H 0.31360 0.42690 -0.30820
+C3 C 0.1042(17) 0.6142(14) -0.2440(9)
+H3 H 0.04260 0.65210 -0.31230
+N1 N 0.0297(12) 0.6986(10) -0.1532(7)
+C4 C 0.1195(15) 0.6347(11) -0.0577(8)
+C5 C 0.0399(15) 0.7298(11) 0.0441(9)
+C6 C -0.3468(15) 1.0690(12) 0.1266(9)
+C7 C -0.3839(14) 1.1250(11) 0.2454(8)
+C8 C -0.5476(15) 1.2565(12) 0.2699(9)
+H4 H -0.63590 1.31360 0.21450
+C9 C -0.5764(18) 1.3012(14) 0.3822(10)
+H5 H -0.68580 1.38890 0.40280
+C10 C -0.4416(17) 1.2142(14) 0.4606(10)
+H6 H -0.45800 1.24260 0.53490
+C11 C -0.2818(16) 1.0847(13) 0.4285(9)
+H7 H -0.18960 1.02620 0.48170
+C12 C 0.2757(14) 0.4966(12) -0.0445(9)
+H8 H 0.32990 0.45890 0.02570
+N2 N -0.1206(12) 0.8566(9) 0.0311(7)
+H9 H -0.17940 0.88840 -0.03190
+N3 N -0.1863(13) 0.9346(10) 0.1307(7)
+N4 N -0.2560(12) 1.0409(9) 0.3222(7)
+O1 O 0.124(1) 0.6912(8) 0.1368(6)
+O2 O -0.4438(11) 1.1341(8) 0.0486(6)
+#END

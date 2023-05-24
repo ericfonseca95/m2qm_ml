@@ -1,0 +1,137 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_JAGTUH
+_audit_creation_date 2003-09-04
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD JAGTUH
+_database_code_depnum_ccdc_archive 'CCDC 214373'
+_chemical_formula_sum 'C22 H28 Co1 N2 O10'
+_chemical_formula_moiety
+;
+C20 H16 Co1 N2 O6,2(C1 H4 O1),2(H2 O1)
+;
+_journal_coeditor_code "IUCr LN1166"
+_journal_coden_Cambridge 591
+_journal_volume 59
+_journal_year 2003
+_journal_page_first m228
+_journal_name_full 'Acta Crystallogr.,Sect.C:Cryst.Struct.Commun. '
+loop_
+_publ_author_name
+"N.Okabe"
+"Y.Muranishi"
+_chemical_name_systematic
+;
+trans-Diaqua-bis(quinoline-2-carboxylato-N,O)-cobalt(ii) methanol solvate 
+dihydrate
+;
+_cell_volume    621.313
+_exptl_crystal_colour 'orange'
+_exptl_crystal_density_diffrn 1.442
+_exptl_special_details
+;
+Isomorphous with the Ni analogue
+
+;
+_exptl_crystal_description 'plate'
+_diffrn_ambient_temperature 296.2
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0463
+_refine_ls_wR_factor_gt 0.0463
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 7.170(2)
+_cell_length_b 8.965(2)
+_cell_length_c 10.827(2)
+_cell_angle_alpha 76.35(2)
+_cell_angle_beta 74.38(2)
+_cell_angle_gamma 69.86(2)
+_cell_formula_units_Z 1
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Co 1.33
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Co1 Co 0.50000 0.00000 1.00000
+O1 O 0.7014(3) -0.0386(3) 1.1129(2)
+O2 O 0.7316(3) -0.1082(3) 0.8507(2)
+O3 O 0.9090(3) 0.0582(3) 1.1682(2)
+N1 N 0.5976(4) 0.2212(3) 0.9371(2)
+C1 C 0.7362(5) 0.2139(4) 0.9997(3)
+C2 C 0.8304(5) 0.3343(4) 0.9772(4)
+C3 C 0.7746(5) 0.4673(4) 0.8875(4)
+C4 C 0.6286(5) 0.4811(4) 0.8194(3)
+C5 C 0.5646(6) 0.6153(4) 0.7241(4)
+C6 C 0.4230(8) 0.6226(5) 0.6604(4)
+C7 C 0.3348(7) 0.4980(5) 0.6883(4)
+C8 C 0.3916(6) 0.3663(4) 0.7795(4)
+C9 C 0.5401(5) 0.3542(4) 0.8462(3)
+C10 C 0.7883(5) 0.0664(4) 1.1006(3)
+H1 H 0.69250 -0.06120 0.77550
+H2 H 0.84770 -0.09750 0.85620
+H3 H 0.92880 0.32360 1.02250
+H4 H 0.83420 0.54900 0.87180
+H5 H 0.62100 0.69930 0.70530
+H6 H 0.38370 0.71100 0.59760
+H7 H 0.23650 0.50500 0.64430
+H8 H 0.33160 0.28460 0.79730
+O4 O 0.1892(5) 0.1187(4) 0.5964(3)
+C11 C 0.0264(8) 0.2507(7) 0.5727(6)
+H9 H 0.15500 0.06250 0.66480
+H10 H -0.02100 0.31010 0.64390
+H11 H -0.08080 0.21570 0.56340
+H12 H 0.06760 0.31830 0.49420
+O5 O 0.6247(4) 0.0316(4) 0.6181(3)
+H13 H 0.68860 0.00640 0.53960
+H14 H 0.49150 0.07100 0.62990
+O1A O 0.2986(3) 0.0386(3) 0.8871(2)
+C10A C 0.2117(5) -0.0664(4) 0.8994(3)
+O3A O 0.0910(3) -0.0582(3) 0.8318(2)
+C1A C 0.2638(5) -0.2139(4) 1.0003(3)
+N1A N 0.4024(4) -0.2212(3) 1.0629(2)
+O2A O 0.2684(3) 0.1082(3) 1.1493(2)
+H1A H 0.30750 0.06120 1.22450
+H2A H 0.15230 0.09750 1.14380
+C9A C 0.4599(5) -0.3542(4) 1.1538(3)
+C4A C 0.3714(5) -0.4811(4) 1.1806(3)
+C3A C 0.2254(5) -0.4673(4) 1.1125(4)
+C2A C 0.1696(5) -0.3343(4) 1.0228(4)
+H3A H 0.07120 -0.32360 0.97750
+H4A H 0.16580 -0.54900 1.12820
+C5A C 0.4354(6) -0.6153(4) 1.2759(4)
+C6A C 0.5770(8) -0.6226(5) 1.3396(4)
+C7A C 0.6652(7) -0.4980(5) 1.3117(4)
+C8A C 0.6084(6) -0.3663(4) 1.2205(4)
+H8A H 0.66840 -0.28460 1.20270
+H7A H 0.76350 -0.50500 1.35570
+H6A H 0.61630 -0.71100 1.40240
+H5A H 0.37900 -0.69930 1.29470
+#END

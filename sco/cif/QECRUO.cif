@@ -1,0 +1,129 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_QECRUO
+_audit_creation_date 2017-09-04
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD QECRUO
+_database_code_depnum_ccdc_archive 'CCDC 1527748; CCDC 432509'
+_chemical_formula_sum 'H16 Mn1 N10 O8'
+_chemical_formula_moiety
+;
+H8 Mn1 N10 O4,4(H2 O1)
+;
+_journal_coden_Cambridge 6
+_journal_volume 549
+_journal_year 2017
+_journal_page_first 78
+_journal_name_full 'Nature (London) '
+loop_
+_publ_author_name
+"Yuangang Xu"
+"Qian Wang"
+"Cheng Shen"
+"Qiuhan Lin"
+"Pengcheng Wang"
+"Ming Lu"
+_chemical_name_systematic
+;
+tetraaqua-bis(pentazolato)-manganese tetrahydrate
+;
+_cell_volume   1401.244
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.608
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 205
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.037
+_refine_ls_wR_factor_gt 0.037
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'F m m m'
+_symmetry_Int_Tables_number 69
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,z
+3 -x,y,-z
+4 x,-y,-z
+5 x,1/2+y,1/2+z
+6 -x,1/2-y,1/2+z
+7 -x,1/2+y,1/2-z
+8 x,1/2-y,1/2-z
+9 1/2+x,y,1/2+z
+10 1/2-x,-y,1/2+z
+11 1/2-x,y,1/2-z
+12 1/2+x,-y,1/2-z
+13 1/2+x,1/2+y,z
+14 1/2-x,1/2-y,z
+15 1/2-x,1/2+y,-z
+16 1/2+x,1/2-y,-z
+17 -x,-y,-z
+18 x,y,-z
+19 x,-y,z
+20 -x,y,z
+21 -x,-1/2-y,-1/2-z
+22 x,-1/2+y,-1/2-z
+23 x,-1/2-y,-1/2+z
+24 -x,-1/2+y,-1/2+z
+25 -1/2-x,-y,-1/2-z
+26 -1/2+x,y,-1/2-z
+27 -1/2+x,-y,-1/2+z
+28 -1/2-x,y,-1/2+z
+29 -1/2-x,-1/2-y,-z
+30 -1/2+x,-1/2+y,-z
+31 -1/2+x,-1/2-y,z
+32 -1/2-x,-1/2+y,z
+_cell_length_a 12.342(8)
+_cell_length_b 17.368(11)
+_cell_length_c 6.537(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+H 0.23
+Mn 1.61
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mn1 Mn 0.50000 0.50000 0.50000
+O1 O 0.37598(18) 0.50000 0.2674(4)
+N1 N 0.50000 0.62995(19) 0.50000
+N2 N 0.5871(2) 0.67402(15) 0.50000
+N3 N 0.5541(2) 0.74592(15) 0.50000
+O2 O 0.31611(17) 0.38229(12) 0.00000
+H1? H 0.34030 0.41380 0.08830
+H2? H 0.25540 0.36460 0.03980
+H3? H 0.36320 0.54680 0.22380
+H4? H 0.31530 0.48120 0.31520
+N2B N 0.4129(2) 0.67402(15) 0.50000
+N3B N 0.4459(2) 0.74592(15) 0.50000
+O1A O 0.62402(18) 0.50000 0.2674(4)
+N1A N 0.50000 0.37005(19) 0.50000
+N2A N 0.4129(2) 0.32598(15) 0.50000
+N3A N 0.4459(2) 0.25408(15) 0.50000
+N2C N 0.5871(2) 0.32598(15) 0.50000
+N3C N 0.5541(2) 0.25408(15) 0.50000
+O1B O 0.62402(18) 0.50000 0.7326(4)
+O1C O 0.37598(18) 0.50000 0.7326(4)
+#END

@@ -1,0 +1,134 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_WOJGIN
+_audit_creation_date 2014-08-01
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD WOJGIN
+_database_code_depnum_ccdc_archive 'CCDC 1012642'
+_chemical_formula_sum 'C10 H30 Cl3 Cr1 O5 S5'
+_chemical_formula_moiety
+;
+C10 H30 Cl1 Cr1 O5 S5 2+,2(Cl1 1-)
+;
+_journal_coeditor_code "wm5034"
+_journal_coden_Cambridge 1370
+_journal_volume 70
+_journal_year 2014
+_journal_page_first m309
+_journal_name_full 'Acta Crystallogr.,Sect.E:Struct.Rep.Online '
+loop_
+_publ_author_name
+"K.Son"
+"J.O.Woo"
+"N.Kim"
+"S.K.Kang"
+_chemical_name_systematic
+;
+Chloro-pentakis(dimethyl sulfoxide)-chromium(iii) dichloride
+;
+_cell_volume   1228.257
+_exptl_crystal_colour 'green'
+_exptl_crystal_density_diffrn 1.484
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 296
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0715
+_refine_ls_wR_factor_gt 0.0715
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 9.5883(4)
+_cell_length_b 10.4998(4)
+_cell_length_c 13.0088(5)
+_cell_angle_alpha 70.633(4)
+_cell_angle_beta 83.867(3)
+_cell_angle_gamma 89.0009(18)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+Cr 1.39
+O 0.68
+S 1.02
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cr1 Cr 0.73481(10) 0.87030(9) 0.21633(7)
+Cl1 Cl 0.75680(18) 1.04916(16) 0.05360(12)
+O1 O 0.5471(4) 0.8278(4) 0.1872(3)
+S1 S 0.49654(17) 0.68654(16) 0.19631(13)
+C1 C 0.5051(8) 0.6874(7) 0.0590(5)
+H1 H 0.46330 0.76800 0.01490
+H2 H 0.45540 0.60980 0.05710
+H3 H 0.60140 0.68490 0.03070
+C2 C 0.3132(6) 0.6983(7) 0.2227(5)
+H4 H 0.29100 0.70470 0.29460
+H5 H 0.26800 0.61940 0.21890
+H6 H 0.28100 0.77710 0.16910
+O2 O 0.6490(4) 0.9863(4) 0.2973(3)
+S2 S 0.53284(17) 1.08678(15) 0.25183(13)
+C3 C 0.4206(7) 1.0783(6) 0.3701(5)
+H7 H 0.37760 0.99010 0.40090
+H8 H 0.34920 1.14480 0.35110
+H9 H 0.47370 1.09560 0.42280
+C4 C 0.6119(7) 1.2474(6) 0.2266(5)
+H10 H 0.65710 1.24670 0.28920
+H11 H 0.54130 1.31510 0.21330
+H12 H 0.68030 1.26720 0.16350
+O3 O 0.9199(4) 0.9089(4) 0.2546(3)
+S3 S 0.97576(18) 1.05332(16) 0.23286(13)
+C5 C 1.0000(8) 1.0568(8) 0.3636(5)
+H13 H 0.91070 1.06370 0.40220
+H14 H 1.05830 1.13320 0.35670
+H15 H 1.04440 0.97530 0.40340
+C6 C 1.1538(7) 1.0469(8) 0.1831(6)
+H16 H 1.19920 0.97650 0.23580
+H17 H 1.19950 1.13190 0.17130
+H18 H 1.15930 1.02860 0.11520
+O4 O 0.8145(4) 0.7458(4) 0.1404(3)
+S4 S 0.93855(17) 0.65183(16) 0.17455(13)
+C7 C 1.0204(7) 0.6520(7) 0.0464(5)
+H19 H 0.95180 0.63180 0.00510
+H20 H 1.09170 0.58490 0.05750
+H21 H 1.06210 0.73930 0.00680
+C8 C 0.8644(8) 0.4878(6) 0.2216(6)
+H22 H 0.81880 0.46900 0.29460
+H23 H 0.93700 0.42350 0.22190
+H24 H 0.79700 0.48120 0.17400
+O5 O 0.7205(4) 0.7130(4) 0.3520(3)
+S5 S 0.73602(17) 0.72155(15) 0.46602(13)
+C9 C 0.6037(6) 0.6113(6) 0.5523(5)
+H25 H 0.51340 0.64520 0.53180
+H26 H 0.61030 0.60510 0.62690
+H27 H 0.61500 0.52340 0.54530
+C10 C 0.8822(7) 0.6230(8) 0.5089(6)
+H28 H 0.87400 0.53830 0.49660
+H29 H 0.88640 0.60680 0.58560
+H30 H 0.96610 0.66980 0.46810
+Cl2 Cl 0.25112(19) 0.74394(19) 0.49760(15)
+Cl3 Cl 0.2423(2) 0.37459(18) 0.19086(17)
+#END

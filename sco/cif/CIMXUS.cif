@@ -1,0 +1,116 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CIMXUS
+_audit_creation_date 2008-01-31
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CIMXUS
+_database_code_depnum_ccdc_archive 'CCDC 650081'
+_chemical_formula_sum 'C11 H14 B1 Mn1 O2'
+_chemical_formula_moiety
+;
+C11 H14 B1 Mn1 O2
+;
+_journal_coden_Cambridge 179
+_journal_volume 46
+_journal_year 2007
+_journal_page_first 7785
+_journal_name_full 'Angew.Chem.,Int.Ed. '
+loop_
+_publ_author_name
+"H.Braunschweig"
+"M.Burzler"
+"T.Kupfer"
+"K.Radacki"
+"F.Seeler"
+_chemical_name_systematic
+;
+(t-Butylborylene)-dicarbonyl-(\h^5^-cyclopentadienyl)-manganese
+;
+_cell_volume    582.065
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.392
+_exptl_special_details
+;
+extremely air- and moisture-sensitive
+
+;
+_exptl_crystal_description 'plate'
+_exptl_crystal_preparation 'pentane'
+_diffrn_ambient_temperature 100
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0688
+_refine_ls_wR_factor_gt 0.0688
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/m'
+_symmetry_Int_Tables_number 11
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,-z
+3 -x,-y,-z
+4 x,-1/2-y,z
+_cell_length_a 6.0670(8)
+_cell_length_b 10.5758(13)
+_cell_length_c 9.3379(13)
+_cell_angle_alpha 90
+_cell_angle_beta 103.716(8)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+B 0.83
+Mn 1.35
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mn1 Mn 0.83973(19) 0.25000 0.55839(13)
+B1 B 1.0151(15) 0.25000 0.7445(11)
+O1 O 0.6085(8) 0.0490(5) 0.6824(5)
+C1 C 0.6987(9) 0.1295(6) 0.6330(6)
+C2 C 0.8533(14) 0.1436(7) 0.3654(7)
+H1 H 0.80420 0.05830 0.35150
+C3 C 1.0706(11) 0.1847(7) 0.4319(7)
+H2 H 1.19760 0.13210 0.47090
+C4 C 0.7216(17) 0.25000 0.323(1)
+H3 H 0.56580 0.25000 0.27290
+C5 C 1.1414(13) 0.25000 0.9072(8)
+C6 C 1.2869(12) 0.1319(7) 0.9427(7)
+H4 H 1.36530 0.13230 1.04740
+H5 H 1.39900 0.13060 0.88250
+H6 H 1.19030 0.05680 0.92120
+C7 C 0.9629(17) 0.25000 0.9981(10)
+H7 H 1.03830 0.25000 1.10330
+H8 H 0.86790 0.17430 0.97480
+H9 H 0.86790 0.32570 0.97480
+O1C O 0.6085(8) 0.4510(5) 0.6824(5)
+C1C C 0.6987(9) 0.3705(6) 0.6330(6)
+C2C C 0.8533(14) 0.3564(7) 0.3654(7)
+H1C H 0.80420 0.44170 0.35150
+C3C C 1.0706(11) 0.3153(7) 0.4319(7)
+H2C H 1.19760 0.36790 0.47090
+C6C C 1.2869(12) 0.3681(7) 0.9427(7)
+H4C H 1.36530 0.36770 1.04740
+H5C H 1.39900 0.36940 0.88250
+H6C H 1.19030 0.44320 0.92120
+#END

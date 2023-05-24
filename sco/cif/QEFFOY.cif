@@ -1,0 +1,125 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_QEFFOY
+_audit_creation_date 2012-12-11
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD QEFFOY
+_database_code_depnum_ccdc_archive 'CCDC 883232'
+_chemical_formula_sum 'C12 H16 Br2 Fe1 N8'
+_chemical_formula_moiety
+;
+C12 H16 Br2 Fe1 N8
+;
+_journal_coden_Cambridge 580
+_journal_volume 45
+_journal_year 2012
+_journal_page_first 55
+_journal_name_full 'Polyhedron '
+loop_
+_publ_author_name
+"E.V.Govor"
+"I.Chakraborty"
+"D.M.Pinero"
+"P.Baran"
+"Y.Sanakis"
+"R.G.Raptis"
+_chemical_name_systematic
+;
+Dibromo-tetrakis(1H-pyrazole)-iron(ii)
+;
+_cell_volume   1750.375
+_exptl_crystal_colour 'dark brown'
+_exptl_crystal_density_diffrn 1.852
+_exptl_crystal_description 'polygon'
+_diffrn_ambient_temperature 296
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0945
+_refine_ls_wR_factor_gt 0.0945
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,-1/2+z
+7 -1/2-x,-1/2-y,-z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 14.249(9)
+_cell_length_b 9.423(6)
+_cell_length_c 14.846(10)
+_cell_angle_alpha 90
+_cell_angle_beta 118.585(7)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Br 1.21
+Fe 1.52
+N 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe1 Fe 1.00000 1.00000 0.50000
+Br1 Br 1.08424(9) 1.18466(10) 0.41506(9)
+N1 N 0.8512(7) 0.9902(8) 0.3547(7)
+N2 N 0.7608(9) 0.9153(11) 0.3324(10)
+H1 H 0.75280 0.86300 0.37570
+N3 N 1.0589(8) 0.8226(8) 0.4483(8)
+N4 N 1.1131(11) 0.8415(12) 0.3955(10)
+H2 H 1.12970 0.92290 0.38100
+C1 C 0.8289(10) 1.0550(11) 0.2670(8)
+H3 H 0.87570 1.11570 0.25880
+C2 C 0.7293(12) 1.0218(16) 0.1908(11)
+H4 H 0.69790 1.05320 0.12320
+C3 C 0.6847(10) 0.9339(15) 0.2326(12)
+H5 H 0.61660 0.89460 0.20000
+C4 C 1.0528(10) 0.6844(10) 0.455(1)
+H6 H 1.02170 0.63990 0.49010
+C5 C 1.0979(12) 0.6119(12) 0.4038(11)
+H7 H 1.10040 0.51440 0.39550
+C6 C 1.1376(13) 0.7162(15) 0.3685(13)
+H8 H 1.17510 0.70330 0.33220
+Br1D Br 0.91576(9) 0.81534(10) 0.58494(9)
+N1D N 1.1488(7) 1.0098(8) 0.6453(7)
+N2D N 1.2392(9) 1.0847(11) 0.6676(10)
+H1D H 1.24720 1.13700 0.62430
+N3D N 0.9411(8) 1.1774(8) 0.5517(8)
+N4D N 0.8869(11) 1.1585(12) 0.6045(10)
+H2D H 0.87030 1.07710 0.61900
+C1D C 1.1711(10) 0.9450(11) 0.7330(8)
+H3D H 1.12430 0.88430 0.74120
+C2D C 1.2707(12) 0.9782(16) 0.8092(11)
+H4D H 1.30210 0.94680 0.87680
+C3D C 1.3153(10) 1.0661(15) 0.7674(12)
+H5D H 1.38340 1.10540 0.80000
+C4D C 0.9472(10) 1.3156(10) 0.545(1)
+H6D H 0.97830 1.36010 0.50990
+C5D C 0.9021(12) 1.3881(12) 0.5962(11)
+H7D H 0.89960 1.48560 0.60450
+C6D C 0.8624(13) 1.2838(15) 0.6315(13)
+H8D H 0.82490 1.29670 0.66780
+#END

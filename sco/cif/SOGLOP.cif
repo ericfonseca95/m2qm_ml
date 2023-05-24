@@ -1,0 +1,120 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_SOGLOP
+_audit_creation_date 1992-02-25
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD SOGLOP
+_chemical_formula_sum 'C2 H14 Fe1 N8 O4'
+_chemical_formula_moiety
+;
+C2 H14 Fe1 N8 O4
+;
+_journal_coden_Cambridge 580
+_journal_volume 10
+_journal_year 1991
+_journal_page_first 483
+_journal_name_full 'Polyhedron '
+loop_
+_publ_author_name
+"M.T.Casey"
+"P.Guinan"
+"A.Canavan"
+"M.McCann"
+"C.Cardin"
+"N.B.Kelly"
+_chemical_name_systematic
+;
+bis(Hydrazine-N)-bis(hydrazinecarboxylato-N',O)-iron(ii)
+;
+_cell_volume    486.858
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.842
+_exptl_special_details
+;
+Air-sensitive
+isostructural with the zinc(ii) and cobalt(ii) analogues
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0297
+_refine_ls_wR_factor_gt 0.0297
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 8.144(5)
+_cell_length_b 7.378(2)
+_cell_length_c 8.651(5)
+_cell_angle_alpha 90
+_cell_angle_beta 110.51(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Fe 1.34
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe1 Fe 0.00000 0.00000 0.00000
+O1 O 0.0388(3) 0.2277(4) 0.1482(3)
+O2 O -0.0945(3) 0.4621(4) 0.2172(3)
+C1 C -0.0965(5) 0.3138(5) 0.1515(4)
+N1 N -0.2614(4) 0.0500(5) 0.0242(4)
+N2 N -0.2564(4) 0.2328(5) 0.0725(4)
+N3 N -0.0886(4) 0.1825(5) -0.2184(4)
+N4 N -0.0776(5) 0.1173(6) -0.3729(4)
+H1 H -0.2894(57) -0.0158(66) 0.0976(56)
+H2 H -0.0271(56) 0.3163(66) -0.1955(53)
+H3 H -0.0739(58) -0.0031(71) -0.3669(54)
+H4 H -0.3461(61) 0.0566(63) -0.0694(58)
+H5 H -0.3361(61) 0.2809(67) 0.0847(56)
+H6 H -0.1720(62) 0.1370(64) -0.4562(58)
+H7 H -0.1702(61) 0.2138(71) -0.2245(61)
+O1B O -0.0388(3) -0.2277(4) -0.1482(3)
+N1B N 0.2614(4) -0.0500(5) -0.0242(4)
+N3B N 0.0886(4) -0.1825(5) 0.2184(4)
+C1B C 0.0965(5) -0.3138(5) -0.1515(4)
+N2B N 0.2564(4) -0.2328(5) -0.0725(4)
+H1B H 0.2894(57) 0.0158(66) -0.0976(56)
+H4B H 0.3461(61) -0.0566(63) 0.0694(58)
+N4B N 0.0776(5) -0.1173(6) 0.3729(4)
+H2B H 0.0271(56) -0.3163(66) 0.1955(53)
+H7B H 0.1702(61) -0.2138(71) 0.2245(61)
+O2B O 0.0945(3) -0.4621(4) -0.2172(3)
+H5B H 0.3361(61) -0.2809(67) -0.0847(56)
+H3B H 0.0739(58) 0.0031(71) 0.3669(54)
+H6B H 0.1720(62) -0.1370(64) 0.4562(58)
+#END

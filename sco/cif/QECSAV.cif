@@ -1,0 +1,129 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_QECSAV
+_audit_creation_date 2017-09-04
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD QECSAV
+_database_code_depnum_ccdc_archive 'CCDC 1527749; CCDC 432510'
+_chemical_formula_sum 'H16 Fe1 N10 O8'
+_chemical_formula_moiety
+;
+H8 Fe1 N10 O4,4(H2 O1)
+;
+_journal_coden_Cambridge 6
+_journal_volume 549
+_journal_year 2017
+_journal_page_first 78
+_journal_name_full 'Nature (London) '
+loop_
+_publ_author_name
+"Yuangang Xu"
+"Qian Wang"
+"Cheng Shen"
+"Qiuhan Lin"
+"Pengcheng Wang"
+"Ming Lu"
+_chemical_name_systematic
+;
+tetraaqua-bis(pentazolato)-iron tetrahydrate
+;
+_cell_volume   1413.105
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.599
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 205
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0349
+_refine_ls_wR_factor_gt 0.0349
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'F m m m'
+_symmetry_Int_Tables_number 69
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,z
+3 -x,y,-z
+4 x,-y,-z
+5 x,1/2+y,1/2+z
+6 -x,1/2-y,1/2+z
+7 -x,1/2+y,1/2-z
+8 x,1/2-y,1/2-z
+9 1/2+x,y,1/2+z
+10 1/2-x,-y,1/2+z
+11 1/2-x,y,1/2-z
+12 1/2+x,-y,1/2-z
+13 1/2+x,1/2+y,z
+14 1/2-x,1/2-y,z
+15 1/2-x,1/2+y,-z
+16 1/2+x,1/2-y,-z
+17 -x,-y,-z
+18 x,y,-z
+19 x,-y,z
+20 -x,y,z
+21 -x,-1/2-y,-1/2-z
+22 x,-1/2+y,-1/2-z
+23 x,-1/2-y,-1/2+z
+24 -x,-1/2+y,-1/2+z
+25 -1/2-x,-y,-1/2-z
+26 -1/2+x,y,-1/2-z
+27 -1/2+x,-y,-1/2+z
+28 -1/2-x,y,-1/2+z
+29 -1/2-x,-1/2-y,-z
+30 -1/2+x,-1/2+y,-z
+31 -1/2+x,-1/2-y,z
+32 -1/2-x,-1/2+y,z
+_cell_length_a 12.330(9)
+_cell_length_b 17.444(13)
+_cell_length_c 6.570(5)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+H 0.23
+Fe 1.52
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.12244(15) 0.50000 0.7276(3)
+Fe1 Fe 0.00000 0.50000 0.50000
+N1 N -0.08776(17) 0.32883(12) 0.50000
+N2 N 0.00000 0.37325(16) 0.50000
+N3 N -0.05373(18) 0.25650(13) 0.50000
+O2 O 0.18141(14) 0.38293(10) 1.00000
+H1? H 0.36940 0.45440 0.72140
+H2? H 0.10530 0.46890 0.82590
+H3? H 0.18050 0.41790 0.90980
+H4? H 0.14300 0.34530 0.96060
+N1B N 0.08776(17) 0.32883(12) 0.50000
+N3B N 0.05373(18) 0.25650(13) 0.50000
+O1A O -0.12244(15) 0.50000 0.7276(3)
+N1A N 0.08776(17) 0.67117(12) 0.50000
+N2A N 0.00000 0.62675(16) 0.50000
+N3A N 0.05373(18) 0.74350(13) 0.50000
+N1C N -0.08776(17) 0.67117(12) 0.50000
+N3C N -0.05373(18) 0.74350(13) 0.50000
+O1B O -0.12244(15) 0.50000 0.2724(3)
+O1C O 0.12244(15) 0.50000 0.2724(3)
+#END

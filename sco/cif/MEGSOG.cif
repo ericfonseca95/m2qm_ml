@@ -1,0 +1,104 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_MEGSOG
+_audit_creation_date 2000-10-09
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD MEGSOG
+_database_code_depnum_ccdc_archive 'CCDC 134461'
+_chemical_formula_sum 'C8 H5 Cl1 Mn1 N1 O3'
+_chemical_formula_moiety
+;
+C8 H5 Cl1 Mn1 N1 O3
+;
+_journal_coden_Cambridge 36
+_journal_volume 599
+_journal_year 2000
+_journal_page_first 247
+_journal_name_full 'J.Organomet.Chem. '
+loop_
+_publ_author_name
+"K.Sunkel"
+"U.Birk"
+"S.Soheili"
+"C.Stramm"
+"R.Teuber"
+_chemical_name_systematic
+;
+Tricarbonyl-(\h^5^-1-amino-2-chloro-cyclopentadienyl)-manganese
+;
+_cell_volume    467.557
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.801
+_exptl_crystal_description 'platelet'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0375
+_refine_ls_wR_factor_gt 0.0375
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 6.549(1)
+_cell_length_b 6.837(1)
+_cell_length_c 10.939(2)
+_cell_angle_alpha 97.87(2)
+_cell_angle_beta 90.02(1)
+_cell_angle_gamma 105.34(1)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+Mn 1.35
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mn1 Mn -0.01671(10) 0.82264(10) 0.77683(6)
+Cl1 Cl 0.2085(2) 0.8465(2) 0.48930(11)
+O1 O -0.1423(5) 1.2044(5) 0.8358(3)
+O2 O -0.3471(5) 0.6485(6) 0.5821(3)
+O3 O -0.2844(6) 0.6202(6) 0.9632(4)
+N1 N 0.3759(7) 1.2079(8) 0.7146(6)
+H1 H 0.376(7) 1.226(7) 0.650(4)
+H2 H 0.413(6) 1.274(6) 0.771(4)
+C1 C -0.0959(6) 1.0544(7) 0.8125(4)
+C2 C -0.2214(7) 0.7169(7) 0.6610(4)
+C3 C -0.1770(7) 0.7020(7) 0.8915(4)
+C4 C 0.2273(6) 0.8339(7) 0.6453(4)
+C5 C 0.3070(6) 1.0037(7) 0.7352(4)
+C6 C 0.3021(7) 0.9262(8) 0.8493(5)
+H3 H 0.344(6) 1.009(6) 0.924(4)
+C7 C 0.2380(7) 0.7101(8) 0.8250(5)
+H4 H 0.235(6) 0.633(7) 0.890(4)
+C8 C 0.1897(8) 0.6540(8) 0.6996(5)
+H5 H 0.157(6) 0.534(6) 0.661(4)
+#END

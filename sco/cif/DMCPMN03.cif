@@ -1,0 +1,134 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_DMCPMN03
+_audit_creation_date 1992-04-28
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD DMCPMN03
+_chemical_formula_sum 'C20 H30 Mn1'
+_chemical_formula_moiety
+;
+C20 H30 Mn1
+;
+_journal_coden_Cambridge 29
+_journal_volume 595
+_journal_year 1991
+_journal_page_first 27
+_journal_name_full 'Z.Anorg.Allg.Chem. '
+loop_
+_publ_author_name
+"N.Augart"
+"R.Boese"
+"G.Schmid"
+_chemical_name_systematic
+;
+Decamethylmanganocene
+;
+_cell_volume   1810.239
+_exptl_crystal_density_diffrn 1.194
+_exptl_special_details
+;
+monoclinic polymorph
+A reversible phase transition occurs between 255 and 238K
+;
+_diffrn_ambient_temperature 240
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.056
+_refine_ls_wR_factor_gt 0.056
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 -x,y,1/2-z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -1/2-x,-1/2-y,-z
+7 x,-y,-1/2+z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 15.062(2)
+_cell_length_b 12.148(2)
+_cell_length_c 9.910(1)
+_cell_angle_alpha 90
+_cell_angle_beta 93.31(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Mn 1.35
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mn1 Mn 0.25000 0.25000 0.00000
+C1 C 0.3149(3) 0.3837(3) 0.0984(4)
+C2 C 0.2316(3) 0.4198(3) 0.0397(4)
+C3 C 0.1631(2) 0.3588(3) 0.0966(4)
+C4 C 0.2053(2) 0.2848(3) 0.1927(4)
+C5 C 0.2976(2) 0.2996(3) 0.1937(4)
+C6 C 0.4054(4) 0.4275(6) 0.0711(8)
+C7 C 0.2184(5) 0.5088(4) -0.0644(6)
+C8 C 0.0657(3) 0.3719(6) 0.0673(6)
+C9 C 0.1561(3) 0.2074(5) 0.2814(5)
+C10 C 0.3655(4) 0.2418(6) 0.2864(6)
+H1 H 0.3857(46) 0.4646(51) -0.0053(77)
+H2 H 0.4507(36) 0.3706(47) 0.0758(53)
+H3 H 0.4268(42) 0.4751(50) 0.1292(63)
+H4 H 0.2693(44) 0.5166(49) -0.1218(64)
+H5 H 0.1935(44) 0.5709(60) -0.0364(76)
+H6 H 0.177(3) 0.4852(40) -0.1339(52)
+H7 H 0.0276(55) 0.3144(78) 0.0896(98)
+H8 H 0.0528(35) 0.3891(49) -0.0313(62)
+H9 H 0.0377(42) 0.4276(53) 0.1270(69)
+H10 H 0.1927(37) 0.1399(49) 0.2934(59)
+H11 H 0.1008(29) 0.1858(33) 0.2362(44)
+H12 H 0.1519(68) 0.2444(49) 0.356(11)
+H13 H 0.4297(33) 0.2360(55) 0.238(11)
+H14 H 0.3429(51) 0.1739(60) 0.2941(80)
+H15 H 0.3928(45) 0.2746(53) 0.3450(79)
+C1E C 0.1851(3) 0.1163(3) -0.0984(4)
+C2E C 0.2684(3) 0.0802(3) -0.0397(4)
+C3E C 0.3369(2) 0.1412(3) -0.0966(4)
+C4E C 0.2947(2) 0.2152(3) -0.1927(4)
+C5E C 0.2024(2) 0.2004(3) -0.1937(4)
+C6E C 0.0946(4) 0.0725(6) -0.0711(8)
+C7E C 0.2816(5) -0.0088(4) 0.0644(6)
+C8E C 0.4343(3) 0.1281(6) -0.0673(6)
+C9E C 0.3439(3) 0.2926(5) -0.2814(5)
+C10E C 0.1345(4) 0.2582(6) -0.2864(6)
+H1E H 0.1143(46) 0.0354(51) 0.0053(77)
+H2E H 0.0493(36) 0.1294(47) -0.0758(53)
+H3E H 0.0732(42) 0.0249(50) -0.1292(63)
+H4E H 0.2307(44) -0.0166(49) 0.1218(64)
+H5E H 0.3065(44) -0.0709(60) 0.0364(76)
+H6E H 0.323(3) 0.0148(40) 0.1339(52)
+H7E H 0.4724(55) 0.1856(78) -0.0896(98)
+H8E H 0.4472(35) 0.1109(49) 0.0313(62)
+H9E H 0.4623(42) 0.0724(53) -0.1270(69)
+H10E H 0.3073(37) 0.3601(49) -0.2934(59)
+H11E H 0.3992(29) 0.3142(33) -0.2362(44)
+H12E H 0.3481(68) 0.2556(49) -0.356(11)
+H13E H 0.0703(33) 0.2640(55) -0.238(11)
+H14E H 0.1571(51) 0.3261(60) -0.2941(80)
+H15E H 0.1072(45) 0.2254(53) -0.3450(79)
+#END

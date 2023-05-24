@@ -1,0 +1,129 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_NIPWAK01
+_audit_creation_date 2004-08-19
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD NIPWAK01
+_database_code_depnum_ccdc_archive 'CCDC 216155'
+_chemical_formula_sum 'C18 H26 Cl2 Co1 N6 O4'
+_chemical_formula_moiety
+;
+C18 H18 Cl2 Co1 N6,4(H2 O1)
+;
+_journal_coden_Cambridge 1220
+_journal_volume 10
+_journal_year 2004
+_journal_page_first 1683
+_journal_name_full 'Chem.-Eur.J. '
+loop_
+_publ_author_name
+"V.Balamurugan"
+"M.S.Hundal"
+"R.Mukherjee"
+_chemical_name_systematic
+;
+Dichloro-bis(2-(pyrazolylmethyl)pyridine)-cobalt(ii) tetrahydrate
+;
+_cell_volume    559.788
+_exptl_crystal_colour 'pink'
+_exptl_crystal_density_diffrn 1.543
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0721
+_refine_ls_wR_factor_gt 0.0721
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 7.124(1)
+_cell_length_b 8.854(2)
+_cell_length_c 10.144(9)
+_cell_angle_alpha 106.92(4)
+_cell_angle_beta 93.74(4)
+_cell_angle_gamma 111.29(2)
+_cell_formula_units_Z 1
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+Co 1.33
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Co1 Co 0.50000 0.00000 0.00000
+Cl1 Cl 0.7917(4) -0.0515(3) -0.0797(2)
+N1 N 0.5383(7) -0.0810(5) 0.2718(4)
+N2 N 0.3405(6) -0.2753(5) -0.0306(4)
+N3 N 0.6312(6) 0.0247(5) 0.2011(4)
+C1 C 0.3013(7) -0.3359(6) 0.0768(5)
+C2 C 0.8220(8) 0.1164(7) 0.2728(5)
+H1 H 0.9377(8) 0.2133(7) 0.2438(5)
+C3 C 0.3275(8) -0.2060(7) 0.2196(5)
+H2 H 0.2289(8) -0.1393(7) 0.2124(5)
+H3 H 0.2806(8) -0.2730(7) 0.2932(6)
+C4 C 0.3121(8) -0.3897(7) -0.1562(6)
+H4 H 0.3456(8) -0.3430(7) -0.2427(6)
+C5 C 0.2424(9) -0.5647(7) -0.1830(7)
+H5 H 0.2167(9) -0.6526(7) -0.2882(7)
+C6 C 0.2368(8) -0.5085(7) 0.0580(7)
+H6 H 0.2097(8) -0.5531(7) 0.1461(7)
+C7 C 0.8529(10) 0.0715(8) 0.3892(6)
+H7 H 0.992(1) 0.1248(8) 0.4668(6)
+C8 C 0.2070(9) -0.6237(7) -0.0740(8)
+H8 H 0.1561(9) -0.7597(7) -0.0906(8)
+C9 C 0.6701(10) -0.0546(8) 0.3851(6)
+H9 H 0.637(1) -0.1215(8) 0.4599(6)
+O1 O 0.2158(4) -0.4642(3) 0.4512(3)
+O2 O 0.6302(10) -0.2618(7) 0.6166(6)
+H10 H 0.17120 -0.48430 0.38190
+H11 H 0.22460 -0.37660 0.49610
+H12 H 0.63030 -0.21480 0.70740
+H13 H 0.67140 -0.34400 0.60640
+Cl1A Cl 0.2083(4) 0.0515(3) 0.0797(2)
+N2A N 0.6595(6) 0.2753(5) 0.0306(4)
+C1A C 0.6987(7) 0.3359(6) -0.0768(5)
+C3A C 0.6725(8) 0.2060(7) -0.2196(5)
+N1A N 0.4617(7) 0.0810(5) -0.2718(4)
+N3A N 0.3688(6) -0.0247(5) -0.2011(4)
+C2A C 0.1780(8) -0.1164(7) -0.2728(5)
+H1A H 0.0623(8) -0.2133(7) -0.2438(5)
+C7A C 0.1471(10) -0.0715(8) -0.3892(6)
+H7A H 0.008(1) -0.1248(8) -0.4668(6)
+C9A C 0.3299(10) 0.0546(8) -0.3851(6)
+H9A H 0.363(1) 0.1215(8) -0.4599(6)
+H2A H 0.7711(8) 0.1393(7) -0.2124(5)
+H3A H 0.7194(8) 0.2730(7) -0.2932(6)
+C6A C 0.7632(8) 0.5085(7) -0.0580(7)
+H6A H 0.7903(8) 0.5531(7) -0.1461(7)
+C8A C 0.7930(9) 0.6237(7) 0.0740(8)
+C5A C 0.7576(9) 0.5647(7) 0.1830(7)
+C4A C 0.6879(8) 0.3897(7) 0.1562(6)
+H4A H 0.6544(8) 0.3430(7) 0.2427(6)
+H5A H 0.7833(9) 0.6526(7) 0.2882(7)
+H8A H 0.8439(9) 0.7597(7) 0.0906(8)
+#END

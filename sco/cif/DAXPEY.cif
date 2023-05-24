@@ -1,0 +1,105 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_DAXPEY
+_audit_creation_date 2006-02-13
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD DAXPEY
+_database_code_depnum_ccdc_archive 'CCDC 266383'
+_chemical_formula_sum 'C9 H8 Br1 Mn1 N4 O3'
+_chemical_formula_moiety
+;
+C9 H8 Br1 Mn1 N4 O3
+;
+_journal_coden_Cambridge 1290
+_journal_year 2005
+_journal_page_first 4430
+_journal_name_full 'Eur.J.Inorg.Chem. '
+loop_
+_publ_author_name
+"M.Arroyo"
+"A.Lopez-Sanvicente"
+"D.Miguel"
+"F.Villafane"
+_chemical_name_systematic
+;
+fac-Bromo-tricarbonyl-bis(2-pyrazolyl)-manganese(i)
+;
+_cell_volume    678.807
+_exptl_crystal_colour 'orange'
+_exptl_crystal_density_diffrn 1.737
+_exptl_crystal_description 'block'
+_exptl_crystal_preparation 'hexane/dichloromethane'
+_diffrn_ambient_temperature 296
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0429
+_refine_ls_wR_factor_gt 0.0429
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 8.194(2)
+_cell_length_b 8.447(2)
+_cell_length_c 10.857(3)
+_cell_angle_alpha 84.365(5)
+_cell_angle_beta 83.156(5)
+_cell_angle_gamma 65.663(4)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Br 1.21
+Mn 1.35
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mn1 Mn 0.32263(8) 0.87271(7) 0.77250(5)
+Br1 Br 0.20835(6) 1.03714(6) 0.56961(4)
+N1 N 0.1571(4) 0.7410(4) 0.7724(3)
+N2 N 0.0263(6) 0.7835(6) 0.6964(4)
+H1 H -0.012(10) 0.865(9) 0.673(7)
+N3 N 0.5120(4) 0.6715(4) 0.6716(3)
+N4 N 0.5714(6) 0.6884(6) 0.5529(4)
+H2 H 0.537(7) 0.772(7) 0.521(5)
+C1 C 0.4092(8) 0.7681(6) 0.9150(4)
+O1 O 0.4672(8) 0.7075(6) 1.0066(4)
+C2 C 0.4629(8) 0.9940(7) 0.7631(5)
+O2 O 0.5450(7) 1.0739(7) 0.7586(5)
+C3 C 0.1459(8) 1.0432(6) 0.8554(5)
+O3 O 0.0339(8) 1.1519(6) 0.9091(5)
+C4 C -0.0640(7) 0.6843(7) 0.7186(5)
+H3 H -0.16130 0.69290 0.67810
+C5 C 0.0117(7) 0.5679(7) 0.8113(5)
+H4 H -0.02070 0.47890 0.84650
+C6 C 0.1469(7) 0.6085(7) 0.8430(5)
+H5 H 0.22130 0.55020 0.90580
+C7 C 0.6952(7) 0.5409(7) 0.5110(5)
+H6 H 0.75320 0.52430 0.43130
+C8 C 0.7216(7) 0.4196(7) 0.6047(6)
+H7 H 0.80060 0.30300 0.60350
+C9 C 0.6066(7) 0.5049(6) 0.7032(5)
+H8 H 0.59660 0.45270 0.78160
+#END

@@ -1,0 +1,130 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_JAHDAX
+_audit_creation_date 1989-09-22
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD JAHDAX
+_chemical_formula_sum 'C9 H34 Br3 Co1 N6 O2'
+_chemical_formula_moiety
+;
+C9 H30 Co1 N6 3+,3(Br1 1-),2(H2 O1)
+;
+_journal_coden_Cambridge 155
+_journal_volume 156
+_journal_year 1989
+_journal_page_first 57
+_journal_name_full 'Inorg.Chim.Acta '
+loop_
+_publ_author_name
+"G.H.Searle"
+"E.R.T.Tiekink"
+_chemical_name_systematic
+;
+\L-mer-tris(N-Methylethane-1,2-diamine)-cobalt(iii) tribromide dihydrate
+;
+_cell_volume    985.727
+_exptl_crystal_density_diffrn 1.877
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.037
+_refine_ls_wR_factor_gt 0.037
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 8.231(2)
+_cell_length_b 8.682(1)
+_cell_length_c 14.247(2)
+_cell_angle_alpha 96.84(1)
+_cell_angle_beta 97.16(2)
+_cell_angle_gamma 99.62(2)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Br 1.21
+Co 1.33
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Br1 Br 0.75516(8) 0.61950(9) 0.03759(5)
+Br2 Br 0.71761(7) 0.41912(8) 0.49027(4)
+Br3 Br 0.25097(8) -0.05377(10) 0.80708(5)
+Co1 Co -0.27244(8) 0.25781(8) -0.22125(5)
+N1 N -0.1195(6) 0.4509(6) -0.1568(3)
+N2 N -0.1214(5) 0.2714(5) -0.3225(3)
+N3 N -0.4223(5) 0.0709(5) -0.2951(3)
+N4 N -0.4208(6) 0.3806(6) -0.2907(3)
+N5 N -0.4091(6) 0.2608(6) -0.1169(3)
+N6 N -0.1436(6) 0.1281(6) -0.1422(3)
+C1 C -0.0355(8) 0.5305(7) -0.2287(5)
+C2 C 0.0217(8) 0.4025(8) -0.2886(5)
+C3 C -0.0638(8) 0.1299(8) -0.3653(5)
+C4 C -0.5255(7) 0.1179(8) -0.3754(4)
+C5 C -0.5773(7) 0.2688(7) -0.3382(4)
+C6 C -0.4709(8) 0.5221(8) -0.2402(5)
+C7 C -0.3606(7) 0.1623(8) -0.0448(4)
+C8 C -0.1749(7) 0.1656(8) -0.0413(4)
+C9 C -0.1781(8) -0.0477(8) -0.1692(5)
+O1 O -0.0072(7) 0.2197(7) 0.3961(4)
+O2 O 0.3318(7) 0.2088(7) 0.3965(5)
+H1 H -0.0272(6) 0.4201(6) -0.1051(3)
+H2 H -0.1889(6) 0.5289(6) -0.1209(3)
+H3 H -0.2060(5) 0.2904(5) -0.3825(3)
+H4 H -0.5033(5) 0.0174(5) -0.2492(3)
+H5 H -0.3501(5) -0.0130(5) -0.3221(3)
+H6 H -0.3431(6) 0.4322(6) -0.3389(3)
+H7 H -0.5381(6) 0.2176(6) -0.1470(3)
+H8 H -0.3946(6) 0.3810(6) -0.0825(3)
+H9 H -0.0159(6) 0.1606(6) -0.1537(3)
+H10 H -0.1215(8) 0.5846(7) -0.2716(5)
+H11 H 0.0697(8) 0.6194(7) -0.1942(5)
+H12 H 0.1192(8) 0.3599(8) -0.2469(5)
+H13 H 0.0684(8) 0.4478(8) -0.3494(5)
+H14 H -0.1689(8) 0.0350(8) -0.3895(5)
+H15 H 0.0220(8) 0.0939(8) -0.3122(5)
+H16 H -0.0016(8) 0.1582(8) -0.4251(5)
+H17 H -0.4529(7) 0.1362(8) -0.4325(4)
+H18 H -0.6344(7) 0.0278(8) -0.4013(4)
+H19 H -0.6377(7) 0.3173(7) -0.3966(4)
+H20 H -0.6616(7) 0.2475(7) -0.2869(4)
+H21 H -0.3601(8) 0.6042(8) -0.2059(5)
+H22 H -0.5459(8) 0.4860(8) -0.1869(5)
+H23 H -0.5417(8) 0.5784(8) -0.2905(5)
+H24 H -0.3856(7) 0.2102(8) 0.0243(4)
+H25 H -0.4293(7) 0.0430(8) -0.0645(4)
+H26 H -0.1381(7) 0.0778(8) 0.0005(4)
+H27 H -0.1049(7) 0.2807(8) -0.0100(4)
+H28 H -0.1565(8) -0.0769(8) -0.2418(5)
+H29 H -0.3067(8) -0.0919(8) -0.1636(5)
+H30 H -0.0980(8) -0.1008(8) -0.1218(5)
+#END

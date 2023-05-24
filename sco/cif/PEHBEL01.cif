@@ -1,0 +1,101 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_PEHBEL01
+_audit_creation_date 2019-03-21
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD PEHBEL01
+_database_code_depnum_ccdc_archive 'CCDC 1861653'
+_chemical_formula_sum 'C9 H5 Mn1 O5'
+_chemical_formula_moiety
+;
+C9 H5 Mn1 O5
+;
+_journal_coden_Cambridge 119
+_journal_volume 1187
+_journal_year 2019
+_journal_page_first 38
+_journal_name_full 'J.Mol.Struct. '
+loop_
+_publ_author_name
+"A.B.Ilyukhin"
+"P.S.Koroteev"
+"V.M.Novotortsev"
+_chemical_name_systematic
+;
+tricarbony-(\h^5^-1-carboxycyclopentadienyl)-manganese
+;
+_cell_volume    465.509
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.77
+_exptl_special_details
+;
+triclinic P-1 polymorph
+
+;
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 100
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0322
+_refine_ls_wR_factor_gt 0.0322
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 6.9630(2)
+_cell_length_b 7.3473(2)
+_cell_length_c 10.1298(3)
+_cell_angle_alpha 88.671(1)
+_cell_angle_beta 86.836(1)
+_cell_angle_gamma 64.110(1)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Mn 1.61
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mn1 Mn 0.23540(3) 0.15416(3) 0.20532(2)
+O1 O 0.2780(2) 0.58770(18) 0.38652(12)
+O2 O 0.45300(18) 0.30410(17) 0.50340(12)
+O3 O 0.2737(2) 0.3907(2) -0.02562(12)
+O4 O 0.2231(2) -0.1659(2) 0.04001(14)
+O5 O 0.70028(19) -0.06174(19) 0.23419(13)
+C1 C 0.3119(2) 0.4056(2) 0.42851(15)
+C2 C 0.1656(2) 0.3301(2) 0.37992(14)
+C3 C -0.0037(2) 0.4276(2) 0.29205(15)
+C4 C -0.0969(2) 0.2942(2) 0.27111(16)
+C5 C 0.0145(2) 0.1143(2) 0.34586(16)
+C6 C 0.1756(2) 0.1359(2) 0.41311(15)
+C7 C 0.2616(2) 0.2971(2) 0.06376(16)
+C8 C 0.2290(3) -0.0408(2) 0.10271(16)
+C9 C 0.5194(3) 0.0206(2) 0.22066(15)
+H1 H 0.351(4) 0.619(4) 0.415(3)
+H2 H -0.043(3) 0.560(3) 0.257(2)
+H3 H -0.199(3) 0.318(3) 0.212(2)
+H4 H -0.005(3) -0.007(3) 0.348(2)
+H5 H 0.260(3) 0.040(3) 0.471(2)
+#END

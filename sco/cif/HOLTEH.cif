@@ -1,0 +1,131 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_HOLTEH
+_audit_creation_date 1999-10-14
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD HOLTEH
+_database_code_depnum_ccdc_archive 'CCDC 132433'
+_chemical_formula_sum 'C10 H14 Mn1 O12'
+_chemical_formula_moiety
+;
+C10 H14 Mn1 O12
+;
+_journal_coden_Cambridge 9
+_journal_volume 38
+_journal_year 1999
+_journal_page_first 3716
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"H.-A.Hosein"
+"H.Jaggernauth"
+"B.D.Alleyne"
+"L.A.Hall"
+"A.J.P.White"
+"D.J.Williams"
+_chemical_name_systematic
+;
+cis-Tetra-aqua-bis(1-methoxycyclobutendionato)-manganese
+;
+_cell_volume   1459.558
+_exptl_crystal_density_diffrn 1.735
+_exptl_special_details
+;
+isomorphous with the Co, Ni and Zn analogues
+
+;
+_exptl_crystal_description 'needles'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0411
+_refine_ls_wR_factor_gt 0.0411
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 x,-y,1/2+z
+4 1/2+x,1/2-y,1/2+z
+5 -x,-y,-z
+6 -1/2-x,-1/2-y,-z
+7 -x,y,-1/2-z
+8 -1/2-x,-1/2+y,-1/2-z
+_cell_length_a 12.5651(5)
+_cell_length_b 13.2138(4)
+_cell_length_c 8.8586(5)
+_cell_angle_alpha 90
+_cell_angle_beta 97.094(4)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Mn 1.35
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mn1 Mn 0.50000 1.15704(5) 1.25000
+O1 O 0.5773(2) 1.2707(2) 1.1285(3)
+C1 C 0.6025(3) 1.2790(2) 0.9978(4)
+C2 C 0.6238(3) 1.3620(2) 0.9029(4)
+O2 O 0.6237(3) 1.4586(2) 0.9343(3)
+C3 C 0.6411(3) 1.2977(3) 0.7776(4)
+O3 O 0.6616(2) 1.3099(2) 0.6448(3)
+C4 C 0.6205(3) 1.2085(3) 0.8726(4)
+O4 O 0.6178(3) 1.1170(2) 0.8538(3)
+C5 C 0.6425(4) 1.5290(3) 0.8156(5)
+H1 H 0.6403(4) 1.5970(3) 0.8535(5)
+H2 H 0.5880(4) 1.5208(3) 0.7305(5)
+H3 H 0.7116(4) 1.5162(3) 0.7839(5)
+O5 O 0.3668(2) 1.1537(2) 1.0627(3)
+H4 H 0.3007(17) 1.1535(41) 1.0918(58)
+H5 H 0.3617(40) 1.2038(25) 0.9932(42)
+O6 O 0.5880(2) 1.0412(2) 1.1444(3)
+H6 H 0.5966(54) 1.0349(52) 1.0455(20)
+H7 H 0.5976(51) 0.9761(14) 1.1726(68)
+O1F O 0.4227(2) 1.2707(2) 1.3715(3)
+C1F C 0.3975(3) 1.2790(2) 1.5022(4)
+C2F C 0.3762(3) 1.3620(2) 1.5971(4)
+O2F O 0.3763(3) 1.4586(2) 1.5657(3)
+C5F C 0.3575(4) 1.5290(3) 1.6844(5)
+H1F H 0.3597(4) 1.5970(3) 1.6465(5)
+H2F H 0.4120(4) 1.5208(3) 1.7695(5)
+H3F H 0.2884(4) 1.5162(3) 1.7161(5)
+C3F C 0.3589(3) 1.2977(3) 1.7224(4)
+O3F O 0.3384(2) 1.3099(2) 1.8552(3)
+C4F C 0.3795(3) 1.2085(3) 1.6274(4)
+O4F O 0.3822(3) 1.1170(2) 1.6462(3)
+O5F O 0.6332(2) 1.1537(2) 1.4373(3)
+H4F H 0.6993(17) 1.1535(41) 1.4082(58)
+H5F H 0.6383(40) 1.2038(25) 1.5068(42)
+O6F O 0.4120(2) 1.0412(2) 1.3556(3)
+H6F H 0.4034(54) 1.0349(52) 1.4545(20)
+H7F H 0.4024(51) 0.9761(14) 1.3274(68)
+#END

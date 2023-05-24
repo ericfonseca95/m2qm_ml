@@ -1,0 +1,147 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_YUCHAF
+_audit_creation_date 1996-05-01
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD YUCHAF
+_chemical_formula_sum 'C22 H20 Mn1 N6 O2 S2'
+_chemical_formula_moiety
+;
+(C12 H12 Mn1 N4 O2 S2)n,n(C10 H8 N2)
+;
+_journal_coden_Cambridge 580
+_journal_volume 14
+_journal_year 1995
+_journal_page_first 1235
+_journal_name_full 'Polyhedron '
+loop_
+_publ_author_name
+"Ming-Xing Li"
+"Gao-Yang Xie"
+"Yi-Dong Gu"
+"Jan Chen"
+"Pei-Ju Zheng"
+_chemical_name_systematic
+;
+catena(Diaqua-di-isothiocyanato-(\m~2~-4,4'-bipyridyl-N,N')-manganese(ii) 
+4,4'-bipyridine)
+;
+_cell_volume    626.088
+_exptl_crystal_colour 'pale yellow'
+_exptl_crystal_density_diffrn 1.38
+_exptl_special_details
+;
+Space group should be P1 (not P-1)
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.043
+_refine_ls_wR_factor_gt 0.043
+loop_
+_citation_database_id_CSD
+_citation_special_details
+YUCHAF01 "is a reinterpretation of this cif"
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P 1'
+_symmetry_Int_Tables_number 1
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+_cell_length_a 7.468(3)
+_cell_length_b 9.071(2)
+_cell_length_c 10.178(4)
+_cell_angle_alpha 107.77(2)
+_cell_angle_beta 103.67(2)
+_cell_angle_gamma 96.07(2)
+_cell_formula_units_Z 1
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Mn 1.35
+N 0.68
+O 0.68
+S 1.02
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mn1 Mn -0.86300 -0.18900 0.02400
+O1 O -1.0009(7) -0.0084(6) -0.0347(5)
+O2 O -0.7195(9) -0.3704(6) 0.0835(5)
+N1 N -1.051(1) -0.2094(9) 0.1558(7)
+C1 C -1.149(1) -0.2514(8) 0.2124(7)
+S1 S -1.2962(4) -0.3289(4) 0.2757(3)
+N2 N -0.6830(9) -0.1680(8) -0.1102(7)
+C2 C -0.575(1) -0.125(1) -0.1599(9)
+S2 S -0.4346(4) -0.0801(4) -0.2506(2)
+C3 C -0.444(1) 0.257(1) 0.3188(7)
+C4 C -0.559(1) 0.127(1) 0.2045(8)
+N3 N -0.650(1) -0.0018(7) 0.2171(6)
+C5 C -0.629(1) -0.0006(7) 0.3431(7)
+C6 C -0.516(1) 0.115(1) 0.4670(7)
+C7 C -0.419(1) 0.2487(9) 0.4640(6)
+C8 C -0.3020(8) 0.3780(7) 0.5934(7)
+C9 C -0.282(1) 0.3739(8) 0.7256(7)
+C10 C -0.168(1) 0.4914(8) 0.8424(7)
+N4 N -0.0731(8) 0.6169(7) 0.8352(5)
+C11 C -0.098(1) 0.6351(9) 0.6979(7)
+C12 C -0.2107(9) 0.5119(7) 0.5776(7)
+H1 H -1.16900 -0.05600 -0.08000
+H2 H -0.96000 0.02800 -0.10800
+H3 H -0.58800 -0.35900 0.11100
+H4 H -0.75400 -0.41600 0.14000
+H5 H -0.37900 0.35500 0.30600
+H6 H -0.58600 0.14000 0.10800
+H7 H -0.71100 -0.10900 0.35900
+H8 H -0.49900 0.08200 0.55600
+H9 H -0.37500 0.25000 0.72200
+H10 H -0.16900 0.50200 0.93900
+H11 H -0.00600 0.74900 0.69500
+H12 H -0.20800 0.55300 0.50600
+C13 C 0.218(1) -0.653(1) 0.7262(9)
+C14 C 0.194(2) -0.743(1) 0.8137(9)
+N5 N 0.093(1) -0.8724(9) 0.7801(7)
+C15 C 0.002(1) -0.9424(9) 0.628(1)
+C16 C 0.028(1) -0.8780(9) 0.5391(9)
+C17 C 0.125(2) -0.7277(9) 0.5794(8)
+C18 C 0.1464(9) -0.6471(7) 0.4735(7)
+C19 C 0.265(1) -0.4990(9) 0.5235(9)
+C20 C 0.266(2) -0.425(1) 0.4081(9)
+N6 N 0.192(1) -0.4973(8) 0.2796(7)
+C21 C 0.081(1) -0.650(1) 0.2291(9)
+C22 C 0.063(1) -0.7187(9) 0.3310(8)
+H13 H 0.28300 -0.53300 0.77600
+H14 H 0.24000 -0.68000 0.92900
+H15 H -0.12500 -1.02900 0.61000
+H16 H -0.00200 -0.97400 0.44500
+H17 H 0.28700 -0.45100 0.63500
+H18 H 0.32300 -0.31300 0.41400
+H19 H 0.03400 -0.72700 0.10400
+H20 H -0.04500 -0.83000 0.28000
+N4* N -1.0731(8) -0.3831(7) -0.1648(5)
+Mn1* Mn 0.13700 0.81100 1.02400
+#END

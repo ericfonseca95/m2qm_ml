@@ -1,0 +1,122 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_RAWHED
+_audit_creation_date 2006-03-15
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD RAWHED
+_database_code_depnum_ccdc_archive 'CCDC 291762'
+_chemical_formula_sum 'C9 H18 Fe1 N3 O1 S2'
+_chemical_formula_moiety
+;
+C9 H18 Fe1 N3 O1 S2
+;
+_journal_coden_Cambridge 9
+_journal_volume 44
+_journal_year 2005
+_journal_page_first 9007
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"Chao-Yi Chiang"
+"Jonghyuk Lee"
+"C.Dalrymple"
+"M.C.Sarahan"
+"J.H.Reibenspies"
+"M.Y.Darensbourg"
+_chemical_name_systematic
+;
+(N,N'-bis(2-Mercaptoethyl)-1,4-diazacycloheptane)-nitroso-iron
+;
+_cell_volume    613.916
+_exptl_crystal_colour 'red'
+_exptl_crystal_density_diffrn 1.646
+_exptl_crystal_description 'plate'
+_exptl_crystal_preparation 'pentane/dichloromethane'
+_diffrn_ambient_temperature 110
+_refine_special_details
+;
+The oxygen atom is disordered over two sites with occupancies 0.65:0.35.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0342
+_refine_ls_wR_factor_gt 0.0342
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 7.3544(9)
+_cell_length_b 8.0686(10)
+_cell_length_c 11.6108(14)
+_cell_angle_alpha 95.523(2)
+_cell_angle_beta 97.570(2)
+_cell_angle_gamma 114.273(2)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Fe 1.34
+N 0.68
+O 0.68
+S 1.02
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1 O 0.193(4) 0.4857(19) 0.4239(11)
+Fe1 Fe 0.11229(5) 0.17603(4) 0.25967(3)
+S1 S -0.02905(10) 0.29064(9) 0.12802(6)
+S2 S -0.17619(10) -0.07391(9) 0.25896(6)
+N1 N 0.3692(3) 0.2922(3) 0.1975(2)
+N2 N 0.2586(3) 0.0245(3) 0.31388(19)
+N3 N 0.1638(4) 0.3385(3) 0.3797(2)
+C1 C 0.2000(4) 0.4369(4) 0.0756(2)
+H1 H 0.20410 0.37530 -0.00140
+H2 H 0.19630 0.55560 0.06440
+C2 C 0.3872(4) 0.4721(4) 0.1632(3)
+H3 H 0.50940 0.52810 0.12780
+H4 H 0.40070 0.55870 0.23370
+C3 C 0.3692(4) 0.1682(4) 0.0952(3)
+H5 H 0.47790 0.23880 0.05340
+H6 H 0.23770 0.12240 0.04000
+C4 C 0.4018(5) 0.0070(4) 0.1302(3)
+H7 H 0.54480 0.05160 0.17020
+H8 H 0.38010 -0.07980 0.05790
+C5 C 0.2650(4) -0.0965(4) 0.2105(2)
+H9 H 0.12560 -0.16700 0.16430
+H10 H 0.31230 -0.18620 0.23940
+C6 C 0.5376(4) 0.3243(4) 0.2975(3)
+H11 H 0.57290 0.44190 0.34970
+H12 H 0.65970 0.33330 0.26630
+C7 C 0.4688(4) 0.1606(4) 0.3698(3)
+H13 H 0.56240 0.10070 0.37020
+H14 H 0.47210 0.20790 0.45230
+C8 C 0.1496(4) -0.0916(3) 0.3972(2)
+H15 H 0.15780 -0.01150 0.46970
+H16 H 0.21530 -0.17210 0.41950
+C9 C -0.0703(4) -0.2087(4) 0.3412(3)
+H17 H -0.14950 -0.25520 0.40310
+H18 H -0.08130 -0.31630 0.28690
+O2? O 0.124(16) 0.464(9) 0.419(4)
+#END

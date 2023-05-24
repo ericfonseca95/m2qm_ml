@@ -1,0 +1,127 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_COPRAB20
+_audit_creation_date 1975-08-29
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD COPRAB20
+_chemical_formula_sum 'C9 H30 Br3 Co1 N6'
+_chemical_formula_moiety
+;
+C9 H30 Co1 N6 3+,3(Br1 1-)
+;
+_journal_coeditor_code "IUCr A12056"
+_journal_coden_Cambridge 107
+_journal_volume 31
+_journal_year 1975
+_journal_page_first 931
+_journal_name_full 'Acta Crystallogr.,Sect.B:Struct.Crystallogr.Cryst.Chem. '
+loop_
+_publ_author_name
+"R.Kuroda"
+"N.Shimanouchi"
+"Y.Saito"
+_chemical_name_systematic
+;
+(-)~589~-tris(R-Propylenediamine) cobalt(iii) bromide
+;
+_cell_volume    901.263
+_exptl_crystal_density_diffrn 1.908
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+MELTHYL HYDROGENS DISORDERED.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.037
+_refine_ls_wR_factor_gt 0.037
+_symmetry_cell_setting hexagonal
+_symmetry_space_group_name_H-M 'P 63'
+_symmetry_Int_Tables_number 173
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x-y,z
+3 -x+y,-x,z
+4 -x,-y,1/2+z
+5 y,-x+y,1/2+z
+6 x-y,x,1/2+z
+_cell_length_a 11.012(2)
+_cell_length_b 11.012(2)
+_cell_length_c 8.582(1)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Br 1.21
+Co 1.33
+N 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Br1 Br 0.45190 0.11940 -0.49110
+Co1 Co -0.33330 0.33330 0.00000
+C1 C -0.60930 0.12040 -0.08290
+C2 C -0.59940 0.11430 0.09970
+C3 C -0.75830 0.08070 -0.14060
+H1 H -0.54600 0.32500 -0.12700
+H2 H -0.48000 0.27600 -0.24300
+H3 H -0.42300 0.10200 0.12900
+H4 H -0.43200 0.20000 0.24300
+H5 H -0.58600 0.05100 -0.15100
+H6 H -0.67000 0.00300 0.15200
+H7 H -0.64500 0.17200 0.16900
+N1 N -0.50360 0.26930 -0.12880
+N2 N -0.45050 0.16980 0.13340
+N1A N -0.26930 0.22710 -0.12880
+N1B N -0.22710 0.50360 -0.12880
+N2A N -0.16980 0.37970 0.13340
+N2B N -0.37970 0.45050 0.13340
+C1A C -0.12040 0.27030 -0.08290
+H1A H -0.32500 0.12900 -0.12700
+H2A H -0.27600 0.24400 -0.24300
+C1B C -0.27030 0.60930 -0.08290
+H1B H -0.12900 0.54600 -0.12700
+H2B H -0.24400 0.48000 -0.24300
+C2A C -0.11430 0.28630 0.09970
+H3A H -0.10200 0.47500 0.12900
+H4A H -0.20000 0.36800 0.24300
+C2B C -0.28630 0.59940 0.09970
+H3B H -0.47500 0.42300 0.12900
+H4B H -0.36800 0.43200 0.24300
+C3A C -0.08070 0.16100 -0.14060
+H5A H -0.05100 0.36300 -0.15100
+C3B C -0.16100 0.75830 -0.14060
+H5B H -0.36300 0.58600 -0.15100
+H6A H -0.00300 0.32700 0.15200
+H7A H -0.17200 0.18300 0.16900
+H6B H -0.32700 0.67000 0.15200
+H7B H -0.18300 0.64500 0.16900
+#END

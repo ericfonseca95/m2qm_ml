@@ -1,0 +1,136 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_MAVJAU
+_audit_creation_date 2000-10-02
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD MAVJAU
+_chemical_formula_sum 'C20 H28 Cr1 N2 O1'
+_chemical_formula_moiety
+;
+C20 H28 Cr1 N2 O1
+;
+_journal_coden_Cambridge 579
+_journal_volume 18
+_journal_year 1999
+_journal_page_first 1994
+_journal_name_full 'Organometallics '
+loop_
+_publ_author_name
+"E.W.Jandciu"
+"J.Kuzelka"
+"P.Legzdins"
+"S.J.Rettig"
+"K.M.Smith"
+_chemical_name_systematic
+;
+dibenzyl-(diisopropylamido)-nitrosyl-chromium(ii)
+;
+_cell_volume    976.952
+_exptl_crystal_colour 'red'
+_exptl_crystal_density_diffrn 1.239
+_exptl_special_details
+;
+air- and moisture-sensitive
+
+;
+_exptl_crystal_description 'prism'
+_exptl_crystal_preparation 'hexanes'
+_diffrn_ambient_temperature 180.15
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.039
+_refine_ls_wR_factor_gt 0.039
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 7.4431(10)
+_cell_length_b 8.682(2)
+_cell_length_c 15.453(3)
+_cell_angle_alpha 95.805(4)
+_cell_angle_beta 98.073(3)
+_cell_angle_gamma 95.757(3)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.33
+Cr 1.24
+N 0.60
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cr1 Cr 0.18630(5) 0.52771(5) 0.28269(3)
+O1 O 0.5587(2) 0.4698(2) 0.30994(13)
+N1 N 0.3990(2) 0.4939(3) 0.29964(14)
+N2 N 0.1851(2) 0.6955(2) 0.35803(13)
+C1 C 0.0670(4) 0.3349(4) 0.3300(2)
+C2 C 0.0238(3) 0.2795(3) 0.2369(2)
+C3 C 0.1548(3) 0.2145(3) 0.1911(2)
+C4 C 0.1249(3) 0.1805(3) 0.1011(2)
+C5 C -0.0350(3) 0.2158(3) 0.0526(2)
+C6 C -0.1664(3) 0.2798(3) 0.0955(2)
+C7 C -0.1369(3) 0.3140(3) 0.1854(2)
+C8 C 0.1727(3) 0.5958(3) 0.1566(2)
+C9 C 0.3437(3) 0.6840(3) 0.1388(2)
+C10 C 0.3701(3) 0.8452(3) 0.1491(2)
+C11 C 0.5291(3) 0.9274(3) 0.1322(2)
+C12 C 0.6666(3) 0.8469(4) 0.1056(2)
+C13 C 0.6433(3) 0.6863(4) 0.0942(2)
+C14 C 0.4841(3) 0.6044(3) 0.1109(2)
+C15 C -0.0084(3) 0.7271(3) 0.3497(2)
+C16 C -0.0330(3) 0.8866(4) 0.3186(2)
+C17 C -0.0872(3) 0.7075(4) 0.4342(2)
+C18 C 0.3166(3) 0.7965(3) 0.4245(2)
+C19 C 0.4044(3) 0.7005(4) 0.4935(2)
+C20 C 0.4590(3) 0.8812(3) 0.3785(2)
+H1 H 0.145(4) 0.283(4) 0.365(2)
+H2 H -0.034(3) 0.360(3) 0.358(2)
+H3 H 0.27000 0.19320 0.22430
+H4 H 0.21580 0.13150 0.07110
+H5 H -0.05470 0.19530 -0.01170
+H6 H -0.28080 0.30090 0.06150
+H7 H -0.22890 0.36320 0.21450
+H8 H 0.14420 0.50190 0.11410
+H9 H 0.07400 0.66210 0.14820
+H10 H 0.27400 0.90310 0.16890
+H11 H 0.54350 1.04160 0.13900
+H12 H 0.78050 0.90380 0.09500
+H13 H 0.73980 0.62940 0.07400
+H14 H 0.46990 0.49020 0.10320
+H15 H -0.065(3) 0.619(3) 0.291(2)
+H16 H 0.03920 0.96840 0.36140
+H17 H 0.00840 0.89070 0.26130
+H18 H -0.16240 0.90280 0.31300
+H19 H -0.01700 0.78090 0.48230
+H20 H -0.21510 0.72830 0.42610
+H21 H -0.08010 0.60060 0.44850
+H22 H 0.25160 0.87420 0.45400
+H23 H 0.30940 0.64960 0.52230
+H24 H 0.46820 0.62120 0.46470
+H25 H 0.49190 0.76940 0.53760
+H26 H 0.52500 0.80480 0.34870
+H27 H 0.39800 0.94120 0.33510
+H28 H 0.54540 0.95190 0.42210
+#END

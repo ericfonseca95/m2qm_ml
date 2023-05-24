@@ -1,0 +1,107 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_OFANER
+_audit_creation_date 2018-08-28
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD OFANER
+_database_code_depnum_ccdc_archive 'CCDC 1864304'
+_chemical_formula_sum 'C4 H12 Fe1 N2 O6'
+_chemical_formula_moiety
+;
+C4 H12 Fe1 N2 O6
+;
+_journal_coden_Cambridge 1220
+_journal_volume 24
+_journal_year 2018
+_journal_page_first 11008
+_journal_name_full 'Chem.-Eur.J. '
+loop_
+_publ_author_name
+"Stefan Jungen"
+_chemical_name_systematic
+;
+diaqua-bis(glycinato)-iron(ii)
+;
+_cell_volume    439.054
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.815
+_exptl_special_details
+;
+Air-sensitive
+
+;
+_exptl_crystal_description 'needle'
+_diffrn_ambient_temperature 100
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.029
+_refine_ls_wR_factor_gt 0.029
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 7.7221(1)
+_cell_length_b 6.5656(1)
+_cell_length_c 9.3220(1)
+_cell_angle_alpha 90
+_cell_angle_beta 111.726(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Fe 1.52
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe1 Fe 0.50000 0.00000 0.50000
+O1 O 0.53676(18) 0.2845(2) 0.61839(15)
+O2 O 0.40448(19) 0.1439(2) 0.27841(15)
+H1 H 0.458(3) 0.267(3) 0.281(3)
+H2 H 0.281(2) 0.168(4) 0.230(3)
+O3 O 0.3941(2) 0.5196(2) 0.70842(18)
+N1 N 0.2259(2) 0.0496(3) 0.51250(19)
+H3 H 0.129(3) 0.002(3) 0.425(2)
+H4 H 0.221(4) -0.018(3) 0.597(2)
+C1 C 0.3928(3) 0.3654(3) 0.6288(2)
+C2 C 0.2052(3) 0.2689(3) 0.5360(2)
+H5 H 0.11895 0.28809 0.59130
+H6 H 0.15069 0.33737 0.43448
+O1B O 0.46324(18) -0.2845(2) 0.38161(15)
+O2B O 0.59552(19) -0.1439(2) 0.72159(15)
+H1B H 0.542(3) -0.267(3) 0.719(3)
+H2B H 0.719(2) -0.168(4) 0.770(3)
+O3B O 0.6059(2) -0.5196(2) 0.29158(18)
+N1B N 0.7741(2) -0.0496(3) 0.48750(19)
+H3B H 0.871(3) -0.002(3) 0.575(2)
+H4B H 0.779(4) 0.018(3) 0.403(2)
+C1B C 0.6072(3) -0.3654(3) 0.3712(2)
+C2B C 0.7948(3) -0.2689(3) 0.4640(2)
+H5B H 0.88105 -0.28809 0.40870
+H6B H 0.84931 -0.33737 0.56552
+#END

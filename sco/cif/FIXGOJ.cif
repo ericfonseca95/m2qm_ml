@@ -1,0 +1,126 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_FIXGOJ
+_audit_creation_date 2005-06-17
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD FIXGOJ
+_database_code_depnum_ccdc_archive 'CCDC 248974'
+_chemical_formula_sum 'C10 H24 I3 Mn1 N4'
+_chemical_formula_moiety
+;
+C10 H24 I2 Mn1 N4 1+,I1 1-
+;
+_journal_coden_Cambridge 155
+_journal_volume 358
+_journal_year 2005
+_journal_page_first 1096
+_journal_name_full 'Inorg.Chim.Acta '
+loop_
+_publ_author_name
+"S.Mossin"
+"H.O.Sorensen"
+"H.Weihe"
+"J.Glerup"
+"I.Sotofte"
+_chemical_name_systematic
+;
+trans-diiodo-(1,4,8,11-tetraazacyclotetradecane)-manganese(iii) iodide
+;
+_cell_volume    891.858
+_exptl_crystal_colour 'red'
+_exptl_crystal_density_diffrn 2.368
+_diffrn_ambient_temperature 120
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0166
+_refine_ls_wR_factor_gt 0.0166
+_symmetry_cell_setting tetragonal
+_symmetry_space_group_name_H-M 'P 42/m'
+_symmetry_Int_Tables_number 84
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x,1/2+z
+3 y,-x,1/2+z
+4 -x,-y,z
+5 -x,-y,-z
+6 y,-x,-1/2-z
+7 -y,x,-1/2-z
+8 x,y,-z
+_cell_length_a 8.3630(4)
+_cell_length_b 8.3630(4)
+_cell_length_c 12.7518(8)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+I 1.40
+Mn 1.35
+N 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+I1 I 0.28072(2) 0.28806(2) 0.00000
+Mn1 Mn 0.00000 0.50000 0.00000
+N1 N -0.0908(2) 0.3620(2) 0.11642(13)
+H1 H -0.0209(2) 0.2763(2) 0.12424(13)
+C1 C -0.2590(4) 0.1940(4) 0.00000
+H2 H -0.3593(4) 0.1311(4) 0.00000
+H3 H -0.1688(4) 0.1174(4) 0.00000
+C2 C -0.2519(3) 0.2918(3) 0.1001(2)
+H4 H -0.3321(3) 0.3787(3) 0.0965(2)
+H5 H -0.2792(3) 0.2226(3) 0.1605(2)
+C3 C -0.0796(3) 0.4570(3) 0.2148(2)
+H6 H -0.0872(3) 0.3855(3) 0.2765(2)
+H7 H -0.1682(3) 0.5353(3) 0.2182(2)
+I2 I 0.00000 0.00000 0.25000
+I1D I -0.28072(2) 0.71194(2) 0.00000
+N1G N -0.0908(2) 0.3620(2) -0.11642(13)
+N1D N 0.0908(2) 0.6380(2) -0.11642(13)
+N1C N 0.0908(2) 0.6380(2) 0.11642(13)
+H1D H 0.0209(2) 0.7237(2) -0.12424(13)
+H1C H 0.0209(2) 0.7237(2) 0.12424(13)
+H1G H -0.0209(2) 0.2763(2) -0.12424(13)
+C1D C 0.2590(4) 0.8060(4) 0.00000
+H2D H 0.3593(4) 0.8689(4) 0.00000
+H3D H 0.1688(4) 0.8826(4) 0.00000
+C2G C -0.2519(3) 0.2918(3) -0.1001(2)
+C2D C 0.2519(3) 0.7082(3) -0.1001(2)
+C2C C 0.2519(3) 0.7082(3) 0.1001(2)
+H4C H 0.3321(3) 0.6213(3) 0.0965(2)
+H4D H 0.3321(3) 0.6213(3) -0.0965(2)
+H4G H -0.3321(3) 0.3787(3) -0.0965(2)
+H5C H 0.2792(3) 0.7774(3) 0.1605(2)
+H5D H 0.2792(3) 0.7774(3) -0.1605(2)
+H5G H -0.2792(3) 0.2226(3) -0.1605(2)
+C3C C 0.0796(3) 0.5430(3) 0.2148(2)
+C3D C 0.0796(3) 0.5430(3) -0.2148(2)
+C3G C -0.0796(3) 0.4570(3) -0.2148(2)
+H6C H 0.0872(3) 0.6145(3) 0.2765(2)
+H6D H 0.0872(3) 0.6145(3) -0.2765(2)
+H6G H -0.0872(3) 0.3855(3) -0.2765(2)
+H7C H 0.1682(3) 0.4647(3) 0.2182(2)
+H7D H 0.1682(3) 0.4647(3) -0.2182(2)
+H7G H -0.1682(3) 0.5353(3) -0.2182(2)
+#END

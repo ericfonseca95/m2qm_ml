@@ -1,0 +1,135 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_HIKYUW
+_audit_creation_date 2007-11-16
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD HIKYUW
+_database_code_depnum_ccdc_archive 'CCDC 637241'
+_chemical_formula_sum 'C17 H27 Bi1 Cr1 O5'
+_chemical_formula_moiety
+;
+C17 H27 Bi1 Cr1 O5
+;
+_journal_coden_Cambridge 36
+_journal_volume 692
+_journal_year 2007
+_journal_page_first 3430
+_journal_name_full 'J.Organomet.Chem. '
+loop_
+_publ_author_name
+"H.J.Breunig"
+"E.Lork"
+"C.I.Rat"
+"R.P.Wagner"
+_chemical_name_systematic
+;
+Pentacarbonyl-(tri-t-butylbismuthine)-chromium
+;
+_cell_volume   1063.480
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.787
+_exptl_special_details
+;
+air-sensitive
+
+;
+_exptl_crystal_description 'blocks'
+_exptl_crystal_preparation 'petroleum ether'
+_diffrn_ambient_temperature 173
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0294
+_refine_ls_wR_factor_gt 0.0294
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 8.846(1)
+_cell_length_b 8.944(2)
+_cell_length_c 14.744(2)
+_cell_angle_alpha 75.78(1)
+_cell_angle_beta 85.72(1)
+_cell_angle_gamma 70.14(1)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Bi 1.54
+Cr 1.35
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.9277(6) 0.8051(6) 0.6739(4)
+C2 C 1.0397(8) 0.7251(9) 0.6023(5)
+H1 H 0.97560 0.72480 0.55090
+H2 H 1.10270 0.61230 0.63250
+H3 H 1.11240 0.78680 0.57750
+C3 C 1.0294(10) 0.8101(9) 0.7513(5)
+H4 H 1.09440 0.87980 0.72500
+H5 H 1.10030 0.69910 0.77880
+H6 H 0.95900 0.85450 0.79970
+C4 C 0.8213(9) 0.9783(8) 0.6303(6)
+H7 H 0.75880 1.02860 0.67920
+H8 H 0.74800 0.97530 0.58460
+H9 H 0.88850 1.04270 0.59880
+C5 C 0.5910(6) 0.7706(6) 0.8323(4)
+C6 C 0.6787(9) 0.8104(9) 0.9028(5)
+H10 H 0.73710 0.88290 0.86990
+H11 H 0.75480 0.70910 0.93900
+H12 H 0.60070 0.86480 0.94520
+C7 C 0.4775(8) 0.9260(9) 0.7736(5)
+H13 H 0.39680 0.98270 0.81400
+H14 H 0.42390 0.89920 0.72710
+H15 H 0.53820 0.99700 0.74170
+C8 C 0.5027(9) 0.6541(9) 0.8818(5)
+H16 H 0.58100 0.54860 0.91140
+H17 H 0.43800 0.63840 0.83610
+H18 H 0.43230 0.70050 0.92960
+C9 C 0.6406(7) 0.6231(7) 0.6166(4)
+C10 C 0.5843(12) 0.7871(11) 0.5477(6)
+H19 H 0.52550 0.77940 0.49620
+H20 H 0.67750 0.81920 0.52280
+H21 H 0.51340 0.86920 0.57920
+C11 C 0.5061(12) 0.5662(15) 0.6559(6)
+H22 H 0.43430 0.64430 0.68960
+H23 H 0.54830 0.45870 0.69910
+H24 H 0.44640 0.55780 0.60510
+C12 C 0.7552(10) 0.5034(14) 0.5643(6)
+H25 H 0.80750 0.39950 0.60870
+H26 H 0.83710 0.54900 0.53310
+H27 H 0.69490 0.48490 0.51750
+C13 C 0.9165(6) 0.3706(6) 0.9506(4)
+C14 C 0.7910(7) 0.2527(6) 0.8347(4)
+C15 C 1.0866(6) 0.1067(6) 0.8972(4)
+C16 C 1.0494(7) 0.2563(7) 0.7184(4)
+C17 C 1.1656(6) 0.3712(7) 0.8340(4)
+O1 O 0.8879(5) 0.3888(5) 1.0242(3)
+O2 O 0.6844(6) 0.2064(6) 0.8405(4)
+O3 O 1.1546(5) -0.0237(5) 0.9383(3)
+O4 O 1.1049(7) 0.2115(6) 0.6533(3)
+O5 O 1.2868(5) 0.3880(6) 0.8357(4)
+Cr1 Cr 0.97489(9) 0.31733(9) 0.83256(5)
+Bi1 Bi 0.786447(19) 0.62888(2) 0.740807(11)
+#END

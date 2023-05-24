@@ -1,0 +1,115 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_XATCEB
+_audit_creation_date 2005-11-15
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD XATCEB
+_database_code_depnum_ccdc_archive 'CCDC 281445'
+_chemical_formula_sum 'C14 H13 Br1 Cr1 N2 O3'
+_chemical_formula_moiety
+;
+C14 H13 Cr1 N2 O3 1+,Br1 1-
+;
+_journal_coden_Cambridge 579
+_journal_volume 24
+_journal_year 2005
+_journal_page_first 4039
+_journal_name_full 'Organometallics '
+loop_
+_publ_author_name
+"M.-E.Moret"
+"A.B.Chaplin"
+"A.K.Lawrence"
+"R.Scopelliti"
+"P.J.Dyson"
+_chemical_name_systematic
+;
+(\h^6^-((3-Methylimidazolylium)methyl)benzene)-tricarbonyl-chromium bromide
+;
+_cell_volume    752.864
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.717
+_exptl_crystal_description 'block'
+_exptl_crystal_preparation 'diethyl ether/acetonitrile'
+_diffrn_ambient_temperature 140
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0391
+_refine_ls_wR_factor_gt 0.0391
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 8.3713(13)
+_cell_length_b 9.0861(12)
+_cell_length_c 10.3104(11)
+_cell_angle_alpha 105.556(10)
+_cell_angle_beta 94.241(10)
+_cell_angle_gamma 91.013(11)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Br 1.21
+Cr 1.35
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cr1 Cr 0.69383(8) 0.74319(7) 0.92975(7)
+O1 O 0.3498(4) 0.7513(4) 0.8209(3)
+O2 O 0.5842(4) 0.9157(4) 1.1985(3)
+O3 O 0.7797(4) 1.0444(4) 0.8743(4)
+N1 N 0.6839(5) 0.3145(4) 0.5657(4)
+N2 N 0.8141(4) 0.1392(4) 0.4343(4)
+C1 C 0.4839(6) 0.7486(5) 0.8609(5)
+C2 C 0.6277(5) 0.8497(5) 1.0955(5)
+C3 C 0.7438(6) 0.9284(5) 0.8945(5)
+C4 C 0.7263(5) 0.5267(5) 0.7745(4)
+C5 C 0.6768(5) 0.4898(5) 0.8923(5)
+H1 H 0.58580 0.42350 0.88580
+C6 C 0.7638(6) 0.5523(5) 1.0180(5)
+H2 H 0.73070 0.52820 1.09630
+C7 C 0.9000(6) 0.6506(5) 1.0289(5)
+H3 H 0.95750 0.69290 1.11420
+C8 C 0.9496(6) 0.6851(5) 0.9133(5)
+H4 H 1.04120 0.75090 0.92040
+C9 C 0.8636(5) 0.6222(5) 0.7847(4)
+H5 H 0.89890 0.64460 0.70640
+C10 C 0.6310(6) 0.4663(5) 0.6381(4)
+H6 H 0.51560 0.45920 0.65180
+H7 H 0.64510 0.53870 0.58280
+C11 C 0.7901(5) 0.2897(4) 0.4731(4)
+H8 H 0.84030 0.36550 0.44020
+C12 C 0.7215(6) 0.0672(5) 0.5043(5)
+H9 H 0.71510 -0.03960 0.49540
+C13 C 0.6404(6) 0.1755(5) 0.5889(5)
+H10 H 0.56840 0.15980 0.65140
+C14 C 0.9259(6) 0.0654(5) 0.3358(5)
+H11 H 0.89180 0.07990 0.24720
+H12 H 0.92670 -0.04420 0.32940
+H13 H 1.03390 0.11120 0.36510
+Br1 Br 0.18587(6) 0.34566(5) 0.60680(5)
+#END

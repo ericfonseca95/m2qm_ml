@@ -1,0 +1,124 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_XADCIO
+_audit_creation_date 2001-01-15
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD XADCIO
+_database_code_depnum_ccdc_archive 'CCDC 1295207'
+_chemical_formula_sum 'C15 H15 Cr1 In1 O5'
+_chemical_formula_moiety
+;
+C15 H15 Cr1 In1 O5
+;
+_journal_coden_Cambridge 579
+_journal_volume 18
+_journal_year 1999
+_journal_page_first 2550
+_journal_name_full 'Organometallics '
+loop_
+_publ_author_name
+"P.Jutzi"
+"B.Neumann"
+"G.Reumann"
+"L.O.Schebaum"
+"H.-G.Stammler"
+_chemical_name_systematic
+;
+Pentacarbonyl-(\h^5^-pentamethyl-cyclopentadienyl)-chromium-indium
+;
+_chemical_melting_point 423.15
+_cell_volume    863.226
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.701
+_exptl_special_details
+;
+Melts with decomposition.
+air-sensitive
+
+;
+_exptl_crystal_description 'irregular'
+_exptl_crystal_preparation 'toluene'
+_diffrn_ambient_temperature 173
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0573
+_refine_ls_wR_factor_gt 0.0573
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 9.110(3)
+_cell_length_b 9.789(4)
+_cell_length_c 10.298(3)
+_cell_angle_alpha 103.36(3)
+_cell_angle_beta 90.41(3)
+_cell_angle_gamma 104.44(3)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cr 1.35
+In 1.63
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+In1 In 0.2031(1) 0.1113(1) 0.2600(1)
+Cr1 Cr 0.0676(1) -0.1629(1) 0.2065(1)
+O1 O 0.3808(3) -0.2197(4) 0.2171(3)
+O2 O 0.0539(4) -0.1534(4) 0.5039(3)
+O3 O -0.2383(3) -0.0885(3) 0.2007(3)
+O4 O 0.0679(4) -0.1844(3) -0.0938(3)
+O5 O -0.0886(4) -0.4820(3) 0.1462(3)
+C1 C 0.3712(4) 0.3113(4) 0.4346(3)
+C2 C 0.2906(4) 0.3696(3) 0.3496(3)
+C3 C 0.3485(4) 0.3402(4) 0.2186(4)
+C4 C 0.4603(4) 0.2633(4) 0.2238(4)
+C5 C 0.4746(4) 0.2445(4) 0.3562(4)
+C6 C 0.3588(5) 0.3300(5) 0.5835(4)
+C7 C 0.1822(5) 0.4625(4) 0.3939(5)
+C8 C 0.3124(6) 0.4019(5) 0.1033(4)
+C9 C 0.5543(5) 0.2170(6) 0.1102(5)
+C10 C 0.5825(5) 0.1688(5) 0.4035(5)
+C11 C 0.2636(4) -0.1973(4) 0.2111(4)
+C12 C 0.0608(4) -0.1530(4) 0.3926(4)
+C13 C -0.1225(4) -0.1141(4) 0.2045(4)
+C14 C 0.0715(4) -0.1732(4) 0.0192(4)
+C15 C -0.0289(4) -0.3604(4) 0.1698(4)
+H1 H 0.39420 0.25420 0.61230
+H2 H 0.25260 0.32200 0.60420
+H3 H 0.42150 0.42580 0.63060
+H4 H 0.15730 0.46000 0.48590
+H5 H 0.08910 0.42490 0.33470
+H6 H 0.22980 0.56280 0.39000
+H7 H 0.37930 0.49960 0.11320
+H8 H 0.20630 0.40690 0.10370
+H9 H 0.32830 0.33900 0.01850
+H10 H 0.49260 0.18970 0.02540
+H11 H 0.58890 0.13350 0.12290
+H12 H 0.64260 0.29760 0.10850
+H13 H 0.56700 0.16590 0.49700
+H14 H 0.68740 0.22190 0.39620
+H15 H 0.56330 0.06940 0.34800
+#END

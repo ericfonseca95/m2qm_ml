@@ -1,0 +1,131 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_PURCUA
+_audit_creation_date 1999-01-19
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD PURCUA
+_chemical_formula_sum 'C16 H33 Fe1 N1 Si2'
+_chemical_formula_moiety
+;
+C16 H33 Fe1 N1 Si2
+;
+_journal_coden_Cambridge 579
+_journal_volume 17
+_journal_year 1998
+_journal_page_first 483
+_journal_name_full 'Organometallics '
+loop_
+_publ_author_name
+"U.Siemeling"
+"U.Vorfeld"
+"B.Neumann"
+"H.-G.Stammler"
+_chemical_name_systematic
+;
+bis(Trimethylsilyl)amido-(\h^5^-pentamethyl-cyclopentadienyl)-iron(ii)
+;
+_cell_volume   1014.665
+_exptl_crystal_colour 'yellow-orange'
+_exptl_crystal_density_diffrn 1.15
+_exptl_crystal_description 'irregular'
+_exptl_crystal_preparation 'n-hexane'
+_diffrn_ambient_temperature 173
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.043
+_refine_ls_wR_factor_gt 0.043
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 8.756(4)
+_cell_length_b 9.647(3)
+_cell_length_c 13.171(4)
+_cell_angle_alpha 103.69(3)
+_cell_angle_beta 99.05(3)
+_cell_angle_gamma 105.12(3)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Fe 1.34
+N 0.68
+Si 1.20
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe1 Fe 0.2936(1) 0.3390(1) 0.7721(1)
+Si1 Si 0.0669(1) 0.0434(1) 0.7801(1)
+Si2 Si 0.3942(1) 0.0490(1) 0.7254(1)
+N1 N 0.2541(2) 0.1329(2) 0.7636(1)
+C1 C 0.2639(3) 0.5604(2) 0.8498(2)
+C2 C 0.4278(2) 0.5863(2) 0.8391(2)
+C3 C 0.4247(2) 0.5447(2) 0.7282(2)
+C4 C 0.2599(3) 0.4917(2) 0.6697(2)
+C5 C 0.1607(2) 0.5021(2) 0.7444(2)
+C6 C 0.2132(4) 0.6017(3) 0.9533(2)
+C7 C 0.5794(3) 0.6600(3) 0.9280(2)
+C8 C 0.5679(3) 0.5656(3) 0.6774(3)
+C9 C 0.1996(4) 0.4399(3) 0.5492(2)
+C10 C -0.0215(3) 0.4661(3) 0.7168(3)
+C11 C 0.0722(4) -0.1124(4) 0.8411(4)
+C12 C -0.0896(3) -0.0316(4) 0.6499(3)
+C13 C -0.0037(3) 0.1781(3) 0.8735(2)
+C14 C 0.3025(5) -0.1199(3) 0.6047(2)
+C15 C 0.5575(4) 0.1883(3) 0.6937(3)
+C16 C 0.4947(3) -0.0159(3) 0.8333(2)
+H1 H 0.1022(11) 0.5380(18) 0.9457(6)
+H2 H 0.2166(28) 0.7072(8) 0.9712(10)
+H3 H 0.2875(17) 0.5869(25) 1.0107(4)
+H4 H 0.5562(8) 0.6419(23) 0.9950(5)
+H5 H 0.6154(17) 0.7682(5) 0.9374(14)
+H6 H 0.6652(9) 0.6178(20) 0.9096(9)
+H7 H 0.5865(19) 0.6588(15) 0.6569(18)
+H8 H 0.5458(12) 0.4806(14) 0.6134(11)
+H9 H 0.6647(7) 0.5712(28) 0.7289(7)
+H10 H 0.2666(18) 0.3831(23) 0.5171(2)
+H11 H 0.2070(27) 0.5274(3) 0.5224(3)
+H12 H 0.0861(9) 0.3758(22) 0.5298(2)
+H13 H -0.0505(3) 0.5408(15) 0.6853(17)
+H14 H -0.0622(4) 0.4679(26) 0.7822(4)
+H15 H -0.0705(3) 0.3661(11) 0.6650(14)
+H16 H -0.0353(11) -0.1563(23) 0.8531(23)
+H17 H 0.1531(27) -0.0727(7) 0.9098(12)
+H18 H 0.1016(36) -0.1897(16) 0.7922(11)
+H19 H -0.1941(8) -0.0848(25) 0.6615(5)
+H20 H -0.0554(16) -0.1011(23) 0.5979(7)
+H21 H -0.1012(23) 0.0517(5) 0.6221(11)
+H22 H -0.1112(12) 0.1263(6) 0.8818(13)
+H23 H -0.0107(25) 0.2610(12) 0.8439(8)
+H24 H 0.0736(14) 0.2178(18) 0.9437(5)
+H25 H 0.3884(6) -0.1594(18) 0.5828(13)
+H26 H 0.2482(28) -0.0915(7) 0.5456(7)
+H27 H 0.2230(23) -0.1972(12) 0.6227(7)
+H28 H 0.5133(10) 0.2100(24) 0.6282(13)
+H29 H 0.6468(16) 0.1471(13) 0.6827(23)
+H30 H 0.5983(24) 0.2810(12) 0.7536(10)
+H31 H 0.5809(19) -0.0537(25) 0.8099(8)
+H32 H 0.4139(7) -0.0963(19) 0.8474(14)
+H33 H 0.5419(25) 0.0683(7) 0.8991(6)
+#END

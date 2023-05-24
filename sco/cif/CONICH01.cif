@@ -1,0 +1,138 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CONICH01
+_audit_creation_date 2001-02-22
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CONICH01
+_database_code_depnum_ccdc_archive 'CCDC 1129457'
+_chemical_formula_sum 'C12 H16 Co1 N2 O8'
+_chemical_formula_moiety
+;
+C12 H16 Co1 N2 O8
+;
+_journal_coden_Cambridge 211
+_journal_volume 44
+_journal_year 1998
+_journal_page_first 269
+_journal_name_full 'J.Coord.Chem. '
+loop_
+_publ_author_name
+"K.Waizumi"
+"M.Takuno"
+"N.Fukushima"
+"H.Masuda"
+_chemical_name_systematic
+;
+trans-Tetraaqua-bis(pyridine-3-carboxylate-N)-cobalt(ii)
+;
+_chemical_name_common
+;
+trans-Tetraaqua-bis(nicotinato)-cobalt(ii)
+;
+_cell_volume    728.785
+_exptl_crystal_colour 'salmon pink'
+_exptl_crystal_density_diffrn 1.712
+_exptl_special_details
+;
+isomorphous with the zinc analogue
+
+;
+_exptl_crystal_description 'plate'
+_exptl_crystal_preparation 'water'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.035
+_refine_ls_wR_factor_gt 0.035
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/m'
+_symmetry_Int_Tables_number 12
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,-z
+5 -x,-y,-z
+6 x,-y,z
+7 -1/2-x,-1/2-y,-z
+8 -1/2+x,-1/2-y,z
+_cell_length_a 14.150(4)
+_cell_length_b 6.883(2)
+_cell_length_c 8.497(2)
+_cell_angle_alpha 90
+_cell_angle_beta 118.28(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Co 1.33
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Co1 Co 0.00000 0.00000 0.00000
+O1 O 0.0590(1) 0.2176(3) -0.1062(2)
+O2 O 0.3161(2) 0.00000 0.8848(3)
+O3 O 0.1372(2) 0.00000 0.7185(3)
+N1 N 0.1476(2) 0.00000 0.2468(3)
+C1 C 0.2439(2) 0.00000 0.2502(4)
+C2 C 0.3405(2) 0.00000 0.4079(5)
+C3 C 0.3391(2) 0.00000 0.5697(4)
+C4 C 0.1473(2) 0.00000 0.4040(4)
+C5 C 0.2400(2) 0.00000 0.5679(4)
+C6 C 0.2311(3) 0.00000 0.7373(4)
+H1 H 0.242(3) 0.00000 0.134(6)
+H2 H 0.404(3) 0.00000 0.399(6)
+H3 H 0.403(3) 0.00000 0.678(6)
+H4 H 0.082(3) 0.00000 0.405(6)
+H5 H 0.097(2) 0.328(5) -0.041(4)
+H6 H 0.090(2) 0.172(6) -0.163(4)
+O1A O -0.0590(1) 0.2176(3) 0.1062(2)
+H5A H -0.097(2) 0.328(5) 0.041(4)
+H6A H -0.090(2) 0.172(6) 0.163(4)
+O1D O -0.0590(1) -0.2176(3) 0.1062(2)
+H5D H -0.097(2) -0.328(5) 0.041(4)
+H6D H -0.090(2) -0.172(6) 0.163(4)
+O1E O 0.0590(1) -0.2176(3) -0.1062(2)
+H5E H 0.097(2) -0.328(5) -0.041(4)
+H6E H 0.090(2) -0.172(6) -0.163(4)
+N1A N -0.1476(2) 0.00000 -0.2468(3)
+C1A C -0.2439(2) 0.00000 -0.2502(4)
+C2A C -0.3405(2) 0.00000 -0.4079(5)
+C3A C -0.3391(2) 0.00000 -0.5697(4)
+C5A C -0.2400(2) 0.00000 -0.5679(4)
+C4A C -0.1473(2) 0.00000 -0.4040(4)
+H4A H -0.082(3) 0.00000 -0.405(6)
+C6A C -0.2311(3) 0.00000 -0.7373(4)
+O2A O -0.3161(2) 0.00000 -0.8848(3)
+O3A O -0.1372(2) 0.00000 -0.7185(3)
+H3A H -0.403(3) 0.00000 -0.678(6)
+H2A H -0.404(3) 0.00000 -0.399(6)
+H1A H -0.242(3) 0.00000 -0.134(6)
+#END

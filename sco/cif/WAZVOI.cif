@@ -1,0 +1,137 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_WAZVOI
+_audit_creation_date 1994-02-15
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD WAZVOI
+_chemical_formula_sum 'C14 H24 Cl2 Mn1 N6 O1'
+_chemical_formula_moiety
+;
+C14 H22 Mn1 N6 2+,2(Cl1 1-),H2 O1
+;
+_journal_coeditor_code "IUCr MU1032"
+_journal_coden_Cambridge 591
+_journal_volume 49
+_journal_year 1993
+_journal_page_first 2102
+_journal_name_full 'Acta Crystallogr.,Sect.C:Cryst.Struct.Commun. '
+loop_
+_publ_author_name
+"P.Bonhote"
+"M.Ferigo"
+"H.Stoeckli-Evans"
+"W.Marty"
+_chemical_name_systematic
+;
+bis(2,6-bis(Aminomethyl)pyridine-N,N',N'')-manganese(ii) dichloride 
+monohydrate
+;
+_cell_volume   1864.702
+_exptl_crystal_colour 'pale yellow'
+_exptl_crystal_density_diffrn 1.49
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.034
+_refine_ls_wR_factor_gt 0.034
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'I 2/a'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,1/2+z
+3 1/2-x,y,-z
+4 -x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -1/2-x,-1/2-y,-1/2-z
+7 -1/2+x,-y,z
+8 x,-1/2-y,-1/2+z
+_cell_length_a 13.010(1)
+_cell_length_b 9.162(1)
+_cell_length_c 15.669(2)
+_cell_angle_alpha 90
+_cell_angle_beta 93.251(9)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+Mn 1.35
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mn1 Mn 0.25000 0.66041(6) 0.00000
+N1 N 0.2896(2) 0.6209(3) -0.1338(1)
+N2 N 0.3704(2) 0.8332(3) -0.0299(2)
+N3 N 0.1280(2) 0.5058(3) -0.0595(1)
+C1 C 0.3669(2) 0.6953(3) -0.1656(2)
+C2 C 0.3993(3) 0.6647(4) -0.2470(2)
+C3 C 0.3500(3) 0.5565(4) -0.2938(2)
+C4 C 0.2709(3) 0.4794(4) -0.2604(2)
+C5 C 0.2424(2) 0.5152(3) -0.1799(1)
+C6 C 0.4184(2) 0.8123(4) -0.1111(2)
+C7 C 0.1585(2) 0.4337(4) -0.1377(2)
+Cl1 Cl 0.57586(5) 0.74351(9) 0.09174(4)
+O1 O 0.75000(15) 0.8926(5) 0.0(7)
+H1 H 0.452(3) 0.715(4) -0.2719(22)
+H2 H 0.369(3) 0.527(4) -0.343(3)
+H3 H 0.2405(16) 0.408(3) -0.2866(14)
+H4 H 0.481(3) 0.785(3) -0.1001(20)
+H5 H 0.426(3) 0.910(5) -0.142(3)
+H6 H 0.3327(25) 0.921(4) -0.0346(20)
+H7 H 0.416(3) 0.833(4) 0.011(3)
+H8 H 0.104(3) 0.443(5) -0.014(3)
+H9 H 0.0871(19) 0.554(3) -0.0622(14)
+H10 H 0.104(5) 0.420(7) -0.174(4)
+H11 H 0.179(3) 0.329(4) -0.122(3)
+H12 H 0.703(5) 0.838(6) 0.015(4)
+N1B N 0.2104(2) 0.6209(3) 0.1338(1)
+N2B N 0.1296(2) 0.8332(3) 0.0299(2)
+N3B N 0.3720(2) 0.5058(3) 0.0595(1)
+C1B C 0.1331(2) 0.6953(3) 0.1656(2)
+C5B C 0.2576(2) 0.5152(3) 0.1799(1)
+C6B C 0.0816(2) 0.8123(4) 0.1111(2)
+H6B H 0.1673(25) 0.921(4) 0.0346(20)
+H7B H 0.084(3) 0.833(4) -0.011(3)
+C7B C 0.3415(2) 0.4337(4) 0.1377(2)
+H8B H 0.396(3) 0.443(5) 0.014(3)
+H9B H 0.4129(19) 0.554(3) 0.0622(14)
+C2B C 0.1007(3) 0.6647(4) 0.2470(2)
+C4B C 0.2291(3) 0.4794(4) 0.2604(2)
+H4B H 0.019(3) 0.785(3) 0.1001(20)
+H5B H 0.074(3) 0.910(5) 0.142(3)
+H10B H 0.396(5) 0.420(7) 0.174(4)
+H11B H 0.321(3) 0.329(4) 0.122(3)
+C3B C 0.1500(3) 0.5565(4) 0.2938(2)
+H1B H 0.048(3) 0.715(4) 0.2719(22)
+H3B H 0.2595(16) 0.408(3) 0.2866(14)
+H2B H 0.131(3) 0.527(4) 0.343(3)
+H12B H 0.797(5) 0.838(6) -0.015(4)
+#END

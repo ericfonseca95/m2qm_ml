@@ -1,0 +1,115 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_SEFXOR
+_audit_creation_date 2006-05-18
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD SEFXOR
+_database_code_depnum_ccdc_archive 'CCDC 282468'
+_chemical_formula_sum 'C12 H13 Cl3 Fe1 N5 O2'
+_chemical_formula_moiety
+;
+C12 H11 Cl3 Fe1 N5 O1,H2 O1
+;
+_journal_coden_Cambridge 29
+_journal_volume 632
+_journal_year 2006
+_journal_page_first 475
+_journal_name_full 'Z.Anorg.Allg.Chem. '
+loop_
+_publ_author_name
+"Jing-Cai Chen"
+"Sheng Hu"
+"Ai-Ju Zhou"
+"Ming-Liang Tong"
+"Ye-Xiang Tong"
+_chemical_name_systematic
+;
+aqua-trichloro-(3,5-bis(2-pyridinio)-1,2,4-triazolato)-iron(iii) monohydrate
+;
+_cell_volume    805.157
+_exptl_crystal_colour 'red'
+_exptl_crystal_density_diffrn 1.738
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0299
+_refine_ls_wR_factor_gt 0.0299
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 7.4750(12)
+_cell_length_b 9.4677(15)
+_cell_length_c 12.3089(19)
+_cell_angle_alpha 73.880(2)
+_cell_angle_beta 74.746(2)
+_cell_angle_gamma 81.849(2)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+Fe 1.34
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe1 Fe 0.29615(5) 0.71732(3) 0.73615(3)
+Cl1 Cl 0.00109(9) 0.69669(7) 0.85412(6)
+Cl2 Cl 0.25621(10) 0.96137(6) 0.64377(6)
+Cl3 Cl 0.44021(10) 0.73249(8) 0.87383(6)
+O1 O 0.5707(3) 0.7155(2) 0.62472(18)
+H1 H 0.623(4) 0.652(2) 0.589(2)
+H2 H 0.644(3) 0.777(3) 0.621(3)
+N1 N 0.3399(3) 0.4728(2) 0.77160(17)
+N2 N 0.2270(3) 0.6597(2) 0.59925(16)
+N3 N 0.1759(3) 0.7405(2) 0.50123(17)
+N4 N 0.2523(3) 0.5055(2) 0.48773(16)
+N5 N 0.1407(3) 0.8406(2) 0.27642(18)
+H3 H 0.164(4) 0.913(3) 0.312(3)
+C1 C 0.3751(3) 0.3822(3) 0.8692(2)
+H4 H 0.38200 0.42210 0.92890
+C2 C 0.4017(4) 0.2310(3) 0.8849(2)
+H5 H 0.42350 0.17040 0.95460
+C3 C 0.3956(4) 0.1714(3) 0.7961(2)
+H6 H 0.41620 0.07020 0.80430
+C4 C 0.3582(3) 0.2642(3) 0.6943(2)
+H7 H 0.35350 0.22640 0.63300
+C5 C 0.3282(3) 0.4134(2) 0.6856(2)
+C6 C 0.2715(3) 0.5218(2) 0.58851(19)
+C7 C 0.1927(3) 0.6446(2) 0.4376(2)
+C8 C 0.1591(3) 0.6936(3) 0.3210(2)
+C9 C 0.1484(3) 0.6019(3) 0.2533(2)
+H8 H 0.16030 0.50010 0.28210
+C10 C 0.1197(4) 0.6621(3) 0.1428(2)
+H9 H 0.11350 0.60100 0.09660
+C11 C 0.1005(4) 0.8130(3) 0.1013(2)
+H10 H 0.08050 0.85440 0.02720
+C12 C 0.1110(4) 0.9013(3) 0.1698(2)
+H11 H 0.09750 1.00320 0.14270
+O2 O 0.1915(3) 1.0716(3) 0.3752(2)
+H12 H 0.169(4) 1.014(3) 0.4442(15)
+H13 H 0.093(3) 1.128(3) 0.367(3)
+#END

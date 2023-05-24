@@ -1,0 +1,115 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_PRZCOB
+_audit_creation_date 1981-08-11
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD PRZCOB
+_database_code_depnum_ccdc_archive 'CCDC 1238208'
+_chemical_formula_sum 'C10 H14 Co1 N4 O8'
+_chemical_formula_moiety
+;
+C10 H10 Co1 N4 O6,2(H2 O1)
+;
+_journal_coden_Cambridge 9
+_journal_volume 20
+_journal_year 1981
+_journal_page_first 545
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"C.J.O'Connor"
+"E.Sinn"
+_chemical_name_systematic
+;
+Diaqua-bis(pyrazine-2-carboxylato)-cobalt(ii) dihydrate
+;
+_cell_volume    761.866
+_exptl_crystal_density_diffrn 1.64
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.031
+_refine_ls_wR_factor_gt 0.031
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 7.259(3)
+_cell_length_b 13.028(3)
+_cell_length_c 8.271(5)
+_cell_angle_alpha 90
+_cell_angle_beta 103.09(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Co 1.33
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Co1 Co 0.00000 0.00000 0.00000
+O1 O 0.22420 0.09780 -0.01140
+O2 O 0.52300 0.13390 0.10360
+O3 O -0.09710 0.10210 0.15440
+N1 N 0.21340 -0.05480 0.19940
+N2 N 0.53670 -0.12320 0.41400
+C1 C 0.37930 -0.00880 0.20540
+C2 C 0.54100 -0.04380 0.31160
+C3 C 0.37020 -0.16590 0.41040
+C4 C 0.20720 -0.13300 0.30300
+C5 C 0.37600 0.08140 0.09000
+H1 H 0.65900 -0.01200 0.30800
+H2 H 0.36300 -0.21700 0.49100
+H3 H 0.08800 -0.16300 0.31000
+H4 H -0.19500 0.11200 0.15100
+H5 H -0.04200 0.12900 0.24300
+O4 O 1.09290 0.19230 0.42340
+H6 H 1.05100 0.24400 0.47600
+H7 H 1.18100 0.18100 0.45900
+O1B O -0.22420 -0.09780 0.01140
+O3B O 0.09710 -0.10210 -0.15440
+N1B N -0.21340 0.05480 -0.19940
+C5B C -0.37600 -0.08140 -0.09000
+H4B H 0.19500 -0.11200 -0.15100
+H5B H 0.04200 -0.12900 -0.24300
+C1B C -0.37930 0.00880 -0.20540
+C4B C -0.20720 0.13300 -0.30300
+O2B O -0.52300 -0.13390 -0.10360
+C2B C -0.54100 0.04380 -0.31160
+C3B C -0.37020 0.16590 -0.41040
+H3B H -0.08800 0.16300 -0.31000
+N2B N -0.53670 0.12320 -0.41400
+H1B H -0.65900 0.01200 -0.30800
+H2B H -0.36300 0.21700 -0.49100
+#END

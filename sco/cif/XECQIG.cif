@@ -1,0 +1,123 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_XECQIG
+_audit_creation_date 2006-06-06
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD XECQIG
+_database_code_depnum_ccdc_archive 'CCDC 285336'
+_chemical_formula_sum 'C10 H14 Co1 N4 O8'
+_chemical_formula_moiety
+;
+C10 H14 Co1 N4 O8
+;
+_journal_coden_Cambridge 155
+_journal_volume 359
+_journal_year 2006
+_journal_page_first 1255
+_journal_name_full 'Inorg.Chim.Acta '
+loop_
+_publ_author_name
+"C.B.Aakeroy"
+"J.Desper"
+"B.Levin"
+"J.Valdes-Martinez"
+_chemical_name_systematic
+;
+trans-Tetra-aqua-bis(pyrimidine-5-carboxylate-N)-cobalt(ii)
+;
+_chemical_melting_point 573.15
+_cell_volume    687.501
+_exptl_crystal_colour 'amber'
+_exptl_crystal_density_diffrn 1.822
+_exptl_special_details
+;
+Melts above 573.15K
+isostructural with the Cu(ii), Zn(ii) and Ni(ii) analogues
+;
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 203
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0249
+_refine_ls_wR_factor_gt 0.0249
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 6.5374(10)
+_cell_length_b 12.4346(19)
+_cell_length_c 8.5370(13)
+_cell_angle_alpha 90
+_cell_angle_beta 97.831(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Co 1.33
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Co1 Co 0.50000 0.50000 0.50000
+O1 O 0.42062(19) 0.47355(10) 0.72379(14)
+H1 H 0.447(3) 0.5202(17) 0.780(3)
+H2 H 0.309(3) 0.4525(17) 0.740(2)
+O2 O 0.78760(18) 0.54658(10) 0.60455(15)
+H3 H 0.808(3) 0.6056(19) 0.632(2)
+H4 H 0.855(4) 0.5064(17) 0.662(3)
+N1 N 0.60961(19) 0.33422(10) 0.49823(14)
+C1 C 0.5206(2) 0.25124(13) 0.56405(18)
+H5 H 0.40490 0.26660 0.61460
+N2 N 0.5821(2) 0.14911(11) 0.56382(15)
+C2 C 0.7425(3) 0.12723(13) 0.48672(18)
+H6 H 0.78630 0.05550 0.48110
+C3 C 0.8462(2) 0.20656(12) 0.41495(17)
+C4 C 0.7747(2) 0.31066(12) 0.42695(17)
+H7 H 0.84450 0.36700 0.38350
+C5 C 1.0272(2) 0.18030(12) 0.32783(18)
+O3 O 1.13786(19) 0.25472(10) 0.29241(15)
+O4 O 1.05034(16) 0.08300(9) 0.29632(14)
+O1B O 0.57938(19) 0.52645(10) 0.27621(14)
+H1B H 0.553(3) 0.4798(17) 0.220(3)
+H2B H 0.691(3) 0.5475(17) 0.260(2)
+O2B O 0.21240(18) 0.45342(10) 0.39545(15)
+H3B H 0.192(3) 0.3944(19) 0.368(2)
+H4B H 0.145(4) 0.4936(17) 0.338(3)
+N1B N 0.39039(19) 0.66578(10) 0.50177(14)
+C1B C 0.4794(2) 0.74876(13) 0.43595(18)
+H5B H 0.59510 0.73340 0.38540
+N2B N 0.4179(2) 0.85089(11) 0.43618(15)
+C2B C 0.2575(3) 0.87277(13) 0.51328(18)
+H6B H 0.21370 0.94450 0.51890
+C3B C 0.1538(2) 0.79344(12) 0.58505(17)
+C4B C 0.2253(2) 0.68934(12) 0.57305(17)
+H7B H 0.15550 0.63300 0.61650
+C5B C -0.0272(2) 0.81970(12) 0.67217(18)
+O3B O -0.13786(19) 0.74528(10) 0.70759(15)
+O4B O -0.05034(16) 0.91700(9) 0.70368(14)
+#END

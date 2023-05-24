@@ -1,0 +1,131 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_QEFFAK
+_audit_creation_date 2012-12-11
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD QEFFAK
+_database_code_depnum_ccdc_archive 'CCDC 883229'
+_chemical_formula_sum 'C16 H24 Cl2 Fe1 N8'
+_chemical_formula_moiety
+;
+C16 H24 Cl2 Fe1 N8
+;
+_journal_coden_Cambridge 580
+_journal_volume 45
+_journal_year 2012
+_journal_page_first 55
+_journal_name_full 'Polyhedron '
+loop_
+_publ_author_name
+"E.V.Govor"
+"I.Chakraborty"
+"D.M.Pinero"
+"P.Baran"
+"Y.Sanakis"
+"R.G.Raptis"
+_chemical_name_systematic
+;
+Dichloro-tetrakis(5-methyl-1H-pyrazole)-iron(ii)
+;
+_cell_volume    535.014
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.413
+_exptl_crystal_description 'rectangle'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0435
+_refine_ls_wR_factor_gt 0.0435
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 7.1827(14)
+_cell_length_b 8.6966(17)
+_cell_length_c 9.0394(18)
+_cell_angle_alpha 88.53(3)
+_cell_angle_beta 74.28(3)
+_cell_angle_gamma 79.93(3)
+_cell_formula_units_Z 1
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+Fe 1.52
+N 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe1 Fe 0.50000 0.50000 1.00000
+Cl1 Cl 0.84598(9) 0.55024(8) 0.87497(8)
+N1 N 0.4882(3) 0.3885(3) 0.7894(3)
+N2 N 0.3264(3) 0.3845(2) 0.7420(3)
+H1 H 0.20870 0.41670 0.79750
+N3 N 0.6335(3) 0.2742(2) 1.0733(3)
+N4 N 0.8077(3) 0.2416(2) 1.1083(3)
+H2 H 0.89140 0.30400 1.09150
+C1 C 0.6343(4) 0.3275(4) 0.6731(4)
+H3 H 0.76590 0.31350 0.67250
+C2 C 0.5690(5) 0.2867(4) 0.5516(4)
+H4 H 0.64510 0.24250 0.45720
+C3 C 0.3687(4) 0.3252(3) 0.5994(3)
+C4 C 0.2136(5) 0.3090(4) 0.5218(4)
+H5 H 0.19770 0.20160 0.52230
+H6 H 0.25190 0.34260 0.41770
+H7 H 0.09170 0.37220 0.57580
+C5 C 0.5529(4) 0.1498(3) 1.1158(4)
+H8 H 0.43140 0.13730 1.10470
+C6 C 0.6716(5) 0.0394(3) 1.1793(4)
+H9 H 0.64530 -0.05680 1.21850
+C7 C 0.8353(4) 0.1024(3) 1.1717(3)
+C8 C 1.0154(5) 0.0432(4) 1.2235(4)
+H10 H 1.10110 -0.03440 1.15110
+H11 H 0.97840 -0.00230 1.32270
+H12 H 1.08210 0.12820 1.22980
+Cl1A Cl 0.15402(9) 0.44976(8) 1.12503(8)
+N1A N 0.5118(3) 0.6115(3) 1.2106(3)
+N2A N 0.6736(3) 0.6155(2) 1.2580(3)
+H1A H 0.79130 0.58330 1.20250
+N3A N 0.3665(3) 0.7258(2) 0.9267(3)
+N4A N 0.1923(3) 0.7584(2) 0.8917(3)
+H2A H 0.10860 0.69600 0.90850
+C1A C 0.3657(4) 0.6725(4) 1.3269(4)
+H3A H 0.23410 0.68650 1.32750
+C2A C 0.4310(5) 0.7133(4) 1.4484(4)
+H4A H 0.35490 0.75750 1.54280
+C3A C 0.6313(4) 0.6748(3) 1.4006(3)
+C4A C 0.7864(5) 0.6910(4) 1.4782(4)
+H5A H 0.80230 0.79840 1.47770
+H6A H 0.74810 0.65740 1.58230
+H7A H 0.90830 0.62780 1.42420
+C5A C 0.4471(4) 0.8502(3) 0.8842(4)
+H8A H 0.56860 0.86270 0.89530
+C6A C 0.3284(5) 0.9606(3) 0.8207(4)
+H9A H 0.35470 1.05680 0.78150
+C7A C 0.1647(4) 0.8976(3) 0.8283(3)
+C8A C -0.0154(5) 0.9568(4) 0.7765(4)
+H10A H -0.10110 1.03440 0.84890
+H11A H 0.02160 1.00230 0.67730
+H12A H -0.08210 0.87180 0.77020
+#END

@@ -1,0 +1,130 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_FABQOP
+_audit_creation_date 2002-06-13
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD FABQOP
+_database_code_depnum_ccdc_archive 'CCDC 1151114'
+_chemical_formula_sum 'C14 H12 Cr1 F6 O4 P1'
+_chemical_formula_moiety
+;
+C14 H12 Cr1 O4 1+,F6 P1 1-
+;
+_journal_coden_Cambridge 579
+_journal_volume 20
+_journal_year 2001
+_journal_page_first 1875
+_journal_name_full 'Organometallics '
+loop_
+_publ_author_name
+"D.Braga"
+"L.Maini"
+"F.Grepioni"
+"C.Elschenbroich"
+"F.Paganelli"
+"O.Schiemann"
+_chemical_name_systematic
+;
+bis(\h^6^-Benzoic acid)-chromium(i) hexafluorophosphate
+;
+_cell_volume    393.459
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.862
+_exptl_special_details
+;
+triclinic beta polymorph
+
+;
+_exptl_crystal_preparation 'acetone'
+_diffrn_ambient_temperature 223
+_refine_special_details
+;
+The fluorine atoms of the anion are equally disordered over two sites.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0918
+_refine_ls_wR_factor_gt 0.0918
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 7.58(1)
+_cell_length_b 7.902(9)
+_cell_length_c 7.882(4)
+_cell_angle_alpha 82.34(7)
+_cell_angle_beta 66.02(9)
+_cell_angle_gamma 65.9(1)
+_cell_formula_units_Z 1
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cr 1.35
+F 0.64
+O 0.68
+P 1.05
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cr1 Cr 0.50000 0.00000 0.00000
+O1 O 0.0881(14) 0.2608(11) 0.4785(11)
+O2 O 0.0888(14) 0.4791(10) 0.2618(10)
+C1 C 0.2227(14) -0.0160(9) 0.2172(8)
+C2 C 0.2991(15) -0.1519(7) 0.0812(11)
+C3 C 0.3375(15) -0.1042(10) -0.1029(10)
+C4 C 0.2995(15) 0.0794(11) -0.1509(7)
+C5 C 0.2231(14) 0.2153(8) -0.0149(9)
+C6 C 0.1846(13) 0.1676(8) 0.1692(8)
+C7 C 0.1161(17) 0.3191(18) 0.3072(15)
+H1 H 0.19670 -0.04830 0.34170
+H2 H 0.32480 -0.27610 0.11370
+H3 H 0.38920 -0.19610 -0.19480
+H4 H 0.32550 0.11160 -0.27540
+H5 H 0.19740 0.33940 -0.04740
+P1 P 0.50000 -0.50000 -0.50000
+F1 F 0.300(3) -0.320(3) -0.461(5)
+F2 F 0.459(6) -0.516(3) -0.289(3)
+F3 F 0.380(4) -0.615(4) -0.489(3)
+F4? F 0.300(4) -0.458(4) -0.308(2)
+F5? F 0.440(6) -0.289(3) -0.513(3)
+F6? F 0.369(4) -0.476(3) -0.619(4)
+C1A C 0.7773(14) 0.0160(9) -0.2172(8)
+C2A C 0.7009(15) 0.1519(7) -0.0812(11)
+C3A C 0.6625(15) 0.1042(10) 0.1029(10)
+H2A H 0.67520 0.27610 -0.11370
+C4A C 0.7005(15) -0.0794(11) 0.1509(7)
+C5A C 0.7769(14) -0.2153(8) 0.0149(9)
+H4A H 0.67450 -0.11160 0.27540
+C6A C 0.8154(13) -0.1676(8) -0.1692(8)
+H1A H 0.80330 0.04830 -0.34170
+C7A C 0.8839(17) -0.3191(18) -0.3072(15)
+O1A O 0.9119(14) -0.2608(11) -0.4785(11)
+O2A O 0.9112(14) -0.4791(10) -0.2618(10)
+H5A H 0.80260 -0.33940 0.04740
+H3A H 0.61080 0.19610 0.19480
+F1A F 0.700(3) -0.680(3) -0.539(5)
+F2A F 0.541(6) -0.484(3) -0.711(3)
+F3A F 0.620(4) -0.385(4) -0.511(3)
+#END

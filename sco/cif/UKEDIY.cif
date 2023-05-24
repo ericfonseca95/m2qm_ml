@@ -1,0 +1,150 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_UKEDIY
+_audit_creation_date 2011-04-06
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD UKEDIY
+_database_code_depnum_ccdc_archive 'CCDC 741957'
+_chemical_formula_sum 'C13 H36 Br3 Cr1 O1 P4'
+_chemical_formula_moiety
+;
+C12 H32 Br2 Cr1 P4 1+,Br1 1-,C1 H4 O1
+;
+_journal_coden_Cambridge 9
+_journal_volume 49
+_journal_year 2010
+_journal_page_first 4738
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"H.I.Karunadasa"
+"K.D.Arquero"
+"L.A.Berben"
+"J.R.Long"
+_chemical_name_systematic
+;
+Dibromo-bis(ethane-1,2-diylbis(dimethylphosphine))-chromium bromide methanol 
+solvate
+;
+_cell_volume   2610.644
+_exptl_crystal_colour 'green'
+_exptl_crystal_density_diffrn 1.588
+_exptl_crystal_description 'parallelepiped'
+_diffrn_ambient_temperature 103
+_refine_special_details
+;
+The SQUEEZE/PLATON program has been used to model the disordered solvent.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0236
+_refine_ls_wR_factor_gt 0.0236
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'I b a m'
+_symmetry_Int_Tables_number 72
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,z
+3 1/2-x,1/2+y,-z
+4 1/2+x,1/2-y,-z
+5 1/2+x,1/2+y,1/2+z
+6 1/2-x,1/2-y,1/2+z
+7 -x,y,1/2-z
+8 x,-y,1/2-z
+9 -x,-y,-z
+10 x,y,-z
+11 -1/2+x,-1/2-y,z
+12 -1/2-x,-1/2+y,z
+13 -1/2-x,-1/2-y,-1/2-z
+14 -1/2+x,-1/2+y,-1/2-z
+15 x,-y,-1/2+z
+16 -x,y,-1/2+z
+_cell_length_a 9.148(7)
+_cell_length_b 13.323(11)
+_cell_length_c 21.42(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Br 1.21
+Cr 1.39
+P 1.05
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Br1 Br 0.00000 0.00000 0.00000
+Cr1 Cr 0.50000 0.00000 0.25000
+Br2 Br 0.50000 0.18445(2) 0.25000
+P1 P 0.32320(6) 0.00148(4) 0.16387(3)
+C1 C 0.4278(3) 0.0301(2) 0.09326(11)
+H1 H 0.37070 0.01290 0.05660
+H2 H 0.44900 0.10140 0.09170
+C2 C 0.1771(3) 0.09330(18) 0.16560(13)
+H3 H 0.11670 0.08530 0.12930
+H4 H 0.21810 0.15960 0.16600
+H5 H 0.11910 0.08360 0.20250
+C3 C 0.2308(3) -0.11513(17) 0.14480(11)
+H6 H 0.16520 -0.10420 0.11050
+H7 H 0.17660 -0.13800 0.18040
+H8 H 0.30190 -0.16490 0.13340
+Br2A Br 0.50000 -0.18445(2) 0.25000
+P1A P 0.67680(6) -0.00148(4) 0.16387(3)
+P1F P 0.67680(6) 0.00148(4) 0.33613(3)
+P1G P 0.32320(6) -0.00148(4) 0.33613(3)
+C1A C 0.5722(3) -0.0301(2) 0.09326(11)
+C1F C 0.5722(3) 0.0301(2) 0.40674(11)
+C1G C 0.4278(3) -0.0301(2) 0.40674(11)
+H1A H 0.62930 -0.01290 0.05660
+H1F H 0.62930 0.01290 0.44340
+H1G H 0.37070 -0.01290 0.44340
+H2A H 0.55100 -0.10140 0.09170
+H2F H 0.55100 0.10140 0.40830
+H2G H 0.44900 -0.10140 0.40830
+C2A C 0.8229(3) -0.09330(18) 0.16560(13)
+C2F C 0.8229(3) 0.09330(18) 0.33440(13)
+C2G C 0.1771(3) -0.09330(18) 0.33440(13)
+H3A H 0.88330 -0.08530 0.12930
+H3F H 0.88330 0.08530 0.37070
+H3G H 0.11670 -0.08530 0.37070
+H4A H 0.78190 -0.15960 0.16600
+H4F H 0.78190 0.15960 0.33400
+H4G H 0.21810 -0.15960 0.33400
+H5A H 0.88090 -0.08360 0.20250
+H5F H 0.88090 0.08360 0.29750
+H5G H 0.11910 -0.08360 0.29750
+C3A C 0.7692(3) 0.11513(17) 0.14480(11)
+C3F C 0.7692(3) -0.11513(17) 0.35520(11)
+C3G C 0.2308(3) 0.11513(17) 0.35520(11)
+H6A H 0.83480 0.10420 0.11050
+H6F H 0.83480 -0.10420 0.38950
+H6G H 0.16520 0.10420 0.38950
+H7A H 0.82340 0.13800 0.18040
+H7F H 0.82340 -0.13800 0.31960
+H7G H 0.17660 0.13800 0.31960
+H8A H 0.69810 0.16490 0.13340
+H8F H 0.69810 -0.16490 0.36660
+H8G H 0.30190 0.16490 0.36660
+#END

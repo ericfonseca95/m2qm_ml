@@ -1,0 +1,112 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_KORGED
+_audit_creation_date 1992-10-01
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD KORGED
+_database_code_depnum_ccdc_archive 'CCDC 1199430'
+_database_code_depnum_ccdc_fiz 'CSD 55833'
+_chemical_formula_sum 'C13 H9 Cr1 N3 O5'
+_chemical_formula_moiety
+;
+C13 H9 Cr1 N3 O5
+;
+_journal_coden_Cambridge 48
+_journal_volume 125
+_journal_year 1992
+_journal_page_first 119
+_journal_name_full 'Chem.Ber. '
+loop_
+_publ_author_name
+"F.E.Hahn"
+"M.Tamm"
+_chemical_name_systematic
+;
+(tris(Isocyanomethyl)ethane)-pentacarbonyl-chromium
+;
+_cell_volume    771.278
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.461
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0321
+_refine_ls_wR_factor_gt 0.0321
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 6.493(3)
+_cell_length_b 10.954(8)
+_cell_length_c 11.240(8)
+_cell_angle_alpha 91.71(6)
+_cell_angle_beta 103.91(5)
+_cell_angle_gamma 95.49(4)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cr 1.35
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cr1 Cr 0.14682(4) 0.37654(2) 0.28371(2)
+O1 O -0.2684(3) 0.4928(2) 0.2060(2)
+O2 O 0.0664(3) 0.3544(2) 0.5376(1)
+O3 O -0.1016(3) 0.1276(1) 0.2126(2)
+O4 O 0.5582(3) 0.2581(2) 0.3656(2)
+O5 O 0.2230(3) 0.3931(2) 0.0280(2)
+N1 N 0.3952(3) 0.6406(1) 0.3322(2)
+N2 N 0.3712(3) 1.0252(2) 0.1217(2)
+N3 N 0.1854(3) 0.9269(2) 0.3664(2)
+C1 C 0.2962(4) 0.7544(2) 0.0961(2)
+C2 C 0.3525(3) 0.8283(2) 0.2189(2)
+C3 C 0.4947(3) 0.7611(2) 0.3202(2)
+C4 C 0.3049(3) 0.5433(2) 0.3203(2)
+C5 C 0.4866(3) 0.9500(2) 0.2110(2)
+C6 C 0.2790(4) 1.0835(2) 0.0476(2)
+C7 C 0.1442(3) 0.8519(2) 0.2544(2)
+C8 C 0.2275(5) 0.9883(3) 0.4551(3)
+C9 C -0.1135(3) 0.4497(2) 0.2334(2)
+C10 C 0.0989(3) 0.3650(2) 0.4435(2)
+C11 C -0.0074(3) 0.2208(2) 0.2397(2)
+C12 C 0.4050(3) 0.3034(2) 0.3354(2)
+C13 C 0.1946(3) 0.3869(2) 0.1230(2)
+H1 H 0.20850 0.79320 0.03570
+H2 H 0.42330 0.74140 0.07200
+H3 H 0.22160 0.67730 0.10420
+H4 H 0.62700 0.75350 0.30000
+H5 H 0.51900 0.80730 0.39590
+H6 H 0.52290 0.99310 0.28890
+H7 H 0.61310 0.93260 0.18840
+H8 H 0.05790 0.89230 0.19020
+H9 H 0.07040 0.77530 0.26490
+#END

@@ -1,0 +1,147 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_LAVGAR
+_audit_creation_date 2005-12-01
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD LAVGAR
+_database_code_depnum_ccdc_archive 'CCDC 263628'
+_chemical_formula_sum 'C22 H32 Cl4 Cr1 O2 Ti1'
+_chemical_formula_moiety
+;
+C14 H16 Cr1 1+,C8 H16 Cl4 O2 Ti1 1-
+;
+_journal_coden_Cambridge 36
+_journal_volume 690
+_journal_year 2005
+_journal_page_first 3321
+_journal_name_full 'J.Organomet.Chem. '
+loop_
+_publ_author_name
+"F.Calderazzo"
+"U.Englert"
+"G.Pampaloni"
+"M.Volpe"
+_chemical_name_systematic
+;
+bis(\h^6^-Methylbenzene)-chromium(i) 
+tetrachloro-bis(tetrahydrofuran)-titanium(iii)
+;
+_chemical_name_common
+;
+bis(eta$6!-Toluene)-chromium tetrachloro-bis(tetrahydrofuran)-titanium(iii)
+;
+_cell_volume    621.790
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.523
+_exptl_crystal_description 'plate'
+_exptl_crystal_preparation 'THF/acetonitrile'
+_diffrn_ambient_temperature 110
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0422
+_refine_ls_wR_factor_gt 0.0422
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 8.072(2)
+_cell_length_b 8.182(2)
+_cell_length_c 10.192(3)
+_cell_angle_alpha 69.916(5)
+_cell_angle_beta 79.924(5)
+_cell_angle_gamma 88.993(5)
+_cell_formula_units_Z 1
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+Cr 1.35
+O 0.68
+Ti 1.47
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ti1 Ti 0.00000 0.50000 0.50000
+Cl1 Cl -0.02189(10) 0.45354(11) 0.28266(9)
+Cl2 Cl 0.24748(10) 0.68553(11) 0.37982(9)
+O1 O 0.1545(3) 0.2897(3) 0.5551(3)
+C1 C 0.3094(4) 0.2825(5) 0.6142(4)
+H1 H 0.29600 0.34080 0.68570
+H2 H 0.40630 0.33930 0.53830
+C2 C 0.3346(5) 0.0900(5) 0.6821(4)
+H3 H 0.27060 0.04320 0.78040
+H4 H 0.45520 0.06670 0.68300
+C3 C 0.2651(5) 0.0132(5) 0.5846(4)
+H5 H 0.34730 0.03000 0.49620
+H6 H 0.23440 -0.11250 0.63280
+C4 C 0.1118(4) 0.1175(4) 0.5549(4)
+H7 H 0.08600 0.12510 0.46160
+H8 H 0.01280 0.06330 0.62940
+Cr1 Cr 0.50000 0.50000 0.00000
+C5 C 0.3741(4) 0.2436(4) 0.0836(4)
+C6 C 0.4041(4) 0.2983(4) 0.1958(4)
+H9 H 0.31350 0.29680 0.26950
+C7 C 0.5668(5) 0.3547(5) 0.1988(4)
+H10 H 0.58520 0.39050 0.27460
+C8 C 0.7021(5) 0.3585(5) 0.0901(4)
+H11 H 0.81190 0.39610 0.09270
+C9 C 0.6743(4) 0.3064(4) -0.0223(4)
+H12 H 0.76500 0.31010 -0.09670
+C10 C 0.5119(4) 0.2487(4) -0.0246(4)
+H13 H 0.49460 0.21260 -0.10050
+C11 C 0.2016(5) 0.1829(5) 0.0794(4)
+H14 H 0.18620 0.21630 -0.01960
+H15 H 0.11670 0.23680 0.13070
+H16 H 0.18910 0.05580 0.12420
+Cl1A Cl 0.02189(10) 0.54646(11) 0.71734(9)
+Cl2A Cl -0.24748(10) 0.31447(11) 0.62018(9)
+O1A O -0.1545(3) 0.7103(3) 0.4449(3)
+C1A C -0.3094(4) 0.7175(5) 0.3858(4)
+H1A H -0.29600 0.65920 0.31430
+H2A H -0.40630 0.66070 0.46170
+C2A C -0.3346(5) 0.9100(5) 0.3179(4)
+H3A H -0.27060 0.95680 0.21960
+H4A H -0.45520 0.93330 0.31700
+C3A C -0.2651(5) 0.9868(5) 0.4154(4)
+H5A H -0.34730 0.97000 0.50380
+H6A H -0.23440 1.11250 0.36720
+C4A C -0.1118(4) 0.8825(4) 0.4451(4)
+H7A H -0.08600 0.87490 0.53840
+H8A H -0.01280 0.93670 0.37060
+C5A C 0.6259(4) 0.7564(4) -0.0836(4)
+C6A C 0.5959(4) 0.7017(4) -0.1958(4)
+H9A H 0.68650 0.70320 -0.26950
+C7A C 0.4332(5) 0.6453(5) -0.1988(4)
+H10A H 0.41480 0.60950 -0.27460
+C8A C 0.2979(5) 0.6415(5) -0.0901(4)
+H11A H 0.18810 0.60390 -0.09270
+C9A C 0.3257(4) 0.6936(4) 0.0223(4)
+H12A H 0.23500 0.68990 0.09670
+C10A C 0.4881(4) 0.7513(4) 0.0246(4)
+H13A H 0.50540 0.78740 0.10050
+C11A C 0.7984(5) 0.8171(5) -0.0794(4)
+H14A H 0.81380 0.78370 0.01960
+H15A H 0.88330 0.76320 -0.13070
+H16A H 0.81090 0.94420 -0.12420
+#END

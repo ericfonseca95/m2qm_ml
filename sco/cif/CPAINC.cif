@@ -1,0 +1,117 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CPAINC
+_audit_creation_date 1979-05-25
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CPAINC
+_chemical_formula_sum 'C17 H15 Cr1 I1 N2 O1'
+_chemical_formula_moiety
+;
+C17 H15 Cr1 I1 N2 O1
+;
+_journal_coden_Cambridge 186
+_journal_year 1979
+_journal_page_first 83
+_journal_name_full 'J.Chem.Soc.,Dalton Trans. '
+loop_
+_publ_author_name
+"G.A.Sim"
+"D.I.Woodhouse"
+"G.R.Knox"
+_chemical_name_systematic
+;
+\h-Cyclopentadienyl-(diphenylamido)-iodo-nitrosyl-chromium
+;
+_chemical_melting_point 456.15
+_cell_volume    840.884
+_exptl_crystal_density_diffrn 1.746
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0211
+_refine_ls_wR_factor_gt 0.0211
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21'
+_symmetry_Int_Tables_number 4
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,-z
+_cell_length_a 10.247(2)
+_cell_length_b 8.888(2)
+_cell_length_c 9.236(2)
+_cell_angle_alpha 90
+_cell_angle_beta 91.50(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cr 1.35
+I 1.40
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cr1 Cr 0.23779 1.00000 0.33700
+I1 I 0.24376 1.28244 0.43524
+N1 N 0.29480 1.02810 0.14550
+C1 C 0.42780 1.03800 0.10660
+C2 C 0.47010 0.97800 -0.02530
+C3 C 0.60240 0.98560 -0.05900
+C4 C 0.69270 1.04960 0.03980
+C5 C 0.65080 1.10810 0.16660
+C6 C 0.51940 1.10550 0.20140
+C7 C 0.20370 1.02880 0.02460
+C8 C 0.11890 0.90760 0.00040
+C9 C 0.03020 0.91030 -0.11720
+C10 C 0.02430 1.03240 -0.20750
+C11 C 0.10750 1.15330 -0.18360
+C12 C 0.19900 1.15210 -0.06860
+C13 C 0.20020 0.82040 0.49910
+C14 C 0.26540 0.75710 0.37820
+C15 C 0.39120 0.82060 0.37860
+C16 C 0.40310 0.92150 0.49100
+C17 C 0.28540 0.92340 0.56500
+N2 N 0.07730 1.01550 0.30030
+O1 O -0.03790 1.02030 0.28950
+H1 H 0.41500 0.95000 -0.10400
+H2 H 0.63300 0.93600 -0.15000
+H3 H 0.77800 1.05900 0.02500
+H4 H 0.70800 1.17300 0.25900
+H5 H 0.49100 1.16500 0.28800
+H6 H 0.12600 0.83600 0.05700
+H7 H -0.02700 0.84100 -0.13500
+H8 H -0.03200 1.03400 -0.29800
+H9 H 0.11000 1.23900 -0.24200
+H10 H 0.26000 1.22800 -0.05000
+H11 H 0.09700 0.78600 0.51400
+H12 H 0.22200 0.70200 0.29400
+H13 H 0.44900 0.78500 0.30200
+H14 H 0.47200 0.97100 0.47000
+H15 H 0.27000 0.99000 0.62000
+#END

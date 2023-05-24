@@ -1,0 +1,159 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_ENCOCT
+_audit_creation_date 1979-11-16
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD ENCOCT
+_database_code_depnum_ccdc_archive 'CCDC 1149673'
+_chemical_formula_sum 'C10 H38 Cl1 Co1 N6 O11'
+_chemical_formula_moiety
+;
+C6 H24 Co1 N6 3+,C4 H4 O6 2-,Cl1 1-,5(H2 O1)
+;
+_journal_coeditor_code "IUCr A17635"
+_journal_coden_Cambridge 107
+_journal_volume 35
+_journal_year 1979
+_journal_page_first 1608
+_journal_name_full 'Acta Crystallogr.,Sect.B:Struct.Crystallogr.Cryst.Chem. '
+loop_
+_publ_author_name
+"D.H.Templeton"
+"A.Zalkin"
+"H.W.Ruben"
+"L.K.Templeton"
+_chemical_name_systematic
+;
+tris(Ethylenediamine)-cobalt(iii) chloride (+)-tartrate pentahydrate
+;
+_cell_volume    543.528
+_exptl_crystal_colour 'orange-brown'
+_exptl_crystal_density_diffrn 1.567
+_exptl_special_details
+;
+Absolute configuration
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.022
+_refine_ls_wR_factor_gt 0.022
+loop_
+_citation_database_id_CSD
+_citation_special_details
+RITPOC "is a stereoisomer of this entry"
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P 1'
+_symmetry_Int_Tables_number 1
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+_cell_length_a 8.261(3)
+_cell_length_b 8.507(3)
+_cell_length_c 8.149(3)
+_cell_angle_alpha 101.20(1)
+_cell_angle_beta 95.27(1)
+_cell_angle_gamma 102.31(1)
+_cell_formula_units_Z 1
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+Co 1.33
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Co1 Co 0.00000 0.00000 0.00000
+N1 N 0.03240 0.23900 0.02060
+N2 N 0.24090 0.01330 0.00930
+N3 N 0.03960 0.02740 0.24610
+N4 N -0.04460 -0.24110 -0.04020
+N5 N -0.24180 -0.02990 0.00770
+N6 N -0.02440 -0.01430 -0.24520
+C1 C -0.22600 -0.31210 -0.09870
+C2 C -0.01010 0.27440 -0.14680
+C3 C -0.32020 -0.20480 0.00450
+C4 C 0.30320 -0.02080 0.17190
+C5 C 0.22210 0.06960 0.30600
+C6 C 0.04220 0.15130 -0.27780
+H1 H -0.02200 0.28400 0.09100
+H2 H 0.13600 0.28300 0.05100
+H3 H 0.26300 -0.05700 -0.07000
+H4 H 0.29800 0.11000 -0.00100
+H5 H -0.00100 0.11100 0.29600
+H6 H -0.00900 -0.06600 0.27400
+H7 H -0.01600 -0.27400 0.05400
+H8 H 0.01900 -0.27400 -0.11400
+H9 H -0.29200 0.00300 -0.07300
+H10 H -0.25800 0.02600 0.10400
+H11 H -0.12600 -0.04800 -0.29000
+H12 H 0.03100 -0.08300 -0.29200
+H13 H -0.24500 -0.30900 -0.21200
+H14 H -0.25200 -0.42600 -0.07800
+H15 H -0.12800 0.25700 -0.17300
+H16 H 0.04100 0.37700 -0.14900
+H17 H -0.43700 -0.22900 -0.04800
+H18 H -0.31000 -0.22000 0.12600
+H19 H 0.42400 0.01100 0.19200
+H20 H 0.26900 -0.13800 0.16100
+H21 H 0.26700 0.18600 0.32100
+H22 H 0.24200 0.03500 0.41700
+H23 H 0.16500 0.16400 -0.27200
+H24 H 0.00100 0.15800 -0.38600
+Cl1 Cl 0.23162 -0.28567 -0.30803
+C7 C 0.68740 0.23280 0.43220
+C8 C 0.73320 0.37360 0.33960
+C9 C 0.90570 0.47960 0.42050
+C10 C 0.95840 0.61810 0.32720
+O1 O 0.64150 0.27200 0.57350
+O2 O 0.70270 0.09300 0.36410
+O3 O 0.73500 0.31480 0.16440
+O4 O 1.01970 0.37600 0.41690
+O5 O 0.88400 0.73280 0.35200
+O6 O 1.06540 0.60900 0.22990
+H25 H 0.66100 0.44200 0.35700
+H26 H 0.89600 0.52700 0.53100
+H27 H 0.65000 0.32200 0.11800
+H28 H 1.09700 0.42100 0.46300
+O7 O 0.43100 0.36320 0.03870
+H29 H 0.44300 0.39800 -0.04600
+H30 H 0.41500 0.43900 0.09900
+O8 O 0.64600 0.82620 0.51580
+H31 H 0.63900 0.90100 0.46500
+H32 H 0.69600 0.79000 0.47300
+O9 O 0.40780 0.42100 0.72040
+H33 H 0.47300 0.40200 0.66600
+H34 H 0.38100 0.49200 0.69800
+O10 O 0.52050 0.06240 0.77410
+H35 H 0.53900 0.11100 0.70500
+H36 H 0.47500 -0.03200 0.71300
+O11 O 0.38160 0.57110 0.30860
+H37 H 0.29300 0.57400 0.29600
+H38 H 0.44300 0.66300 0.36500
+#END

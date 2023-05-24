@@ -1,0 +1,129 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_RISWIC
+_audit_creation_date 2018-12-03
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD RISWIC
+_database_code_depnum_ccdc_archive 'CCDC 1845155'
+_chemical_formula_sum 'C14 H18 Cr1 F6 N6 O6 S2'
+_chemical_formula_moiety
+;
+C10 H12 Cr1 F6 N4 O6 S2,2(C2 H3 N1)
+;
+_journal_coden_Cambridge 1290
+_journal_year 2018
+_journal_page_first 4987
+_journal_name_full 'Eur.J.Inorg.Chem. '
+loop_
+_publ_author_name
+"Jan Oldengott"
+"C.-G.F.v.Richthofen"
+"S.Walleck"
+"A.Stammler"
+"H.Bogge"
+"T.Glaser"
+_chemical_name_systematic
+;
+tetrakis(acetonitrile)-bis(trifluoromethanesulfonato)-chromium(ii) 
+acetonitrile solvate
+;
+_cell_volume    632.741
+_exptl_crystal_colour 'blue'
+_exptl_crystal_density_diffrn 1.565
+_exptl_crystal_description 'polyhedral'
+_diffrn_ambient_temperature 100
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0231
+_refine_ls_wR_factor_gt 0.0231
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 8.3918(5)
+_cell_length_b 8.8877(5)
+_cell_length_c 8.9452(5)
+_cell_angle_alpha 88.302(3)
+_cell_angle_beta 73.407(3)
+_cell_angle_gamma 81.761(3)
+_cell_formula_units_Z 1
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cr 1.39
+F 0.64
+N 0.68
+O 0.68
+S 1.02
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cr1 Cr 0.50000 0.50000 1.00000
+S1 S 0.67482(5) 0.73406(4) 0.67104(4)
+F1 F 0.44454(13) 0.64195(12) 0.56444(12)
+F2 F 0.59939(14) 0.78526(13) 0.40859(11)
+F3 F 0.40671(14) 0.88156(13) 0.60989(13)
+O1 O 0.57292(13) 0.70274(12) 0.82649(12)
+O2 O 0.73807(17) 0.87679(15) 0.65949(14)
+O3 O 0.79259(14) 0.60715(14) 0.59351(13)
+N1 N 0.30345(16) 0.49435(15) 0.90357(15)
+C1 C 0.20155(19) 0.51173(18) 0.84158(17)
+N2 N 0.65426(16) 0.34371(15) 0.83410(15)
+C2 C 0.0717(2) 0.5364(2) 0.76191(19)
+H1 H 0.02920 0.64520 0.76370
+H2 H -0.02050 0.48010 0.81470
+H3 H 0.11880 0.50070 0.65350
+C3 C 0.5231(2) 0.76237(19) 0.55802(19)
+C4 C 0.75429(19) 0.27597(17) 0.73701(18)
+C5 C 0.8843(2) 0.1916(2) 0.61299(19)
+H4 H 0.94950 0.26270 0.54420
+H5 H 0.83240 0.13370 0.55270
+H6 H 0.95870 0.12160 0.65830
+N3 N 0.0277(2) 0.19765(19) 0.9337(2)
+C6 C 0.3028(2) 0.0362(2) 0.9552(2)
+H7 H 0.39770 0.06260 0.87060
+H8 H 0.29460 -0.07200 0.94750
+H9 H 0.32010 0.05720 1.05590
+C7 C 0.1489(2) 0.12617(19) 0.9427(2)
+S1A S 0.32518(5) 0.26594(4) 1.32896(4)
+F1A F 0.55546(13) 0.35805(12) 1.43556(12)
+F2A F 0.40061(14) 0.21474(13) 1.59141(11)
+F3A F 0.59329(14) 0.11844(13) 1.39011(13)
+O1A O 0.42708(13) 0.29726(12) 1.17351(12)
+O2A O 0.26193(17) 0.12321(15) 1.34051(14)
+O3A O 0.20741(14) 0.39285(14) 1.40649(13)
+N1A N 0.69655(16) 0.50565(15) 1.09643(15)
+C1A C 0.79845(19) 0.48827(18) 1.15842(17)
+N2A N 0.34574(16) 0.65629(15) 1.16590(15)
+C2A C 0.9283(2) 0.4636(2) 1.23809(19)
+H1A H 0.97080 0.35480 1.23630
+H2A H 1.02050 0.51990 1.18530
+H3A H 0.88120 0.49930 1.34650
+C3A C 0.4769(2) 0.23763(19) 1.44198(19)
+C4A C 0.24571(19) 0.72403(17) 1.26299(18)
+C5A C 0.1157(2) 0.8084(2) 1.38701(19)
+H4A H 0.05050 0.73730 1.45580
+H5A H 0.16760 0.86630 1.44730
+H6A H 0.04130 0.87840 1.34170
+#END

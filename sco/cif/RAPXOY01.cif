@@ -1,0 +1,150 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_RAPXOY01
+_audit_creation_date 2017-03-20
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD RAPXOY01
+_database_code_depnum_ccdc_archive 'CCDC 1489660'
+_chemical_formula_sum 'C12 H18 F12 Fe1 N6 P2'
+_chemical_formula_moiety
+;
+C12 H18 Fe1 N6 2+,2(F6 P1 1-)
+;
+_journal_coden_Cambridge 1453
+_journal_volume 8
+_journal_year 2016
+_journal_page_first 3323
+_journal_name_full 'ChemCatChem '
+loop_
+_publ_author_name
+"M.Ito"
+"M.Itazaki"
+"H.Nakazawa"
+_chemical_name_systematic
+;
+hexakis(acetonitrile)-iron(ii) bis(hexafluorophosphate)
+;
+_cell_volume   1795.076
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.643
+_exptl_special_details
+;
+mounted on the CryoLoop with Palaton oil and placed in N2 stream at 150(2) K
+
+;
+_exptl_crystal_description 'Platelet'
+_diffrn_ambient_temperature 150
+_refine_special_details
+;
+F1,F2 and F3,F4 disordered over two sites with occupancies 0.50:0.50.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0705
+_refine_ls_wR_factor_gt 0.0705
+_symmetry_cell_setting rhombohedral
+_symmetry_space_group_name_H-M 'R -3'
+_symmetry_Int_Tables_number 148
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x-y,z
+3 -x+y,-x,z
+4 2/3+x,1/3+y,1/3+z
+5 2/3-y,1/3+x-y,1/3+z
+6 2/3-x+y,1/3-x,1/3+z
+7 1/3+x,2/3+y,2/3+z
+8 1/3-y,2/3+x-y,2/3+z
+9 1/3-x+y,2/3-x,2/3+z
+10 -x,-y,-z
+11 y,-x+y,-z
+12 x-y,x,-z
+13 -2/3-x,-1/3-y,-1/3-z
+14 -2/3+y,-1/3-x+y,-1/3-z
+15 -2/3+x-y,-1/3+x,-1/3-z
+16 -1/3-x,-2/3-y,-2/3-z
+17 -1/3+y,-2/3-x+y,-2/3-z
+18 -1/3+x-y,-2/3+x,-2/3-z
+_cell_length_a 11.173(3)
+_cell_length_b 11.173(3)
+_cell_length_c 16.604(5)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_formula_units_Z 3
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+F 0.64
+Fe 1.52
+N 0.68
+P 1.05
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe1 Fe 0.66670 0.33330 0.33330
+N1 N 0.50309(11) 0.17541(11) 0.26212(7)
+C1 C 0.41392(14) 0.08435(13) 0.23035(8)
+C2 C 0.30207(16) -0.03031(15) 0.18858(13)
+H1 H 0.21490 -0.03350 0.20120
+H2 H 0.29680 -0.11670 0.20580
+H3 H 0.31860 -0.01860 0.13040
+P1 P 0.00000 0.00000 0.32989(3)
+F1 F 0.1279(4) 0.1255(4) 0.2927(3)
+F2 F 0.1247(4) -0.0009(7) 0.3666(3)
+F3? F 0.1005(5) -0.0004(5) 0.3939(3)
+F4? F 0.1016(4) 0.0980(4) 0.2643(3)
+N1A N 0.82459(11) 0.32768(11) 0.26212(7)
+C1A C 0.91565(14) 0.32957(13) 0.23035(8)
+C2A C 1.03031(16) 0.33238(15) 0.18858(13)
+H1A H 1.03350 0.24840 0.20120
+H2A H 1.11670 0.41350 0.20580
+H3A H 1.01860 0.33720 0.13040
+N1B N 0.67232(11) 0.49691(11) 0.26212(7)
+C1B C 0.67043(14) 0.58608(13) 0.23035(8)
+C2B C 0.66762(16) 0.69793(15) 0.18858(13)
+H1B H 0.75160 0.78510 0.20120
+H2B H 0.58650 0.70320 0.20580
+H3B H 0.66280 0.68140 0.13040
+N1L N 0.830243(110) 0.491257(110) 0.404547(70)
+C1L C 0.919413(140) 0.582317(130) 0.436317(80)
+C2L C 1.031263(160) 0.696977(150) 0.478087(130)
+H1L H 1.11843 0.70017 0.46547
+H2L H 1.03653 0.78337 0.46087
+H3L H 1.01473 0.68527 0.53627
+N1M N 0.508743(110) 0.338987(110) 0.404547(70)
+C1M C 0.417683(140) 0.337097(130) 0.436317(80)
+C2M C 0.303023(160) 0.334287(150) 0.478087(130)
+H1M H 0.29983 0.41827 0.46547
+H2M H 0.21663 0.25317 0.46087
+H3M H 0.31473 0.32947 0.53627
+N1N N 0.661013(110) 0.169757(110) 0.404547(70)
+C1N C 0.662903(140) 0.080587(130) 0.436317(80)
+C2N C 0.665713(160) -0.031263(150) 0.478087(130)
+H1N H 0.58173 -0.11843 0.46547
+H2N H 0.74683 -0.03653 0.46087
+H3N H 0.67053 -0.01473 0.53627
+F1A F -0.1255(4) 0.0024(4) 0.2927(3)
+F2A F 0.0009(4) 0.1256(7) 0.3666(3)
+F1B F -0.0024(4) -0.1279(4) 0.2927(3)
+F2B F -0.1256(4) -0.1247(7) 0.3666(3)
+#END

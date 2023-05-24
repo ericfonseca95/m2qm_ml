@@ -1,0 +1,145 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_HEVCUG
+_audit_creation_date 1995-04-20
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD HEVCUG
+_chemical_formula_sum 'C12 H28 Cl3 Co1 N4'
+_chemical_formula_moiety
+;
+C12 H28 Cl2 Co1 N4 1+,Cl1 1-
+;
+_journal_coeditor_code "IUCr AS1107"
+_journal_coden_Cambridge 591
+_journal_volume 50
+_journal_year 1994
+_journal_page_first 1686
+_journal_name_full 'Acta Crystallogr.,Sect.C:Cryst.Struct.Commun. '
+loop_
+_publ_author_name
+"T.H.Tahirov"
+"Tian-Huey Lu"
+"Bor-Hann Chen"
+"Ta-Yung Chi"
+"Chung-Sun Chung"
+_chemical_name_systematic
+;
+cis-Dichloro-(C-rac-5,12-dimethyl-1,4,8,11-tetra-azacyclotetradecane)-cobalt(i
+ii) chloride
+;
+_cell_volume   1731.868
+_exptl_crystal_colour 'deep violet'
+_exptl_crystal_density_diffrn 1.51
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+Methyl group is disordered over two positions with occupancies of 0.65:0.35.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.045
+_refine_ls_wR_factor_gt 0.045
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 -x,y,1/2-z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -1/2-x,-1/2-y,-z
+7 x,-y,-1/2+z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 9.178(1)
+_cell_length_b 11.722(2)
+_cell_length_c 16.100(5)
+_cell_angle_alpha 90
+_cell_angle_beta 90.96(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+Co 1.33
+N 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Co1 Co 0.50000 0.45528(5) 0.25000
+Cl1 Cl 0.42314(14) 0.59486(8) 0.16271(7)
+Cl2 Cl 0.50000 0.09937(10) 0.25000
+N1 N 0.6964(3) 0.44819(25) 0.19995(21)
+N2 N 0.4246(3) 0.34068(24) 0.16897(19)
+C1 C 0.7764(4) 0.3512(3) 0.2369(3)
+C2 C 0.2627(5) 0.3440(4) 0.1740(3)
+C3 C 0.4366(19) 0.2540(14) 0.0292(8)
+C4? C 0.8539(9) 0.4486(8) 0.0700(5)
+C5 C 0.4677(6) 0.3464(4) 0.0802(3)
+C6 C 0.6285(7) 0.3475(4) 0.0689(3)
+C7 C 0.7095(6) 0.4483(4) 0.1077(3)
+H1 H 0.74200 0.50900 0.22500
+H2 H 0.46000 0.27400 0.19600
+H3 H 0.87900 0.36600 0.22900
+H4 H 0.74100 0.28100 0.21200
+H5 H 0.22200 0.41200 0.13700
+H6 H 0.21300 0.28000 0.14600
+H7 H 0.36000 0.21100 0.05200
+H8 H 0.52800 0.20100 0.02200
+H9 H 0.39600 0.28500 -0.03100
+H10 H 0.42000 0.41500 0.05400
+H11 H 0.67500 0.27200 0.09200
+H12 H 0.63700 0.34700 0.00200
+H13 H 0.65000 0.52800 0.09200
+H14? H 0.86800 0.43800 0.00800
+H15? H 0.91300 0.48800 0.10100
+H16? H 0.88400 0.36300 0.09200
+Cl1B Cl 0.57686(14) 0.59486(8) 0.33729(7)
+N1B N 0.3036(3) 0.44819(25) 0.30005(21)
+N2B N 0.5754(3) 0.34068(24) 0.33103(19)
+C2B C 0.7373(5) 0.3440(4) 0.3260(3)
+C1B C 0.2236(4) 0.3512(3) 0.2631(3)
+C7B C 0.2905(6) 0.4483(4) 0.3923(3)
+H1B H 0.25800 0.50900 0.27500
+C5B C 0.5323(6) 0.3464(4) 0.4198(3)
+H2B H 0.54000 0.27400 0.30400
+H5B H 0.77800 0.41200 0.36300
+H6B H 0.78700 0.28000 0.35400
+H3B H 0.12100 0.36600 0.27100
+H4B H 0.25900 0.28100 0.28800
+C6B C 0.3715(7) 0.3475(4) 0.4311(3)
+H13B H 0.35000 0.52800 0.40800
+C3B C 0.5634(19) 0.2540(14) 0.4708(8)
+H10B H 0.58000 0.41500 0.44600
+H11B H 0.32500 0.27200 0.40800
+H12B H 0.36300 0.34700 0.49800
+H7B H 0.64000 0.21100 0.44800
+H8B H 0.47200 0.20100 0.47800
+H9B H 0.60400 0.28500 0.53100
+#END

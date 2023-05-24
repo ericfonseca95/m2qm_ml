@@ -1,0 +1,108 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_POWRID
+_audit_creation_date 2009-09-08
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD POWRID
+_database_code_depnum_ccdc_archive 'CCDC 744154'
+_chemical_formula_sum 'C6 H13 Cl2 Co1 N5 O4'
+_chemical_formula_moiety
+;
+C6 H11 Cl2 Co1 N5 O3,H2 O1
+;
+_journal_coeditor_code "IUCr CI2831"
+_journal_coden_Cambridge 1370
+_journal_volume 65
+_journal_year 2009
+_journal_page_first m853
+_journal_name_full 'Acta Crystallogr.,Sect.E:Struct.Rep.Online '
+loop_
+_publ_author_name
+"Bo Wang"
+_chemical_name_systematic
+;
+Triaqua-dichlorido-(5-(4-pyridinio)tetrazolato-N^2^)-cobalt(ii) monohydrate
+;
+_cell_volume    620.131
+_exptl_crystal_colour 'pink'
+_exptl_crystal_density_diffrn 1.869
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 298
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.026
+_refine_ls_wR_factor_gt 0.026
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 6.4900(13)
+_cell_length_b 9.842(2)
+_cell_length_c 11.159(2)
+_cell_angle_alpha 110.72(3)
+_cell_angle_beta 97.05(3)
+_cell_angle_gamma 106.27(3)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+Co 1.26
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.6736(3) 0.84317(19) 0.28889(17)
+C1 C 0.6810(3) 0.8500(2) 0.41148(19)
+N2 N 0.8708(3) 1.2651(2) 0.74897(19)
+H1 H 0.90980 1.35030 0.81830
+N3 N 0.6143(3) 0.70917(18) 0.41274(16)
+N4 N 0.5984(3) 0.69178(19) 0.21085(16)
+C2 C 0.7487(3) 0.9955(2) 0.52968(19)
+C3 C 0.8008(4) 1.1310(3) 0.7624(2)
+H2 H 0.79520 1.13080 0.84520
+N5 N 0.5635(3) 0.61292(18) 0.28545(16)
+C4 C 0.8224(3) 1.1378(2) 0.5204(2)
+H3 H 0.83090 1.14190 0.43910
+C5 C 0.7372(4) 0.9933(2) 0.6525(2)
+H4 H 0.68680 0.89940 0.66050
+C6 C 0.8826(4) 1.2725(2) 0.6330(2)
+H5 H 0.93120 1.36820 0.62800
+Co1 Co 0.41776(4) 0.36866(3) 0.20745(2)
+Cl1 Cl 0.08900(9) 0.38823(6) 0.08079(5)
+Cl2 Cl 0.73776(8) 0.35040(6) 0.33499(5)
+O1 O 0.5652(3) 0.33958(19) 0.04986(14)
+H6 H 0.71730 0.35700 0.06560
+H7 H 0.52540 0.35830 -0.01970
+O2 O 0.2585(3) 0.37067(19) 0.35990(15)
+H8 H 0.30370 0.38090 0.43620
+H9 H 0.12660 0.38670 0.35660
+O3 O 0.2553(3) 0.12646(16) 0.12299(15)
+H10 H 0.10360 0.09730 0.12310
+H11 H 0.24620 0.08570 0.04000
+O4 O 0.1925(3) 0.96192(19) 0.85528(16)
+H12 H 0.23060 1.01070 0.80930
+H13 H 0.22830 0.88030 0.81400
+#END

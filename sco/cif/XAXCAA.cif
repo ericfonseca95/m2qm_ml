@@ -1,0 +1,125 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_XAXCAA
+_audit_creation_date 2001-02-22
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD XAXCAA
+_database_code_depnum_ccdc_archive 'CCDC 1295609'
+_chemical_formula_sum 'C17 H8 Cr1 O5 S1'
+_chemical_formula_moiety
+;
+C17 H8 Cr1 O5 S1
+;
+_journal_coden_Cambridge 579
+_journal_volume 18
+_journal_year 1999
+_journal_page_first 4075
+_journal_name_full 'Organometallics '
+loop_
+_publ_author_name
+"M.A.Reynolds"
+"I.A.Guzei"
+"B.C.Logsdon"
+"L.M.Thomas"
+"R.A.Jacobson"
+"R.J.Angelici"
+_chemical_name_systematic
+;
+Pentacarbonyl-(dibenzothiophenyl)-chromium
+;
+_chemical_melting_point 383.15
+_cell_volume    781.605
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.599
+_exptl_special_details
+;
+Melts with decomposition.
+air-sensitive
+
+;
+_exptl_crystal_description 'block'
+_exptl_crystal_preparation 'dichloromethane/hexanes (1'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0249
+_refine_ls_wR_factor_gt 0.0249
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 9.4074(6)
+_cell_length_b 10.0551(6)
+_cell_length_c 10.2053(6)
+_cell_angle_alpha 70.398(1)
+_cell_angle_beta 62.901(1)
+_cell_angle_gamma 68.203(1)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cr 1.35
+O 0.68
+S 1.02
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cr1 Cr 1.1121(1) 0.1188(1) 0.1903(1)
+S1 S 1.0658(1) 0.2531(1) 0.3728(1)
+O1 O 1.4338(2) 0.1972(2) -0.0332(3)
+O2 O 1.3008(2) -0.1515(1) 0.3486(2)
+O3 O 0.9083(2) 0.3859(1) 0.0388(1)
+O4 O 0.7916(2) 0.0241(1) 0.3791(2)
+O5 O 1.1870(2) -0.0579(2) -0.0300(2)
+C1 C 1.3120(2) 0.1720(2) 0.0543(2)
+C2 C 1.2293(3) -0.0481(2) 0.2910(2)
+C3 C 0.9867(2) 0.2879(2) 0.0932(2)
+C4 C 0.9115(2) 0.0607(2) 0.3128(2)
+C5 C 1.1547(2) 0.0102(2) 0.0547(2)
+C6 C 1.2372(2) 0.3247(2) 0.3103(2)
+C7 C 1.3979(2) 0.2426(2) 0.2921(2)
+C8 C 1.5177(2) 0.3176(2) 0.2360(2)
+C9 C 1.4770(2) 0.4691(2) 0.2019(2)
+C10 C 1.3158(2) 0.5499(2) 0.2235(2)
+C11 C 1.1927(2) 0.4774(2) 0.2790(2)
+C12 C 1.0169(2) 0.5389(2) 0.3067(2)
+C13 C 0.9276(2) 0.6854(2) 0.2906(2)
+C14 C 0.7615(2) 0.7199(2) 0.3183(2)
+C15 C 0.6817(2) 0.6111(2) 0.3622(2)
+C16 C 0.7672(2) 0.4650(2) 0.3802(2)
+C17 C 0.9341(2) 0.4315(2) 0.3526(2)
+H1 H 1.42490 0.13880 0.31720
+H2 H 1.62930 0.26440 0.22080
+H3 H 1.56130 0.51810 0.16300
+H4 H 1.28910 0.65370 0.20090
+H5 H 0.98070 0.76070 0.26080
+H6 H 0.70050 0.81960 0.37020
+H7 H 0.56740 0.63730 0.38000
+H8 H 0.71340 0.39010 0.41040
+#END

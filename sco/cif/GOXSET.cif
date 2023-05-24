@@ -1,0 +1,144 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_GOXSET
+_audit_creation_date 2014-12-08
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD GOXSET
+_database_code_depnum_ccdc_archive 'CCDC 1029630'
+_chemical_formula_sum 'C8 H26 Fe3 N6 Se4'
+_chemical_formula_moiety
+;
+(C8 H26 Fe1 N6 2+)n,2n(Fe1 Se2 1-)
+;
+_journal_coden_Cambridge 182
+_journal_volume 51
+_journal_year 2015
+_journal_page_first 5355
+_journal_name_full 'Chem.Commun. '
+loop_
+_publ_author_name
+"J.T.Greenfield"
+"Chongin Pak"
+"S.Kamali"
+"K.Lee"
+"K.Kovnir"
+_chemical_name_systematic
+;
+catena-[bis(N-(2-aminoethyl)ethane-1,2-diamine)-iron(ii) 
+bis(bis(\m-selenido)-iron(iii))]
+;
+_cell_volume   1912.004
+_exptl_crystal_colour 'black'
+_exptl_crystal_density_diffrn 2.396
+_exptl_special_details
+;
+Magnetic properties
+
+;
+_exptl_crystal_description 'needle'
+_diffrn_ambient_temperature 90
+_diffrn_special_details
+;
+twin
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0553
+_refine_ls_wR_factor_gt 0.0553
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'C 2 2 21'
+_symmetry_Int_Tables_number 20
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,1/2+z
+3 x,-y,-z
+4 -x,y,1/2-z
+5 1/2+x,1/2+y,z
+6 1/2-x,1/2-y,1/2+z
+7 1/2+x,1/2-y,-z
+8 1/2-x,1/2+y,1/2-z
+_cell_length_a 9.1399(15)
+_cell_length_b 18.122(3)
+_cell_length_c 11.5436(19)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Fe 1.52
+N 0.68
+Se 1.22
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Se1 Se 0.03086(8) 0.39731(4) 0.52395(6)
+Se2 Se 0.20409(8) 0.47386(4) 0.23366(6)
+Fe1 Fe 0.01704(11) 0.48750(5) 0.37550(9)
+Fe2 Fe 0.50000 0.68616(8) 0.25000
+N1 N 0.6838(7) 0.6732(3) 0.3721(5)
+H1 H 0.74300 0.63480 0.34660
+C1 C 0.6209(8) 0.6528(4) 0.4864(6)
+H2 H 0.57040 0.69580 0.52130
+H3 H 0.69940 0.63670 0.53980
+N2 N 0.4029(7) 0.6112(4) 0.3788(5)
+H4 H 0.32500 0.63400 0.41450
+H5 H 0.36900 0.56930 0.34260
+C2 C 0.7700(8) 0.7417(4) 0.3719(7)
+H6 H 0.86580 0.73330 0.40960
+H7 H 0.71760 0.78080 0.41520
+N3 N 0.6502(7) 0.7761(4) 0.1916(6)
+H8 H 0.65910 0.77510 0.11230
+H9 H 0.61270 0.82130 0.21270
+C3 C 0.7924(8) 0.7655(4) 0.2449(7)
+H10 H 0.84910 0.81200 0.24190
+H11 H 0.84770 0.72710 0.20250
+C4 C 0.5139(8) 0.5909(4) 0.4664(6)
+H12 H 0.56760 0.54650 0.43990
+H13 H 0.46450 0.57860 0.54020
+Se1B Se 0.03086(8) 0.60269(4) 0.47605(6)
+Se2C Se -0.20409(8) 0.47386(4) 0.26634(6)
+Fe1B Fe 0.01704(11) 0.51250(5) 0.62450(9)
+Fe1C Fe -0.01704(11) 0.48750(5) 0.12450(9)
+N1C N 0.3162(7) 0.6732(3) 0.1279(5)
+H1C H 0.25700 0.63480 0.15340
+C1C C 0.3791(8) 0.6528(4) 0.0136(6)
+H2C H 0.42960 0.69580 -0.02130
+H3C H 0.30060 0.63670 -0.03980
+N2C N 0.5971(7) 0.6112(4) 0.1212(5)
+H4C H 0.67500 0.63400 0.08550
+H5C H 0.63100 0.56930 0.15740
+C2C C 0.2300(8) 0.7417(4) 0.1281(7)
+H6C H 0.13420 0.73330 0.09040
+H7C H 0.28240 0.78080 0.08480
+N3C N 0.3498(7) 0.7761(4) 0.3084(6)
+H8C H 0.34090 0.77510 0.38770
+H9C H 0.38730 0.82130 0.28730
+C3C C 0.2076(8) 0.7655(4) 0.2551(7)
+H10C H 0.15090 0.81200 0.25810
+H11C H 0.15230 0.72710 0.29750
+C4C C 0.4861(8) 0.5909(4) 0.0336(6)
+H12C H 0.43240 0.54650 0.06010
+H13C H 0.53550 0.57860 -0.04020
+#END

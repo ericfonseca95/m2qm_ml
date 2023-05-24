@@ -1,0 +1,127 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_PINZER
+_audit_creation_date 1994-10-27
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD PINZER
+_database_code_depnum_ccdc_fiz 'CSD 57694'
+_chemical_formula_sum 'C17 H27 Fe1 N1 O1 Si2'
+_chemical_formula_moiety
+;
+C17 H27 Fe1 N1 O1 Si2
+;
+_journal_coden_Cambridge 29
+_journal_volume 620
+_journal_year 1994
+_journal_page_first 716
+_journal_name_full 'Z.Anorg.Allg.Chem. '
+loop_
+_publ_author_name
+"A.Grunhagen"
+"U.Pieper"
+"T.Kottke"
+"H.W.Roesky"
+_chemical_name_systematic
+;
+N,O-bis(Trimethylsilyl)ferrocenylimidate
+;
+_cell_volume    984.271
+_exptl_crystal_colour 'orange-red'
+_exptl_crystal_density_diffrn 1.263
+_diffrn_ambient_temperature 153
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0345
+_refine_ls_wR_factor_gt 0.0345
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 9.339(1)
+_cell_length_b 9.729(2)
+_cell_length_c 12.456(2)
+_cell_angle_alpha 74.740(7)
+_cell_angle_beta 75.098(8)
+_cell_angle_gamma 66.200(7)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Fe 1.34
+N 0.68
+O 0.68
+Si 1.20
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe1 Fe 0.8852(1) -0.2806(1) 0.7281(1)
+Si1 Si 0.5532(1) 0.2778(1) 0.7284(1)
+Si2 Si 0.3034(1) -0.0526(1) 0.8194(1)
+O1 O 0.6564(2) 0.0956(2) 0.7823(2)
+N1 N 0.4473(3) 0.0225(3) 0.8018(2)
+C1 C 0.5908(3) -0.0147(3) 0.8094(2)
+C2 C 0.4952(4) 0.2895(4) 0.5931(3)
+C3 C 0.7026(4) 0.3688(4) 0.6997(3)
+C4 C 0.3795(4) 0.3686(4) 0.8320(3)
+C5 C 0.3437(5) -0.1526(4) 0.7008(3)
+C6 C 0.1144(4) 0.1158(4) 0.8123(4)
+C7 C 0.2809(4) -0.1829(4) 0.9575(3)
+C8 C 0.7091(3) -0.1660(3) 0.8428(2)
+C9 C 0.8617(3) -0.1939(3) 0.8661(2)
+C10 C 0.9449(3) -0.3526(3) 0.8862(2)
+C11 C 0.8467(3) -0.4257(3) 0.8753(2)
+C12 C 0.7018(3) -0.3120(3) 0.8483(2)
+C13 C 0.8486(4) -0.2960(4) 0.5777(2)
+C14 C 0.8517(4) -0.1509(4) 0.5726(2)
+C15 C 1.0017(4) -0.1711(4) 0.5943(2)
+C16 C 1.0900(4) -0.3285(4) 0.6131(2)
+C17 C 0.9967(4) -0.4064(4) 0.6031(2)
+H1 H 0.4245(24) 0.2312(24) 0.6070(4)
+H2 H 0.5916(5) 0.2458(26) 0.5387(8)
+H3 H 0.4388(26) 0.3977(5) 0.5617(11)
+H4 H 0.7396(23) 0.3559(25) 0.7707(5)
+H5 H 0.6542(10) 0.4790(7) 0.6694(20)
+H6 H 0.7490(14) 0.3201(20) 0.6437(16)
+H7 H 0.2889(10) 0.3416(23) 0.8300(15)
+H8 H 0.3498(19) 0.4809(4) 0.8127(13)
+H9 H 0.4071(10) 0.3317(22) 0.9088(4)
+H10 H 0.4427(16) -0.2435(16) 0.7053(12)
+H11 H 0.3558(29) -0.0827(10) 0.6282(3)
+H12 H 0.2541(14) -0.1850(25) 0.7058(12)
+H13 H 0.0943(16) 0.1715(17) 0.8739(13)
+H14 H 0.0255(6) 0.0807(5) 0.8208(23)
+H15 H 0.1229(12) 0.1845(15) 0.7386(9)
+H16 H 0.2722(30) -0.1327(12) 1.0197(3)
+H17 H 0.3747(15) -0.2790(12) 0.9587(9)
+H18 H 0.1839(17) -0.2060(23) 0.9672(10)
+H19 H 0.8999(3) -0.1188(3) 0.8677(2)
+H20 H 1.0479(3) -0.4017(3) 0.9039(2)
+H21 H 0.8733(3) -0.5317(3) 0.8844(2)
+H22 H 0.6156(3) -0.3292(3) 0.8362(2)
+H23 H 0.7637(4) -0.3161(4) 0.5663(2)
+H24 H 0.7689(4) -0.0569(4) 0.5576(2)
+H25 H 1.0358(4) -0.0930(4) 0.5957(2)
+H26 H 1.1936(4) -0.3742(4) 0.6297(2)
+H27 H 1.0273(4) -0.5128(4) 0.6117(2)
+#END

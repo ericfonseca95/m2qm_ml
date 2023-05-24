@@ -1,0 +1,111 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_EACBCR
+_audit_creation_date 1978-03-30
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD EACBCR
+_chemical_formula_sum 'C10 H10 Cl1 Cr1 N1 O5'
+_chemical_formula_moiety
+;
+C10 H10 Cl1 Cr1 N1 O5
+;
+_journal_coden_Cambridge 36
+_journal_volume 141
+_journal_year 1977
+_journal_page_first C17
+_journal_name_full 'J.Organomet.Chem. '
+loop_
+_publ_author_name
+"G.Huttner"
+"A.Frank"
+"E.O.Fischer"
+"W.Kleine"
+_chemical_name_systematic
+;
+Pentacarbonyl(diethylamino-chloro-carbene) chromium
+;
+_cell_volume    655.577
+_exptl_special_details
+;
+AVERAGE BOND LENGTHS GIVEN IN PAPER. ATOMS H90 AND H92 ARE POORLY PLACED AND 
+HAVE BEEN DELETED
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.042
+_refine_ls_wR_factor_gt 0.042
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 7.364
+_cell_length_b 12.146
+_cell_length_c 9.071
+_cell_angle_alpha 97.8
+_cell_angle_beta 108.37
+_cell_angle_gamma 115.98
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+Cr 1.35
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cr1 Cr 0.06680 0.26720 0.02000
+Cl1 Cl -0.07700 0.16910 0.30450
+C1 C 0.31700 0.43600 0.10300
+O1 O 0.46360 0.54050 0.14960
+C2 C -0.09000 0.34100 0.07900
+O2 O -0.18200 0.38900 0.11180
+C3 C -0.19300 0.10000 -0.06900
+O3 O -0.35200 0.00120 -0.12930
+C4 C -0.02400 0.29000 -0.18400
+O4 O -0.08050 0.30120 -0.31040
+C5 C 0.21940 0.19850 -0.05630
+O5 O 0.30470 0.15880 -0.11480
+C6 C 0.15020 0.23560 0.24890
+N1 N 0.33040 0.25390 0.36230
+C7 C 0.35500 0.22300 0.52000
+C8 C 0.54170 0.31120 0.34260
+C9 C 0.69900 0.45600 0.45300
+C10 C 0.30300 0.08000 0.49000
+H1 H 0.42300 0.07600 0.46200
+H2 H 0.23907 0.23396 0.56250
+H3 H 0.52490 0.28842 0.61280
+H4 H 0.50502 0.30579 0.21480
+H5 H 0.62426 0.25707 0.37725
+H6 H 0.81015 0.51288 0.40258
+H7 H 0.14044 0.01545 0.38783
+H8 H 0.30438 0.05368 0.59962
+#END

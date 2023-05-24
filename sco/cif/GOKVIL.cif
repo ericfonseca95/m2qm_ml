@@ -1,0 +1,129 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_GOKVIL
+_audit_creation_date 1999-08-26
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD GOKVIL
+_database_code_depnum_ccdc_archive 'CCDC 129602'
+_chemical_formula_sum 'C18 H38 Cl6 Co2 Hg2 N10 O10'
+_chemical_formula_moiety
+;
+2(C9 H17 Co1 N5 O4 1+),Cl6 Hg2 2-,2(H2 O1)
+;
+_journal_coden_Cambridge 233
+_journal_volume 43
+_journal_year 1998
+_journal_page_first 1632
+_journal_name_full 'Zh.Neorg.Khim.(Russ.)(Russ.J.Inorg.Chem.) '
+loop_
+_publ_author_name
+"I.F.Burshtein"
+"A.L.Poznyak"
+"L.V.Stopolyanskaya"
+_chemical_name_systematic
+;
+Imidazole-(iminodiacetato-N,O,O')-ethylenediamine-cobalt(iii) 
+bis(\m~2~-chloro)-tetrachloro-di-mercury(ii) dihydrate
+;
+_cell_volume    901.920
+_exptl_crystal_density_diffrn 2.368
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0429
+_refine_ls_wR_factor_gt 0.0429
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 7.702(2)
+_cell_length_b 10.338(2)
+_cell_length_c 11.721(2)
+_cell_angle_alpha 103.20(3)
+_cell_angle_beta 96.36(3)
+_cell_angle_gamma 91.28(3)
+_cell_formula_units_Z 1
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+Co 1.33
+Hg 1.70
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Hg1 Hg 0.2731(1) 0.0685(1) 0.5638(1)
+Co1 Co -0.1828(2) 0.2656(1) 1.0138(1)
+Cl1 Cl 0.4018(3) 0.0229(2) 0.3539(2)
+Cl2 Cl 0.3317(5) 0.2997(3) 0.6079(3)
+Cl3 Cl 0.1117(4) -0.1220(4) 0.5732(3)
+O1 O -0.1925(8) 0.0798(6) 1.0032(6)
+O2 O -0.3177(9) -0.0735(6) 1.0763(7)
+O3 O -0.2059(8) 0.4524(5) 1.0339(6)
+O4 O -0.3813(8) 0.6116(6) 1.0985(6)
+O5 O 0.3689(31) -0.3669(17) 0.5597(16)
+N1 N -0.4004(11) 0.2636(7) 1.0821(8)
+N2 N 0.0224(12) 0.2632(10) 0.9301(8)
+N3 N -0.3131(14) 0.2387(10) 0.8588(10)
+N4 N -0.0266(11) 0.2955(7) 1.1641(7)
+N5 N 0.1798(14) 0.263(1) 1.2899(10)
+C1 C -0.3945(15) 0.1533(9) 1.1407(10)
+C2 C -0.2955(12) 0.0420(9) 1.0701(8)
+C3 C -0.4299(13) 0.4000(8) 1.1460(9)
+C4 C -0.3357(11) 0.4959(8) 1.0906(7)
+C5 C -0.0295(15) 0.2269(11) 0.8013(10)
+C6 C -0.2017(15) 0.2828(10) 0.7783(10)
+C7 C 0.0891(14) 0.210(1) 1.1916(10)
+C8 C 0.1292(17) 0.3877(14) 1.3313(13)
+C9 C 0.0025(16) 0.4069(11) 1.2541(10)
+H1 H 0.484(22) -0.337(17) 0.571(14)
+H2 H -0.522(16) 0.232(11) 1.018(10)
+H3 H 0.103(13) 0.246(9) 0.957(9)
+H4 H 0.048(11) 0.338(9) 0.947(7)
+H5 H -0.351(9) 0.154(8) 0.822(6)
+H6 H -0.382(15) 0.263(11) 0.851(10)
+H7 H 0.245(11) 0.240(8) 1.325(7)
+H8 H -0.328(10) 0.197(7) 1.222(7)
+H9 H -0.503(15) 0.127(10) 1.151(9)
+H10 H -0.365(11) 0.406(8) 1.207(8)
+H11 H -0.544(15) 0.435(10) 1.146(9)
+H12 H -0.057(12) 0.142(10) 0.764(8)
+H13 H 0.039(16) 0.246(12) 0.749(11)
+H14 H -0.197(19) 0.389(15) 0.778(11)
+H15 H -0.259(11) 0.253(9) 0.667(8)
+H16 H 0.094(11) 0.131(9) 1.130(8)
+H17 H 0.182(10) 0.431(7) 1.393(8)
+H18 H -0.053(15) 0.469(12) 1.251(10)
+Hg1A Hg 0.7269(1) -0.0685(1) 0.4362(1)
+Cl1A Cl 0.5982(3) -0.0229(2) 0.6461(2)
+Cl2A Cl 0.6683(5) -0.2997(3) 0.3921(3)
+Cl3A Cl 0.8883(4) 0.1220(4) 0.4268(3)
+#END

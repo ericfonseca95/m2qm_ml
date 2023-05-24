@@ -1,0 +1,123 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_COPKEY
+_audit_creation_date 2009-07-17
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD COPKEY
+_database_code_depnum_ccdc_archive 'CCDC 709283'
+_chemical_formula_sum 'C13 H20 B1 Cr1 N1 O3 Si1'
+_chemical_formula_moiety
+;
+C13 H20 B1 Cr1 N1 O3 Si1
+;
+_journal_coden_Cambridge 179
+_journal_volume 48
+_journal_year 2009
+_journal_page_first 973
+_journal_name_full 'Angew.Chem.,Int.Ed. '
+loop_
+_publ_author_name
+"A.J.V.Marwitz"
+"M.H.Matus"
+"L.N.Zakharov"
+"D.A.Dixon"
+"Shih-Yuan Liu"
+_chemical_name_systematic
+;
+(\h^6^-1-(t-butyl(dimethyl)silyl)-1,2-dihydro-1,2-azaborine)-tricarbonyl-chrom
+ium(0)
+;
+_cell_volume    800.921
+_exptl_crystal_colour 'orange'
+_exptl_crystal_density_diffrn 1.365
+_exptl_crystal_description 'block'
+_exptl_crystal_preparation 'diethyl ether'
+_diffrn_ambient_temperature 173
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0354
+_refine_ls_wR_factor_gt 0.0354
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 6.9391(5)
+_cell_length_b 10.2736(7)
+_cell_length_c 12.4331(8)
+_cell_angle_alpha 104.096(1)
+_cell_angle_beta 95.574(1)
+_cell_angle_gamma 108.414(1)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+B 0.83
+Cr 1.39
+N 0.68
+O 0.68
+Si 1.20
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cr1 Cr 0.99482(5) 0.97488(3) 0.20724(3)
+Si1 Si 0.71560(9) 0.65554(6) 0.28163(5)
+O1 O 0.6254(2) 0.90026(19) 0.02656(14)
+O2 O 1.1612(3) 1.25882(18) 0.16207(17)
+O3 O 0.7969(3) 1.1203(2) 0.37845(15)
+N1 N 0.9429(3) 0.77023(19) 0.24509(14)
+B1 B 0.9727(4) 0.7441(3) 0.1286(2)
+C1 C 0.7662(3) 0.9275(2) 0.09558(18)
+C2 C 1.0999(3) 1.1490(2) 0.1793(2)
+C3 C 0.8714(3) 1.0618(2) 0.31167(18)
+C4 C 1.0958(4) 0.8803(2) 0.3312(2)
+C5 C 1.2746(3) 0.9697(3) 0.3062(2)
+C6 C 1.3021(3) 0.9547(3) 0.1936(2)
+C7 C 1.1584(4) 0.8450(3) 0.1057(2)
+C8 C 0.4884(4) 0.6122(3) 0.1709(3)
+C9 C 0.6758(5) 0.7573(3) 0.4182(2)
+C10 C 0.7752(3) 0.4927(2) 0.29507(19)
+C11 C 0.7403(5) 0.3851(3) 0.1790(2)
+C12 C 0.6282(4) 0.4202(3) 0.3652(2)
+C13 C 0.9995(4) 0.5357(3) 0.3558(2)
+H1 H 0.865(4) 0.659(3) 0.069(2)
+H2 H 1.074(3) 0.893(2) 0.4131(19)
+H3 H 1.365(4) 1.044(3) 0.364(2)
+H4 H 1.412(4) 1.022(3) 0.1789(19)
+H5 H 1.175(4) 0.840(3) 0.034(2)
+H6 H 0.376(5) 0.543(3) 0.184(3)
+H7 H 0.459(5) 0.692(4) 0.172(3)
+H8 H 0.509(5) 0.584(3) 0.102(3)
+H9 H 0.777(5) 0.768(3) 0.483(3)
+H10 H 0.667(5) 0.842(4) 0.416(3)
+H11 H 0.545(5) 0.705(3) 0.428(2)
+H12 H 0.599(5) 0.356(3) 0.139(3)
+H13 H 0.768(4) 0.300(3) 0.188(2)
+H14 H 0.830(4) 0.425(3) 0.137(2)
+H15 H 0.648(5) 0.331(3) 0.370(2)
+H16 H 0.657(4) 0.481(3) 0.442(2)
+H17 H 0.490(5) 0.401(3) 0.334(2)
+H18 H 1.027(5) 0.449(3) 0.370(2)
+H19 H 1.026(4) 0.605(3) 0.428(2)
+H20 H 1.097(4) 0.577(3) 0.314(2)
+#END

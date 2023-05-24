@@ -1,0 +1,125 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_LOPHED
+_audit_creation_date 2000-12-08
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD LOPHED
+_database_code_depnum_ccdc_archive 'CCDC 150254'
+_database_code_depnum_ccdc_journal 186/2102
+_chemical_formula_sum 'C18 H16 Fe1 N2 O2'
+_chemical_formula_moiety
+;
+C18 H16 Fe1 N2 O2
+;
+_journal_coden_Cambridge 186
+_journal_year 2000
+_journal_page_first 2969
+_journal_name_full 'J.Chem.Soc.,Dalton Trans. '
+loop_
+_publ_author_name
+"A.S.Georgopoulou"
+"D.M.P.Mingos"
+"A.J.P.White"
+"D.J.Williams"
+"B.R.Horrocks"
+"A.Houlton"
+_chemical_name_systematic
+;
+1,1'-(2-(4-Nitrophenyl)-2-azapropane-1,3-diyl)ferrocene
+;
+_cell_volume    721.657
+_exptl_crystal_colour 'orange'
+_exptl_crystal_density_diffrn 1.602
+_exptl_crystal_description 'prisms'
+_exptl_crystal_preparation 'dichloromethane'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.044
+_refine_ls_wR_factor_gt 0.044
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 8.1474(4)
+_cell_length_b 9.5438(10)
+_cell_length_c 10.7708(7)
+_cell_angle_alpha 116.293(6)
+_cell_angle_beta 93.363(5)
+_cell_angle_gamma 102.472(6)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Fe 1.34
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe1 Fe 0.39306(7) 0.20116(7) 0.24578(6)
+C1 C 0.5091(5) 0.0275(5) 0.2292(5)
+H1 H 0.4758(5) -0.0808(5) 0.1609(5)
+C2 C 0.6274(5) 0.1548(6) 0.2221(5)
+H2 H 0.6854(5) 0.1446(6) 0.1480(5)
+C3 C 0.6429(5) 0.3006(6) 0.3469(5)
+H3 H 0.7124(5) 0.4023(6) 0.3685(5)
+C4 C 0.5343(5) 0.2651(5) 0.4334(4)
+H4 H 0.5206(5) 0.3388(5) 0.5216(4)
+C5 C 0.4495(5) 0.0949(5) 0.3599(4)
+C6 C 0.1789(5) 0.0791(5) 0.0974(4)
+H5 H 0.1483(5) -0.0307(5) 0.0330(4)
+C7 C 0.2733(6) 0.2052(6) 0.0752(5)
+H6 H 0.3160(6) 0.1934(6) -0.0060(5)
+C8 C 0.2918(6) 0.3527(6) 0.1976(5)
+H7 H 0.3500(6) 0.4549(6) 0.2112(5)
+C9 C 0.2064(5) 0.3193(5) 0.2975(4)
+H8 H 0.1973(5) 0.3952(5) 0.3865(4)
+C10 C 0.1379(5) 0.1480(5) 0.2354(4)
+C11 C 0.3047(5) 0.0024(5) 0.3994(4)
+H9 H 0.2621(5) -0.1072(5) 0.3227(4)
+H10 H 0.3489(5) -0.0050(5) 0.4813(4)
+C12 C 0.0532(5) 0.0507(5) 0.3047(4)
+H11 H -0.0511(5) 0.0801(5) 0.3306(4)
+H12 H 0.0223(5) -0.0637(5) 0.2373(4)
+N1 N 0.1623(4) 0.0767(4) 0.4305(3)
+C13 C 0.1672(4) 0.2012(4) 0.5623(4)
+C14 C 0.2970(5) 0.2448(5) 0.6762(4)
+H13 H 0.3804(5) 0.1889(5) 0.6618(4)
+C15 C 0.3023(5) 0.3682(5) 0.8080(4)
+H14 H 0.3890(5) 0.3955(5) 0.8815(4)
+C16 C 0.1796(5) 0.4511(5) 0.8311(4)
+C17 C 0.0482(5) 0.4109(5) 0.7235(5)
+H15 H -0.0355(5) 0.4665(5) 0.7407(5)
+C18 C 0.0421(5) 0.2880(5) 0.5908(4)
+H16 H -0.0459(5) 0.2618(5) 0.5187(4)
+N2 N 0.1898(5) 0.5858(4) 0.9694(4)
+O1 O 0.3077(5) 0.6184(4) 1.0636(4)
+O2 O 0.0819(5) 0.6614(4) 0.9870(4)
+#END

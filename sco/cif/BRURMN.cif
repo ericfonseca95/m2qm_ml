@@ -1,0 +1,131 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_BRURMN
+_audit_creation_date 1980-12-11
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD BRURMN
+_database_code_depnum_ccdc_archive 'CCDC 1115505'
+_chemical_formula_sum 'C9 H24 Br2 Mn1 N6 O3'
+_chemical_formula_moiety
+;
+C9 H24 Br2 Mn1 N6 O3
+;
+_journal_coden_Cambridge 3075
+_journal_year 1980
+_journal_page_first 679
+_journal_name_full 'J.Chem.Soc.Chem.Comm. '
+loop_
+_publ_author_name
+"J.Delaunay"
+"C.Kappenstein"
+"R.P.Hugel"
+_chemical_name_systematic
+;
+Dibromo-tris(N,N'-dimethylurea)-manganese(ii)
+;
+_cell_volume   1824.810
+_exptl_crystal_density_diffrn 1.739
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.054
+_refine_ls_wR_factor_gt 0.054
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 -x,y,1/2-z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -1/2-x,-1/2-y,-z
+7 x,-y,-1/2+z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 13.211(3)
+_cell_length_b 8.670(3)
+_cell_length_c 16.593(4)
+_cell_angle_alpha 90
+_cell_angle_beta 106.23(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Br 1.21
+Mn 1.35
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Br1 Br -0.05212 0.19582 0.11512
+Mn1 Mn 0.00000 0.35683 0.25000
+O1 O 0.16293 0.36960 0.24597
+C1 C 0.21930 0.48728 0.24341
+N1 N 0.28173 0.54529 0.31468
+C2 C 0.29807 0.47364 0.39829
+N2 N 0.22091 0.55370 0.17168
+C3 C 0.16714 0.48900 0.09292
+O2 O 0.00000 0.59152 0.25000
+C4 C 0.00000 0.73562 0.25000
+N3 N 0.03186 0.81448 0.32145
+C5 C 0.06981 0.74278 0.40244
+H1 H 0.31717 0.63286 0.31446
+H2 H 0.24760 0.51387 0.42540
+H3 H 0.36653 0.49647 0.43372
+H4 H 0.28950 0.36461 0.39363
+H5 H 0.25758 0.64014 0.17070
+H6 H 0.21366 0.42794 0.07045
+H7 H 0.13444 0.56642 0.05405
+H8 H 0.11291 0.41845 0.09916
+H9 H 0.02911 0.91658 0.32001
+H10 H 0.01582 0.73943 0.43083
+H11 H 0.12820 0.80062 0.43645
+H12 H 0.09300 0.63960 0.39803
+Br1B Br 0.05212 0.19582 0.38488
+O1B O -0.16293 0.36960 0.25403
+N3B N -0.03186 0.81448 0.17855
+C1B C -0.21930 0.48728 0.25659
+C5B C -0.06981 0.74278 0.09756
+H9B H -0.02911 0.91658 0.17999
+N1B N -0.28173 0.54529 0.18532
+N2B N -0.22091 0.55370 0.32832
+H10B H -0.01582 0.73943 0.06917
+H11B H -0.12820 0.80062 0.06355
+H12B H -0.09300 0.63960 0.10197
+C2B C -0.29807 0.47364 0.10171
+H1B H -0.31717 0.63286 0.18554
+C3B C -0.16714 0.48900 0.40708
+H5B H -0.25758 0.64014 0.32930
+H2B H -0.24760 0.51387 0.07460
+H3B H -0.36653 0.49647 0.06628
+H4B H -0.28950 0.36461 0.10637
+H6B H -0.21366 0.42794 0.42955
+H7B H -0.13444 0.56642 0.44595
+H8B H -0.11291 0.41845 0.40084
+#END

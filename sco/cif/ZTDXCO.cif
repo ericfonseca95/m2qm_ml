@@ -1,0 +1,130 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_ZTDXCO
+_audit_creation_date 1977-05-06
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD ZTDXCO
+_chemical_formula_sum 'C12 H22 Cl1 Co1 N2 O8 S2'
+_chemical_formula_moiety
+;
+C12 H22 Co1 N2 O4 S2 1+,Cl1 O4 1-
+;
+_journal_coden_Cambridge 107
+_journal_volume 33
+_journal_year 1977
+_journal_page_first 70
+_journal_name_full 'Acta Crystallogr.,Sect.B:Struct.Crystallogr.Cryst.Chem. '
+loop_
+_publ_author_name
+"R.J.Geue"
+"M.R.Snow"
+_chemical_name_systematic
+;
+(-)~589~-S,S-6,9-Diaza-2,13-dithiatetradecane-5,10-dicarboxylato-cobalt(iii) 
+perchlorate
+;
+_cell_volume    919.063
+_exptl_crystal_density_diffrn 1.737
+_exptl_special_details
+;
+Absolute configuration
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.06
+_refine_ls_wR_factor_gt 0.06
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2'
+_symmetry_Int_Tables_number 5
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 -x,y,-z
+4 1/2-x,1/2+y,-z
+_cell_length_a 12.34(2)
+_cell_length_b 7.94(1)
+_cell_length_c 9.46(1)
+_cell_angle_alpha 90
+_cell_angle_beta 97.45(8)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+Co 1.33
+N 0.68
+O 0.68
+S 1.02
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Co1 Co 0.00000 0.00000 0.00000
+Cl1 Cl 0.00000 0.35710 0.50000
+S1 S 0.03970 -0.20360 0.16650
+O1 O 0.14480 0.01300 -0.04250
+N1 N 0.04070 0.17310 0.13700
+O2 O 0.30770 0.11380 0.03870
+C1 C -0.00060 0.33790 0.08070
+C2 C 0.16290 0.16150 0.17670
+C3 C 0.21140 0.09530 0.04840
+C4 C 0.18740 0.03750 0.30060
+C5 C 0.17330 -0.14800 0.25920
+C6 C -0.04750 -0.16710 0.30400
+O3 O -0.06360 0.25390 0.39830
+O4 O 0.07260 0.45670 0.42590
+H1 H 0.26480 0.05520 0.34870
+H2 H 0.13370 0.06180 0.37370
+H3 H 0.23120 -0.17670 0.19470
+H4 H 0.18750 -0.21970 0.35000
+H5 H 0.19340 0.27760 0.20720
+H6 H -0.07790 0.35740 0.10560
+H7 H 0.04930 0.43210 0.12800
+H8 H 0.00240 0.15400 0.22500
+S1B S -0.03970 -0.20360 -0.16650
+O1B O -0.14480 0.01300 0.04250
+N1B N -0.04070 0.17310 -0.13700
+C1B C 0.00060 0.33790 -0.08070
+C5B C -0.17330 -0.14800 -0.25920
+C6B C 0.04750 -0.16710 -0.30400
+C3B C -0.21140 0.09530 -0.04840
+C2B C -0.16290 0.16150 -0.17670
+H8B H -0.00240 0.15400 -0.22500
+H6B H 0.07790 0.35740 -0.10560
+H7B H -0.04930 0.43210 -0.12800
+C4B C -0.18740 0.03750 -0.30060
+H3B H -0.23120 -0.17670 -0.19470
+H4B H -0.18750 -0.21970 -0.35000
+O2B O -0.30770 0.11380 -0.03870
+H5B H -0.19340 0.27760 -0.20720
+H1B H -0.26480 0.05520 -0.34870
+H2B H -0.13370 0.06180 -0.37370
+O3B O 0.06360 0.25390 0.60170
+O4B O -0.07260 0.45670 0.57410
+#END

@@ -1,0 +1,146 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_HAGKIK
+_audit_creation_date 2003-08-20
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD HAGKIK
+_database_code_depnum_ccdc_archive 'CCDC 195080'
+_chemical_formula_sum 'C14 H34 Cr1 N2 O2 Si2'
+_chemical_formula_moiety
+;
+C14 H34 Cr1 N2 O2 Si2
+;
+_journal_coden_Cambridge 29
+_journal_volume 629
+_journal_year 2003
+_journal_page_first 781
+_journal_name_full 'Z.Anorg.Allg.Chem. '
+loop_
+_publ_author_name
+"U.Siemeling"
+"L.Kolling"
+"O.Kuhnert"
+"B.Neumann"
+"A.Stammler"
+"H.-G.Stammler"
+"G.Fink"
+"E.Kaminski"
+"A.Kiefer"
+"R.R.Schrock"
+_chemical_name_systematic
+;
+(2,5-Dimethylhexane-2,5-di-imido-N,N')-bis(trimethylsiloxy)-chromium(vi)
+;
+_cell_volume   2144.661
+_exptl_crystal_colour 'red'
+_exptl_crystal_density_diffrn 1.148
+_exptl_crystal_description 'plates'
+_diffrn_ambient_temperature 173
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0479
+_refine_ls_wR_factor_gt 0.0479
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 -x,y,1/2-z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -1/2-x,-1/2-y,-z
+7 x,-y,-1/2+z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 21.031(12)
+_cell_length_b 7.631(3)
+_cell_length_c 13.578(5)
+_cell_angle_alpha 90
+_cell_angle_beta 100.20(6)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cr 1.35
+N 0.68
+O 0.68
+Si 1.20
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cr1 Cr 0.00000 0.09267(9) 0.25000
+Si1 Si 0.14804(4) 0.21727(12) 0.30655(7)
+O1 O 0.06964(9) 0.2211(3) 0.30516(15)
+N1 N 0.01895(11) -0.0418(3) 0.16502(16)
+C1 C 0.02478(15) -0.2219(4) 0.1324(2)
+C2 C 0.02867(15) -0.3473(4) 0.2212(2)
+H1 H 0.06850 -0.31950 0.26940
+H2 H 0.03360 -0.46780 0.19650
+C3 C 0.08779(17) -0.2348(5) 0.0883(3)
+H3 H 0.08520 -0.15480 0.03130
+H4 H 0.09320 -0.35520 0.06600
+H5 H 0.12480 -0.20270 0.13970
+C4 C -0.03326(17) -0.2592(5) 0.0486(2)
+H6 H -0.07350 -0.23830 0.07370
+H7 H -0.03180 -0.38150 0.02710
+H8 H -0.03140 -0.18150 -0.00830
+C5 C 0.18323(16) 0.0103(5) 0.3663(3)
+H9 H 0.17130 -0.00190 0.43250
+H10 H 0.23040 0.01410 0.37320
+H11 H 0.16640 -0.08980 0.32440
+C6 C 0.16555(16) 0.2326(5) 0.1766(3)
+H12 H 0.14470 0.13480 0.13650
+H13 H 0.21230 0.22720 0.17880
+H14 H 0.14880 0.34370 0.14640
+C7 C 0.18468(15) 0.4086(5) 0.3816(3)
+H15 H 0.16730 0.51750 0.34930
+H16 H 0.23170 0.40640 0.38590
+H17 H 0.17430 0.40230 0.44910
+O1B O -0.06964(9) 0.2211(3) 0.19484(15)
+Si1B Si -0.14804(4) 0.21727(12) 0.19345(7)
+C5B C -0.18323(16) 0.0103(5) 0.1337(3)
+H9B H -0.17130 -0.00190 0.06750
+H10B H -0.23040 0.01410 0.12680
+H11B H -0.16640 -0.08980 0.17560
+C6B C -0.16555(16) 0.2326(5) 0.3234(3)
+H12B H -0.14470 0.13480 0.36350
+H13B H -0.21230 0.22720 0.32120
+H14B H -0.14880 0.34370 0.35360
+C7B C -0.18468(15) 0.4086(5) 0.1184(3)
+H15B H -0.16730 0.51750 0.15070
+H16B H -0.23170 0.40640 0.11410
+H17B H -0.17430 0.40230 0.05090
+C2B C -0.02867(15) -0.3473(4) 0.2788(2)
+C1B C -0.02478(15) -0.2219(4) 0.3676(2)
+N1B N -0.01895(11) -0.0418(3) 0.33498(16)
+C3B C -0.08779(17) -0.2348(5) 0.4117(3)
+H3B H -0.08520 -0.15480 0.46870
+H4B H -0.09320 -0.35520 0.43400
+H5B H -0.12480 -0.20270 0.36030
+C4B C 0.03326(17) -0.2592(5) 0.4514(2)
+H6B H 0.07350 -0.23830 0.42630
+H7B H 0.03180 -0.38150 0.47290
+H8B H 0.03140 -0.18150 0.50830
+H1B H -0.06850 -0.31950 0.23060
+H2B H -0.03360 -0.46780 0.30350
+#END

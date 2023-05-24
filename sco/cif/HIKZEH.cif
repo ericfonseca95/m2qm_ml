@@ -1,0 +1,143 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_HIKZEH
+_audit_creation_date 2007-11-16
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD HIKZEH
+_database_code_depnum_ccdc_archive 'CCDC 637243'
+_chemical_formula_sum 'C20 H34 Bi1 Mn1 O2'
+_chemical_formula_moiety
+;
+C20 H34 Bi1 Mn1 O2
+;
+_journal_coden_Cambridge 36
+_journal_volume 692
+_journal_year 2007
+_journal_page_first 3430
+_journal_name_full 'J.Organomet.Chem. '
+loop_
+_publ_author_name
+"H.J.Breunig"
+"E.Lork"
+"C.I.Rat"
+"R.P.Wagner"
+_chemical_name_systematic
+;
+Dicarbonyl-(tri-t-butylbismuthine)-(\h^5^-methyl-cyclopentadienyl)-manganese
+;
+_chemical_melting_point 415.15
+_cell_volume   1081.875
+_exptl_crystal_colour 'orange'
+_exptl_crystal_density_diffrn 1.751
+_exptl_special_details
+;
+air-sensitive
+
+;
+_exptl_crystal_description 'blocks'
+_exptl_crystal_preparation 'petroleum ether'
+_diffrn_ambient_temperature 173
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0335
+_refine_ls_wR_factor_gt 0.0335
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 8.707(4)
+_cell_length_b 8.839(2)
+_cell_length_c 15.468(4)
+_cell_angle_alpha 80.282(9)
+_cell_angle_beta 79.08(2)
+_cell_angle_gamma 68.61(2)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Bi 1.54
+Mn 1.35
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.5745(7) 0.6346(7) 0.6263(3)
+C2 C 0.7106(8) 0.5549(10) 0.5540(4)
+H1 H 0.79540 0.46060 0.58070
+H2 H 0.76200 0.63410 0.52220
+H3 H 0.66240 0.51870 0.51260
+C3 C 0.4921(9) 0.5130(9) 0.6727(4)
+H4 H 0.41760 0.55620 0.72560
+H5 H 0.57770 0.40940 0.69010
+H6 H 0.42780 0.49450 0.63250
+C4 C 0.4473(8) 0.7873(9) 0.5886(4)
+H7 H 0.40230 0.76070 0.54200
+H8 H 0.50020 0.86870 0.56370
+H9 H 0.35670 0.83170 0.63570
+C5 C 0.4915(6) 0.8809(6) 0.8094(3)
+C6 C 0.3394(7) 0.8287(8) 0.8331(4)
+H10 H 0.36970 0.71930 0.86580
+H11 H 0.29800 0.82670 0.77870
+H12 H 0.25220 0.90630 0.86990
+C7 C 0.4458(8) 1.0499(7) 0.7577(5)
+H13 H 0.41150 1.04570 0.70160
+H14 H 0.54270 1.08570 0.74560
+H15 H 0.35390 1.12720 0.79250
+C8 C 0.5584(9) 0.8816(8) 0.8935(4)
+H16 H 0.47460 0.96290 0.92960
+H17 H 0.66020 0.90920 0.87760
+H18 H 0.58350 0.77320 0.92720
+C9 C 0.8718(6) 0.8245(7) 0.6494(4)
+C10 C 1.0268(7) 0.6962(8) 0.6079(4)
+H19 H 1.10370 0.74940 0.57370
+H20 H 0.99490 0.64000 0.56860
+H21 H 1.08160 0.61660 0.65470
+C11 C 0.9216(8) 0.9048(7) 0.7140(5)
+H22 H 1.00820 0.94870 0.68330
+H23 H 0.96450 0.82360 0.76320
+H24 H 0.82420 0.99390 0.73720
+C12 C 0.7872(8) 0.9494(9) 0.5777(5)
+H25 H 0.68130 1.02440 0.60420
+H26 H 0.76600 0.89330 0.53410
+H27 H 0.85940 1.01130 0.54830
+C13 C 1.0352(6) 0.4878(6) 0.8284(3)
+C14 C 0.9846(7) 0.3282(7) 0.7220(4)
+C15 C 0.9129(7) 0.2759(7) 0.9464(4)
+C16 C 0.7665(7) 0.4130(7) 0.9575(3)
+H28 H 0.74860 0.49720 0.99310
+C17 C 0.6519(7) 0.4051(7) 0.9076(4)
+H29 H 0.54340 0.48290 0.90390
+C18 C 0.7236(8) 0.2632(7) 0.8640(4)
+H30 H 0.67310 0.22700 0.82610
+C19 C 0.8877(7) 0.1837(7) 0.8879(4)
+H31 H 0.96650 0.08520 0.86760
+C20 C 1.0624(8) 0.2296(8) 0.9922(4)
+H32 H 1.08500 0.32820 0.99760
+H33 H 1.15880 0.15600 0.95790
+H34 H 1.04160 0.17430 1.05140
+O1 O 1.1462(6) 0.5218(6) 0.8381(3)
+O2 O 1.0617(6) 0.2618(6) 0.6615(3)
+Mn1 Mn 0.87420(9) 0.41557(8) 0.82102(5)
+Bi1 Bi 0.704028(18) 0.684471(18) 0.730623(9)
+#END

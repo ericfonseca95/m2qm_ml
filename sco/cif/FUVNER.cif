@@ -1,0 +1,139 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_FUVNER
+_audit_creation_date 2015-09-11
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD FUVNER
+_database_code_depnum_ccdc_archive 'CCDC 1423947'
+_chemical_formula_sum 'C13 H28 Cr1 F3 N3 O3 S1'
+_chemical_formula_moiety
+;
+C13 H28 Cr1 F3 N3 O3 S1
+;
+_journal_coden_Cambridge 9
+_journal_volume 51
+_journal_year 2012
+_journal_page_first 1187
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"S.A.DiFranco"
+"N.A.Maciulis"
+"R.J.Staples"
+"R.J.Batrice"
+"A.L.Odom"
+_chemical_name_systematic
+;
+bis(Di-isopropylamido)-nitrido-(trifluoromethanesulfonato)-chromium(vi)
+;
+_cell_volume   1003.708
+_exptl_crystal_colour 'red orange'
+_exptl_crystal_density_diffrn 1.375
+_exptl_special_details
+;
+air- and moisture-sensitive
+
+;
+_exptl_crystal_description 'chunk'
+_exptl_crystal_preparation 'cold pentane'
+_diffrn_ambient_temperature 173
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0582
+_refine_ls_wR_factor_gt 0.0582
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 9.1995(4)
+_cell_length_b 9.6119(4)
+_cell_length_c 12.5044(4)
+_cell_angle_alpha 86.612(3)
+_cell_angle_beta 87.955(3)
+_cell_angle_gamma 65.425(2)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cr 1.39
+F 0.64
+N 0.68
+O 0.68
+S 1.02
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cr1 Cr 0.39685(8) 0.63645(7) 0.72358(5)
+S1 S 0.72917(13) 0.37456(13) 0.79758(9)
+F1 F 0.8862(4) 0.1117(4) 0.7137(3)
+F2 F 0.6623(4) 0.2469(4) 0.6392(2)
+F3 F 0.6671(5) 0.1345(4) 0.7928(2)
+O1 O 0.5539(3) 0.4650(3) 0.8053(2)
+O2 O 0.7961(4) 0.3164(4) 0.9007(3)
+O3 O 0.8067(4) 0.4428(4) 0.7261(3)
+C1 C 0.4261(6) 0.9339(5) 0.7105(3)
+H1 H 0.42380 1.00810 0.76180
+C2 C 0.2158(6) 0.4635(6) 0.5691(4)
+H2 H 0.30070 0.48270 0.53410
+H3 H 0.14840 0.45300 0.51620
+H4 H 0.26020 0.37080 0.61330
+N1 N 0.4396(4) 0.6405(4) 0.6034(3)
+C3 C 0.7366(6) 0.2083(6) 0.7322(4)
+C4 C 0.0490(6) 0.7477(6) 0.5736(4)
+H5 H -0.01050 0.82910 0.61990
+H6 H -0.02040 0.74270 0.51980
+H7 H 0.13470 0.76680 0.53970
+C5 C 0.5885(7) 0.8733(6) 0.6562(4)
+H8 H 0.66920 0.81730 0.70800
+H9 H 0.60850 0.95740 0.62480
+H10 H 0.59100 0.80670 0.60120
+C6 C 0.5218(6) 0.8117(6) 0.9428(4)
+H11 H 0.60720 0.71690 0.92360
+H12 H 0.50640 0.81130 1.01910
+H13 H 0.54850 0.89540 0.91960
+C7 C 0.1557(5) 0.5897(5) 0.8375(3)
+H14 H 0.23040 0.59920 0.88750
+C8 C 0.2930(7) 1.0165(6) 0.6312(4)
+H15 H 0.29110 0.94570 0.58080
+H16 H 0.31100 1.09810 0.59370
+H17 H 0.19240 1.05800 0.66890
+C9 C 0.2261(6) 0.9782(5) 0.9147(4)
+H18 H 0.25030 1.06380 0.89320
+H19 H 0.20490 0.97850 0.99050
+H20 H 0.13370 0.98560 0.87720
+C10 C 0.1170(5) 0.5973(5) 0.6388(3)
+H21 H 0.02760 0.57820 0.67040
+C11 C 0.1608(7) 0.4302(6) 0.8573(4)
+H22 H 0.08450 0.41860 0.81230
+H23 H 0.13510 0.41620 0.93110
+H24 H 0.26600 0.35510 0.84100
+C12 C -0.0081(6) 0.7158(6) 0.8604(4)
+H25 H -0.00870 0.81340 0.83860
+H26 H -0.03160 0.71330 0.93570
+H27 H -0.08760 0.70010 0.82120
+C13 C 0.3676(5) 0.8303(5) 0.8885(3)
+H28 H 0.34170 0.74610 0.91730
+N2 N 0.2163(4) 0.6047(4) 0.7268(2)
+N3 N 0.3988(4) 0.8085(4) 0.7718(2)
+#END

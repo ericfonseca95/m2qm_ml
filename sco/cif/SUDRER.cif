@@ -1,0 +1,117 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_SUDRER
+_audit_creation_date 2020-01-20
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD SUDRER
+_database_code_depnum_ccdc_archive 'CCDC 1922221'
+_chemical_formula_sum 'C12 H10 Mn1 N3 O5'
+_chemical_formula_moiety
+;
+C12 H10 Mn1 N3 O5
+;
+_journal_coden_Cambridge 1048
+_journal_volume 22
+_journal_year 2020
+_journal_page_first 913
+_journal_name_full 'Green Chemistry '
+loop_
+_publ_author_name
+"A.Leval"
+"A.Agapova"
+"C.Steinlechner"
+"E.Alberico"
+"Henrik Junge"
+"M.Beller"
+_chemical_name_systematic
+;
+tricarbonyl-[2-(4,5-dihydro-1H-imidazol-2-yl)pyridine]-(formato)-manganese 
+unknown solvate
+;
+_cell_volume    834.540
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.318
+_exptl_crystal_description 'plate'
+_diffrn_ambient_temperature 150
+_refine_special_details
+;
+The SQUEEZE/PLATON program was used to model some disordered solvent.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0346
+_refine_ls_wR_factor_gt 0.0346
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 7.5940(14)
+_cell_length_b 8.5623(16)
+_cell_length_c 13.088(3)
+_cell_angle_alpha 97.266(3)
+_cell_angle_beta 95.849(3)
+_cell_angle_gamma 95.577(3)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Mn 1.61
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.8217(2) 0.83703(19) 1.00650(13)
+H1 H 0.87300 0.74450 1.02170
+C2 C 0.8310(2) 0.9638(2) 1.08432(14)
+H2 H 0.88700 0.95830 1.15190
+C3 C 0.7575(2) 1.0985(2) 1.06193(14)
+H3 H 0.76340 1.18750 1.11400
+C4 C 0.6751(2) 1.10331(18) 0.96331(14)
+H4 H 0.62360 1.19490 0.94650
+C5 C 0.6696(2) 0.97167(17) 0.88999(13)
+C6 C 0.5780(2) 0.95527(19) 0.78450(13)
+C7 C 0.4139(3) 0.9979(3) 0.63798(16)
+H5 H 0.46380 1.06100 0.58720
+H6 H 0.28240 0.99410 0.62890
+C8 C 0.4735(3) 0.8284(2) 0.62648(14)
+H7 H 0.36920 0.74680 0.61530
+H8 H 0.54530 0.81190 0.56780
+C9 C 0.9045(3) 0.7027(2) 0.73879(14)
+C10 C 0.8079(2) 0.5089(2) 0.85792(14)
+C11 C 0.6348(3) 0.4994(2) 0.68096(15)
+C12 C 0.3899(2) 0.4884(2) 0.86686(15)
+H9 H 0.28180 0.49220 0.89720
+Mn1 Mn 0.69936(3) 0.65259(3) 0.79030(2)
+N1 N 0.74291(17) 0.83967(15) 0.91035(11)
+N2 N 0.5809(2) 0.82257(17) 0.72527(11)
+N3 N 0.4871(3) 1.0622(2) 0.74323(13)
+O1 O 1.0353(2) 0.7314(2) 0.70471(13)
+O2 O 0.8841(2) 0.41866(17) 0.89540(12)
+O3 O 0.5988(3) 0.40341(19) 0.61116(13)
+O4 O 0.46518(16) 0.61917(14) 0.85038(11)
+O5 O 0.4393(3) 0.35803(17) 0.84851(16)
+H10 H 0.473(4) 1.150(2) 0.775(2)
+#END

@@ -1,0 +1,117 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_SAPBIV
+_audit_creation_date 2005-10-13
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD SAPBIV
+_database_code_depnum_ccdc_archive 'CCDC 272113'
+_chemical_formula_sum 'C14 H12 Cl2 Co1 N4'
+_chemical_formula_moiety
+;
+C14 H12 Cl2 Co1 N4
+;
+_journal_coeditor_code "IUCr SJ6069"
+_journal_coden_Cambridge 1370
+_journal_volume 61
+_journal_year 2005
+_journal_page_first m875
+_journal_name_full 'Acta Crystallogr.,Sect.E:Struct.Rep.Online '
+loop_
+_publ_author_name
+"F.-J.Yoe-Reyes"
+"S.Bernes"
+"N.Barba-Behrens"
+_chemical_name_systematic
+;
+Dichloro-bis(1H-benzimidazole-\kN^3^)-cobalt(ii)
+;
+_cell_volume    765.587
+_exptl_crystal_colour 'blue'
+_exptl_crystal_density_diffrn 1.588
+_exptl_special_details
+;
+isostructural with the Zn analogue
+
+;
+_exptl_crystal_description 'thick plate'
+_exptl_crystal_preparation 'ethanol'
+_diffrn_ambient_temperature 296.0
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0366
+_refine_ls_wR_factor_gt 0.0366
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 7.4713(12)
+_cell_length_b 7.7792(7)
+_cell_length_c 13.3329(12)
+_cell_angle_alpha 85.785(6)
+_cell_angle_beta 86.057(9)
+_cell_angle_gamma 82.954(9)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+Co 1.33
+N 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Co1 Co 0.36571(4) 0.25275(3) 0.738732(19)
+Cl1 Cl 0.52239(9) 0.12033(9) 0.86576(5)
+Cl2 Cl 0.51580(9) 0.45467(7) 0.65072(5)
+N1 N 0.3421(3) -0.1622(2) 0.56228(15)
+H1 H 0.36810 -0.27020 0.55110
+C1 C 0.3726(3) -0.0891(2) 0.64529(17)
+H2 H 0.42760 -0.14980 0.69990
+N2 N 0.3166(2) 0.0798(2) 0.64221(12)
+C2 C 0.1717(3) 0.2753(3) 0.50210(16)
+H3 H 0.16060 0.37750 0.53530
+C3 C 0.1166(4) 0.2735(3) 0.40569(18)
+H4 H 0.06710 0.37660 0.37340
+C4 C 0.1335(4) 0.1200(3) 0.35517(18)
+H5 H 0.09520 0.12390 0.29000
+C5 C 0.2054(3) -0.0365(3) 0.39978(17)
+H6 H 0.21620 -0.13860 0.36650
+C6 C 0.2608(3) -0.0341(2) 0.49665(15)
+C7 C 0.2448(3) 0.1179(2) 0.54794(14)
+N3 N -0.1648(3) 0.3801(3) 0.84625(16)
+H7 H -0.27300 0.35350 0.85760
+C8 C -0.0268(3) 0.2839(3) 0.80061(18)
+H8 H -0.03610 0.17670 0.77610
+N4 N 0.1238(2) 0.3572(2) 0.79400(13)
+C9 C 0.1869(4) 0.6418(3) 0.85577(17)
+H9 H 0.30900 0.63130 0.83510
+C10 C 0.1040(5) 0.7853(3) 0.9041(2)
+H10 H 0.17220 0.87320 0.91600
+C11 C -0.0775(5) 0.8009(4) 0.9349(2)
+H11 H -0.12780 0.89970 0.96660
+C12 C -0.1860(4) 0.6757(4) 0.9203(2)
+H12 H -0.30800 0.68680 0.94130
+C13 C -0.1023(3) 0.5303(3) 0.87203(16)
+C14 C 0.0790(3) 0.5149(3) 0.83986(14)
+#END

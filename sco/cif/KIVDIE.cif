@@ -1,0 +1,108 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_KIVDIE
+_audit_creation_date 2014-01-24
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD KIVDIE
+_database_code_depnum_ccdc_archive 'CCDC 955801'
+_chemical_formula_sum 'C10 H8 Cl2 Cr1 N2 O2'
+_chemical_formula_moiety
+;
+C10 H8 Cl2 Cr1 N2 O2
+;
+_journal_coden_Cambridge 29
+_journal_volume 640
+_journal_year 2014
+_journal_page_first 35
+_journal_name_full 'Z.Anorg.Allg.Chem. '
+loop_
+_publ_author_name
+"W.Levason"
+"G.Reid"
+"W.Zhang"
+_chemical_name_systematic
+;
+(2,2'-Bipyridine)-dichloro-dioxido-chromium(vi)
+;
+_cell_volume    586.202
+_exptl_crystal_colour 'orange'
+_exptl_crystal_density_diffrn 1.762
+_exptl_special_details
+;
+Air-sensitive, Moisture-sensitive
+
+;
+_exptl_crystal_description 'needle'
+_diffrn_ambient_temperature 100
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0563
+_refine_ls_wR_factor_gt 0.0563
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 7.696(2)
+_cell_length_b 8.749(2)
+_cell_length_c 9.460(2)
+_cell_angle_alpha 67.268(9)
+_cell_angle_beta 86.710(14)
+_cell_angle_gamma 86.999(14)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+Cr 1.39
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cr1 Cr 0.24781(8) 0.22235(8) 0.26775(8)
+Cl1 Cl -0.04117(12) 0.20997(13) 0.33774(12)
+Cl2 Cl 0.53206(12) 0.29733(13) 0.22279(13)
+O1 O 0.2893(3) 0.0274(3) 0.3549(3)
+O2 O 0.2172(4) 0.2523(4) 0.0909(3)
+N1 N 0.2015(4) 0.4864(4) 0.2184(4)
+N2 N 0.2776(4) 0.2555(4) 0.4820(4)
+C1 C 0.1692(5) 0.5974(5) 0.0774(5)
+H1 H 0.16540 0.55980 -0.00410
+C2 C 0.1411(5) 0.7645(5) 0.0460(5)
+H2 H 0.11790 0.84010 -0.05510
+C3 C 0.1471(5) 0.8200(5) 0.1640(5)
+H3 H 0.12770 0.93410 0.14540
+C4 C 0.1822(5) 0.7052(5) 0.3109(5)
+H4 H 0.18610 0.74000 0.39420
+C5 C 0.2110(5) 0.5405(5) 0.3335(5)
+C6 C 0.2596(5) 0.4106(5) 0.4814(5)
+C7 C 0.2911(5) 0.4421(5) 0.6112(5)
+H5 H 0.27830 0.55160 0.60900
+C8 C 0.3410(5) 0.3126(6) 0.7426(5)
+H6 H 0.36400 0.33210 0.83170
+C9 C 0.3574(5) 0.1531(6) 0.7436(5)
+H7 H 0.39120 0.06190 0.83300
+C10 C 0.3232(5) 0.1305(5) 0.6108(5)
+H8 H 0.33270 0.02160 0.61140
+#END

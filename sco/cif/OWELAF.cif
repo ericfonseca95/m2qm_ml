@@ -1,0 +1,123 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_OWELAF
+_audit_creation_date 2016-09-20
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD OWELAF
+_database_code_depnum_ccdc_archive 'CCDC 1481453'
+_chemical_formula_sum 'C9 H25 Mn1 N2'
+_chemical_formula_moiety
+;
+C9 H25 Mn1 N2
+;
+_journal_coden_Cambridge 579
+_journal_volume 35
+_journal_year 2016
+_journal_page_first 2683
+_journal_name_full 'Organometallics '
+loop_
+_publ_author_name
+"M.M.Stalzer"
+"JoshuaTelser"
+"J.Krzystek"
+"A.Motta"
+"MassimilianoDelferro"
+"T.J.Marks"
+_chemical_name_systematic
+;
+trimethyl-(N,N,N',N'-tetramethylethane-1,2-diamine)-manganese
+;
+_chemical_name_common
+;
+trimethyl-(N,N,N',N'-tetramethylethylenediamine)-manganese
+;
+_cell_volume   1242.545
+_exptl_crystal_colour 'dark red'
+_exptl_crystal_density_diffrn 1.156
+_exptl_crystal_description 'needle'
+_exptl_crystal_preparation 'pentane'
+_diffrn_ambient_temperature 100
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0201
+_refine_ls_wR_factor_gt 0.0201
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 8.5099(3)
+_cell_length_b 13.0628(5)
+_cell_length_c 14.0488(5)
+_cell_angle_alpha 90
+_cell_angle_beta 127.285(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Mn 1.61
+N 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mn1 Mn 0.09602(3) 0.68556(2) 0.25853(2)
+C1 C 0.37507(17) 0.82214(6) 0.24246(12)
+N1 N 0.21202(13) 0.84405(6) 0.24993(9)
+N2 N 0.31483(12) 0.63523(6) 0.22826(7)
+C2 C 0.0515(2) 0.8996(1) 0.14246(14)
+C3 C 0.2840(2) 0.90636(10) 0.35625(14)
+C4 C 0.33291(16) 0.72537(8) 0.17119(8)
+C5 C -0.14721(18) 0.66661(10) 0.07609(10)
+C6 C 0.27098(19) 0.62661(9) 0.43347(9)
+C7 C -0.0960(2) 0.74094(12) 0.28928(13)
+C8 C 0.2420(2) 0.54753(9) 0.14473(12)
+C9 C 0.51299(16) 0.60693(9) 0.33748(9)
+H1 H 0.503(2) 0.5441(11) 0.3660(13)
+H2 H -0.059(3) 0.9053(12) 0.1461(15)
+H3 H -0.192(3) 0.7942(14) 0.2258(18)
+H4 H 0.613(2) 0.5944(11) 0.3209(13)
+H5 H 0.171(3) 0.9215(14) 0.3592(16)
+H6 H 0.561(2) 0.6576(12) 0.3915(13)
+H7 H 0.325(3) 0.9726(13) 0.3457(15)
+H8 H 0.091(3) 0.9659(13) 0.1322(16)
+H9 H -0.257(4) 0.7080(15) 0.0583(19)
+H10 H 0.005(2) 0.8611(13) 0.0674(14)
+H11 H 0.340(3) 0.5344(13) 0.1352(16)
+H12 H 0.496(3) 0.8147(9) 0.3235(15)
+H13 H 0.434(3) 0.7100(11) 0.1623(14)
+H14 H -0.168(4) 0.6757(13) 0.290(2)
+H15 H -0.023(3) 0.7772(15) 0.3660(18)
+H16 H -0.121(3) 0.6815(10) 0.0205(15)
+H17 H 0.385(3) 0.8715(13) 0.4264(15)
+H18 H 0.388(3) 0.6668(13) 0.4873(16)
+H19 H 0.226(3) 0.4903(15) 0.1787(15)
+H20 H 0.210(2) 0.7326(11) 0.0916(13)
+H21 H -0.193(3) 0.5955(14) 0.0576(15)
+H22 H 0.123(2) 0.5677(11) 0.0712(14)
+H23 H 0.393(2) 0.8826(11) 0.2040(14)
+H24 H 0.194(3) 0.6228(13) 0.4633(15)
+H25 H 0.323(3) 0.5597(13) 0.4357(15)
+#END

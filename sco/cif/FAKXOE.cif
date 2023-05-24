@@ -1,0 +1,122 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_FAKXOE
+_audit_creation_date 1987-09-22
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD FAKXOE
+_chemical_formula_sum 'C15 H19 Mn1 O3'
+_chemical_formula_moiety
+;
+C15 H19 Mn1 O3
+;
+_journal_coden_Cambridge 579
+_journal_volume 5
+_journal_year 1986
+_journal_page_first 2559
+_journal_name_full 'Organometallics '
+loop_
+_publ_author_name
+"M.A.Wilmoth"
+"R.J.Bernhardt"
+"D.P.Eyman"
+"J.C.Huffman"
+_chemical_name_systematic
+;
+endo-Tricarbonyl-(\h^5^-hexamethyl-cyclohexadienyl)-manganese
+;
+_cell_volume    713.918
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.406
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+The methyl H atoms at C13 are disordered about a mirror plane. Their 
+coordinates (H10-H12) have not been retained.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.027
+_refine_ls_wR_factor_gt 0.027
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/m'
+_symmetry_Int_Tables_number 11
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,-z
+3 -x,-y,-z
+4 x,-1/2-y,z
+_cell_length_a 8.227(1)
+_cell_length_b 9.172(1)
+_cell_length_c 9.917(2)
+_cell_angle_alpha 90
+_cell_angle_beta 107.44
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Mn 1.35
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mn1 Mn 0.09939(4) 0.25000 0.72411(4)
+C1 C -0.0592(2) 0.3851(2) 0.7253(2)
+O1 O -0.1638(2) 0.4682(3) 0.7262(2)
+C2 C 0.0560(3) 0.25000 0.5347(3)
+O2 O 0.0271(2) 0.25000 0.4136(2)
+C3 C 0.4385(3) 0.25000 0.7204(2)
+C4 C 0.3335(2) 0.1194(2) 0.7414(2)
+C5 C 0.2878(2) 0.3846(2) 0.8679(2)
+C6 C 0.2705(3) 0.25000 0.9361(2)
+C7 C 0.4759(3) 0.25000 0.5785(3)
+C8 C 0.3383(3) -0.0174(2) 0.6591(2)
+C9 C 0.2526(3) 0.5273(2) 0.9304(2)
+C10 C 0.2374(4) 0.25000 1.0785(3)
+H1 H 0.551(4) 0.25000 0.793(3)
+H2 H 0.373(4) 0.25000 0.499(3)
+H3 H 0.541(3) 0.334(2) 0.571(2)
+H4 H 0.314(3) 0.000(3) 0.560(3)
+H5 H 0.445(3) -0.058(3) 0.688(2)
+H6 H 0.258(3) -0.091(3) 0.665(2)
+H7 H 0.174(3) 0.520(3) 0.981(3)
+H8 H 0.349(3) 0.572(3) 0.986(3)
+H9 H 0.214(3) 0.596(3) 0.869(3)
+C1C C -0.0592(2) 0.1149(2) 0.7253(2)
+C4C C 0.3335(2) 0.3806(2) 0.7414(2)
+C5C C 0.2878(2) 0.1154(2) 0.8679(2)
+H3C H 0.541(3) 0.166(2) 0.571(2)
+O1C O -0.1638(2) 0.0318(3) 0.7262(2)
+C8C C 0.3383(3) 0.5174(2) 0.6591(2)
+C9C C 0.2526(3) -0.0273(2) 0.9304(2)
+H4C H 0.314(3) 0.500(3) 0.560(3)
+H5C H 0.445(3) 0.558(3) 0.688(2)
+H6C H 0.258(3) 0.591(3) 0.665(2)
+H7C H 0.174(3) -0.020(3) 0.981(3)
+H8C H 0.349(3) -0.072(3) 0.986(3)
+H9C H 0.214(3) -0.096(3) 0.869(3)
+#END

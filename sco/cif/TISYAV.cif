@@ -1,0 +1,119 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_TISYAV
+_audit_creation_date 1997-04-03
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD TISYAV
+_chemical_formula_sum 'C13 H9 Mn1 O8 S1'
+_chemical_formula_moiety
+;
+C13 H9 Mn1 O8 S1
+;
+_journal_coden_Cambridge 36
+_journal_volume 515
+_journal_year 1996
+_journal_page_first 109
+_journal_name_full 'J.Organomet.Chem. '
+loop_
+_publ_author_name
+"J.M.Cooney"
+"C.V.Depree"
+"L.Main"
+"B.K.Nicholson"
+_chemical_name_systematic
+;
+(2-Acetyl-5-methoxyphenylsulfonyl)-tetracarbonyl-manganese
+;
+_chemical_melting_point 388.15
+_cell_volume    760.516
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.66
+_exptl_special_details
+;
+Melts with decomposition.
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0401
+_refine_ls_wR_factor_gt 0.0401
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 6.426(1)
+_cell_length_b 9.045(4)
+_cell_length_c 13.767(2)
+_cell_angle_alpha 97.37(2)
+_cell_angle_beta 103.16(1)
+_cell_angle_gamma 78.45(2)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Mn 1.35
+O 0.68
+S 1.02
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mn1 Mn 1.0411(1) 0.2375(1) 0.3237(1)
+S1 S 0.7825(1) 0.0900(1) 0.2954(1)
+O1 O 1.4077(3) 0.4114(2) 0.3773(2)
+O2 O 0.7227(3) 0.5064(2) 0.2571(2)
+O3 O 1.0895(4) 0.1664(8) 0.1102(2)
+O4 O 0.9589(4) 0.3282(3) 0.5314(2)
+O5 O 1.2417(2) 0.0475(2) 0.3735(1)
+O6 O 0.7564(3) 0.0412(2) 0.3882(2)
+O7 O 0.5797(3) 0.1439(2) 0.2265(2)
+O8 O 0.7130(4) -0.3621(3) 0.0278(2)
+C1 C 1.2743(4) 0.3427(3) 0.3553(2)
+C2 C 0.8494(4) 0.4020(3) 0.2840(2)
+C3 C 1.0782(4) 0.1882(3) 0.1910(2)
+C4 C 0.9907(4) 0.2897(3) 0.4544(2)
+C5 C 1.2626(4) -0.0904(3) 0.3479(2)
+C6 C 1.4526(4) -0.1898(3) 0.4069(2)
+C7 C 1.1136(4) -0.1565(3) 0.2641(2)
+C8 C 0.8979(4) -0.0850(3) 0.2309(2)
+C9 C 0.7596(4) -0.1492(3) 0.1524(2)
+C10 C 0.8345(5) -0.2877(3) 0.1043(2)
+C11 C 1.0484(5) -0.3599(3) 0.1351(2)
+C12 C 1.1832(4) -0.2961(3) 0.2145(2)
+C13 C 0.4924(6) -0.2915(4) -0.0087(3)
+H1 H 1.4344(54) -0.3063(11) 0.4052(23)
+H2 H 1.4838(51) -0.1415(33) 0.4836(8)
+H3 H 1.5868(37) -0.1850(33) 0.3731(22)
+H4 H 0.6173(4) -0.1002(3) 0.1319(2)
+H5 H 1.0999(5) -0.4513(3) 0.1018(2)
+H6 H 1.3241(4) -0.3471(3) 0.2358(2)
+H7 H 0.4332(50) -0.3761(26) -0.0653(16)
+H8 H 0.4748(56) -0.1867(18) -0.0421(20)
+H9 H 0.4001(47) -0.2730(34) 0.0496(17)
+#END

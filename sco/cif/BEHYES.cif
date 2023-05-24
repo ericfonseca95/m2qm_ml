@@ -1,0 +1,134 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_BEHYES
+_audit_creation_date 1999-11-19
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD BEHYES
+_database_code_depnum_ccdc_archive 'CCDC 102933'
+_chemical_formula_sum 'C17 H20 Cr1 O5 Si1'
+_chemical_formula_moiety
+;
+C17 H20 Cr1 O5 Si1
+;
+_journal_coden_Cambridge 36
+_journal_volume 578
+_journal_year 1999
+_journal_page_first 252
+_journal_name_full 'J.Organomet.Chem. '
+loop_
+_publ_author_name
+"T.J.J.Muller"
+"M.Ansorge"
+"K.Polborn"
+_chemical_name_systematic
+;
+(\h^6^-2-(Dimethoxy)methyl-1-(trimethylsilylethynyl)benzene)-tricarbonyl-chrom
+ium
+;
+_chemical_melting_point 339.15
+_cell_volume    995.227
+_exptl_crystal_colour 'yellow-orange'
+_exptl_crystal_density_diffrn 1.283
+_exptl_special_details
+;
+Melting point range 339.15-340.15K
+
+;
+_exptl_crystal_description 'plate'
+_exptl_crystal_preparation 'pentane'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0603
+_refine_ls_wR_factor_gt 0.0603
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 9.322(3)
+_cell_length_b 10.413(2)
+_cell_length_c 11.417(4)
+_cell_angle_alpha 94.38(2)
+_cell_angle_beta 105.85(3)
+_cell_angle_gamma 108.43(2)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cr 1.35
+O 0.68
+Si 1.20
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cr1 Cr 0.64726(10) 0.26194(8) 0.65164(8)
+Si1 Si 0.6566(2) 0.7837(2) 0.9591(2)
+O1 O 0.4131(6) 0.0309(4) 0.7145(4)
+O2 O 0.8216(6) 0.0741(5) 0.6151(5)
+O3 O 0.8453(6) 0.3398(5) 0.9177(4)
+O4 O 0.8931(4) 0.7027(4) 0.6320(4)
+O5 O 1.0366(4) 0.5641(4) 0.6576(4)
+C1 C 0.5032(7) 0.1203(6) 0.6909(5)
+C2 C 0.7547(7) 0.1461(6) 0.6295(5)
+C3 C 0.7677(7) 0.3092(6) 0.8162(6)
+C4 C 0.6159(6) 0.4640(5) 0.6556(5)
+C5 C 0.7509(6) 0.4736(4) 0.6169(4)
+C6 C 0.7347(7) 0.3803(5) 0.5170(5)
+H1 H 0.8227(7) 0.3858(5) 0.4914(5)
+C7 C 0.5873(8) 0.2774(6) 0.4536(5)
+H2 H 0.5777(8) 0.2156(6) 0.3862(5)
+C8 C 0.4575(7) 0.2683(5) 0.4912(5)
+H3 H 0.3602(7) 0.1995(5) 0.4492(5)
+C9 C 0.4690(6) 0.3607(5) 0.5916(5)
+H4 H 0.3797(6) 0.3538(5) 0.6159(5)
+C10 C 0.6275(6) 0.5618(5) 0.7586(5)
+C11 C 0.6351(7) 0.6436(6) 0.8377(5)
+C12 C 0.456(1) 0.7833(9) 0.9511(8)
+H5 H 0.3958(25) 0.7768(58) 0.8665(11)
+H6 H 0.4651(10) 0.8669(27) 0.9992(44)
+H7 H 0.4028(26) 0.7060(34) 0.9833(47)
+C13 C 0.7602(10) 0.9486(7) 0.9173(8)
+H8 H 0.7050(36) 0.9516(23) 0.8338(18)
+H9 H 0.8675(21) 0.9558(24) 0.9241(45)
+H10 H 0.7617(54) 1.0238(7) 0.9723(31)
+C14 C 0.7679(16) 0.7631(11) 1.1074(8)
+H11 H 0.7918(87) 0.8424(40) 1.1680(17)
+H12 H 0.8653(44) 0.7534(82) 1.1027(21)
+H13 H 0.7060(38) 0.6825(49) 1.1309(34)
+C15 C 0.9086(6) 0.5884(5) 0.6813(5)
+H14 H 0.9265(6) 0.6049(5) 0.7707(5)
+C16 C 1.0189(8) 0.8273(7) 0.6947(9)
+H15 H 0.9989(34) 0.9025(10) 0.6582(33)
+H16 H 1.1175(13) 0.8223(23) 0.6881(44)
+H17 H 1.0254(41) 0.8415(28) 0.7804(14)
+C17 C 1.1101(7) 0.4902(7) 0.7371(7)
+H18 H 1.2131(21) 0.5020(33) 0.7289(27)
+H19 H 1.0454(24) 0.3944(9) 0.7155(24)
+H20 H 1.1218(42) 0.5240(27) 0.8211(7)
+#END

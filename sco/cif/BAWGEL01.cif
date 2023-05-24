@@ -1,0 +1,129 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_BAWGEL01
+_audit_creation_date 1982-07-05
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD BAWGEL01
+_database_code_depnum_ccdc_archive 'CCDC 1106646'
+_chemical_formula_sum 'C12 H12 Br1 Cr1'
+_chemical_formula_moiety
+;
+C12 H12 Cr1 1+,Br1 1-
+;
+_journal_coden_Cambridge 189
+_journal_volume 10
+_journal_year 1981
+_journal_page_first 1531
+_journal_name_full 'Cryst.Struct.Commun. '
+loop_
+_publ_author_name
+"A.L.Spek"
+"A.J.M.Duisenberg"
+_chemical_name_systematic
+;
+bis(Benzene)-chromium bromide
+;
+_cell_volume   1050.960
+_exptl_crystal_density_diffrn 1.821
+_diffrn_ambient_temperature 100
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.088
+_refine_ls_wR_factor_gt 0.088
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'F m m m'
+_symmetry_Int_Tables_number 69
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 x,1/2+y,1/2+z
+3 1/2+x,y,1/2+z
+4 1/2+x,1/2+y,z
+5 -x,-y,z
+6 -x,1/2-y,1/2+z
+7 1/2-x,-y,1/2+z
+8 1/2-x,1/2-y,z
+9 x,-y,-z
+10 x,1/2-y,1/2-z
+11 1/2+x,-y,1/2-z
+12 1/2+x,1/2-y,-z
+13 -x,y,-z
+14 -x,1/2+y,1/2-z
+15 1/2-x,y,1/2-z
+16 1/2-x,1/2+y,-z
+17 -x,-y,-z
+18 -x,-1/2-y,-1/2-z
+19 -1/2-x,-y,-1/2-z
+20 -1/2-x,-1/2-y,-z
+21 x,y,-z
+22 x,-1/2+y,-1/2-z
+23 -1/2+x,y,-1/2-z
+24 -1/2+x,-1/2+y,-z
+25 -x,y,z
+26 -x,-1/2+y,-1/2+z
+27 -1/2-x,y,-1/2+z
+28 -1/2-x,-1/2+y,z
+29 x,-y,z
+30 x,-1/2-y,-1/2+z
+31 -1/2+x,-y,-1/2+z
+32 -1/2+x,-1/2-y,z
+_cell_length_a 9.706(12)
+_cell_length_b 9.106(8)
+_cell_length_c 11.891(17)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Br 1.21
+Cr 1.35
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cr1 Cr 0.00000 0.00000 0.00000
+C1 C 0.07400 0.13500 0.13400
+C2 C 0.14600 0.00000 0.13500
+H1 H 0.11600 0.22300 0.11900
+H2 H 0.21800 0.00000 0.11900
+Br1 Br 0.00000 0.00000 0.50000
+C1P C -0.07400 -0.13500 -0.13400
+C1X C -0.07400 0.13500 0.13400
+C1H C 0.07400 -0.13500 -0.13400
+C1BA C 0.07400 -0.13500 0.13400
+C1L C -0.07400 0.13500 -0.13400
+C1D C -0.07400 -0.13500 0.13400
+C1T C 0.07400 0.13500 -0.13400
+C2P C -0.14600 0.00000 -0.13500
+C2X C -0.14600 0.00000 0.13500
+C2H C 0.14600 0.00000 -0.13500
+H1P H -0.11600 -0.22300 -0.11900
+H1X H -0.11600 0.22300 0.11900
+H1H H 0.11600 -0.22300 -0.11900
+H1BA H 0.11600 -0.22300 0.11900
+H1L H -0.11600 0.22300 -0.11900
+H1D H -0.11600 -0.22300 0.11900
+H1T H 0.11600 0.22300 -0.11900
+H2P H -0.21800 0.00000 -0.11900
+H2X H -0.21800 0.00000 0.11900
+H2H H 0.21800 0.00000 -0.11900
+#END

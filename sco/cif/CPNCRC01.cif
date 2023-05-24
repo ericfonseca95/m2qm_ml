@@ -1,0 +1,105 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CPNCRC01
+_audit_creation_date 1980-09-10
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CPNCRC01
+_chemical_formula_sum 'C5 H5 Cl1 Cr1 N2 O2'
+_chemical_formula_moiety
+;
+C5 H5 Cl1 Cr1 N2 O2
+;
+_journal_coeditor_code "IUCr A18732"
+_journal_coden_Cambridge 107
+_journal_volume 36
+_journal_year 1980
+_journal_page_first 795
+_journal_name_full 'Acta Crystallogr.,Sect.B:Struct.Crystallogr.Cryst.Chem. '
+loop_
+_publ_author_name
+"T.J.Greenhough"
+"B.W.S.Kolthammer"
+"P.Legzdins"
+"J.Trotter"
+_chemical_name_systematic
+;
+(\h^5^-Cyclopentadienyl)-chloro-dinitrosyl-chromium
+;
+_cell_volume    788.702
+_exptl_crystal_density_diffrn 1.79
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+The cyclopentadienyl group is disordered over 2 orientations of equal 
+occupancy. One set of positions is retained.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.023
+_refine_ls_wR_factor_gt 0.023
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2-y,-z
+3 -x,1/2+y,1/2-z
+4 1/2-x,-y,1/2+z
+_cell_length_a 10.8016(9)
+_cell_length_b 12.2586(13)
+_cell_length_c 5.9564(6)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+Cr 1.35
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cr1 Cr 0.02727 0.64191 0.43203
+Cl1 Cl -0.02369 0.78982 0.65705
+N1 N 0.14330 0.58630 0.59240
+O1 O 0.22090 0.53640 0.67820
+N2 N 0.12770 0.70190 0.24590
+O2 O 0.19140 0.72780 0.09870
+C1 C -0.10600 0.61100 0.15000
+C2 C -0.17500 0.64200 0.33300
+C3 C -0.15500 0.56500 0.49800
+C4 C -0.07800 0.48900 0.42400
+C5 C -0.03500 0.51700 0.21300
+H1 H -0.09600 0.63900 -0.00100
+H2 H -0.22200 0.70900 0.32900
+H3 H -0.20000 0.57500 0.64300
+H4 H -0.05700 0.42900 0.52500
+H5 H 0.02000 0.47100 0.13400
+#END

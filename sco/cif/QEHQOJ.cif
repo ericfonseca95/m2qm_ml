@@ -1,0 +1,125 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_QEHQOJ
+_audit_creation_date 2001-05-07
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD QEHQOJ
+_database_code_depnum_ccdc_archive 'CCDC 149746'
+_chemical_formula_sum 'C11 H11 Cr1 N1 O6'
+_chemical_formula_moiety
+;
+C11 H11 Cr1 N1 O6
+;
+_journal_coden_Cambridge 36
+_journal_volume 617
+_journal_year 2001
+_journal_page_first 182
+_journal_name_full 'J.Organomet.Chem. '
+loop_
+_publ_author_name
+"T.S.Powers"
+"W.D.Wulff"
+"J.Quinn"
+"Yan Shi"
+"Weiqin Jiang"
+"R.Hsung"
+"M.Parisi"
+"A.Rahm"
+"Xiao Wu Jiang"
+"G.P.A.Yap"
+"A.L.Rheingold"
+_chemical_name_systematic
+;
+E-(trans-Propenyl-(2-hydroxyethylamino)methylene)-pentacarbonyl-chromium(0)
+;
+_chemical_melting_point 373.15
+_cell_volume    667.973
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.517
+_exptl_special_details
+;
+Melting point range 373.15-375.15K
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0382
+_refine_ls_wR_factor_gt 0.0382
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 8.0257(11)
+_cell_length_b 9.2574(7)
+_cell_length_c 10.5380(14)
+_cell_angle_alpha 70.082(9)
+_cell_angle_beta 69.473(8)
+_cell_angle_gamma 70.298(8)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cr 1.35
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cr1 Cr 0.17588(5) 0.35977(4) 0.26097(3)
+N1 N 0.5232(3) 0.1604(2) 0.1140(2)
+H1 H 0.4485(3) 0.1779(2) 0.0655(2)
+C1 C 0.6685(4) 0.1765(4) 0.5151(3)
+H2 H 0.6074(4) 0.2200(4) 0.5951(3)
+H3 H 0.7742(4) 0.2178(4) 0.4613(3)
+H4 H 0.7065(4) 0.0631(4) 0.5459(3)
+C2 C 0.5415(4) 0.2202(3) 0.4277(2)
+H5 H 0.4241(4) 0.2813(3) 0.4586(2)
+C3 C 0.5787(4) 0.1809(3) 0.3105(2)
+H6 H 0.6973(4) 0.1223(3) 0.2786(2)
+C4 C 0.4523(3) 0.2200(2) 0.2244(2)
+C5 C 0.7099(4) 0.0687(3) 0.0613(2)
+H7 H 0.7970(4) 0.1117(3) 0.0728(2)
+H8 H 0.7329(4) 0.0812(3) -0.0381(2)
+C6 C 0.7426(4) -0.1048(3) 0.1339(2)
+H9 H 0.8690(4) -0.1585(3) 0.0973(2)
+H10 H 0.7210(4) -0.1192(3) 0.2334(2)
+O1 O 0.6214(3) -0.1710(2) 0.1115(2)
+H11 H 0.6390(3) -0.2658(2) 0.1511(2)
+C7 C 0.2654(4) 0.5173(3) 0.2748(3)
+O2 O 0.3233(4) 0.6157(3) 0.2737(3)
+C8 C 0.2113(4) 0.4664(3) 0.0680(3)
+O3 O 0.2275(4) 0.5336(3) -0.0458(2)
+C9 C 0.1080(4) 0.2012(3) 0.2298(2)
+O4 O 0.0664(3) 0.1071(3) 0.2090(2)
+C10 C -0.0662(4) 0.4783(3) 0.2982(2)
+O5 O -0.2177(3) 0.5484(2) 0.3242(2)
+C11 C 0.1239(3) 0.2604(3) 0.4566(2)
+O6 O 0.0831(3) 0.2033(3) 0.5727(2)
+#END

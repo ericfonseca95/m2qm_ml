@@ -1,0 +1,128 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_LICBUU
+_audit_creation_date 1995-05-01
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD LICBUU
+_chemical_formula_sum 'C13 H14 B1 Cr1 F2 N1 O6'
+_chemical_formula_moiety
+;
+C13 H14 B1 Cr1 F2 N1 O6
+;
+_journal_coden_Cambridge 4
+_journal_volume 116
+_journal_year 1994
+_journal_page_first 6949
+_journal_name_full 'J.Am.Chem.Soc. '
+loop_
+_publ_author_name
+"J.Barluenga"
+"R.-M.Canteli"
+"J.Florez"
+"S.Garcia-Granda"
+"A.Gutierrez-Rodriguez"
+_chemical_name_systematic
+;
+(3,3-Diethyl-2,2-difluoro-5-methylene-1-oxa-3-azonia-2-boriocyclohex-6-ylidene
+)-pentacarbonyl-chromium
+;
+_cell_volume    820.216
+_exptl_crystal_colour 'dark red'
+_exptl_crystal_density_diffrn 1.543
+_exptl_special_details
+;
+Cell parameters taken from supp data
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0495
+_refine_ls_wR_factor_gt 0.0495
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P n'
+_symmetry_Int_Tables_number 7
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,-y,1/2+z
+_cell_length_a 10.515(4)
+_cell_length_b 6.319(3)
+_cell_length_c 13.378(7)
+_cell_angle_alpha 90
+_cell_angle_beta 112.67(6)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+B 0.83
+Cr 1.35
+F 0.64
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cr1 Cr 0.00000 0.1047(3) 0.00000
+O1 O 0.1485(7) -0.1604(12) -0.0954(6)
+O2 O 0.107(1) -0.0955(17) 0.2240(7)
+O3 O 0.1390(9) 0.5199(15) 0.0923(7)
+O4 O -0.1624(11) -0.2930(16) -0.1036(9)
+O5 O -0.0784(10) 0.2981(17) -0.2231(8)
+O6 O -0.2577(10) 0.2573(15) 0.0260(8)
+C1 C 0.3675(13) 0.1424(20) 0.1271(11)
+C2 C 0.3119(11) 0.0610(17) 0.0269(10)
+C3 C 0.3965(13) 0.0313(20) -0.0391(11)
+C4 C 0.4586(11) -0.3364(18) 0.0299(9)
+C5 C 0.6061(12) -0.2764(22) 0.1035(11)
+C6 C 0.4826(15) -0.2159(23) -0.1396(10)
+C7 C 0.4936(12) -0.4276(21) -0.1829(10)
+C8 C 0.1663(11) -0.0083(17) -0.0226(9)
+C9 C 0.0679(13) -0.0177(23) 0.1387(10)
+C10 C 0.0828(14) 0.3694(23) 0.0520(11)
+C11 C -0.1045(12) -0.1533(18) -0.0670(9)
+C12 C -0.0533(12) 0.2388(19) -0.1419(11)
+C13 C -0.1590(15) 0.2119(24) 0.0183(11)
+N1 N 0.3997(9) -0.2011(16) -0.0695(7)
+F1 F 0.2080(6) -0.1967(11) -0.2432(5)
+F2 F 0.2267(7) -0.477(1) -0.1343(6)
+B1 B 0.2417(13) -0.2523(22) -0.1400(11)
+H1 H 0.3141(13) 0.157(2) 0.1683(11)
+H2 H 0.4594(13) 0.1841(20) 0.1555(11)
+H3 H 0.364(11) -0.306(16) 0.0578(78)
+H4 H 0.4466(99) -0.502(17) -0.0016(83)
+H5 H 0.6378(12) -0.3684(22) 0.1653(11)
+H6 H 0.6080(12) -0.1325(22) 0.1271(11)
+H7 H 0.6651(12) -0.2906(22) 0.0641(11)
+H8 H 0.451(10) -0.081(17) -0.1963(81)
+H9 H 0.568(11) -0.178(18) -0.1037(84)
+H10 H 0.5482(12) -0.4180(21) -0.226(1)
+H11 H 0.4031(12) -0.4783(21) -0.2269(10)
+H12 H 0.5364(12) -0.5238(21) -0.1239(10)
+H13 H 0.3762(97) 0.109(18) -0.1096(84)
+H14 H 0.501(13) 0.054(16) -0.0229(80)
+#END

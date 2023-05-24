@@ -1,0 +1,111 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_RAKWEF
+_audit_creation_date 2001-11-02
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD RAKWEF
+_database_code_depnum_ccdc_archive 'CCDC 170326'
+_chemical_formula_sum 'C6 H10 Mn1 O10'
+_chemical_formula_moiety
+;
+C6 H10 Mn1 O10
+;
+_journal_coeditor_code "IUCr LC0029"
+_journal_coden_Cambridge 622
+_journal_volume 57
+_journal_year 2001
+_journal_page_first 497
+_journal_name_full 'Acta Crystallogr.,Sect.B:Struct.Sci. '
+loop_
+_publ_author_name
+"A.T.H.Lenstra"
+"O.N.Kataeva"
+_chemical_name_systematic
+;
+Diaqua-bis(hydrogen malonato-O,O')-manganese(ii)
+;
+_cell_volume    492.076
+_exptl_crystal_colour 'pink'
+_exptl_crystal_density_diffrn 2.0
+_exptl_special_details
+;
+isomorphous with the copper analogue
+
+;
+_exptl_crystal_description 'prism'
+_exptl_crystal_preparation 'aqueous'
+_diffrn_ambient_temperature 294
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.041
+_refine_ls_wR_factor_gt 0.041
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2-y,1/2+z
+3 -x,-y,-z
+4 -1/2-x,-1/2+y,-1/2-z
+_cell_length_a 7.0909(7)
+_cell_length_b 7.3518(7)
+_cell_length_c 9.577(1)
+_cell_angle_alpha 90
+_cell_angle_beta 99.73(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Mn 1.35
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mn1 Mn 1.00000 0.00000 1.00000
+O1 O 0.7244(3) 0.5026(3) 0.9372(2)
+O2 O 0.8972(2) 0.2574(3) 1.0157(2)
+O3 O 0.4367(2) -0.0615(3) 0.7944(2)
+O4 O 0.7410(2) -0.0797(3) 0.8926(2)
+O5 O 1.0897(2) 0.0889(2) 0.8033(2)
+C1 C 0.7477(3) 0.3238(3) 0.9466(3)
+C2 C 0.5909(3) 0.0112(3) 0.8533(2)
+C3 C 0.5813(3) 0.2144(3) 0.8719(3)
+H1 H 1.061(7) 0.204(9) 0.740(5)
+H2 H 0.540(4) 0.277(5) 0.783(3)
+H3 H 1.207(5) 0.044(5) 0.784(4)
+H4 H 0.451(5) 0.241(6) 0.897(4)
+H5 H 0.873(6) 0.589(6) 0.985(4)
+O2B O 1.1028(2) -0.2574(3) 0.9843(2)
+C1B C 1.2523(3) -0.3238(3) 1.0534(3)
+O1B O 1.2756(3) -0.5026(3) 1.0628(2)
+H5B H 1.127(6) -0.589(6) 1.015(4)
+C3B C 1.4187(3) -0.2144(3) 1.1281(3)
+C2B C 1.4091(3) -0.0112(3) 1.1467(2)
+O3B O 1.5633(2) 0.0615(3) 1.2056(2)
+O4B O 1.2590(2) 0.0797(3) 1.1074(2)
+O5B O 0.9103(2) -0.0889(2) 1.1967(2)
+H1B H 0.939(7) -0.204(9) 1.260(5)
+H3B H 0.793(5) -0.044(5) 1.216(4)
+H2B H 1.460(4) -0.277(5) 1.217(3)
+H4B H 1.549(5) -0.241(6) 1.103(4)
+#END

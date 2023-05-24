@@ -1,0 +1,127 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_SEVNAI
+_audit_creation_date 1991-01-24
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD SEVNAI
+_database_code_depnum_ccdc_archive 'CCDC 1257966'
+_chemical_formula_sum 'C10 H10 Mn1 N4 O6'
+_chemical_formula_moiety
+;
+C10 H10 Mn1 N4 O6
+;
+_journal_coden_Cambridge 440
+_journal_volume 14
+_journal_year 1990
+_journal_page_first 19
+_journal_name_full 'New J.Chem. '
+loop_
+_publ_author_name
+"R.Vicente"
+"J.Ribas"
+"J.-M.Savariault"
+"P.Cassoux"
+_chemical_name_systematic
+;
+Diaqua-bis(pyrazinecarboxylato-N,O)-manganese(ii)
+;
+_cell_volume   2491.688
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.787
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.03
+_refine_ls_wR_factor_gt 0.03
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'F d d 2'
+_symmetry_Int_Tables_number 43
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 x,1/2+y,1/2+z
+3 1/2+x,y,1/2+z
+4 1/2+x,1/2+y,z
+5 1/4-x,1/4+y,1/4+z
+6 1/4-x,3/4+y,3/4+z
+7 3/4-x,1/4+y,3/4+z
+8 3/4-x,3/4+y,1/4+z
+9 1/4+x,1/4-y,1/4+z
+10 1/4+x,3/4-y,3/4+z
+11 3/4+x,1/4-y,3/4+z
+12 3/4+x,3/4-y,1/4+z
+13 1/2-x,-y,1/2+z
+14 1/2-x,1/2-y,z
+15 -x,-y,z
+16 -x,1/2-y,1/2+z
+_cell_length_a 23.583(2)
+_cell_length_b 15.422(2)
+_cell_length_c 6.851(5)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Mn 1.35
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mn1 Mn 0.00000 0.00000 0.00000
+O1 O -0.03521(3) 0.07350(5) -0.2445(1)
+O2 O 0.08006(3) 0.05917(5) 0.0584(1)
+O3 O 0.1711(3) 0.02653(5) 0.1141(2)
+N1 N 0.04735(3) -0.09595(5) 0.2005(1)
+N2 N 0.12693(5) -0.21019(6) 0.3564(2)
+C1 C 0.11955(4) 0.01041(5) 0.1178(2)
+C2 C 0.10262(4) -0.07620(6) 0.2043(1)
+C3 C 0.14222(4) -0.13347(6) 0.2821(2)
+C4 C 0.07167(5) -0.22864(7) 0.3556(2)
+C5 C 0.03174(4) -0.17198(7) 0.2769(2)
+H1 H 0.1802(9) -0.121(1) 0.285(4)
+H2 H 0.0574(9) -0.284(1) 0.405(4)
+H3 H -0.0043(9) -0.190(2) 0.280(5)
+H4 H -0.047(1) 0.117(2) -0.221(6)
+H5 H -0.064(2) 0.053(2) -0.264(9)
+O1N O 0.03521(3) -0.07350(5) -0.2445(1)
+O2N O -0.08006(3) -0.05917(5) 0.0584(1)
+N1N N -0.04735(3) 0.09595(5) 0.2005(1)
+H4N H 0.047(1) -0.117(2) -0.221(6)
+H5N H 0.064(2) -0.053(2) -0.264(9)
+C1N C -0.11955(4) -0.01041(5) 0.1178(2)
+C2N C -0.10262(4) 0.07620(6) 0.2043(1)
+C5N C -0.03174(4) 0.17198(7) 0.2769(2)
+O3N O -0.1711(3) -0.02653(5) 0.1141(2)
+C3N C -0.14222(4) 0.13347(6) 0.2821(2)
+C4N C -0.07167(5) 0.22864(7) 0.3556(2)
+H3N H 0.0043(9) 0.190(2) 0.280(5)
+N2N N -0.12693(5) 0.21019(6) 0.3564(2)
+H1N H -0.1802(9) 0.121(1) 0.285(4)
+H2N H -0.0574(9) 0.284(1) 0.405(4)
+#END

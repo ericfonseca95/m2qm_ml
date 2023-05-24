@@ -1,0 +1,142 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_KIBKEO
+_audit_creation_date 2018-04-17
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD KIBKEO
+_database_code_depnum_ccdc_archive 'CCDC 1566050'
+_chemical_formula_sum 'C12 H26 Cl2 Co1 N10 O6'
+_chemical_formula_moiety
+;
+C12 H22 Co1 N10 O4 2+,2(H2 O1),2(Cl1 1-)
+;
+_journal_coden_Cambridge 1350
+_journal_volume 20
+_journal_year 2018
+_journal_page_first 2528
+_journal_name_full 'CrystEngComm '
+loop_
+_publ_author_name
+"J.Thomas-Gipson"
+"G.Beobide"
+"O.Castillo"
+"A.Luque"
+"J.Pascual-Colino"
+"S.Perez-Yanez"
+"P.Roman"
+_chemical_name_systematic
+;
+tetra-aqua-bis(9-methyladenine)-cobalt(ii) dichloride dihydrate
+;
+_cell_volume   1073.535
+_exptl_crystal_colour 'green'
+_exptl_crystal_density_diffrn 1.659
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 100
+_refine_special_details
+;
+H9A,H9B,H9C disordered by symmetry over two configurations with occupancy 
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.026
+_refine_ls_wR_factor_gt 0.026
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'I 2/m'
+_symmetry_Int_Tables_number 12
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,-z
+3 1/2+x,1/2+y,1/2+z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,z
+7 -1/2-x,-1/2-y,-1/2-z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 11.3880(14)
+_cell_length_b 6.7307(7)
+_cell_length_c 14.9009(19)
+_cell_angle_alpha 90
+_cell_angle_beta 109.960(14)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+Co 1.26
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Co1 Co 1.00000 0.50000 0.50000
+N1 N 0.61266(16) 0.50000 0.61859(13)
+C1 C 0.6467(2) 0.50000 0.71341(16)
+H1 H 0.58006 0.50000 0.73810
+N2 N 0.76188(17) 0.50000 0.77903(13)
+C2 C 0.84948(19) 0.50000 0.73656(15)
+C3 C 0.82885(19) 0.50000 0.63873(15)
+C4 C 0.70212(19) 0.50000 0.57689(15)
+N3 N 0.66228(16) 0.50000 0.48166(13)
+H2 H 0.58168 0.50000 0.44900
+H3 H 0.71661 0.50000 0.45151
+N4 N 0.94402(16) 0.50000 0.62387(13)
+C5 C 1.0288(2) 0.50000 0.71070(15)
+H4 H 1.11624 0.50000 0.72280
+N5 N 0.97719(16) 0.50000 0.78100(13)
+C6 C 1.0453(2) 0.50000 0.88411(16)
+O1 O 0.86526(9) 0.71786(17) 0.43954(7)
+H5 H 0.86310 0.78930 0.38290
+H6 H 0.85950 0.79440 0.48350
+Cl1 Cl 1.12595(5) 1.00000 0.72021(4)
+O2 O 0.84642(14) 1.00000 0.56940(11)
+H7 H 0.79190 1.00000 0.60240
+H8 H 0.91840 1.00000 0.61510
+H9? H 1.13007 0.44913 0.89658
+H10? H 1.00172 0.41502 0.91598
+H11? H 1.04979 0.63585 0.90871
+N1A N 1.38734(16) 0.50000 0.38141(13)
+C1A C 1.3533(2) 0.50000 0.28659(16)
+H1A H 1.41994 0.50000 0.26190
+N2A N 1.23812(17) 0.50000 0.22097(13)
+C2A C 1.15052(19) 0.50000 0.26344(15)
+C3A C 1.17115(19) 0.50000 0.36127(15)
+C4A C 1.29788(19) 0.50000 0.42311(15)
+N3A N 1.33772(16) 0.50000 0.51834(13)
+H2A H 1.41832 0.50000 0.55100
+H3A H 1.28339 0.50000 0.54849
+N4A N 1.05598(16) 0.50000 0.37613(13)
+C5A C 0.9712(2) 0.50000 0.28930(15)
+H4A H 0.88376 0.50000 0.27720
+N5A N 1.02281(16) 0.50000 0.21900(13)
+C6A C 0.9547(2) 0.50000 0.11589(16)
+O1A O 1.13474(9) 0.71786(17) 0.56046(7)
+H5A H 1.13690 0.78930 0.61710
+H6A H 1.14050 0.79440 0.51650
+O1D O 1.13474(9) 0.28214(17) 0.56046(7)
+H5D H 1.13690 0.21070 0.61710
+H6D H 1.14050 0.20560 0.51650
+O1E O 0.86526(9) 0.28214(17) 0.43954(7)
+H5E H 0.86310 0.21070 0.38290
+H6E H 0.85950 0.20560 0.48350
+#END

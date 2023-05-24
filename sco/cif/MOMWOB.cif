@@ -1,0 +1,121 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_MOMWOB
+_audit_creation_date 2009-06-23
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD MOMWOB
+_database_code_depnum_ccdc_archive 'CCDC 698816'
+_chemical_formula_sum 'C6 H24 Co1 I5 N6 Te1'
+_chemical_formula_moiety
+;
+C6 H24 Co1 N6 3+,I4 Te1 2-,I1 1-
+;
+_journal_coden_Cambridge 580
+_journal_volume 28
+_journal_year 2009
+_journal_page_first 63
+_journal_name_full 'Polyhedron '
+loop_
+_publ_author_name
+"E.Faoro"
+"G.M.de Oliveira"
+"E.S.Lang"
+_chemical_name_systematic
+;
+tris(ethylenediamine)-cobalt(iii) tetraiodo-tellurium(ii) iodide
+;
+_cell_volume   1077.643
+_exptl_crystal_colour 'red'
+_exptl_crystal_density_diffrn 3.086
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0496
+_refine_ls_wR_factor_gt 0.0496
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 8.4679(2)
+_cell_length_b 8.6754(2)
+_cell_length_c 14.9450(3)
+_cell_angle_alpha 89.715(1)
+_cell_angle_beta 83.443(1)
+_cell_angle_gamma 81.151(1)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Co 1.33
+I 1.40
+N 0.68
+Te 1.47
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N -0.0358(7) 0.3673(7) 0.7462(5)
+H1 H -0.03440 0.47070 0.74840
+H2 H -0.08160 0.34620 0.69710
+N2 N 0.0940(8) 0.1126(7) 0.8264(5)
+H3 H 0.12770 0.01310 0.80820
+H4 H 0.12870 0.12560 0.88020
+N3 N 0.4013(8) 0.1421(7) 0.7470(5)
+H5 H 0.39960 0.03870 0.74800
+H6 H 0.46860 0.16300 0.69900
+N4 N 0.2329(8) 0.3968(7) 0.8307(5)
+H7 H 0.20430 0.49650 0.81490
+H8 H 0.17670 0.38110 0.88390
+C1 C -0.0850(8) 0.1454(8) 0.8355(6)
+H9 H -0.12960 0.10990 0.89320
+H10 H -0.12570 0.09240 0.78810
+C2 C -0.1305(9) 0.3191(9) 0.8283(6)
+H11 H -0.24480 0.34590 0.82370
+H12 H -0.10580 0.37120 0.88110
+N5 N 0.2585(8) 0.3910(7) 0.6413(5)
+H13 H 0.21470 0.49080 0.65420
+H14 H 0.36630 0.38440 0.63720
+C3 C 0.4095(10) 0.3657(9) 0.8391(6)
+H15 H 0.46870 0.41750 0.79160
+H16 H 0.43100 0.40340 0.89680
+C4 C 0.4577(11) 0.1930(9) 0.8313(6)
+H17 H 0.57360 0.16580 0.82860
+H18 H 0.40860 0.14240 0.88290
+N6 N 0.1542(8) 0.1180(8) 0.6393(5)
+H19 H 0.19390 0.01850 0.65090
+H20 H 0.04860 0.12340 0.63430
+C5 C 0.2380(12) 0.1669(10) 0.5539(6)
+H21 H 0.19430 0.12790 0.50280
+H22 H 0.35210 0.12660 0.54960
+C6 C 0.2114(12) 0.3433(10) 0.5553(6)
+H23 H 0.27660 0.38240 0.50520
+H24 H 0.09920 0.38370 0.55090
+Co1 Co 0.18436(11) 0.25458(10) 0.73811(7)
+Te1 Te 0.33146(6) 0.24335(5) 0.19951(4)
+I1 I 0.03097(7) 0.23962(6) 0.33072(4)
+I2 I 0.09787(7) 0.26233(7) 0.05623(4)
+I3 I 0.53359(7) 0.25317(6) 0.34238(4)
+I4 I 0.61616(7) 0.22259(8) 0.06841(5)
+I5 I 0.71617(7) 0.25033(8) 0.58738(4)
+#END

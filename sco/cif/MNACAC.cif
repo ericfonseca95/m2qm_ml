@@ -1,0 +1,114 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_MNACAC
+_audit_creation_date 1971-12-31
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD MNACAC
+_chemical_formula_sum 'C10 H18 Mn1 O6'
+_chemical_formula_moiety
+;
+C10 H18 Mn1 O6
+;
+_journal_coeditor_code "IUCr A06222"
+_journal_coden_Cambridge 107
+_journal_volume 24
+_journal_year 1968
+_journal_page_first 1127
+_journal_name_full 'Acta Crystallogr.,Sect.B:Struct.Crystallogr.Cryst.Chem. '
+loop_
+_publ_author_name
+"H.Montgomery"
+"E.C.Lingafelter"
+_chemical_name_systematic
+;
+Diaqua-bis(acetylacetonato)-manganese(ii)
+;
+_cell_volume    659.631
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.062
+_refine_ls_wR_factor_gt 0.062
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 11.186(15)
+_cell_length_b 5.426(8)
+_cell_length_c 11.315(20)
+_cell_angle_alpha 90
+_cell_angle_beta 106.16(20)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.20
+Mn 1.22
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.36040 0.33200 0.20250
+C2 C 0.26820 0.17520 0.10920
+C3 C 0.31270 -0.01080 0.04870
+C4 C 0.24310 -0.16540 -0.04520
+C5 C 0.30840 -0.35680 -0.09890
+H1 H 0.34500 0.50000 0.18500
+H2 H 0.34000 0.32000 0.30000
+H3 H 0.46000 0.25000 0.23000
+H4 H 0.29500 -0.30000 -0.17000
+H5 H 0.27500 -0.53000 -0.09000
+H6 H 0.39000 -0.37000 -0.05000
+H7 H 0.40000 -0.02000 0.08000
+H8 H 0.10000 -0.45000 0.13000
+H9 H 0.06000 -0.28000 0.23000
+Mn1 Mn 0.00000 0.00000 0.00000
+O1 O 0.15310 0.22860 0.09400
+O2 O 0.12410 -0.15340 -0.09200
+O3 O 0.06080 -0.29920 0.14280
+O1B O -0.15310 -0.22860 -0.09400
+O2B O -0.12410 0.15340 0.09200
+O3B O -0.06080 0.29920 -0.14280
+C2B C -0.26820 -0.17520 -0.10920
+C4B C -0.24310 0.16540 0.04520
+H8B H -0.10000 0.45000 -0.13000
+H9B H -0.06000 0.28000 -0.23000
+C1B C -0.36040 -0.33200 -0.20250
+C3B C -0.31270 0.01080 -0.04870
+C5B C -0.30840 0.35680 0.09890
+H1B H -0.34500 -0.50000 -0.18500
+H2B H -0.34000 -0.32000 -0.30000
+H3B H -0.46000 -0.25000 -0.23000
+H7B H -0.40000 0.02000 -0.08000
+H4B H -0.29500 0.30000 0.17000
+H5B H -0.27500 0.53000 0.09000
+H6B H -0.39000 0.37000 0.05000
+#END

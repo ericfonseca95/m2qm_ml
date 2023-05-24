@@ -1,0 +1,117 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_KUFDEW
+_audit_creation_date 2015-04-13
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD KUFDEW
+_database_code_depnum_ccdc_archive 'CCDC 1059073'
+_chemical_formula_sum 'C16 H18 Cr1 O6'
+_chemical_formula_moiety
+;
+C16 H18 Cr1 O6
+;
+_journal_coden_Cambridge 1078
+_journal_year 2015
+_journal_name_full 'CSD Communication(Private Communication) '
+loop_
+_publ_author_name
+"I.Weidner"
+"R.Wartchow"
+"H.Butenschoen"
+_chemical_name_systematic
+;
+rac-exo-Tricarbonyl-(\h^6^-1,1-dimethoxy-3,3-dimethyl-2-indanol)-chromium(0)
+;
+_chemical_melting_point 408
+_cell_volume    812.390
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.465
+_exptl_crystal_description 'block'
+_exptl_crystal_preparation 'diethyl ether/petroleum ether'
+_diffrn_ambient_temperature 300
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0316
+_refine_ls_wR_factor_gt 0.0316
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 7.294(2)
+_cell_length_b 7.515(2)
+_cell_length_c 16.631(4)
+_cell_angle_alpha 94.73(3)
+_cell_angle_beta 93.97(3)
+_cell_angle_gamma 115.79(3)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cr 1.39
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cr1 Cr 0.20223(5) 0.33042(4) 0.357343(17)
+O1 O -0.1648(2) 0.1159(3) 0.06553(10)
+H1 H -0.116(6) 0.034(6) 0.044(2)
+O2 O 0.2242(2) 0.1676(2) 0.08594(8)
+O3 O 0.2702(2) 0.47513(19) 0.14932(8)
+O4 O -0.0619(3) 0.5183(3) 0.30077(13)
+O5 O 0.0008(6) 0.2781(4) 0.50944(17)
+O6 O 0.4962(4) 0.7478(3) 0.42769(15)
+C1 C 0.1761(3) 0.2689(3) 0.15059(10)
+C2 C -0.0622(3) 0.1678(3) 0.14544(11)
+H2 H -0.10070 0.26470 0.17300
+C3 C -0.1200(3) -0.0079(3) 0.19793(12)
+C4 C 0.0691(3) 0.0687(3) 0.25950(11)
+C5 C 0.0923(4) 0.0020(3) 0.33402(13)
+H3 H -0.01900 -0.09790 0.35290
+C6 C 0.2884(4) 0.0893(3) 0.38028(13)
+H4 H 0.30600 0.04250 0.42890
+C7 C 0.4539(4) 0.2430(4) 0.35431(13)
+H5 H 0.58090 0.29850 0.38560
+C8 C 0.4308(3) 0.3168(3) 0.27996(12)
+H6 H 0.54020 0.42270 0.26300
+C9 C 0.2391(3) 0.2257(3) 0.23307(10)
+C10 C 0.4378(3) 0.2197(4) 0.08445(15)
+H7 H 0.45470 0.14370 0.03880
+H8 H 0.49040 0.19120 0.13370
+H9 H 0.51120 0.35920 0.07980
+C11 C 0.2054(4) 0.5419(4) 0.07958(15)
+H10 H 0.27750 0.68450 0.08380
+H11 H 0.06070 0.50200 0.07680
+H12 H 0.23440 0.48420 0.03140
+C12 C -0.1411(4) -0.1991(3) 0.14775(15)
+H13 H -0.26030 -0.24930 0.10840
+H14 H -0.15480 -0.29750 0.18320
+H15 H -0.02150 -0.16940 0.12040
+C13 C -0.3176(4) -0.0501(4) 0.23547(16)
+H16 H -0.43040 -0.09780 0.19320
+H17 H -0.30570 0.07010 0.26530
+H18 H -0.34110 -0.14930 0.27160
+C14 C 0.0395(3) 0.4432(3) 0.32155(13)
+C15 C 0.0788(5) 0.2994(4) 0.45142(17)
+C16 C 0.3839(4) 0.5858(3) 0.40134(14)
+#END

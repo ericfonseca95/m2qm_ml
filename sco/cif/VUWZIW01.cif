@@ -1,0 +1,125 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_VUWZIW01
+_audit_creation_date 2002-03-27
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD VUWZIW01
+_database_code_depnum_ccdc_archive 'CCDC 177185'
+_chemical_formula_sum 'C18 H14 Cl2 Co1 N2'
+_chemical_formula_moiety
+;
+C18 H14 Cl2 Co1 N2
+;
+_journal_coeditor_code "IUCr CV6072"
+_journal_coden_Cambridge 1370
+_journal_volume 57
+_journal_year 2001
+_journal_page_first m587
+_journal_name_full 'Acta Crystallogr.,Sect.E:Struct.Rep.Online '
+loop_
+_publ_author_name
+"Wenguo Wang"
+"Deguang Huang"
+"Hongping Zhu"
+"Changneng Chen"
+"Qiutian Liu"
+_chemical_name_systematic
+;
+Dichloro-bis(quinoline-N)-cobalt(ii)
+;
+_cell_volume    803.583
+_exptl_crystal_colour 'purple'
+_exptl_crystal_density_diffrn 1.604
+_exptl_special_details
+;
+monoclinic polymorph
+
+;
+_exptl_crystal_description 'sheet'
+_exptl_crystal_preparation 'ethanol'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0291
+_refine_ls_wR_factor_gt 0.0291
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 2/n'
+_symmetry_Int_Tables_number 13
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,-y,1/2+z
+3 -x,-y,-z
+4 -1/2-x,y,-1/2-z
+_cell_length_a 7.7864(8)
+_cell_length_b 7.0874(7)
+_cell_length_c 14.5616(15)
+_cell_angle_alpha 90
+_cell_angle_beta 90.174(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+Co 1.33
+N 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Co1 Co 0.25000 0.30796(6) 0.25000
+Cl1 Cl 0.00916(9) 0.13418(10) 0.25389(4)
+N1 N 0.2226(3) 0.4813(3) 0.36339(12)
+C1 C 0.1539(3) 0.6516(3) 0.35280(17)
+H1 H 0.12470 0.68930 0.29360
+C2 C 0.1224(4) 0.7778(3) 0.42432(19)
+H2 H 0.07400 0.89540 0.41260
+C3 C 0.1638(4) 0.7254(3) 0.51173(19)
+H3 H 0.14490 0.80750 0.56050
+C4 C 0.2784(4) 0.4821(4) 0.61718(16)
+H4 H 0.26390 0.56180 0.66730
+C5 C 0.2355(3) 0.5460(3) 0.52753(15)
+C6 C 0.3650(4) 0.1845(4) 0.55494(18)
+H5 H 0.40720 0.06340 0.56480
+C7 C 0.3404(4) 0.3051(4) 0.63000(17)
+H6 H 0.36680 0.26360 0.68900
+C8 C 0.3280(3) 0.2417(4) 0.46766(16)
+H7 H 0.34590 0.16030 0.41850
+C9 C 0.2625(3) 0.4247(3) 0.45214(14)
+Cl1C Cl 0.49084(9) 0.13418(10) 0.24611(4)
+N1C N 0.2774(3) 0.4813(3) 0.13661(12)
+C1C C 0.3461(3) 0.6516(3) 0.14720(17)
+H1C H 0.37530 0.68930 0.20640
+C2C C 0.3776(4) 0.7778(3) 0.07568(19)
+H2C H 0.42600 0.89540 0.08740
+C3C C 0.3362(4) 0.7254(3) -0.01173(19)
+H3C H 0.35510 0.80750 -0.06050
+C5C C 0.2645(3) 0.5460(3) -0.02753(15)
+C4C C 0.2216(4) 0.4821(4) -0.11718(16)
+H4C H 0.23610 0.56180 -0.16730
+C7C C 0.1596(4) 0.3051(4) -0.13000(17)
+C6C C 0.1350(4) 0.1845(4) -0.05494(18)
+H5C H 0.09280 0.06340 -0.06480
+C8C C 0.1720(3) 0.2417(4) 0.03234(16)
+H7C H 0.15410 0.16030 0.08150
+C9C C 0.2375(3) 0.4247(3) 0.04786(14)
+H6C H 0.13320 0.26360 -0.18900
+#END

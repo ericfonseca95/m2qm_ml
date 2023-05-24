@@ -1,0 +1,148 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_UKEDEU
+_audit_creation_date 2011-04-07
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD UKEDEU
+_database_code_depnum_ccdc_archive 'CCDC 741956'
+_chemical_formula_sum 'C14 H36 Br2 Cr1 N1 O1 P4'
+_chemical_formula_moiety
+;
+C13 H32 Br1 Cr1 N1 P4 1+,Br1 1-,C1 H4 O1
+;
+_journal_coden_Cambridge 9
+_journal_volume 49
+_journal_year 2010
+_journal_page_first 4738
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"H.I.Karunadasa"
+"K.D.Arquero"
+"L.A.Berben"
+"J.R.Long"
+_chemical_name_systematic
+;
+Bromo-(cyano)-bis(ethane-1,2-diylbis(dimethylphosphine))-chromium bromide 
+methanol solvate
+;
+_cell_volume   1308.431
+_exptl_crystal_colour 'orange'
+_exptl_crystal_density_diffrn 1.427
+_exptl_crystal_description 'parallelepiped'
+_diffrn_ambient_temperature 149
+_refine_special_details
+;
+The structure is partially disordered. The SQUEEZE/PLATON program has been 
+used to model the disordered solvent molecules. The Br and CN ligand sites 
+have mixed occupancy and are related by symmetry.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0367
+_refine_ls_wR_factor_gt 0.0367
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'C 2 2 2'
+_symmetry_Int_Tables_number 21
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,z
+3 -x,y,-z
+4 x,-y,-z
+5 1/2+x,1/2+y,z
+6 1/2-x,1/2-y,z
+7 1/2-x,1/2+y,-z
+8 1/2+x,1/2-y,-z
+_cell_length_a 9.159(5)
+_cell_length_b 13.400(7)
+_cell_length_c 10.661(5)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Br 1.21
+Cr 1.39
+N 0.68
+P 1.05
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cr1 Cr 0.50000 0.50000 0.50000
+Br1 Br 0.50000 0.00000 0.00000
+Br2? Br 0.50000 0.69045(17) 0.50000
+N1 N 0.50000 0.7362(13) 0.50000
+P1 P 0.67610(9) 0.5002(4) 0.67138(8)
+C1 C 0.817(2) 0.5939(12) 0.6779(15)
+H1 H 0.87640 0.58330 0.75100
+H2 H 0.77340 0.65880 0.68180
+H3 H 0.87710 0.58930 0.60420
+C2 C 0.8291(19) 0.4116(13) 0.6538(14)
+H4 H 0.89240 0.41650 0.72540
+H5 H 0.88300 0.42730 0.57920
+H6 H 0.79160 0.34490 0.64780
+C3 C 0.5682(18) 0.4682(19) 0.813(3)
+C4 C 0.50000 0.6407(14) 0.50000
+C5? C 0.762(2) 0.3831(14) 0.2877(16)
+C6? C 0.773(3) 0.6129(16) 0.301(2)
+C7? C 0.5729(10) 0.4734(11) 0.1854(16)
+H7? H 0.82740 0.39330 0.21880
+H8? H 0.68800 0.33570 0.26380
+H9? H 0.81470 0.35800 0.35860
+H10? H 0.83800 0.60420 0.23170
+H11? H 0.82770 0.63020 0.37480
+H12? H 0.70460 0.66520 0.28260
+N1A N 0.50000 0.2638(13) 0.50000
+P1A P 0.32390(9) 0.4998(4) 0.67138(8)
+P1B P 0.32390(9) 0.5002(4) 0.32862(8)
+P1C P 0.67610(9) 0.4998(4) 0.32862(8)
+C1B C 0.183(2) 0.5939(12) 0.3221(15)
+C1C C 0.817(2) 0.4061(12) 0.3221(15)
+C1A C 0.183(2) 0.4061(12) 0.6779(15)
+H1B H 0.12360 0.58330 0.24900
+H1C H 0.87640 0.41670 0.24900
+H1A H 0.12360 0.41670 0.75100
+H2B H 0.22660 0.65880 0.31820
+H2C H 0.77340 0.34120 0.31820
+H2A H 0.22660 0.34120 0.68180
+H3B H 0.12290 0.58930 0.39580
+H3C H 0.87710 0.41070 0.39580
+H3A H 0.12290 0.41070 0.60420
+C2B C 0.1709(19) 0.4116(13) 0.3462(14)
+C2C C 0.8291(19) 0.5884(13) 0.3462(14)
+C2A C 0.1709(19) 0.5884(13) 0.6538(14)
+H4B H 0.10760 0.41650 0.27460
+H4C H 0.89240 0.58350 0.27460
+H4A H 0.10760 0.58350 0.72540
+H5B H 0.11700 0.42730 0.42080
+H5C H 0.88300 0.57270 0.42080
+H5A H 0.11700 0.57270 0.57920
+H6B H 0.20840 0.34490 0.35220
+H6C H 0.79160 0.65510 0.35220
+H6A H 0.20840 0.65510 0.64780
+C3A C 0.4318(18) 0.5318(19) 0.813(3)
+C3B C 0.4318(18) 0.4682(19) 0.187(3)
+C3C C 0.5682(18) 0.5318(19) 0.187(3)
+C4A C 0.50000 0.3593(14) 0.50000
+#END

@@ -1,0 +1,128 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_FOXYAS
+_audit_creation_date 2000-12-15
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD FOXYAS
+_database_code_depnum_ccdc_archive 'CCDC 136878'
+_chemical_formula_sum 'C16 H18 Cr1 O7'
+_chemical_formula_moiety
+;
+C16 H18 Cr1 O7
+;
+_journal_coden_Cambridge 16
+_journal_volume 56
+_journal_year 2000
+_journal_page_first 4925
+_journal_name_full 'Tetrahedron '
+loop_
+_publ_author_name
+"K.H.Dotz"
+"A.W.Koch"
+"B.Weyershausen"
+"H.Hupfer"
+"M.Nieger"
+_chemical_name_systematic
+;
+(5R*,2'S*)-Pentacarbonyl-(2'-t-butoxy-spiro-2-oxacyclopentane-5,1'-cyclobutan-
+1-ylidene)-chromium
+;
+_chemical_melting_point 347.15
+_cell_volume    871.189
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.427
+_exptl_special_details
+;
+Melting point range 347.15-348.15K
+
+;
+_exptl_crystal_description 'plates'
+_exptl_crystal_preparation 'pentane'
+_diffrn_ambient_temperature 123
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0333
+_refine_ls_wR_factor_gt 0.0333
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 9.3467(6)
+_cell_length_b 9.7391(8)
+_cell_length_c 9.8541(8)
+_cell_angle_alpha 86.853(4)
+_cell_angle_beta 88.012(4)
+_cell_angle_gamma 76.640(4)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cr 1.35
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cr1 Cr 0.56343(3) 0.16882(2) 0.70143(2)
+C1 C 0.70396(18) 0.06919(17) 0.57401(17)
+O1 O 0.78932(14) 0.01032(13) 0.49712(13)
+C2 C 0.62255(17) 0.33956(18) 0.66564(16)
+O2 O 0.65917(13) 0.44262(12) 0.64919(13)
+C3 C 0.50123(18) 0.00215(18) 0.75405(17)
+O3 O 0.46617(14) -0.09842(13) 0.78949(14)
+C4 C 0.42281(18) 0.22080(16) 0.55909(17)
+O4 O 0.34482(14) 0.25102(13) 0.46939(13)
+C5 C 0.71219(19) 0.11953(18) 0.83520(18)
+O5 O 0.80532(15) 0.08962(15) 0.91175(14)
+O6 O 0.46928(11) 0.33978(12) 0.93705(11)
+C6 C 0.41893(17) 0.27310(15) 0.84405(16)
+C7 C 0.25524(16) 0.29282(16) 0.87137(16)
+C8 C 0.23479(17) 0.32671(17) 1.02239(16)
+H1 H 0.13670 0.38820 1.04110
+H2 H 0.24770 0.23940 1.08160
+C9 C 0.35426(17) 0.40177(18) 1.04140(17)
+H3 H 0.39310 0.38310 1.13450
+H4 H 0.31890 0.50500 1.02420
+C10 C 0.16788(17) 0.18892(17) 0.82629(17)
+H5 H 0.14480 0.12430 0.90060
+H6 H 0.21150 0.13600 0.74620
+C11 C 0.03597(17) 0.31922(17) 0.79130(18)
+H7 H -0.01380 0.31180 0.70580
+H8 H -0.03610 0.34440 0.86710
+C12 C 0.14887(16) 0.40919(16) 0.77676(16)
+H9 H 0.18950 0.40900 0.68150
+O7 O 0.10367(12) 0.54893(11) 0.81959(11)
+C13 C 0.13318(17) 0.66136(16) 0.72624(16)
+C14 C 0.29903(17) 0.63434(19) 0.70113(18)
+H10 H 0.33290 0.54690 0.65300
+H11 H 0.34850 0.62530 0.78830
+H12 H 0.32230 0.71350 0.64590
+C15 C 0.05199(19) 0.66694(19) 0.59431(19)
+H13 H 0.09110 0.58000 0.54660
+H14 H 0.06560 0.74850 0.53680
+H15 H -0.05310 0.67600 0.61450
+C16 C 0.0723(2) 0.79630(19) 0.8007(2)
+H16 H 0.12460 0.79260 0.88580
+H17 H -0.03270 0.80520 0.82090
+H18 H 0.08590 0.87790 0.74330
+#END

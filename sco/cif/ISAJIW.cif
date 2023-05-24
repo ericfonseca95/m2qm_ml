@@ -1,0 +1,127 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_ISAJIW
+_audit_creation_date 2011-08-04
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD ISAJIW
+_database_code_depnum_ccdc_archive 'CCDC 832731'
+_database_code_depnum_ccdc_journal 1267/3331
+_chemical_formula_sum 'C14 H18 Co1 N4 O10'
+_chemical_formula_moiety
+;
+C14 H18 Co1 N4 O10
+;
+_journal_coden_Cambridge 1267
+_journal_volume 226
+_journal_year 2011
+_journal_page_first 217
+_journal_name_full 'Z.Kristallogr.-New Cryst.Struct. '
+loop_
+_publ_author_name
+"Hai-Xia Wu"
+"Min-Le Han"
+_chemical_name_systematic
+;
+Diaqua-bis(4-carboxy-2-ethyl-1H-imidazole-5-carboxylate-N^3^,O)-cobalt(ii)
+;
+_cell_volume    511.494
+_exptl_crystal_colour 'pink'
+_exptl_crystal_density_diffrn 1.491
+_exptl_special_details
+;
+The imidazole N-H hydrogen atoms have not been modelled from the diffraction 
+data
+;
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0289
+_refine_ls_wR_factor_gt 0.0289
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 7.1658(16)
+_cell_length_b 8.904(2)
+_cell_length_c 9.356(2)
+_cell_angle_alpha 65.992(2)
+_cell_angle_beta 88.404(2)
+_cell_angle_gamma 70.914(2)
+_cell_formula_units_Z 1
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Co 1.26
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Co1 Co 0.00000 0.50000 1.00000
+N1 N 0.1364(2) 0.34947(19) 0.87370(18)
+N2 N 0.2746(2) 0.2021(2) 0.7337(2)
+O1 O 0.0570(2) 0.23535(17) 1.17641(16)
+O2 O 0.1714(3) -0.04468(18) 1.21774(18)
+H1 H 0.21940 -0.10210 1.16750
+O3 O 0.3196(2) -0.21108(17) 1.06011(18)
+O4 O 0.4346(2) -0.16366(18) 0.82706(19)
+O5 O 0.2753(2) 0.48416(18) 1.0780(2)
+H2 H 0.35930 0.39230 1.08490
+H3 H 0.31880 0.55560 1.08380
+C1 C 0.1808(3) 0.1729(2) 0.9650(2)
+C2 C 0.2667(3) 0.0803(2) 0.8793(2)
+C3 C 0.1946(3) 0.3638(2) 0.7340(2)
+C4 C 0.1326(3) 0.1197(2) 1.1288(2)
+C5 C 0.3463(3) -0.1119(2) 0.9230(3)
+C6 C 0.1846(3) 0.5297(3) 0.5970(2)
+H4 H 0.05230 0.61560 0.57860
+H5 H 0.20740 0.50760 0.50360
+C7 C 0.3368(4) 0.6044(3) 0.6233(3)
+H6 H 0.31060 0.63200 0.71260
+H7 H 0.32780 0.70870 0.53130
+H8 H 0.46800 0.51940 0.64270
+N1A N -0.1364(2) 0.65053(19) 1.12630(18)
+N2A N -0.2746(2) 0.7979(2) 1.2663(2)
+O1A O -0.0570(2) 0.76465(17) 0.82359(16)
+O2A O -0.1714(3) 1.04468(18) 0.78226(18)
+H1A H -0.21940 1.10210 0.83250
+O3A O -0.3196(2) 1.21108(17) 0.93989(18)
+O4A O -0.4346(2) 1.16366(18) 1.17294(19)
+O5A O -0.2753(2) 0.51584(18) 0.9220(2)
+H2A H -0.35930 0.60770 0.91510
+H3A H -0.31880 0.44440 0.91620
+C1A C -0.1808(3) 0.8271(2) 1.0350(2)
+C2A C -0.2667(3) 0.9197(2) 1.1207(2)
+C3A C -0.1946(3) 0.6362(2) 1.2660(2)
+C4A C -0.1326(3) 0.8803(2) 0.8712(2)
+C5A C -0.3463(3) 1.1119(2) 1.0770(3)
+C6A C -0.1846(3) 0.4703(3) 1.4030(2)
+H4A H -0.05230 0.38440 1.42140
+H5A H -0.20740 0.49240 1.49640
+C7A C -0.3368(4) 0.3956(3) 1.3767(3)
+H6A H -0.31060 0.36800 1.28740
+H7A H -0.32780 0.29130 1.46870
+H8A H -0.46800 0.48060 1.35730
+#END

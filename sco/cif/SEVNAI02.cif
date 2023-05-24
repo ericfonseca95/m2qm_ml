@@ -1,0 +1,132 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_SEVNAI02
+_audit_creation_date 2019-10-19
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD SEVNAI02
+_database_code_depnum_ccdc_archive 'CCDC 1517246'
+_chemical_formula_sum 'C10 H10 Mn1 N4 O6'
+_chemical_formula_moiety
+;
+C10 H10 Mn1 N4 O6
+;
+_journal_coden_Cambridge 580
+_journal_volume 175
+_journal_year 2019
+_journal_page_first 114173
+_journal_name_full 'Polyhedron '
+loop_
+_publ_author_name
+"G.Swiderski"
+"S.Wojtulewski"
+"M.Kalinowska"
+"R.Swislocka"
+"A.Z.Wilczewska"
+"A.Pietryczuk"
+"A.Cudowski"
+"W.Lewandowski"
+_chemical_name_systematic
+;
+diaqua-bis(pyrazine-2-carboxylato)-manganese(ii)
+;
+_cell_volume   2486.898
+_exptl_crystal_colour 'light blue'
+_exptl_crystal_density_diffrn 1.801
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 100
+_diffrn_special_details
+;
+twin
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0256
+_refine_ls_wR_factor_gt 0.0256
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'F 2 d d'
+_symmetry_Int_Tables_number 43
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 x,-y,-z
+3 1/4+x,1/4+y,1/4-z
+4 1/4+x,1/4-y,1/4+z
+5 x,1/2+y,1/2+z
+6 x,1/2-y,1/2-z
+7 1/4+x,3/4+y,3/4-z
+8 1/4+x,3/4-y,3/4+z
+9 1/2+x,y,1/2+z
+10 1/2+x,-y,1/2-z
+11 3/4+x,1/4+y,3/4-z
+12 3/4+x,1/4-y,3/4+z
+13 1/2+x,1/2+y,z
+14 1/2+x,1/2-y,-z
+15 3/4+x,3/4+y,1/4-z
+16 3/4+x,3/4-y,1/4+z
+_cell_length_a 6.8183(2)
+_cell_length_b 15.4460(5)
+_cell_length_c 23.6138(8)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Mn 1.61
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mn1 Mn 0.37357(8) 0.50000 0.50000
+O1 O 0.2590(3) 0.47357(11) 0.67112(7)
+O2 O 0.3146(2) 0.44072(11) 0.58005(7)
+O3 O 0.6192(3) 0.57383(11) 0.53509(7)
+N1 N 0.0166(3) 0.71054(13) 0.62683(9)
+N2 N 0.1720(3) 0.59596(14) 0.54716(9)
+C1 C 0.0910(4) 0.63363(15) 0.64208(10)
+H1 H 0.09093 0.61792 0.68098
+C2 C 0.1682(3) 0.57622(15) 0.60261(9)
+C3 C 0.2550(4) 0.48950(15) 0.61954(11)
+C4 C 0.0953(4) 0.67207(15) 0.53171(9)
+H2 H 0.09432 0.68773 0.49281
+C5 C 0.0169(4) 0.72885(16) 0.57159(11)
+H3 H -0.03791 0.78208 0.55911
+H4 H 0.674(6) 0.545(3) 0.5583(16)
+H5 H 0.584(6) 0.619(3) 0.5516(16)
+O1A O 0.2590(3) 0.52643(11) 0.32888(7)
+O2A O 0.3146(2) 0.55928(11) 0.41995(7)
+O3A O 0.6192(3) 0.42617(11) 0.46491(7)
+N1A N 0.0166(3) 0.28946(13) 0.37317(9)
+N2A N 0.1720(3) 0.40404(14) 0.45284(9)
+C1A C 0.0910(4) 0.36637(15) 0.35792(10)
+H1A H 0.09093 0.38208 0.31902
+C2A C 0.1682(3) 0.42378(15) 0.39739(9)
+C3A C 0.2550(4) 0.51050(15) 0.38046(11)
+C4A C 0.0953(4) 0.32793(15) 0.46829(9)
+H2A H 0.09432 0.31227 0.50719
+C5A C 0.0169(4) 0.27115(16) 0.42841(11)
+H3A H -0.03791 0.21792 0.44089
+H4A H 0.674(6) 0.455(3) 0.4417(16)
+H5A H 0.584(6) 0.381(3) 0.4484(16)
+#END

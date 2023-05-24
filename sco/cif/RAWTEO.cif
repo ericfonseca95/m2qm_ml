@@ -1,0 +1,143 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_RAWTEO
+_audit_creation_date 1997-08-26
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD RAWTEO
+_chemical_formula_sum 'C19 H38 Cr1 N1 Si2'
+_chemical_formula_moiety
+;
+C19 H38 Cr1 N1 Si2
+;
+_journal_coden_Cambridge 579
+_journal_volume 15
+_journal_year 1996
+_journal_page_first 5284
+_journal_name_full 'Organometallics '
+loop_
+_publ_author_name
+"Y.Liang"
+"G.P.A.Yap"
+"A.L.Rheingold"
+"K.H.Theopold"
+_chemical_name_systematic
+;
+(\h^5^-(t-Butylamido(dimethyl)silyl)-tetramethyl-cyclopentadienyl-N)-(trimethy
+lsilylmethyl)-chromium(iii)
+;
+_cell_volume   1165.852
+_exptl_crystal_colour 'dark red'
+_exptl_crystal_density_diffrn 1.107
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.053
+_refine_ls_wR_factor_gt 0.053
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 9.186(1)
+_cell_length_b 9.678(1)
+_cell_length_c 13.745(1)
+_cell_angle_alpha 94.803(9)
+_cell_angle_beta 100.434(8)
+_cell_angle_gamma 102.05(1)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cr 1.24
+N 0.68
+Si 1.09
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cr1 Cr 0.22004(9) 0.01848(9) 0.30075(6)
+Si1 Si -0.0074(2) -0.2255(2) 0.2292(1)
+Si2 Si 0.4421(2) 0.3098(2) 0.2380(1)
+N1 N 0.1543(4) -0.1354(4) 0.1937(3)
+C1 C 0.0043(6) 0.0488(6) 0.3385(4)
+C2 C 0.1196(6) 0.1430(6) 0.4121(4)
+C3 C 0.2068(6) 0.0607(6) 0.4654(4)
+C4 C 0.1480(6) -0.0843(6) 0.4261(4)
+C5 C 0.0199(5) -0.0946(6) 0.3448(4)
+C6 C -0.1132(7) 0.0971(7) 0.2653(5)
+C7 C 0.1385(7) 0.3014(7) 0.4351(5)
+C8 C 0.3346(7) 0.1182(7) 0.5536(4)
+C9 C 0.2147(6) -0.2036(7) 0.4622(4)
+C10 C -0.0093(7) -0.4110(6) 0.2594(5)
+C11 C -0.1926(6) -0.2402(7) 0.1409(5)
+C12 C 0.2248(6) -0.1805(6) 0.1115(4)
+C13 C 0.1198(8) -0.3075(8) 0.0415(5)
+C14 C 0.259(1) -0.0596(8) 0.0520(5)
+C15 C 0.3673(8) -0.2268(9) 0.1535(5)
+C16 C 0.4321(6) 0.1497(6) 0.3006(4)
+C17 C 0.5656(8) 0.3165(8) 0.1430(5)
+C18 C 0.2518(7) 0.3260(7) 0.1716(5)
+C19 C 0.5224(9) 0.4726(7) 0.3306(6)
+H1 H -0.19870 0.10440 0.29490
+H2 H -0.06930 0.18830 0.24770
+H3 H -0.14610 0.02870 0.20660
+H4 H 0.08100 0.31980 0.48450
+H5 H 0.24430 0.34400 0.46060
+H6 H 0.10370 0.34140 0.37600
+H7 H 0.29580 0.12460 0.61380
+H8 H 0.40310 0.05530 0.55860
+H9 H 0.38780 0.21100 0.54430
+H10 H 0.17070 -0.23660 0.51670
+H11 H 0.19370 -0.28040 0.40910
+H12 H 0.32270 -0.17020 0.48440
+H13 H -0.10250 -0.47400 0.22420
+H14 H 0.07510 -0.44070 0.23900
+H15 H -0.00120 -0.41360 0.32980
+H16 H -0.24810 -0.33780 0.12940
+H17 H -0.25060 -0.18220 0.16990
+H18 H -0.17460 -0.20890 0.07880
+H19 H 0.02680 -0.28340 0.01210
+H20 H 0.16910 -0.33580 -0.01020
+H21 H 0.09780 -0.38470 0.08010
+H22 H 0.32470 0.02060 0.09560
+H23 H 0.30900 -0.08680 0.00030
+H24 H 0.16660 -0.03440 0.02260
+H25 H 0.43630 -0.14800 0.19670
+H26 H 0.34280 -0.30480 0.19090
+H27 H 0.41410 -0.25580 0.10060
+H28 H 0.48980 0.09210 0.27080
+H29 H 0.48330 0.17900 0.36880
+H30 H 0.52800 0.23460 0.09350
+H31 H 0.56630 0.40140 0.11150
+H32 H 0.66710 0.31690 0.17630
+H33 H 0.20770 0.24420 0.12260
+H34 H 0.18670 0.33130 0.21840
+H35 H 0.26290 0.41060 0.13920
+H36 H 0.62070 0.46790 0.36650
+H37 H 0.53170 0.55620 0.29710
+H38 H 0.45550 0.47700 0.37640
+#END

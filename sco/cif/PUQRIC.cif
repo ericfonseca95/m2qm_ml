@@ -1,0 +1,141 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_PUQRIC
+_audit_creation_date 1999-01-19
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD PUQRIC
+_database_code_depnum_ccdc_journal 207/197
+_chemical_formula_sum 'C17 H15 Cr1 N1 O3 S1'
+_chemical_formula_moiety
+;
+C17 H15 Cr1 N1 O3 S1
+;
+_journal_coden_Cambridge 207
+_journal_year 1998
+_journal_page_first 1175
+_journal_name_full 'J.Chem.Soc.,Perkin Trans.1 '
+loop_
+_publ_author_name
+"Y.Yagyu"
+"M.Ito"
+"N.Matsumura"
+"H.Inoue"
+"K.Mizuno"
+"T.Adachi"
+_chemical_name_systematic
+;
+Tricarbonyl-(\h^6^-6-methylsulfanyl-5-phenyl-2,3-dihydro-1H-pyrrolizine)-chrom
+ium
+;
+_chemical_melting_point 370.15
+_cell_volume    827.440
+_exptl_crystal_colour 'yellow'
+_exptl_special_details
+;
+Melting point range 370.15-372.15K
+
+;
+_exptl_crystal_description 'prismatic'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+Carbon atom, C2, and its associated hydrogen atoms, of the pyrrolizine ring 
+are equally disordered over two sites.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.032
+_refine_ls_wR_factor_gt 0.032
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 9.371(1)
+_cell_length_b 11.044(2)
+_cell_length_c 8.918(1)
+_cell_angle_alpha 101.29(1)
+_cell_angle_beta 111.877(9)
+_cell_angle_gamma 76.75(1)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cr 1.35
+N 0.68
+O 0.68
+S 1.02
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cr1 Cr 0.22700(3) -0.14822(2) 0.35450(3)
+S1 S 0.18989(6) -0.61065(4) 0.06538(4)
+O1 O -0.0480(2) -0.1957(1) 0.4122(2)
+O2 O 0.0252(2) 0.0850(1) 0.2229(2)
+O3 O 0.3331(2) -0.0212(2) 0.6951(2)
+N1 N 0.2668(1) -0.4621(1) 0.5188(1)
+C1 C 0.3103(2) -0.3839(2) 0.6750(2)
+C2 C 0.3148(6) -0.4738(4) 0.7898(4)
+C3? C 0.2500(4) -0.4351(4) 0.7776(4)
+C4 C 0.2147(2) -0.5682(2) 0.6899(2)
+C5 C 0.1766(2) -0.6321(1) 0.3714(2)
+C6 C 0.2096(2) -0.5658(1) 0.2712(2)
+C7 C 0.2647(2) -0.4587(1) 0.3642(1)
+C8 C 0.2132(2) -0.5657(1) 0.5225(2)
+C9 C 0.2780(3) -0.7721(2) 0.0641(3)
+C10 C 0.3077(2) -0.3560(1) 0.3183(2)
+C11 C 0.4347(2) -0.2979(1) 0.4185(2)
+C12 C 0.4738(2) -0.1988(2) 0.3704(2)
+C13 C 0.3849(2) -0.1581(2) 0.2186(2)
+C14 C 0.2576(2) -0.2142(2) 0.1171(2)
+C15 C 0.2172(2) -0.3106(1) 0.1650(2)
+C16 C 0.0577(2) -0.1776(1) 0.3897(2)
+C17 C 0.1046(2) -0.0035(2) 0.2757(2)
+C18 C 0.2900(2) -0.0670(2) 0.5627(2)
+H1 H 0.41170 -0.36010 0.70260
+H2 H 0.23720 -0.30800 0.67800
+H3? H 0.42190 -0.39050 0.72340
+H4? H 0.26640 -0.29780 0.66400
+H5 H 0.41990 -0.51270 0.84330
+H6 H 0.27570 -0.42640 0.87530
+H7? H 0.32220 -0.43860 0.88350
+H8? H 0.15420 -0.38100 0.78220
+H9 H 0.25950 -0.64990 0.72580
+H10 H 0.11230 -0.54630 0.69670
+H11? H 0.29560 -0.63220 0.74380
+H12? H 0.11750 -0.58180 0.68870
+H13 H 0.13630 -0.70850 0.33900
+H14 H 0.37080 -0.78250 0.15450
+H15 H 0.29980 -0.80080 -0.03410
+H16 H 0.20680 -0.81970 0.06910
+H17 H 0.488(2) -0.326(1) 0.507(2)
+H18 H 0.571(2) -0.160(2) 0.445(2)
+H19 H 0.397(2) -0.098(2) 0.191(2)
+H20 H 0.188(2) -0.184(2) 0.015(2)
+H21 H 0.127(2) -0.340(1) 0.099(2)
+#END

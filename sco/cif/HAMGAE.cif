@@ -1,0 +1,136 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_HAMGAE
+_audit_creation_date 2005-03-15
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD HAMGAE
+_database_code_depnum_ccdc_archive 'CCDC 233801'
+_chemical_formula_sum 'C22 H25 Fe1 N1'
+_chemical_formula_moiety
+;
+C22 H25 Fe1 N1
+;
+_journal_coden_Cambridge 692
+_journal_volume 2004
+_journal_year 2004
+_journal_page_first 1971
+_journal_name_full 'Synthesis '
+loop_
+_publ_author_name
+"L.Tebben"
+"G.Kehr"
+"R.Frohlich"
+"G.Erker"
+_chemical_name_systematic
+;
+(6S,9S,15R)-6-Methyl-9-(1'-phenylethylamino)(3)ferrocenophane
+;
+_chemical_name_common
+;
+(1-(1'-Phenylethylamino)-1,3-bis(eta$5!-cyclopentdienyl)butane)-iron
+;
+_chemical_melting_point 344.15
+_cell_volume    868.823
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.373
+_exptl_crystal_description 'plate'
+_exptl_crystal_preparation 'diethyl ether'
+_diffrn_ambient_temperature 198
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0569
+_refine_ls_wR_factor_gt 0.0569
+loop_
+_citation_database_id_CSD
+_citation_special_details
+HAMGEI "is a stereoisomer of this entry"
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21'
+_symmetry_Int_Tables_number 4
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,-z
+_cell_length_a 10.829(1)
+_cell_length_b 7.286(1)
+_cell_length_c 11.017(1)
+_cell_angle_alpha 90
+_cell_angle_beta 91.78(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Fe 1.34
+N 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe1 Fe 0.23441(5) -0.00122(9) 0.11657(5)
+N1 N 0.4359(4) 0.1120(7) -0.2081(4)
+H1 H 0.498(4) 0.040(8) -0.181(4)
+C1 C 0.1453(4) -0.1890(6) 0.0125(4)
+C2 C 0.0581(4) -0.0723(7) 0.0666(4)
+H2 H -0.00090 0.00230 0.02420
+C3 C 0.0732(4) -0.0856(7) 0.1935(5)
+H3 H 0.02650 -0.02100 0.25120
+C4 C 0.1690(5) -0.2103(7) 0.2206(5)
+H4 H 0.19880 -0.24440 0.29940
+C5 C 0.2130(5) -0.2762(7) 0.1086(5)
+H5 H 0.27700 -0.36380 0.09960
+C6 C 0.1682(4) -0.2122(7) -0.1213(4)
+H6 H 0.15990 -0.34620 -0.13970
+C7 C 0.0700(4) -0.1129(8) -0.1998(5)
+H7 H -0.01080 -0.17000 -0.18840
+H8 H 0.09120 -0.12150 -0.28540
+H9 H 0.06660 0.01650 -0.17580
+C8 C 0.2985(4) -0.1562(7) -0.1543(4)
+H10 H 0.31220 -0.19420 -0.23910
+H11 H 0.35820 -0.22430 -0.10140
+C9 C 0.3263(4) 0.0510(6) -0.1425(4)
+H12 H 0.25360 0.11760 -0.17910
+C10 C 0.3388(4) 0.1105(6) -0.0121(4)
+C11 C 0.2654(5) 0.2486(7) 0.0416(4)
+H13 H 0.20650 0.32410 -0.00010
+C12 C 0.2949(5) 0.2548(7) 0.1679(4)
+H14 H 0.25880 0.33390 0.22550
+C13 C 0.3872(5) 0.1222(8) 0.1926(5)
+H15 H 0.42410 0.09690 0.27020
+C14 C 0.4159(4) 0.0331(7) 0.0829(4)
+H16 H 0.47550 -0.06110 0.07380
+C15 C 0.4257(4) 0.0923(8) -0.3399(5)
+H17 H 0.40870 -0.03930 -0.36000
+C16 C 0.5483(5) 0.1468(10) -0.3934(6)
+H18 H 0.57100 0.27050 -0.36580
+H19 H 0.54040 0.14540 -0.48220
+H20 H 0.61250 0.05970 -0.36660
+C17 C 0.3212(5) 0.2085(7) -0.3926(4)
+C18 C 0.3003(4) 0.3833(8) -0.3516(4)
+H21 H 0.34980 0.43090 -0.28620
+C19 C 0.2084(4) 0.4912(13) -0.4042(4)
+H22 H 0.19530 0.61240 -0.37550
+C20 C 0.1353(5) 0.4222(9) -0.4988(5)
+H23 H 0.07180 0.49550 -0.53530
+C21 C 0.1550(6) 0.2495(10) -0.5389(5)
+H24 H 0.10490 0.20150 -0.60370
+C22 C 0.2470(5) 0.1428(8) -0.4865(5)
+H25 H 0.25950 0.02170 -0.51570
+#END

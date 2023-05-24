@@ -1,0 +1,131 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_TAVMEI
+_audit_creation_date 1997-01-23
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD TAVMEI
+_chemical_formula_sum 'C9 H24 Cl1 Co1 N4 O6'
+_chemical_formula_moiety
+;
+C9 H20 Co1 N4 O4 1+,Cl1 1-,2(H2 O1)
+;
+_journal_coden_Cambridge 9
+_journal_volume 35
+_journal_year 1996
+_journal_page_first 3031
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"E.C.Sheu"
+"Maoyu Shang"
+"A.G.Lappin"
+_chemical_name_systematic
+;
+\L,\D-cis-\b-(SS,RR)-endo-(5-(R,S)-Methyl-3,6-diaza-1,8-octanediamine-N,N',N''
+,N''')-(oxalato-O,O')-cobalt(iii) chloride dihydrate
+;
+_cell_volume    762.215
+_exptl_crystal_density_diffrn 1.65
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+One water molecule has 0.68 occupancy.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0405
+_refine_ls_wR_factor_gt 0.0405
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 8.2143(9)
+_cell_length_b 8.2572(9)
+_cell_length_c 11.755(1)
+_cell_angle_alpha 80.845(9)
+_cell_angle_beta 84.621(9)
+_cell_angle_gamma 75.912(9)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+Co 1.33
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Co1 Co 0.39822(3) 0.26341(3) 0.31204(2)
+Cl1 Cl 0.95085(7) 0.14398(8) 0.21008(6)
+O1 O 0.5586(2) 0.1895(2) 0.4294(1)
+O2 O 0.4906(2) 0.4580(2) 0.2768(1)
+O3 O 0.7387(2) 0.2905(2) 0.5115(1)
+O4 O 0.6699(2) 0.5742(2) 0.3469(2)
+O5 O 0.0757(2) 0.1283(2) 0.5615(2)
+O6 O 0.8383(7) 0.077(1) -0.0330(5)
+N1 N 0.3234(2) 0.0541(2) 0.3513(2)
+N2 N 0.5502(2) 0.1527(2) 0.1953(2)
+N3 N 0.2446(2) 0.3550(2) 0.1916(2)
+N4 N 0.2268(2) 0.3799(2) 0.4156(2)
+C1 C 0.4024(3) -0.0654(3) 0.2684(2)
+C2 C 0.5731(3) -0.0328(3) 0.2295(2)
+C3 C 0.4782(3) 0.2123(3) 0.0793(2)
+C4 C 0.3466(3) 0.3764(3) 0.0813(2)
+C5 C 0.2425(4) 0.4209(4) -0.0237(2)
+C6 C 0.1305(3) 0.5096(3) 0.2270(2)
+C7 C 0.0748(3) 0.4641(3) 0.3516(2)
+C8 C 0.6390(3) 0.3015(3) 0.4383(2)
+C9 C 0.5997(3) 0.4608(3) 0.3474(2)
+H1 H 0.195(4) 0.073(4) 0.354(3)
+H2 H 0.356(4) 0.008(4) 0.423(3)
+H3 H 0.656(4) 0.178(4) 0.200(3)
+H4 H 0.197(4) 0.295(4) 0.185(3)
+H5 H 0.250(3) 0.451(3) 0.443(3)
+H6 H 0.208(3) 0.311(3) 0.479(3)
+H7 H 0.331(4) -0.049(4) 0.206(3)
+H8 H 0.413(4) -0.195(4) 0.315(3)
+H9 H 0.637(4) -0.066(4) 0.293(3)
+H10 H 0.628(4) -0.099(4) 0.171(3)
+H11 H 0.429(4) 0.127(4) 0.060(3)
+H12 H 0.582(4) 0.224(4) 0.010(3)
+H13 H 0.401(4) 0.461(4) 0.081(3)
+H14 H 0.183(4) 0.342(4) -0.020(3)
+H15 H 0.166(4) 0.544(5) -0.029(4)
+H16 H 0.303(4) 0.410(5) -0.087(4)
+H17 H 0.034(4) 0.553(4) 0.178(3)
+H18 H 0.185(4) 0.588(4) 0.220(3)
+H19 H -0.005(4) 0.374(4) 0.365(3)
+H20 H 0.021(4) 0.573(4) 0.376(3)
+H21 H -0.022(4) 0.168(4) 0.544(3)
+H22 H 0.083(4) 0.055(5) 0.622(3)
+H23 H 0.87500 0.16800 -0.02700
+H24 H 0.87500 -0.04100 0.02900
+#END

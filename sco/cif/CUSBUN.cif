@@ -1,0 +1,134 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CUSBUN
+_audit_creation_date 1986-02-24
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CUSBUN
+_chemical_formula_sum 'C10 H24 Cl3 Cr1 N4 O4'
+_chemical_formula_moiety
+;
+C10 H24 Cl2 Cr1 N4 1+,Cl1 O4 1-
+;
+_journal_coden_Cambridge 9
+_journal_volume 23
+_journal_year 1984
+_journal_page_first 4237
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"D.A.House"
+"V.McKee"
+_chemical_name_systematic
+;
+(-)-cis-(RRRR)-Dichloro-(1,4,8,11-tetra-azacyclotetradecane-N^1^,N^4^,N^8^,N^1
+1^)-chromium(iii) perchlorate
+;
+_cell_volume    881.263
+_exptl_crystal_colour 'dark red'
+_exptl_crystal_density_diffrn 1.59
+_exptl_special_details
+;
+Absolute configuration
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+The ClO4 anion shows two-fold disorder around the Cl atom, with 0.5 occupancy 
+of each orientation. No oxygen sites have been retained.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0534
+_refine_ls_wR_factor_gt 0.0534
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'P 21 21 2'
+_symmetry_Int_Tables_number 18
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2-y,-z
+3 1/2-x,1/2+y,-z
+4 -x,-y,z
+_cell_length_a 10.097(8)
+_cell_length_b 13.747(7)
+_cell_length_c 6.349(8)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+Cr 1.35
+N 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cr1 Cr 0.00000 0.00000 0.0520(2)
+Cl1 Cl 0.0503(2) 0.1127(2) -0.2105(3)
+N1 N 0.1963(6) -0.0446(4) 0.0836(10)
+C1 C 0.2239(8) -0.1514(7) 0.1012(17)
+C2 C 0.1524(11) -0.2009(6) 0.2803(15)
+C3 C 0.2567(6) 0.0088(7) 0.2633(12)
+C4 C 0.2021(8) 0.1105(7) 0.2649(14)
+N2 N 0.0556(6) 0.1034(4) 0.2731(10)
+C5 C 0.0022(12) -0.2024(5) 0.2638(12)
+Cl2 Cl 0.50000 0.00000 -0.2644(4)
+H1 H 0.23650 -0.02880 -0.04890
+H2 H 0.19730 -0.18190 -0.02800
+H3 H 0.31730 -0.16020 0.12140
+H4 H 0.01940 0.07960 0.40300
+H5 H 0.23500 -0.02320 0.39310
+H6 H 0.35110 0.01090 0.24680
+H7 H -0.03270 -0.24030 0.37820
+H8 H -0.02220 -0.23210 0.13260
+H9 H 0.22880 0.14420 0.13950
+H10 H 0.23420 0.14490 0.38620
+H11 H 0.18270 -0.26710 0.28690
+H12 H 0.17550 -0.16790 0.40830
+Cl1C Cl -0.0503(2) -0.1127(2) -0.2105(3)
+N1C N -0.1963(6) 0.0446(4) 0.0836(10)
+N2C N -0.0556(6) -0.1034(4) 0.2731(10)
+C5C C -0.0022(12) 0.2024(5) 0.2638(12)
+C1C C -0.2239(8) 0.1514(7) 0.1012(17)
+C3C C -0.2567(6) -0.0088(7) 0.2633(12)
+H1C H -0.23650 0.02880 -0.04890
+C4C C -0.2021(8) -0.1105(7) 0.2649(14)
+H4C H -0.01940 -0.07960 0.40300
+C2C C -0.1524(11) 0.2009(6) 0.2803(15)
+H7C H 0.03270 0.24030 0.37820
+H8C H 0.02220 0.23210 0.13260
+H2C H -0.19730 0.18190 -0.02800
+H3C H -0.31730 0.16020 0.12140
+H5C H -0.23500 0.02320 0.39310
+H6C H -0.35110 -0.01090 0.24680
+H9C H -0.22880 -0.14420 0.13950
+H10C H -0.23420 -0.14490 0.38620
+H11C H -0.18270 0.26710 0.28690
+H12C H -0.17550 0.16790 0.40830
+#END

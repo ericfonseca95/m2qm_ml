@@ -1,0 +1,121 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_EBAKOJ
+_audit_creation_date 2011-11-29
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD EBAKOJ
+_database_code_depnum_ccdc_archive 'CCDC 851029'
+_chemical_formula_sum 'C9 H16 B1 F4 Fe1 N5 O3'
+_chemical_formula_moiety
+;
+C9 H16 Fe1 N5 O3 1+,B1 F4 1-
+;
+_journal_coden_Cambridge 9
+_journal_volume 50
+_journal_year 2011
+_journal_page_first 8541
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"J.L.Hess"
+"Chung-Hung Hsieh"
+"J.H.Reibenspies"
+"M.Y.Darensbourg"
+_chemical_name_systematic
+;
+(1,3-Diisopropyl-imidazole-2-ylidene)-trinitrosy-iron tetrafluoroborate
+;
+_cell_volume   1585.695
+_exptl_crystal_colour 'green'
+_exptl_crystal_density_diffrn 1.612
+_exptl_crystal_description 'needle'
+_diffrn_ambient_temperature 110
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0428
+_refine_ls_wR_factor_gt 0.0428
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C c'
+_symmetry_Int_Tables_number 9
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 x,-y,1/2+z
+3 1/2+x,1/2+y,z
+4 1/2+x,1/2-y,1/2+z
+_cell_length_a 9.1037(16)
+_cell_length_b 15.299(3)
+_cell_length_c 11.452(3)
+_cell_angle_alpha 90
+_cell_angle_beta 96.194(10)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+B 0.83
+F 0.64
+Fe 1.36
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe1 Fe 0.76437(12) 0.80532(4) 0.4318(1)
+O1 O 1.0453(5) 0.7782(3) 0.3524(4)
+O2 O 0.7494(5) 0.7626(3) 0.6724(4)
+O3 O 0.5724(5) 0.6972(3) 0.2851(4)
+N1 N 0.9329(5) 0.7946(3) 0.3865(5)
+N2 N 0.7545(5) 0.7844(3) 0.5762(4)
+N3 N 0.6425(5) 0.7456(3) 0.3417(4)
+N4 N 0.7981(5) 1.0011(3) 0.4540(4)
+N5 N 0.5941(5) 0.9713(3) 0.3468(4)
+C1 C 0.7139(5) 0.9323(3) 0.4121(4)
+C2 C 0.4689(6) 0.9241(3) 0.2812(5)
+H1 H 0.46790 0.86280 0.31160
+C3 C 0.4909(6) 0.9209(4) 0.1524(5)
+H2 H 0.58240 0.88940 0.14240
+H3 H 0.49720 0.98050 0.12220
+H4 H 0.40720 0.89060 0.10890
+C4 C 0.3235(6) 0.9683(4) 0.3034(5)
+H5 H 0.31240 1.02300 0.25890
+H6 H 0.32440 0.98080 0.38740
+H7 H 0.24070 0.92930 0.27820
+C5 C 0.6076(6) 1.0609(3) 0.3492(5)
+H8 H 0.54070 1.10170 0.31020
+C6 C 0.7351(5) 1.0800(3) 0.4182(4)
+H9 H 0.77310 1.13660 0.43780
+C7 C 0.9340(6) 0.9924(4) 0.5368(5)
+H10 H 0.97300 0.93170 0.53020
+C8 C 0.8985(6) 1.0061(4) 0.6622(5)
+H11 H 0.81720 0.96740 0.67800
+H12 H 0.86940 1.06710 0.67250
+H13 H 0.98600 0.99280 0.71680
+C9 C 1.0530(6) 1.0568(4) 0.5053(5)
+H14 H 1.02310 1.11660 0.52240
+H15 H 1.06490 1.05160 0.42160
+H16 H 1.14700 1.04330 0.55190
+F1 F 0.3696(4) 0.7761(2) 0.4635(3)
+F2 F 0.4481(5) 0.8473(4) 0.6274(5)
+F3 F 0.2124(4) 0.8598(3) 0.5561(3)
+F4 F 0.3003(7) 0.7297(3) 0.6333(4)
+B1 B 0.3283(8) 0.8035(4) 0.5695(6)
+#END

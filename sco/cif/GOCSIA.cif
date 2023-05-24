@@ -1,0 +1,139 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_GOCSIA
+_audit_creation_date 1999-05-04
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD GOCSIA
+_database_code_depnum_ccdc_archive 'CCDC 114122'
+_chemical_formula_sum 'C12 H32 Fe1 N5 O16'
+_chemical_formula_moiety
+;
+C12 H8 Fe1 O14 5-,5(H4 N1 1+),2(H2 O1)
+;
+_journal_coden_Cambridge 4
+_journal_volume 120
+_journal_year 1998
+_journal_page_first 13266
+_journal_name_full 'J.Am.Chem.Soc. '
+loop_
+_publ_author_name
+"M.Matzapetakis"
+"C.P.Raptopoulou"
+"A.Tsohos"
+"V.Papaefthymiou"
+"N.Moon"
+"A.Salifoglou"
+_chemical_name_systematic
+;
+pentakis(Ammonium) bis(3-carboxy-3-hydroxypentan-1-oato-5-oic acid)-iron(iii) 
+dihydrate
+;
+_cell_volume    568.270
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.631
+_exptl_crystal_description 'parallelepiped'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0304
+_refine_ls_wR_factor_gt 0.0304
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 9.669(7)
+_cell_length_b 9.714(7)
+_cell_length_c 7.265(5)
+_cell_angle_alpha 90.93(2)
+_cell_angle_beta 105.69(2)
+_cell_angle_gamma 118.58(2)
+_cell_formula_units_Z 1
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Fe 1.34
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe1 Fe 0.00000 0.00000 0.00000
+O1 O -0.0041(2) 0.1974(2) -0.0972(2)
+O2 O 0.1939(2) 0.14392(15) 0.2196(2)
+O3 O 0.4016(2) 0.2533(2) -0.1380(3)
+C1 C 0.1094(2) 0.3444(2) -0.0497(3)
+O4 O 0.0879(2) 0.4504(2) -0.1204(2)
+C2 C 0.2755(2) 0.3932(2) 0.1008(3)
+C3 C 0.3142(2) 0.2585(2) 0.1443(3)
+C4 C 0.3026(2) 0.1795(2) -0.0510(3)
+O5 O 0.1760(2) 0.0398(2) -0.1223(2)
+C5 C 0.4882(2) 0.3311(2) 0.2921(3)
+C6 C 0.5544(3) 0.2173(3) 0.3393(3)
+O6 O 0.6614(3) 0.2534(3) 0.5026(3)
+O7 O 0.5113(3) 0.1051(2) 0.2125(4)
+N1 N 0.2951(3) -0.2276(3) 0.0931(4)
+N2 N 0.2285(3) -0.0317(3) -0.4850(3)
+O8 O 0.1221(4) 0.2612(3) 0.5022(4)
+N3 N 0.00000 0.50000 0.50000
+H1 H 0.3560(32) 0.4721(31) 0.0654(36)
+H2 H 0.2768(28) 0.4388(28) 0.2212(37)
+H3 H 0.4852(28) 0.3757(28) 0.4130(36)
+H4 H 0.5668(35) 0.4174(34) 0.2463(40)
+H5 H 0.2796(44) -0.0902(43) -0.4851(51)
+H6 H 0.2679(53) 0.0288(53) -0.3813(72)
+H7 H 0.2328(38) 0.0247(38) -0.5832(51)
+H8 H 0.1203(53) -0.0966(46) -0.4936(54)
+H9 H 0.2215(51) -0.3233(52) 0.0156(61)
+H10 H 0.2338(60) -0.1862(56) 0.0664(68)
+H11 H 0.3799(68) -0.1797(62) 0.0614(80)
+H12 H 0.3293(46) -0.2248(43) 0.2217(64)
+H13 H 0.0242(82) 0.4911(78) 0.602(10)
+H14 H 0.0784(62) 0.5477(64) 0.4970(86)
+H15 H 0.1492(46) 0.2233(44) 0.4078(59)
+H16 H 0.0755(50) 0.2902(50) 0.4404(60)
+O1A O 0.0041(2) -0.1974(2) 0.0972(2)
+C1A C -0.1094(2) -0.3444(2) 0.0497(3)
+O4A O -0.0879(2) -0.4504(2) 0.1204(2)
+C2A C -0.2755(2) -0.3932(2) -0.1008(3)
+C3A C -0.3142(2) -0.2585(2) -0.1443(3)
+O2A O -0.1939(2) -0.14392(15) -0.2196(2)
+O5A O -0.1760(2) -0.0398(2) 0.1223(2)
+C4A C -0.3026(2) -0.1795(2) 0.0510(3)
+O3A O -0.4016(2) -0.2533(2) 0.1380(3)
+C5A C -0.4882(2) -0.3311(2) -0.2921(3)
+C6A C -0.5544(3) -0.2173(3) -0.3393(3)
+O6A O -0.6614(3) -0.2534(3) -0.5026(3)
+O7A O -0.5113(3) -0.1051(2) -0.2125(4)
+H3A H -0.4852(28) -0.3757(28) -0.4130(36)
+H4A H -0.5668(35) -0.4174(34) -0.2463(40)
+H1A H -0.3560(32) -0.4721(31) -0.0654(36)
+H2A H -0.2768(28) -0.4388(28) -0.2212(37)
+H13A H -0.0242(82) 0.5089(78) 0.398(10)
+H14A H -0.0784(62) 0.4523(64) 0.5030(86)
+#END

@@ -1,0 +1,111 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_APENCP
+_audit_creation_date 1979-02-14
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD APENCP
+_chemical_formula_sum 'C7 H23 Cl5 Co1 N5 Zn1'
+_chemical_formula_moiety
+;
+C7 H23 Cl1 Co1 N5 2+,Cl4 Zn1 2-
+;
+_journal_coden_Cambridge 155
+_journal_volume 30
+_journal_year 1978
+_journal_page_first 59
+_journal_name_full 'Inorg.Chim.Acta '
+loop_
+_publ_author_name
+"B.F.Anderson"
+"J.D.Bell"
+"A.R.Gainsford"
+"D.A.House"
+_chemical_name_systematic
+;
+B-Chloro(RS-1,2-diaminopropane)(diethylenetriamine) cobalt(iii) 
+tetrachloro-zinc(ii)
+;
+_cell_volume   1795.875
+_exptl_crystal_colour 'deep red'
+_exptl_crystal_density_diffrn 1.77
+_exptl_special_details
+;
+Several error in coordinate table 1 . Correct values are z-Cl1 1.0808, z-Cl2 
+.8430,y-Cl4 .8483,y-Co1 .8245,y-N1 .6875,x-N3 1.5784,x-N4 1.5847, y-N4 
+.8241,z-N5 1.1520,x-C1 1.2383,y-C4 .8289
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.037
+_refine_ls_wR_factor_gt 0.037
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C c'
+_symmetry_Int_Tables_number 9
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 x,-y,1/2+z
+4 1/2+x,1/2-y,1/2+z
+_cell_length_a 9.744(2)
+_cell_length_b 13.263(3)
+_cell_length_c 13.955(2)
+_cell_angle_alpha 90
+_cell_angle_beta 95.26(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+Co 1.33
+N 0.68
+Zn 1.45
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Zn1 Zn 1.00000 1.00940 1.00000
+Cl1 Cl 1.16910 1.10380 1.08080
+Cl2 Cl 1.04330 0.99660 0.84300
+Cl3 Cl 0.79770 1.08960 1.01360
+Cl4 Cl 0.99700 0.84830 1.05740
+Co1 Co 1.43750 0.82450 1.26150
+Cl5 Cl 1.48450 0.98170 1.31610
+N1 N 1.37890 0.68750 1.22310
+N2 N 1.29030 0.82020 1.34600
+N3 N 1.57840 0.77480 1.35970
+N4 N 1.58470 0.82410 1.17590
+N5 N 1.32280 0.88650 1.15200
+C1 C 1.23830 0.66930 1.25390
+C2 C 1.21560 0.72220 1.34120
+C3 C 1.71050 0.75340 1.31340
+C4 C 1.71810 0.82890 1.23420
+C5 C 1.55520 0.90150 1.10090
+C6 C 1.40400 0.88570 1.06570
+C7 C 1.07110 0.73000 1.36690
+H1 H 1.59500 0.76800 1.13800
+#END

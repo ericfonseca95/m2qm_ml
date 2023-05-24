@@ -1,0 +1,117 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_SEMREK
+_audit_creation_date 2017-10-31
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD SEMREK
+_database_code_depnum_ccdc_archive 'CCDC 1566434'
+_chemical_formula_sum 'C12 H11 Cl3 Fe1 N5'
+_chemical_formula_moiety
+;
+C12 H11 Cl3 Fe1 N5
+;
+_journal_coden_Cambridge 1147
+_journal_volume 17
+_journal_year 2017
+_journal_page_first 6572
+_journal_name_full 'Cryst.Growth Des. '
+loop_
+_publ_author_name
+"R.Castaneda"
+"Andrew Hollingshead"
+"B.Gabidullin"
+"J.L.Brusso"
+_chemical_name_systematic
+;
+trichloro-(N'-[imino(pyridin-2-yl)methyl]pyridine-2-carboximidamide)-iron(iii)
+;
+_cell_volume   1512.683
+_exptl_crystal_colour 'light yellow'
+_exptl_crystal_density_diffrn 1.701
+_exptl_crystal_description 'plate'
+_exptl_crystal_preparation 'dichloromethane'
+_diffrn_ambient_temperature 200.1
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0641
+_refine_ls_wR_factor_gt 0.0641
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,-1/2+z
+7 -1/2-x,-1/2-y,-z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 15.3362(9)
+_cell_length_b 9.4902(5)
+_cell_length_c 10.4548(6)
+_cell_angle_alpha 90
+_cell_angle_beta 96.216(4)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+Fe 1.52
+N 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe1 Fe 0.50000 0.19777(10) 0.25000
+Cl1 Cl 0.37436(8) 0.20327(12) 0.36881(12)
+Cl2 Cl 0.50000 -0.03823(19) 0.25000
+N1 N 0.50000 0.4186(5) 0.25000
+N2 N 0.5806(3) 0.2520(4) 0.4204(4)
+N3 N 0.5541(3) 0.6231(5) 0.3553(4)
+H1 H 0.588(4) 0.659(6) 0.417(6)
+C1 C 0.5976(3) 0.3897(5) 0.4406(4)
+C2 C 0.5499(3) 0.4880(5) 0.3457(4)
+C3 C 0.6169(4) 0.1564(6) 0.5061(5)
+H2 H 0.60428 0.05916 0.49255
+C4 C 0.6546(3) 0.4348(5) 0.5440(5)
+H3 H 0.66847 0.53190 0.55514
+C5 C 0.6715(4) 0.1972(6) 0.6123(5)
+H4 H 0.69554 0.12900 0.67261
+C6 C 0.6909(4) 0.3360(6) 0.6307(5)
+H5 H 0.72950 0.36483 0.70317
+H6? H 0.521(7) 0.673(10) 0.301(10)
+N2A N 0.4194(3) 0.2520(4) 0.0796(4)
+N3A N 0.4459(3) 0.6231(5) 0.1447(4)
+H1A H 0.412(4) 0.659(6) 0.083(6)
+C1A C 0.4024(3) 0.3897(5) 0.0594(4)
+C2A C 0.4501(3) 0.4880(5) 0.1543(4)
+C3A C 0.3831(4) 0.1564(6) -0.0061(5)
+H2A H 0.39572 0.05916 0.00745
+C4A C 0.3454(3) 0.4348(5) -0.0440(5)
+H3A H 0.33153 0.53190 -0.05514
+C5A C 0.3285(4) 0.1972(6) -0.1123(5)
+H4A H 0.30446 0.12900 -0.17261
+C6A C 0.3091(4) 0.3360(6) -0.1307(5)
+H5A H 0.27050 0.36483 -0.20317
+Cl1A Cl 0.62564(8) 0.20327(12) 0.13119(12)
+#END

@@ -1,0 +1,117 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_XOZKOM
+_audit_creation_date 2002-11-19
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD XOZKOM
+_database_code_depnum_ccdc_archive 'CCDC 194554'
+_chemical_formula_sum 'C16 H6 Cl8 Cr1 N2 O4'
+_chemical_formula_moiety
+;
+C16 H6 Cl8 Cr1 N2 O4
+;
+_journal_coden_Cambridge 9
+_journal_volume 41
+_journal_year 2002
+_journal_page_first 4444
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"Ho-Chol Chang"
+"K.Mochizuki"
+"S.Kitagawa"
+_chemical_name_systematic
+;
+(3,4,5,6-Tetrachloro-o-semiquinonato)-(3,4,5,6-tetrachlorocatecholato)-trans-b
+is(acetonitrile)-chromium(iii)
+;
+_cell_volume    552.033
+_exptl_crystal_colour 'red-violet'
+_exptl_crystal_density_diffrn 1.882
+_exptl_crystal_description 'plate'
+_exptl_crystal_preparation 'carbon disulfide/acetonitrile'
+_diffrn_ambient_temperature 296.2
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.042
+_refine_ls_wR_factor_gt 0.042
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 5.9174(8)
+_cell_length_b 9.4798(8)
+_cell_length_c 10.672(2)
+_cell_angle_alpha 109.517(5)
+_cell_angle_beta 99.967(3)
+_cell_angle_gamma 92.822(2)
+_cell_formula_units_Z 1
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+Cr 1.35
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cr1 Cr 1.00000 0.00000 1.00000
+Cl1 Cl 0.6353(2) -0.0015(1) 1.3775(1)
+Cl2 Cl 0.8085(2) -0.2497(1) 1.4945(1)
+Cl3 Cl 1.1706(2) -0.4510(1) 1.3674(1)
+Cl4 Cl 1.3372(2) -0.4165(1) 1.1128(1)
+O1 O 0.8632(4) 0.0127(3) 1.1548(2)
+O2 O 1.1402(5) -0.1649(3) 1.0381(3)
+N1 N 0.7203(7) -0.1465(4) 0.8799(3)
+C1 C 0.9191(6) -0.0932(4) 1.2035(4)
+C2 C 0.8341(6) -0.1143(4) 1.3109(4)
+C3 C 0.9105(6) -0.2270(4) 1.3590(4)
+C4 C 1.0703(6) -0.3181(4) 1.3016(4)
+C5 C 1.1485(6) -0.3023(4) 1.1907(4)
+C6 C 1.0750(6) -0.1903(4) 1.1409(4)
+C7 C 0.5537(8) -0.2250(5) 0.8259(4)
+C8 C 0.3434(9) -0.3230(6) 0.7579(6)
+H1 H 0.25(1) -0.275(9) 0.721(8)
+H2 H 0.25(2) -0.34(1) 0.83(1)
+H3 H 0.36(1) -0.413(7) 0.702(6)
+O1A O 1.1368(4) -0.0127(3) 0.8452(2)
+C1A C 1.0809(6) 0.0932(4) 0.7965(4)
+C2A C 1.1659(6) 0.1143(4) 0.6891(4)
+Cl1A Cl 1.3647(2) 0.0015(1) 0.6225(1)
+C3A C 1.0895(6) 0.2270(4) 0.6410(4)
+Cl2A Cl 1.1915(2) 0.2497(1) 0.5055(1)
+C4A C 0.9297(6) 0.3181(4) 0.6984(4)
+Cl3A Cl 0.8294(2) 0.4510(1) 0.6326(1)
+C5A C 0.8515(6) 0.3023(4) 0.8093(4)
+Cl4A Cl 0.6628(2) 0.4165(1) 0.8872(1)
+C6A C 0.9250(6) 0.1903(4) 0.8591(4)
+O2A O 0.8598(5) 0.1649(3) 0.9619(3)
+N1A N 1.2797(7) 0.1465(4) 1.1201(3)
+C7A C 1.4463(8) 0.2250(5) 1.1741(4)
+C8A C 1.6566(9) 0.3230(6) 1.2421(6)
+H1A H 1.75(1) 0.275(9) 1.279(8)
+H2A H 1.75(2) 0.34(1) 1.17(1)
+H3A H 1.64(1) 0.413(7) 1.298(6)
+#END

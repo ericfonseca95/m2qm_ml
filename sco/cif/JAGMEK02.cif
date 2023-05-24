@@ -1,0 +1,129 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_JAGMEK02
+_audit_creation_date 2018-11-14
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD JAGMEK02
+_database_code_depnum_ccdc_archive 'CCDC 1877342'
+_chemical_formula_sum 'C16 H18 Cl1 Mn1 N2 O4'
+_chemical_formula_moiety
+;
+C16 H16 Cl1 Mn1 N2 O3,H2 O1
+;
+_journal_coeditor_code "vn2136"
+_journal_coden_Cambridge 1828
+_journal_volume 74
+_journal_year 2018
+_journal_page_first 1778
+_journal_name_full 'Acta Crystallogr.,Sect.E:Cryst.Commun. '
+loop_
+_publ_author_name
+"J.A.Reyes Perea"
+"S.Bernes"
+"M.G.Quintero Tellez"
+_chemical_name_systematic
+;
+aqua-chloro-(2,2'-{ethane-1,2-diylbis[(imino)methyl]}bis(phenolato))-manganese
+(iii) monohydrate
+;
+_chemical_melting_point 447
+_cell_volume    838.671
+_exptl_crystal_colour 'brown'
+_exptl_crystal_density_diffrn 1.555
+_exptl_special_details
+;
+Absolute configuration
+P21 polymorph
+
+;
+_exptl_crystal_description 'plate'
+_diffrn_ambient_temperature 298
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0368
+_refine_ls_wR_factor_gt 0.0368
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21'
+_symmetry_Int_Tables_number 4
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,-z
+_cell_length_a 6.7083(4)
+_cell_length_b 7.2414(5)
+_cell_length_c 17.2768(13)
+_cell_angle_alpha 90
+_cell_angle_beta 92.153(6)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+Mn 1.61
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mn1 Mn 0.09362(6) 0.52766(6) 0.76613(3)
+Cl1 Cl 0.21462(13) 0.86787(12) 0.78160(7)
+O1 O 0.2621(3) 0.4339(3) 0.84472(14)
+O2 O 0.2725(3) 0.4682(3) 0.68703(14)
+O3 O -0.0502(4) 0.2359(4) 0.7460(2)
+H1 H -0.167(8) 0.208(7) 0.741(3)
+H2 H 0.022(8) 0.150(8) 0.757(3)
+N1 N -0.1165(4) 0.5785(4) 0.84081(18)
+N2 N -0.1111(4) 0.6231(4) 0.69079(18)
+C1 C 0.2606(5) 0.4706(4) 0.9199(2)
+C2 C 0.4299(5) 0.4261(5) 0.9660(2)
+H3 H 0.53932 0.37285 0.94314
+C3 C 0.4374(6) 0.4598(5) 1.0446(2)
+H4 H 0.55242 0.43141 1.07389
+C4 C 0.2745(6) 0.5358(6) 1.0804(2)
+H5 H 0.28023 0.55901 1.13336
+C5 C 0.1057(6) 0.5760(5) 1.0368(2)
+H6 H -0.00451 0.62369 1.06104
+C6 C 0.0944(5) 0.5471(5) 0.95632(19)
+C7 C -0.0886(5) 0.5890(4) 0.9141(2)
+H7 H -0.19600 0.62702 0.94269
+C8 C -0.3150(5) 0.6098(5) 0.8028(2)
+H8 H -0.39679 0.68440 0.83581
+H9 H -0.38200 0.49281 0.79339
+C9 C -0.2848(5) 0.7073(5) 0.7279(2)
+H10 H -0.40308 0.69532 0.69418
+H11 H -0.26053 0.83764 0.73719
+C10 C -0.0941(5) 0.6321(5) 0.6175(2)
+H12 H -0.20246 0.67875 0.58856
+C11 C 0.0782(5) 0.5765(5) 0.5754(2)
+C12 C 0.0738(6) 0.6076(5) 0.4951(2)
+H13 H -0.04013 0.65871 0.47145
+C13 C 0.2312(7) 0.5651(6) 0.4508(2)
+H14 H 0.22526 0.58731 0.39775
+C14 C 0.4005(6) 0.4880(6) 0.4864(2)
+H15 H 0.50916 0.45937 0.45674
+C15 C 0.4104(5) 0.4534(5) 0.5645(2)
+H16 H 0.52405 0.39835 0.58665
+C16 C 0.2515(5) 0.4998(5) 0.61183(19)
+O4 O -0.4622(4) 0.1624(5) 0.7235(2)
+H17 H -0.541(8) 0.251(8) 0.719(3)
+H18 H -0.544(7) 0.087(7) 0.737(3)
+#END

@@ -1,0 +1,128 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_TADVID
+_audit_creation_date 1996-11-25
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD TADVID
+_chemical_formula_sum 'C14 H21 Fe1 N2 S2'
+_chemical_formula_moiety
+;
+C14 H21 Fe1 N2 S2
+;
+_journal_coden_Cambridge 4
+_journal_volume 118
+_journal_year 1996
+_journal_page_first 4133
+_journal_name_full 'J.Am.Chem.Soc. '
+loop_
+_publ_author_name
+"M.-H.Delville-Desbois"
+"S.Mross"
+"D.Astruc"
+"J.Linares"
+"F.Varret"
+"H.Rabaa"
+"A.Le Beuze"
+"J.-Y.Saillard"
+"R.D.Culp.D.A.Atwood"
+"A.H.Cowley"
+_chemical_name_systematic
+;
+Carbonyl-(dimethyldithiocarbamato)-(\h^5^-pentamethyl-cyclopentadienyl)-iron(i
+v)
+;
+_cell_volume    828.808
+_exptl_crystal_colour 'purple'
+_exptl_crystal_density_diffrn 1.352
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0495
+_refine_ls_wR_factor_gt 0.0495
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 8.637(2)
+_cell_length_b 9.087(2)
+_cell_length_c 11.593(1)
+_cell_angle_alpha 94.95(3)
+_cell_angle_beta 91.06(3)
+_cell_angle_gamma 113.67(3)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Fe 1.34
+N 0.68
+S 1.02
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe1 Fe 0.2715(3) 0.7566(3) 0.7218(2)
+S1 S -0.0130(5) 0.6324(5) 0.7438(3)
+S2 S 0.2453(5) 0.8309(6) 0.9073(3)
+C1 C 0.0294(18) 0.7141(19) 0.8831(10)
+N1 N -0.0809(14) 0.6912(17) 0.9599(9)
+C2 C -0.0299(25) 0.7636(25) 1.0774(11)
+C3 C -0.2644(19) 0.5899(25) 0.9297(12)
+C4 C 0.3184(43) 0.5759(26) 0.7489(15)
+N2 N 0.3610(37) 0.4673(20) 0.7682(13)
+C5 C 0.3841(26) 0.7688(27) 0.5622(15)
+C6 C 0.5014(23) 0.8818(27) 0.6524(15)
+C7 C 0.4418(24) 0.9939(20) 0.6931(13)
+C8 C 0.2771(21) 0.9607(30) 0.6409(19)
+C9 C 0.2431(23) 0.8194(27) 0.5562(12)
+C10 C 0.3910(29) 0.6377(22) 0.4879(15)
+C11 C 0.6715(23) 0.8770(27) 0.6837(17)
+C12 C 0.5337(20) 1.1405(18) 0.7881(11)
+C13 C 0.1655(23) 1.0456(28) 0.6513(17)
+C14 C 0.0873(20) 0.7401(18) 0.4718(11)
+H1 H -0.1275(25) 0.7342(25) 1.1229(11)
+H2 H 0.0228(25) 0.8790(25) 1.0781(11)
+H3 H 0.0491(25) 0.7258(25) 1.1094(11)
+H4 H -0.3276(19) 0.5863(25) 0.9975(12)
+H5 H -0.2789(19) 0.4824(25) 0.9016(12)
+H6 H -0.3045(19) 0.6360(25) 0.8707(12)
+H7 H 0.2896(29) 0.5889(22) 0.4382(15)
+H8 H 0.4006(29) 0.5587(22) 0.5341(15)
+H9 H 0.4875(29) 0.6774(22) 0.4415(15)
+H10 H 0.6788(23) 0.7844(27) 0.6419(17)
+H11 H 0.6813(23) 0.8703(27) 0.7655(17)
+H12 H 0.7614(23) 0.9734(27) 0.6635(17)
+H13 H 0.465(2) 1.2006(18) 0.8009(11)
+H14 H 0.6412(20) 1.2094(18) 0.7621(11)
+H15 H 0.5508(20) 1.1007(18) 0.8592(11)
+H16 H 0.0640(23) 0.9870(28) 0.6029(17)
+H17 H 0.2220(23) 1.1519(28) 0.6273(17)
+H18 H 0.1369(23) 1.0538(28) 0.7305(17)
+H19 H 0.0129(20) 0.7942(18) 0.4844(11)
+H20 H 0.0291(20) 0.6285(18) 0.4843(11)
+H21 H 0.1221(20) 0.7477(18) 0.3935(11)
+#END

@@ -1,0 +1,120 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_SOHKEG
+_audit_creation_date 2009-03-18
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD SOHKEG
+_database_code_depnum_ccdc_archive 'CCDC 685092'
+_chemical_formula_sum 'C8 H23 Mn1 N5 Se5'
+_chemical_formula_moiety
+;
+C8 H23 Mn1 N5 Se5
+;
+_journal_coden_Cambridge 29
+_journal_volume 634
+_journal_year 2008
+_journal_page_first 2191
+_journal_name_full 'Z.Anorg.Allg.Chem. '
+loop_
+_publ_author_name
+"A.Kromm"
+"Y.Geldmacher"
+"W.S.Sheldrick"
+_chemical_name_systematic
+;
+(Ethylene-1,2-diamine)-(1,4,7-triazacyclononane)-(pentaselenide-Se)-manganese(
+ii)
+;
+_cell_volume    914.594
+_exptl_crystal_colour 'black'
+_exptl_crystal_density_diffrn 2.321
+_exptl_crystal_description 'plate'
+_diffrn_ambient_temperature 294
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0647
+_refine_ls_wR_factor_gt 0.0647
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21'
+_symmetry_Int_Tables_number 4
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,-z
+_cell_length_a 7.2751(14)
+_cell_length_b 15.563(11)
+_cell_length_c 8.7388(18)
+_cell_angle_alpha 90
+_cell_angle_beta 112.427(14)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Mn 1.25
+N 0.68
+Se 1.22
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Se1 Se -0.0564(3) 0.83388(18) 0.1750(3)
+Se2 Se -0.0352(4) 0.98083(19) 0.2363(4)
+Se3 Se 0.4734(4) 1.04899(19) 0.2482(4)
+Se4 Se 0.3031(4) 1.15758(18) 0.0714(4)
+Se5 Se 0.2883(4) 1.0200(2) 0.4106(3)
+Mn1 Mn 0.1789(4) 0.8170(2) -0.0042(4)
+N1 N 0.235(2) 0.6757(16) 0.057(2)
+H1 H 0.11880 0.64740 0.02660
+H2 H 0.30620 0.65310 0.00240
+N2 N -0.051(3) 0.7878(16) -0.265(3)
+H3 H -0.05540 0.77040 -0.17340
+N3 N 0.457(3) 0.8164(15) 0.234(2)
+H4 H 0.55680 0.84220 0.21500
+H5 H 0.43270 0.84680 0.31190
+C1 C 0.518(4) 0.7283(18) 0.296(4)
+H6 H 0.57860 0.72960 0.41580
+H7 H 0.61770 0.70850 0.25550
+N4 N 0.105(2) 0.9522(12) -0.122(2)
+H8 H 0.15050 0.94900 -0.01540
+N5 N 0.359(2) 0.8251(15) -0.172(2)
+H9 H 0.39320 0.79470 -0.08300
+C2 C -0.108(3) 0.9406(19) -0.234(3)
+H10 H -0.18620 0.93610 -0.16630
+H11 H -0.15060 0.99210 -0.30080
+C3 C 0.225(3) 0.9701(16) -0.221(3)
+H12 H 0.26180 1.03040 -0.21000
+H13 H 0.14580 0.95890 -0.33640
+C4 C 0.411(3) 0.9162(19) -0.168(3)
+H14 H 0.48010 0.92650 -0.24140
+H15 H 0.49870 0.93220 -0.05660
+C5 C 0.245(3) 0.788(2) -0.339(3)
+H16 H 0.33000 0.74880 -0.36840
+H17 H 0.20570 0.83380 -0.42010
+C6 C -0.155(3) 0.8667(19) -0.346(3)
+H18 H -0.11950 0.87990 -0.43970
+H19 H -0.29760 0.85660 -0.38820
+C7 C 0.350(4) 0.6665(19) 0.244(3)
+H20 H 0.26290 0.67840 0.30230
+H21 H 0.39990 0.60830 0.27020
+C8 C 0.060(4) 0.740(2) -0.346(3)
+H22 H -0.02500 0.72940 -0.46080
+H23 H 0.09890 0.68440 -0.29210
+#END

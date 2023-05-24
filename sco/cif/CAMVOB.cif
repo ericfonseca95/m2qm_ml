@@ -1,0 +1,141 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CAMVOB
+_audit_creation_date 1984-06-02
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CAMVOB
+_database_code_depnum_ccdc_archive 'CCDC 1120061'
+_chemical_formula_sum 'C12 H32 Cr1 N4 P4'
+_chemical_formula_moiety
+;
+C12 H32 Cr1 N4 P4
+;
+_journal_coden_Cambridge 4
+_journal_volume 105
+_journal_year 1983
+_journal_page_first 5954
+_journal_name_full 'J.Am.Chem.Soc. '
+loop_
+_publ_author_name
+"G.S.Girolami"
+"J.E.Salt"
+"G.Wilkinson"
+"M.Thornton-Pett"
+"M.B.Hursthouse"
+_chemical_name_systematic
+;
+bis(Dinitrogen)-bis(1,2-bis(dimethylphosphino)ethane)-chromium
+;
+_chemical_melting_point 623.15
+_cell_volume    526.112
+_exptl_crystal_colour 'red'
+_exptl_special_details
+;
+Melts above 623.15K
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0315
+_refine_ls_wR_factor_gt 0.0315
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 7.556(3)
+_cell_length_b 8.662(1)
+_cell_length_c 9.094(1)
+_cell_angle_alpha 103.92(1)
+_cell_angle_beta 106.09(2)
+_cell_angle_gamma 103.34(2)
+_cell_formula_units_Z 1
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cr 1.35
+N 0.68
+P 1.05
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cr1 Cr 0.00000 0.00000 1.00000
+N1 N -0.19010 0.11190 1.03240
+N2 N -0.28060 0.17290 1.05230
+P1 P 0.09430 0.18410 0.87010
+C1 C -0.07940 0.23920 0.72380
+C2 C 0.26420 0.15290 0.76540
+C3 C 0.22940 0.39450 1.02190
+P2 P 0.23540 0.20570 1.22640
+C4 C 0.44260 0.16790 1.35570
+C5 C 0.15630 0.32070 1.37890
+C6 C 0.36650 0.37790 1.16950
+H1 H -0.02500 0.33990 0.71190
+H2 H -0.14110 0.14770 0.61770
+H3 H -0.17820 0.25470 0.76180
+H4 H 0.29160 0.22780 0.71460
+H5 H 0.19650 0.05030 0.66920
+H6 H 0.37940 0.17430 0.83890
+H7 H 0.29160 0.46340 0.97220
+H8 H 0.12980 0.43660 1.05380
+H9 H 0.52380 0.27140 1.43840
+H10 H 0.39630 0.08680 1.41830
+H11 H 0.49100 0.08950 1.30390
+H12 H 0.26210 0.40810 1.46980
+H13 H 0.07550 0.36200 1.32970
+H14 H 0.09640 0.24480 1.42770
+H15 H 0.42960 0.48290 1.26190
+H16 H 0.46100 0.34690 1.14450
+N1A N 0.19010 -0.11190 0.96760
+P1A P -0.09430 -0.18410 1.12990
+P2A P -0.23540 -0.20570 0.77360
+N2A N 0.28060 -0.17290 0.94770
+C1A C 0.07940 -0.23920 1.27620
+C2A C -0.26420 -0.15290 1.23460
+C3A C -0.22940 -0.39450 0.97810
+C4A C -0.44260 -0.16790 0.64430
+C5A C -0.15630 -0.32070 0.62110
+C6A C -0.36650 -0.37790 0.83050
+H1A H 0.02500 -0.33990 1.28810
+H2A H 0.14110 -0.14770 1.38230
+H3A H 0.17820 -0.25470 1.23820
+H4A H -0.29160 -0.22780 1.28540
+H5A H -0.19650 -0.05030 1.33080
+H6A H -0.37940 -0.17430 1.16110
+H7A H -0.29160 -0.46340 1.02780
+H8A H -0.12980 -0.43660 0.94620
+H9A H -0.52380 -0.27140 0.56160
+H10A H -0.39630 -0.08680 0.58170
+H11A H -0.49100 -0.08950 0.69610
+H12A H -0.26210 -0.40810 0.53020
+H13A H -0.07550 -0.36200 0.67030
+H14A H -0.09640 -0.24480 0.57230
+H15A H -0.42960 -0.48290 0.73810
+H16A H -0.46100 -0.34690 0.85550
+#END

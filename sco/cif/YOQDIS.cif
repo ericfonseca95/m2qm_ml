@@ -1,0 +1,115 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_YOQDIS
+_audit_creation_date 2009-08-17
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD YOQDIS
+_database_code_depnum_ccdc_archive 'CCDC 681229'
+_chemical_formula_sum 'C18 H13 Mn1 O3'
+_chemical_formula_moiety
+;
+C18 H13 Mn1 O3
+;
+_journal_coden_Cambridge 15
+_journal_volume 87
+_journal_year 2009
+_journal_page_first 232
+_journal_name_full 'Can.J.Chem. '
+loop_
+_publ_author_name
+"N.Reginato"
+"L.E.Harrington"
+"Y.Ortin"
+"M.J.McGlinchey"
+_chemical_name_systematic
+;
+Tricarbonyl-(\h^5^-10,11-dihydro-dibenzo(a,d)(7)annulenyl)-manganese
+;
+_cell_volume   1430.557
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.543
+_exptl_crystal_description 'rod'
+_exptl_crystal_preparation 'dichloromethane'
+_diffrn_ambient_temperature 173
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0509
+_refine_ls_wR_factor_gt 0.0509
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2'
+_symmetry_Int_Tables_number 5
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,-z
+_cell_length_a 25.577(14)
+_cell_length_b 6.255(3)
+_cell_length_c 9.362(5)
+_cell_angle_alpha 90
+_cell_angle_beta 107.230(8)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Mn 1.49
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mn1 Mn 0.05679(3) 0.23272(11) 0.30049(7)
+C1 C 0.16640(17) 0.2588(8) 0.3814(5)
+O1 O -0.04022(17) 0.4767(6) 0.1281(5)
+O2 O -0.01798(16) -0.1098(6) 0.3324(4)
+C2 C 0.1373(2) 0.1283(9) 0.4628(6)
+H1 H 0.148(2) -0.027(8) 0.475(5)
+C3 C 0.10232(19) 0.2220(13) 0.5345(5)
+H2 H 0.090(2) 0.143(7) 0.598(6)
+O3 O 0.07297(15) 0.0212(6) 0.0351(4)
+C4 C 0.0810(2) 0.4278(9) 0.4939(6)
+H3 H 0.058(2) 0.487(8) 0.532(5)
+H4 H 0.0743(18) 0.680(8) 0.323(5)
+C5 C 0.0964(2) 0.5323(8) 0.3771(6)
+C6 C 0.1315(2) 0.4363(7) 0.3070(5)
+C7 C 0.1432(2) 0.5455(7) 0.1773(6)
+H5 H 0.1431(19) 0.431(7) 0.098(5)
+H6 H 0.117(2) 0.656(9) 0.132(7)
+H7 H 0.2775(16) 0.693(8) 0.101(5)
+C8 C 0.2009(2) 0.6431(8) 0.2261(6)
+H8 H 0.2032(19) 0.746(10) 0.157(6)
+H9 H 0.2084(19) 0.700(9) 0.325(6)
+C9 C 0.2455(2) 0.4917(7) 0.2186(5)
+C10 C 0.2828(2) 0.5549(10) 0.1459(6)
+C11 C 0.3258(3) 0.4280(12) 0.1377(7)
+H10 H 0.349(2) 0.491(8) 0.100(6)
+C12 C 0.3321(2) 0.2266(15) 0.2044(6)
+H11 H 0.362(3) 0.145(11) 0.202(9)
+C13 C 0.2945(2) 0.1590(9) 0.2750(6)
+H12 H 0.3010(19) 0.032(7) 0.320(5)
+C14 C 0.25092(19) 0.2871(6) 0.2848(5)
+C15 C 0.21524(18) 0.1944(6) 0.3666(5)
+H13 H 0.2319(17) 0.052(6) 0.419(5)
+C16 C -0.0020(2) 0.3794(8) 0.1939(6)
+C17 C 0.0107(2) 0.0250(8) 0.3231(6)
+C18 C 0.0674(2) 0.1005(7) 0.1393(6)
+#END

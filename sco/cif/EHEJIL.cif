@@ -1,0 +1,123 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_EHEJIL
+_audit_creation_date 2011-08-04
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD EHEJIL
+_database_code_depnum_ccdc_archive 'CCDC 768284'
+_chemical_formula_sum 'C14 H14 Fe1 O7'
+_chemical_formula_moiety
+;
+C14 H14 Fe1 O7
+;
+_journal_coden_Cambridge 182
+_journal_volume 47
+_journal_year 2011
+_journal_page_first 215
+_journal_name_full 'Chem.Commun. '
+loop_
+_publ_author_name
+"M.A.Khan"
+"J.P.Lowe"
+"A.L.Johnson"
+"A.J.W.Stewart"
+"S.E.Lewis"
+_chemical_name_systematic
+;
+(+)-(1R)-Tricarbonyl-(\h^2^,\h^2^-(2R,3S)-methyl 
+2,3-isopropylidenedioxycyclohexa-4,6-dienecarboxylate)-iron(0)
+;
+_chemical_melting_point 354.15
+_cell_volume    731.362
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.59
+_exptl_special_details
+;
+Melting point range 354.15-357.15K
+Absolute configuration
+
+;
+_exptl_crystal_description 'rod'
+_exptl_crystal_preparation 'dichloromethane/hexane'
+_diffrn_ambient_temperature 150
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0385
+_refine_ls_wR_factor_gt 0.0385
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21'
+_symmetry_Int_Tables_number 4
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,-z
+_cell_length_a 10.1710(4)
+_cell_length_b 7.2170(4)
+_cell_length_c 10.6320(6)
+_cell_angle_alpha 90
+_cell_angle_beta 110.426(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Fe 1.49
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe1 Fe -0.14134(3) 0.12644(5) -0.80937(3)
+O1 O 0.0815(2) -0.1127(3) -0.6360(2)
+O2 O -0.0049(3) 0.4781(3) -0.6993(3)
+O3 O -0.0583(2) 0.1748(4) -1.0468(2)
+O4 O -0.2699(2) -0.3871(3) -0.97593(17)
+O5 O -0.2933(2) -0.1313(3) -1.10333(17)
+O6 O -0.4069(2) -0.0722(3) -0.61640(19)
+O7 O -0.43134(19) -0.2719(3) -0.78693(17)
+C1 C -0.0047(3) -0.0215(4) -0.7051(3)
+C2 C -0.0584(3) 0.3441(4) -0.7461(3)
+C3 C -0.0933(3) 0.1510(5) -0.9584(3)
+C4 C -0.2873(2) -0.0915(3) -0.8809(2)
+C5 C -0.3520(2) 0.0869(3) -0.9169(2)
+H1 H -0.40230 0.12060 -1.00730
+C6 C -0.3357(2) 0.2096(3) -0.8081(2)
+H2 H -0.37520 0.33050 -0.82070
+C7 C -0.2556(2) 0.1388(4) -0.6780(2)
+H3 H -0.18900 0.21600 -0.61480
+C8 C -0.2765(2) -0.0572(3) -0.6410(2)
+H4 H -0.19620 -0.09720 -0.56010
+C9 C -0.2951(2) -0.1913(3) -0.7587(2)
+H5 H -0.22170 -0.29020 -0.73070
+C10 C -0.2818(2) -0.2211(3) -0.9881(2)
+C11 C -0.2957(3) -0.2486(4) -1.2143(3)
+H6 H -0.21890 -0.33860 -1.18380
+H7 H -0.28430 -0.17230 -1.28610
+H8 H -0.38550 -0.31450 -1.24830
+C12 C -0.4668(3) -0.2481(3) -0.6694(2)
+C13 C -0.6245(3) -0.2361(4) -0.7108(3)
+H9 H -0.66000 -0.14220 -0.78110
+H10 H -0.64970 -0.20160 -0.63290
+H11 H -0.66600 -0.35660 -0.74500
+C14 C -0.4037(3) -0.4032(4) -0.5701(2)
+H12 H -0.43100 -0.52310 -0.61490
+H13 H -0.43810 -0.39410 -0.49500
+H14 H -0.30120 -0.39230 -0.53630
+#END

@@ -1,0 +1,135 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_FOHHAL
+_audit_creation_date 1988-04-26
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD FOHHAL
+_chemical_formula_sum 'C13 H31 Br3 Co1 N5'
+_chemical_formula_moiety
+;
+C13 H31 Br1 Co1 N5 2+,2(Br1 1-)
+;
+_journal_coden_Cambridge 154
+_journal_volume 40
+_journal_year 1987
+_journal_page_first 829
+_journal_name_full 'Aust.J.Chem. '
+loop_
+_publ_author_name
+"N.F.Curtis"
+"G.J.Gainsford"
+"P.Osvath"
+"D.C.Weatherburn"
+_chemical_name_systematic
+;
+Bromo-(1,4,7,11,15-penta-azacyclo-octadecane-N,N',N'',N''',N'''')-cobalt(iii) 
+dibromide
+;
+_cell_volume    946.378
+_exptl_crystal_colour 'deep green'
+_exptl_crystal_density_diffrn 1.95
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.045
+_refine_ls_wR_factor_gt 0.045
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 9.308(5)
+_cell_length_b 9.535(8)
+_cell_length_c 11.203(1)
+_cell_angle_alpha 84.60(9)
+_cell_angle_beta 98.82(8)
+_cell_angle_gamma 105.26(5)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Br 1.21
+Co 1.33
+N 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Br1 Br 0.86162(7) 0.67397(7) 0.47577(5)
+Co1 Co 0.7804(1) 0.7173(1) 0.2662(1)
+N1 N 0.9831(6) 0.7290(6) 0.2135(5)
+N2 N 0.7185(6) 0.7621(5) 0.0937(4)
+N3 N 0.8594(6) 0.9339(5) 0.2802(4)
+N4 N 0.5734(6) 0.7299(5) 0.3003(5)
+N5 N 0.7200(6) 0.4959(5) 0.2441(5)
+C1 C 0.9752(8) 0.7566(8) 0.0797(6)
+C2 C 0.8172(8) 0.7187(7) 0.0180(6)
+C3 C 0.7179(8) 0.9191(7) 0.0748(6)
+C4 C 0.8447(8) 1.0100(7) 0.1571(6)
+C5 C 0.8130(8) 1.0086(7) 0.3736(6)
+C6 C 0.6489(9) 0.9939(8) 0.3563(8)
+C7 C 0.5630(9) 0.8414(8) 0.3855(7)
+C8 C 0.4699(8) 0.5920(8) 0.3450(7)
+C9 C 0.4505(8) 0.4622(8) 0.2718(7)
+C10 C 0.5869(9) 0.4035(7) 0.2962(7)
+C11 C 0.8399(9) 0.4134(7) 0.2806(7)
+C12 C 0.9769(8) 0.4671(8) 0.2212(7)
+C13 C 1.0660(7) 0.6164(8) 0.2585(6)
+H1 H 1.036(7) 0.820(7) 0.241(5)
+H2 H 1.025(8) 0.856(8) 0.070(6)
+H3 H 1.055(8) 0.719(7) 0.039(6)
+H4 H 0.784(7) 0.600(7) 0.012(6)
+H5 H 0.823(7) 0.775(7) -0.063(6)
+H6 H 0.617(7) 0.710(6) 0.066(5)
+H7 H 0.620(8) 0.929(7) 0.093(6)
+H8 H 0.722(8) 0.936(8) 0.009(7)
+H9 H 0.809(7) 1.115(7) 0.166(6)
+H10 H 0.953(7) 1.028(7) 0.119(6)
+H11 H 0.959(7) 0.953(7) 0.305(5)
+H12 H 0.854(7) 0.973(7) 0.455(6)
+H13 H 0.872(8) 1.102(8) 0.374(6)
+H14 H 0.597(8) 1.019(8) 0.290(7)
+H15 H 0.641(8) 1.056(8) 0.405(7)
+H16 H 0.609(8) 0.815(8) 0.456(7)
+H17 H 0.460(8) 0.846(7) 0.384(6)
+H18 H 0.510(7) 0.752(6) 0.227(5)
+H19 H 0.368(8) 0.606(7) 0.346(6)
+H20 H 0.521(7) 0.572(7) 0.429(6)
+H21 H 0.454(7) 0.497(7) 0.185(7)
+H22 H 0.357(8) 0.379(7) 0.294(6)
+H23 H 0.645(7) 0.405(7) 0.386(7)
+H24 H 0.574(8) 0.334(8) 0.264(7)
+H25 H 0.696(7) 0.483(6) 0.168(6)
+H26 H 0.860(7) 0.412(7) 0.369(7)
+H27 H 0.758(7) 0.310(7) 0.252(6)
+H28 H 1.041(8) 0.416(8) 0.247(6)
+H29 H 0.962(8) 0.479(8) 0.143(7)
+H30 H 1.079(7) 0.619(7) 0.358(6)
+H31 H 1.165(8) 0.642(7) 0.228(6)
+Br2 Br 0.23790(8) 0.03448(8) 0.28381(7)
+Br3 Br 1.35034(7) 0.70057(7) 0.00795(6)
+#END

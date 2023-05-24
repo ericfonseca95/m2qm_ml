@@ -1,0 +1,137 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_LUZJEV
+_audit_creation_date 2003-07-09
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD LUZJEV
+_database_code_depnum_ccdc_archive 'CCDC 208156'
+_chemical_formula_sum 'C18 H22 Mn1 N20 O8'
+_chemical_formula_moiety
+;
+2(C3 H7 N6 1+),C12 H4 Mn1 N8 O6 2-,2(H2 O1)
+;
+_journal_coden_Cambridge 1489
+_journal_volume 379
+_journal_year 2002
+_journal_page_first 419
+_journal_name_full 'Mol.Cryst.Liq.Cryst. '
+loop_
+_publ_author_name
+"Y.Sugiyama"
+"K.Adachi"
+"Md.K.Kabir"
+"S.Kitagawa"
+"T.Suzuki"
+"S.Kaizaki"
+"S.Kawata"
+_chemical_name_systematic
+;
+bis(Melaminium) 
+diaqua-bis(1,4,5,6-tetrahydro-5,6-dioxo-2,3-pyrazinedicarbonitrile-O,O')-manga
+nese(ii) dihydrate
+;
+_cell_volume    721.601
+_exptl_crystal_colour 'yellow'
+_exptl_special_details
+;
+isostructural with the zinc, nickel and cobalt analogues
+
+;
+_exptl_crystal_description 'plate'
+_diffrn_ambient_temperature 100.1
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.028
+_refine_ls_wR_factor_gt 0.028
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 9.4404(5)
+_cell_length_b 9.6317(5)
+_cell_length_c 9.9861(7)
+_cell_angle_alpha 61.495(2)
+_cell_angle_beta 80.895(4)
+_cell_angle_gamma 64.921(2)
+_cell_formula_units_Z 1
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Mn 1.35
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mn1 Mn 1.00000 0.00000 1.00000
+O1 O 0.75387(9) 0.0683(1) 1.01467(9)
+O2 O 0.90565(9) 0.2765(1) 0.85491(9)
+O3 O 1.0182(1) 0.0327(1) 1.2005(1)
+N1 N 0.6762(1) 0.5152(1) 0.7769(1)
+N2 N 0.5167(1) 0.2948(1) 0.9520(1)
+N3 N 0.1371(1) 0.6070(1) 0.8645(1)
+N4 N 0.3554(1) 0.9045(1) 0.6280(1)
+C1 C 0.7554(1) 0.3461(1) 0.8556(1)
+C2 C 0.6719(1) 0.2302(1) 0.9459(1)
+C3 C 0.4403(1) 0.4689(1) 0.8689(1)
+C4 C 0.5168(1) 0.5762(1) 0.7838(1)
+C5 C 0.4294(1) 0.7590(2) 0.6970(1)
+C6 C 0.2717(1) 0.5418(1) 0.8700(1)
+H1 H 1.017(2) -0.043(3) 1.289(2)
+H2 H 0.980(3) 0.125(3) 1.199(2)
+O4 O 1.6114(1) -0.0310(1) 0.8463(1)
+H3 H 1.660(3) -0.029(3) 0.912(3)
+H4 H 1.573(2) -0.105(2) 0.898(2)
+N5 N 0.8487(1) 0.7223(1) 0.5768(1)
+N6 N 1.3299(1) 0.7270(1) 0.4033(1)
+N7 N 1.2948(1) 0.2193(1) 0.7520(1)
+N8 N 1.0706(1) 0.4701(1) 0.6612(1)
+N9 N 1.3184(1) 0.4703(1) 0.5766(1)
+N10 N 1.0854(1) 0.7348(1) 0.4819(1)
+C7 C 1.2297(1) 0.3863(1) 0.6624(1)
+C8 C 1.0012(1) 0.6454(1) 0.5722(1)
+C9 C 1.2416(1) 0.6424(1) 0.4892(1)
+H5 H 0.791(2) 0.664(2) 0.635(2)
+H6 H 0.807(2) 0.832(2) 0.519(2)
+H7 H 1.287(2) 0.844(2) 0.343(2)
+H8 H 1.423(2) 0.680(3) 0.403(2)
+H9 H 1.406(2) 0.158(2) 0.756(2)
+H10 H 1.240(2) 0.153(3) 0.814(2)
+H11 H 1.024(2) 0.409(3) 0.722(2)
+O1A O 1.24613(9) -0.0683(1) 0.98533(9)
+C2A C 1.3281(1) -0.2302(1) 1.0541(1)
+N2A N 1.4833(1) -0.2948(1) 1.0480(1)
+C3A C 1.5597(1) -0.4689(1) 1.1311(1)
+C4A C 1.4832(1) -0.5762(1) 1.2162(1)
+N1A N 1.3238(1) -0.5152(1) 1.2231(1)
+C1A C 1.2446(1) -0.3461(1) 1.1444(1)
+O2A O 1.09435(9) -0.2765(1) 1.14509(9)
+O3A O 0.9818(1) -0.0327(1) 0.7995(1)
+H1A H 0.983(2) 0.043(3) 0.711(2)
+H2A H 1.020(3) -0.125(3) 0.801(2)
+C5A C 1.5706(1) -0.7590(2) 1.3030(1)
+N4A N 1.6446(1) -0.9045(1) 1.3720(1)
+C6A C 1.7283(1) -0.5418(1) 1.1300(1)
+N3A N 1.8629(1) -0.6070(1) 1.1355(1)
+#END

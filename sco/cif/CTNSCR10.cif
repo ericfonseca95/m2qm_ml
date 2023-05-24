@@ -1,0 +1,112 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CTNSCR10
+_audit_creation_date 1980-07-01
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CTNSCR10
+_chemical_formula_sum 'C7 H5 Cr1 N1 O2 S1'
+_chemical_formula_moiety
+;
+C7 H5 Cr1 N1 O2 S1
+;
+_journal_coden_Cambridge 9
+_journal_volume 18
+_journal_year 1979
+_journal_page_first 3548
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"T.J.Greenhough"
+"B.W.S.Kolthammer"
+"P.Legzdins"
+"J.Trotter"
+_chemical_name_systematic
+;
+Dicarbonyl-(\h^5^-cyclopentadienyl)-(thionitrosyl)-chromium
+;
+_cell_volume    440.827
+_exptl_crystal_colour 'red'
+_exptl_crystal_density_diffrn 1.65
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+The cyclopentadienyl ring is disordered over 2 orientations with occupancies 
+of 0.66:0.34.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.025
+_refine_ls_wR_factor_gt 0.025
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/m'
+_symmetry_Int_Tables_number 11
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,-z
+3 -x,-y,-z
+4 x,-1/2-y,z
+_cell_length_a 6.528(1)
+_cell_length_b 9.641(1)
+_cell_length_c 7.096(1)
+_cell_angle_alpha 90
+_cell_angle_beta 99.22(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cr 1.35
+N 0.68
+O 0.68
+S 1.02
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cr1 Cr 0.4462(1) 0.25000 -0.1483(1)
+S1 S 0.7302(2) 0.25000 0.2708(1)
+N1 N 0.6003(4) 0.25000 0.0677(4)
+O1 O 0.6841(3) 0.0224(2) -0.3084(3)
+C1 C 0.5945(4) 0.1090(3) -0.2513(3)
+C2 C 0.1655(21) 0.25000 -0.0312(22)
+C3 C 0.1640(22) 0.1296(17) -0.1385(35)
+C4 C 0.1583(13) 0.1780(9) -0.3314(11)
+C5? C 0.1816(30) 0.25000 -0.3903(30)
+C6? C 0.1682(36) 0.1354(20) -0.2675(20)
+C7? C 0.1333(44) 0.1797(32) -0.0996(57)
+H1 H 0.161(12) 0.25000 0.111(13)
+H2 H 0.1653(77) 0.0389(60) -0.0887(76)
+H3 H 0.1677(91) 0.1240(64) -0.4343(85)
+H4? H 0.24000 0.25000 -0.52000
+H5? H 0.16000 0.03000 -0.30000
+H6? H 0.15000 0.12000 0.00000
+C1C C 0.5945(4) 0.3910(3) -0.2513(3)
+C3C C 0.1640(22) 0.3704(17) -0.1385(35)
+C4C C 0.1583(13) 0.3220(9) -0.3314(11)
+O1C O 0.6841(3) 0.4776(2) -0.3084(3)
+H2C H 0.1653(77) 0.4611(60) -0.0887(76)
+H3C H 0.1677(91) 0.3760(64) -0.4343(85)
+#END

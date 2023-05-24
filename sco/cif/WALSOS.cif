@@ -1,0 +1,145 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_WALSOS
+_audit_creation_date 2005-09-01
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD WALSOS
+_database_code_depnum_ccdc_archive 'CCDC 240821'
+_chemical_formula_sum 'C22 H28 Fe1 N2 O2'
+_chemical_formula_moiety
+;
+C22 H28 Fe1 N2 O2
+;
+_journal_coden_Cambridge 1290
+_journal_year 2005
+_journal_page_first 1589
+_journal_name_full 'Eur.J.Inorg.Chem. '
+loop_
+_publ_author_name
+"C.G.Hartinger"
+"A.A.Nazarov"
+"V.B.Arion"
+"G.Giester"
+"M.L.Kuznetsov"
+"M.Galanski"
+"B.K.Keppler"
+_chemical_name_systematic
+;
+1,1'-bis((R)-4-Isopropyloxazolin-2-yl)ferrocene
+;
+_chemical_melting_point 337.15
+_cell_volume    960.258
+_exptl_crystal_density_diffrn 1.412
+_exptl_special_details
+;
+Melting point range 337.15-338.15K
+
+;
+_diffrn_ambient_temperature 110
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0186
+_refine_ls_wR_factor_gt 0.0186
+loop_
+_citation_database_id_CSD
+_citation_special_details
+TALDIU "is a stereoisomer of this entry"
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2'
+_symmetry_Int_Tables_number 5
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,-z
+_cell_length_a 20.0990(5)
+_cell_length_b 6.3880(1)
+_cell_length_c 7.8730(2)
+_cell_angle_alpha 90
+_cell_angle_beta 108.2010(14)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Fe 1.34
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe1 Fe 0.50000 0.48200 0.50000
+C1 C 0.60439(7) 0.5453(2) 0.57811(18)
+C2 C 0.59283(7) 0.3297(2) 0.6066(2)
+C3 C 0.55238(8) 0.3198(3) 0.7257(2)
+C4 C 0.53887(7) 0.5276(2) 0.77060(17)
+C5 C 0.57129(8) 0.6684(2) 0.68052(19)
+C6 C 0.64278(6) 0.6298(2) 0.46237(17)
+N1 N 0.67576(6) 0.80138(18) 0.48494(14)
+C7 C 0.70390(7) 0.8229(2) 0.33235(19)
+C8 C 0.68795(7) 0.6101(2) 0.23642(19)
+O1 O 0.64187(4) 0.50557(19) 0.32073(12)
+C9 C 0.67216(6) 1.0153(2) 0.22069(17)
+C10 C 0.70505(8) 1.0508(2) 0.0719(2)
+C11 C 0.59221(6) 1.0036(3) 0.14517(18)
+H1 H 0.6089(10) 0.214(3) 0.556(2)
+H2 H 0.5363(10) 0.193(3) 0.763(3)
+H3 H 0.5107(10) 0.564(3) 0.846(2)
+H4 H 0.5708(9) 0.808(3) 0.684(2)
+H5 H 0.7562(9) 0.850(3) 0.381(2)
+H6 H 0.7295(9) 0.524(3) 0.258(2)
+H7 H 0.6627(9) 0.621(3) 0.111(2)
+H8 H 0.6858(9) 1.139(3) 0.304(2)
+H9 H 0.5717(7) 0.966(4) 0.236(2)
+H10 H 0.5736(11) 1.134(3) 0.094(3)
+H11 H 0.5773(10) 0.899(3) 0.052(3)
+H12 H 0.6921(9) 0.932(3) -0.018(3)
+H13 H 0.7574(11) 1.067(3) 0.124(2)
+H14 H 0.6866(10) 1.177(3) 0.005(3)
+C1A C 0.39561(7) 0.5453(2) 0.42189(18)
+C2A C 0.40717(7) 0.3297(2) 0.3934(2)
+C3A C 0.44762(8) 0.3198(3) 0.2743(2)
+C4A C 0.46113(7) 0.5276(2) 0.22940(17)
+C5A C 0.42871(8) 0.6684(2) 0.31948(19)
+C6A C 0.35722(6) 0.6298(2) 0.53763(17)
+N1A N 0.32424(6) 0.80138(18) 0.51506(14)
+C7A C 0.29610(7) 0.8229(2) 0.66765(19)
+C8A C 0.31205(7) 0.6101(2) 0.76358(19)
+O1A O 0.35813(4) 0.50557(19) 0.67927(12)
+C9A C 0.32784(6) 1.0153(2) 0.77931(17)
+C10A C 0.29495(8) 1.0508(2) 0.9281(2)
+C11A C 0.40779(6) 1.0036(3) 0.85483(18)
+H1A H 0.3911(10) 0.214(3) 0.444(2)
+H2A H 0.4637(10) 0.193(3) 0.237(3)
+H3A H 0.4893(10) 0.564(3) 0.154(2)
+H4A H 0.4292(9) 0.808(3) 0.316(2)
+H5A H 0.2438(9) 0.850(3) 0.619(2)
+H6A H 0.2705(9) 0.524(3) 0.742(2)
+H7A H 0.3373(9) 0.621(3) 0.889(2)
+H8A H 0.3142(9) 1.139(3) 0.696(2)
+H9A H 0.4283(7) 0.966(4) 0.764(2)
+H10A H 0.4264(11) 1.134(3) 0.906(3)
+H11A H 0.4227(10) 0.899(3) 0.948(3)
+H12A H 0.3079(9) 0.932(3) 1.018(3)
+H13A H 0.2426(11) 1.067(3) 0.876(2)
+H14A H 0.3134(10) 1.177(3) 0.995(3)
+#END

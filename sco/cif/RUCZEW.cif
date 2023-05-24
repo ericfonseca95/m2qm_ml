@@ -1,0 +1,137 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_RUCZEW
+_audit_creation_date 2015-03-12
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD RUCZEW
+_database_code_depnum_ccdc_archive 'CCDC 1023179'
+_chemical_formula_sum 'C18 H34 Mn1 N8 O18 S2'
+_chemical_formula_moiety
+;
+2(C9 H7 N4 O4 S1 1-),H12 Mn1 O6 2+,4(H2 O1)
+;
+_journal_coden_Cambridge 1500
+_journal_volume 5
+_journal_year 2015
+_journal_page_first 25979
+_journal_name_full 'RSC Advances '
+loop_
+_publ_author_name
+"K.T.Mahmudov"
+"M.Sutradhar"
+"L.M.D.R.S.Martins"
+"M.Fatima C.Guedes da Silva"
+"A.Ribera"
+"A.V.M.Nunes"
+"S.I.Gahramanova"
+"F.Marchetti"
+"A.J.L.Pombeiro"
+_chemical_name_systematic
+;
+Hexa-aqua-manganese(ii) 
+bis(2-(2-(2-amino-1-cyano-2-oxoethylidene)hydrazino)benzenesulfonate) 
+tetrahydrate
+;
+_cell_volume    805.540
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.586
+_exptl_crystal_description 'prism'
+_exptl_crystal_preparation 'methanol'
+_diffrn_ambient_temperature 296
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0273
+_refine_ls_wR_factor_gt 0.0273
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 7.2288(4)
+_cell_length_b 9.9748(6)
+_cell_length_c 11.5954(6)
+_cell_angle_alpha 85.652(3)
+_cell_angle_beta 82.940(3)
+_cell_angle_gamma 76.401(3)
+_cell_formula_units_Z 1
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Mn 1.61
+N 0.68
+O 0.68
+S 1.02
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.26709(14) 0.50135(10) 0.43270(9)
+C2 C 0.36200(15) 0.43555(10) 0.33228(9)
+C3 C 0.48166(16) 0.30424(11) 0.3417(1)
+H1 H 0.54300 0.26030 0.27490
+C4 C 0.50973(16) 0.23900(11) 0.44987(11)
+H2 H 0.58870 0.15110 0.45590
+C5 C 0.41891(16) 0.30586(11) 0.54943(10)
+H3 H 0.44020 0.26300 0.62220
+C6 C 0.29706(15) 0.43550(11) 0.54170(9)
+H4 H 0.23550 0.47850 0.60890
+C7 C -0.05227(15) 0.81604(10) 0.51428(9)
+C8 C -0.13503(16) 0.88264(11) 0.62516(9)
+C9 C -0.11584(16) 0.88217(11) 0.4068(1)
+N1 N 0.14414(13) 0.63304(9) 0.42364(8)
+N2 N 0.06934(13) 0.69754(9) 0.51913(8)
+N3 N -0.15900(17) 0.92563(12) 0.31728(9)
+N4 N -0.07235(16) 0.81464(10) 0.72135(9)
+O1 O 0.40956(14) 0.41318(9) 0.10914(7)
+O2 O 0.48073(12) 0.61301(8) 0.18512(7)
+O3 O 0.15173(12) 0.59778(9) 0.18949(7)
+O4 O -0.25345(12) 0.99403(8) 0.62403(7)
+S1 S 0.35127(4) 0.51924(2) 0.19245(2)
+H5 H 0.107(2) 0.6656(16) 0.3545(14)
+H6 H -0.127(2) 0.8440(16) 0.7865(14)
+H7 H 0.004(2) 0.7360(17) 0.7200(14)
+O5 O 0.61077(14) 0.10011(9) -0.15952(7)
+O6 O 0.30153(12) 0.19179(8) 0.03866(8)
+O7 O 0.70862(14) 0.05752(10) 0.09512(8)
+Mn1 Mn 0.50000 0.00000 0.00000
+H8 H 0.585(2) 0.1875(13) -0.1663(14)
+H9 H 0.643(2) 0.0716(16) -0.2267(12)
+H10 H 0.331(2) 0.2660(14) 0.0547(14)
+H11 H 0.189(2) 0.2145(16) 0.0185(14)
+H12 H 0.749(2) 0.0181(16) 0.1548(12)
+H13 H 0.779(2) 0.1147(15) 0.0698(13)
+O8 O 0.07850(12) 0.74988(9) 0.98276(8)
+H14 H 0.101(2) 0.6835(15) 0.9389(13)
+H15 H 0.106(2) 0.7143(16) 1.0479(12)
+O9 O 0.13964(13) 0.54512(9) 0.83048(8)
+H16 H 0.058(2) 0.4969(16) 0.8302(14)
+H17 H 0.245(2) 0.4917(15) 0.8289(14)
+O5A O 0.38923(14) -0.10011(9) 0.15952(7)
+O6A O 0.69847(12) -0.19179(8) -0.03866(8)
+O7A O 0.29138(14) -0.05752(10) -0.09512(8)
+H8A H 0.415(2) -0.1875(13) 0.1663(14)
+H9A H 0.357(2) -0.0716(16) 0.2267(12)
+H10A H 0.669(2) -0.2660(14) -0.0547(14)
+H11A H 0.811(2) -0.2145(16) -0.0185(14)
+H12A H 0.251(2) -0.0181(16) -0.1548(12)
+H13A H 0.221(2) -0.1147(15) -0.0698(13)
+#END

@@ -1,0 +1,102 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_BZCRCO04
+_audit_creation_date 1987-11-26
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD BZCRCO04
+_database_code_depnum_ccdc_archive 'CCDC 1118185'
+_chemical_formula_sum 'C9 H6 Cr1 O3'
+_chemical_formula_moiety
+;
+C9 H6 Cr1 O3
+;
+_journal_coden_Cambridge 4
+_journal_volume 109
+_journal_year 1987
+_journal_page_first 587
+_journal_name_full 'J.Am.Chem.Soc. '
+loop_
+_publ_author_name
+"Yu Wang"
+"K.Angermund"
+"R.Goddard"
+"C.Kruger"
+_chemical_name_systematic
+;
+(\h^6^-Benzene)-tricarbonyl-chromium
+;
+_cell_volume    423.517
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.68
+_diffrn_ambient_temperature 100.15
+_refine_special_details
+;
+full data; electron deformation density refinement
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.022
+_refine_ls_wR_factor_gt 0.022
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/m'
+_symmetry_Int_Tables_number 11
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,-z
+3 -x,-y,-z
+4 x,-1/2-y,z
+_cell_length_a 6.0328(6)
+_cell_length_b 10.954(1)
+_cell_length_c 6.5217(3)
+_cell_angle_alpha 90
+_cell_angle_beta 100.675(4)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cr 1.35
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cr1 Cr 0.33428(2) 0.25000 0.02119(2)
+O1 O 0.7002(2) 0.25000 0.4015(1)
+O2 O 0.0817(1) 0.4358(1) 0.2262(1)
+C1 C 0.1854(1) 0.3140(1) -0.3016(1)
+C2 C 0.3885(1) 0.3789(1) -0.2298(1)
+C3 C 0.5890(1) 0.3148(1) -0.1593(1)
+C4 C 0.5574(2) 0.25000 0.2572(1)
+C5 C 0.1795(1) 0.3654(1) 0.1449(1)
+H1 H 0.0513(1) 0.3564(8) -0.3455(15)
+H2 H 0.3823(18) 0.4646(9) -0.2274(16)
+H3 H 0.733(2) 0.3563(9) -0.1062(17)
+C1C C 0.1854(1) 0.1860(1) -0.3016(1)
+C2C C 0.3885(1) 0.1211(1) -0.2298(1)
+C3C C 0.5890(1) 0.1852(1) -0.1593(1)
+C5C C 0.1795(1) 0.1346(1) 0.1449(1)
+H1C H 0.0513(1) 0.1436(8) -0.3455(15)
+H2C H 0.3823(18) 0.0354(9) -0.2274(16)
+H3C H 0.733(2) 0.1437(9) -0.1062(17)
+O2C O 0.0817(1) 0.0642(1) 0.2262(1)
+#END

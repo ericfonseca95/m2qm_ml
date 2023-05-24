@@ -1,0 +1,122 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_QOKMOS
+_audit_creation_date 2001-08-09
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD QOKMOS
+_database_code_depnum_ccdc_archive 'CCDC 144590'
+_chemical_formula_sum 'C17 H15 Cr1 N1 O5'
+_chemical_formula_moiety
+;
+C17 H15 Cr1 N1 O5
+;
+_journal_coden_Cambridge 36
+_journal_volume 620
+_journal_year 2001
+_journal_page_first 165
+_journal_name_full 'J.Organomet.Chem. '
+loop_
+_publ_author_name
+"H.Fischer"
+"F.Kirchbauer"
+"A.Fruh"
+"M.M.Abd-Elzaher"
+"G.Roth"
+"C.C.Karl"
+"M.Dede"
+_chemical_name_systematic
+;
+Pentacarbonyl(2-methyl-1-(N-methyl-N-benzylideneaminium)-1-propenyl)chromate
+;
+_chemical_melting_point 346.15
+_cell_volume    873.042
+_exptl_crystal_colour 'red'
+_exptl_crystal_density_diffrn 1.39
+_exptl_crystal_description 'rhombus'
+_exptl_crystal_preparation 'diethyl ether'
+_diffrn_ambient_temperature 229
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.038
+_refine_ls_wR_factor_gt 0.038
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 8.622(3)
+_cell_length_b 9.319(3)
+_cell_length_c 12.226(4)
+_cell_angle_alpha 89.49(2)
+_cell_angle_beta 88.39(3)
+_cell_angle_gamma 62.76(2)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cr 1.35
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cr1 Cr 0.2220(1) 0.1465(1) 0.2847(1)
+C1 C 0.2612(3) 0.1075(3) 0.4372(2)
+O1 O 0.2937(3) 0.0821(3) 0.5265(1)
+C2 C 0.1114(3) 0.0102(3) 0.2778(2)
+O2 O 0.0481(3) -0.0719(2) 0.2727(2)
+C3 C 0.2043(3) 0.1774(2) 0.1327(2)
+O3 O 0.2073(3) 0.1889(2) 0.0396(1)
+C4 C 0.3340(3) 0.2772(3) 0.2926(2)
+O4 O 0.4133(3) 0.3473(3) 0.2986(2)
+C5 C 0.4373(3) -0.0245(3) 0.2547(2)
+O5 O 0.5726(2) -0.1278(2) 0.2306(2)
+C6 C -0.0372(3) 0.3478(2) 0.3175(2)
+C7 C -0.1655(3) 0.3769(3) 0.3911(2)
+C8 C -0.3374(3) 0.5293(3) 0.3982(2)
+C9 C -0.1583(3) 0.2516(3) 0.4729(2)
+N1 N -0.0776(2) 0.4855(2) 0.2433(1)
+C10 C -0.0281(3) 0.6082(3) 0.2825(2)
+C11 C -0.1495(3) 0.5061(2) 0.1499(2)
+C12 C -0.2125(3) 0.4076(2) 0.0937(2)
+C13 C -0.2530(3) 0.4462(3) -0.0163(2)
+C14 C -0.3117(4) 0.3586(3) -0.0787(2)
+C15 C -0.3316(4) 0.2333(3) -0.0330(2)
+C16 C -0.2947(4) 0.1945(3) 0.0763(2)
+C17 C -0.2369(3) 0.2802(3) 0.1393(2)
+H1 H -0.3365(3) 0.6054(3) 0.3451(2)
+H2 H -0.4310(3) 0.5039(3) 0.3838(2)
+H3 H -0.3538(3) 0.5752(3) 0.4702(2)
+H4 H -0.0474(3) 0.1574(3) 0.4656(2)
+H5 H -0.1727(3) 0.2945(3) 0.5457(2)
+H6 H -0.2499(3) 0.2231(3) 0.4593(2)
+H7 H -0.0590(3) 0.6927(3) 0.2293(2)
+H8 H -0.0885(3) 0.6528(3) 0.3506(2)
+H9 H 0.0955(3) 0.5587(3) 0.2929(2)
+H10 H -0.1637(3) 0.6013(2) 0.1113(2)
+H11 H -0.2397(3) 0.5343(3) -0.0486(2)
+H12 H -0.3388(4) 0.3857(3) -0.1540(2)
+H13 H -0.3714(4) 0.1721(3) -0.0766(2)
+H14 H -0.3094(4) 0.1067(3) 0.1079(2)
+H15 H -0.2128(3) 0.2533(3) 0.2150(2)
+#END

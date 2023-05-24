@@ -1,0 +1,103 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_WIXMAR
+_audit_creation_date 2000-11-21
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD WIXMAR
+_database_code_depnum_ccdc_archive 'CCDC 113227'
+_chemical_formula_sum 'C8 H10 Cr1 O4 Se2'
+_chemical_formula_moiety
+;
+C8 H10 Cr1 O4 Se2
+;
+_journal_coden_Cambridge 36
+_journal_volume 579
+_journal_year 1999
+_journal_page_first 235
+_journal_name_full 'J.Organomet.Chem. '
+loop_
+_publ_author_name
+"A.J.Barton"
+"W.Levason"
+"G.Reid"
+_chemical_name_systematic
+;
+Tetracarbonyl-(1,2-bis(methylseleno)ethane)-chromium
+;
+_cell_volume    601.870
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 2.097
+_exptl_crystal_description 'block'
+_exptl_crystal_preparation 'n-pentane/chloroform'
+_diffrn_ambient_temperature 150
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0367
+_refine_ls_wR_factor_gt 0.0367
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 8.069(5)
+_cell_length_b 11.314(8)
+_cell_length_c 7.909(4)
+_cell_angle_alpha 91.41(6)
+_cell_angle_beta 115.74(4)
+_cell_angle_gamma 69.43(5)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cr 1.35
+O 0.68
+Se 1.22
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Se1 Se 0.3733(1) 0.39079(7) 0.46271(10)
+Se2 Se 0.3159(1) 0.11296(7) 0.30788(10)
+Cr1 Cr 0.4897(2) 0.2452(1) 0.2575(2)
+O1 O 0.1233(8) 0.4041(6) -0.1003(7)
+O2 O 0.8883(7) 0.0953(5) 0.5937(7)
+O3 O 0.6967(7) 0.3999(5) 0.1933(7)
+O4 O 0.6337(8) 0.0719(5) 0.0150(7)
+C1 C 0.258(1) 0.3447(7) 0.038(1)
+C2 C 0.732(1) 0.1495(7) 0.471(1)
+C3 C 0.616(1) 0.3416(7) 0.2218(10)
+C4 C 0.5717(10) 0.1375(7) 0.1079(10)
+C5 C 0.572(1) 0.3235(7) 0.7251(10)
+C6 C 0.172(1) 0.3363(7) 0.470(1)
+C7 C 0.233(1) 0.1925(7) 0.4953(10)
+C8 C 0.051(1) 0.1649(7) 0.0942(10)
+H1 H 0.60950 0.23440 0.74740
+H2 H 0.68570 0.34300 0.74960
+H3 H 0.51840 0.36300 0.80790
+H4 H 0.14610 0.36640 0.57290
+H5 H 0.05270 0.37100 0.35420
+H6 H 0.12400 0.17330 0.48500
+H7 H 0.34110 0.15830 0.61860
+H8 H -0.00950 0.25540 0.06890
+H9 H 0.06130 0.13310 -0.01470
+H10 H -0.02700 0.13120 0.12420
+#END

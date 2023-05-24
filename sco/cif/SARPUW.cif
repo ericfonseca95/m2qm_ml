@@ -1,0 +1,116 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_SARPUW
+_audit_creation_date 1989-12-21
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD SARPUW
+_database_code_depnum_ccdc_archive 'CCDC 1255174'
+_database_code_depnum_ccdc_fiz 'CSD 53341'
+_chemical_formula_sum 'C11 H11 Cr1 N1'
+_chemical_formula_moiety
+;
+C11 H11 Cr1 N1
+;
+_journal_coden_Cambridge 48
+_journal_volume 121
+_journal_year 1988
+_journal_page_first 1983
+_journal_name_full 'Chem.Ber. '
+loop_
+_publ_author_name
+"C.Elschenbroich"
+"J.Koch"
+"J.Kroker"
+"M.Wunsch"
+"W.Massa"
+"G.Baum"
+"G.Stork"
+_chemical_name_systematic
+;
+(\h^6^-Benzene)-(\h^6^-pyridine)-chromium
+;
+_cell_volume    417.826
+_exptl_crystal_colour 'deep red'
+_exptl_crystal_density_diffrn 1.671
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+The benzene and pyridine are disordered with respect to each other.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.038
+_refine_ls_wR_factor_gt 0.038
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 6.153(2)
+_cell_length_b 7.592(2)
+_cell_length_c 8.960(2)
+_cell_angle_alpha 90
+_cell_angle_beta 93.38(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cr 1.35
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cr1 Cr 0.00000 0.00000 0.50000
+C1 C -0.1269(4) 0.1539(4) 0.6748(3)
+C2 C -0.0905(5) 0.2597(4) 0.5531(3)
+C3 C 0.1093(5) 0.2675(3) 0.4860(3)
+C4 C 0.2768(4) 0.1636(4) 0.5470(3)
+C5 C 0.2486(4) 0.0554(4) 0.6713(3)
+C6 C 0.0438(5) 0.0520(4) 0.7334(3)
+H1 H -0.26460 0.15180 0.71710
+H2 H -0.20780 0.33100 0.51330
+H3 H 0.12820 0.34120 0.40220
+H4 H 0.41440 0.16590 0.50320
+H5 H 0.36500 -0.01380 0.71310
+H6 H 0.02210 -0.02170 0.81720
+C1B C 0.1269(4) -0.1539(4) 0.3252(3)
+C2B C 0.0905(5) -0.2597(4) 0.4469(3)
+C3B C -0.1093(5) -0.2675(3) 0.5140(3)
+H2B H 0.20780 -0.33100 0.48670
+C4B C -0.2768(4) -0.1636(4) 0.4530(3)
+C5B C -0.2486(4) -0.0554(4) 0.3287(3)
+H4B H -0.41440 -0.16590 0.49680
+C6B C -0.0438(5) -0.0520(4) 0.2666(3)
+H1B H 0.26460 -0.15180 0.28290
+H6B H -0.02210 0.02170 0.18280
+H5B H -0.36500 0.01380 0.28690
+H3B H -0.12820 -0.34120 0.59780
+#END

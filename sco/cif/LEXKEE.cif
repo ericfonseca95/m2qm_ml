@@ -1,0 +1,111 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_LEXKEE
+_audit_creation_date 1995-01-30
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD LEXKEE
+_database_code_depnum_ccdc_archive 'CCDC 1206275'
+_database_code_depnum_ccdc_fiz 'CSD 400775'
+_chemical_formula_sum 'C11 H11 Mn1'
+_chemical_formula_moiety
+;
+C11 H11 Mn1
+;
+_journal_coden_Cambridge 36
+_journal_volume 472
+_journal_year 1994
+_journal_page_first 175
+_journal_name_full 'J.Organomet.Chem. '
+loop_
+_publ_author_name
+"M.Herberhold"
+"T.Hofmann"
+"W.Milius"
+"B.Wrackmeyer"
+_chemical_name_systematic
+;
+(\h^6^-Benzene)-(\h^5^-cyclopentadienyl)-manganese
+;
+_cell_volume    417.244
+_exptl_crystal_colour 'red'
+_diffrn_ambient_temperature 173
+_refine_special_details
+;
+The 5- and 6-membered rings are disordered with respect to each other.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.044
+_refine_ls_wR_factor_gt 0.044
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/n'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 6.120(2)
+_cell_length_b 7.587(2)
+_cell_length_c 9.004(2)
+_cell_angle_alpha 90
+_cell_angle_beta 93.62(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Mn 1.35
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mn1 Mn 0.00000 0.50000 0.50000
+C1 C 0.27050(49) 0.66748(46) 0.54435(29)
+C2 C 0.24073(49) 0.55669(46) 0.66506(29)
+C3 C 0.03924(49) 0.55218(46) 0.72927(29)
+C4 C -0.13248(49) 0.65847(46) 0.67277(29)
+C5 C -0.10272(49) 0.76926(46) 0.55206(29)
+C6 C 0.09877(49) 0.77376(46) 0.48785(29)
+H1 H 0.40916(49) 0.67058(46) 0.50016(29)
+H2 H 0.35890(49) 0.48355(46) 0.70394(29)
+H3 H 0.01875(49) 0.47594(46) 0.81234(29)
+H4 H -0.27114(49) 0.65537(46) 0.71696(29)
+H5 H -0.22089(49) 0.84240(46) 0.51318(29)
+H6 H 0.11926(49) 0.85001(46) 0.40478(29)
+C7 C -0.0852(18) 0.6958(19) 0.6349(15)
+C8 C 0.0523(18) 0.7567(13) 0.5247(13)
+C1B C -0.27050(49) 0.33252(46) 0.45565(29)
+C2B C -0.24073(49) 0.44331(46) 0.33494(29)
+C3B C -0.03924(49) 0.44782(46) 0.27073(29)
+H2B H -0.35890(49) 0.51645(46) 0.29606(29)
+C4B C 0.13248(49) 0.34153(46) 0.32723(29)
+C5B C 0.10272(49) 0.23074(46) 0.44794(29)
+H4B H 0.27114(49) 0.34463(46) 0.28304(29)
+C7B C 0.0852(18) 0.3042(19) 0.3651(15)
+C6B C -0.09877(49) 0.22624(46) 0.51215(29)
+H1B H -0.40916(49) 0.32942(46) 0.49984(29)
+C8B C -0.0523(18) 0.2433(13) 0.4753(13)
+H6B H -0.11926(49) 0.14999(46) 0.59522(29)
+H3B H -0.01875(49) 0.52406(46) 0.18766(29)
+H5B H 0.22089(49) 0.15760(46) 0.48682(29)
+#END

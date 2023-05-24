@@ -1,0 +1,129 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_RONXEX
+_audit_creation_date 2001-11-22
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD RONXEX
+_database_code_depnum_ccdc_archive 'CCDC 148680'
+_chemical_formula_sum 'C14 H16 Cl3 Fe1 N4'
+_chemical_formula_moiety
+;
+C14 H16 Cl2 Fe1 N4 1+,Cl1 1-
+;
+_journal_coden_Cambridge 1290
+_journal_year 2001
+_journal_page_first 2249
+_journal_name_full 'Eur.J.Inorg.Chem. '
+loop_
+_publ_author_name
+"N.Raffard"
+"R.Carina"
+"A.J.Simaan"
+"J.Sainton"
+"E.Riviere"
+"L.Tchertanov"
+"S.Bourcier"
+"G.Bouchoux"
+"M.Delroisse"
+"F.Banse"
+"J.-J.Girerd"
+_chemical_name_systematic
+;
+(2,11-Diaza(3,3)(2,6)pyridinophane)-cis-dichloro-iron(iii) chloride
+;
+_cell_volume   1541.929
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.734
+_exptl_crystal_description 'flat octahedron'
+_exptl_crystal_preparation 'methanol/acetonitrile'
+_diffrn_ambient_temperature 294
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0302
+_refine_ls_wR_factor_gt 0.0302
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 x,-y,1/2+z
+3 1/2+x,1/2+y,z
+4 1/2+x,1/2-y,1/2+z
+5 -x,-y,-z
+6 -x,y,-1/2-z
+7 -1/2-x,-1/2-y,-z
+8 -1/2-x,-1/2+y,-1/2-z
+_cell_length_a 9.613(1)
+_cell_length_b 11.589(1)
+_cell_length_c 14.063(2)
+_cell_angle_alpha 90
+_cell_angle_beta 100.20(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+Fe 1.34
+N 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe1 Fe 0.00000 0.39335(2) 0.25000
+Cl1 Cl 0.06240(4) 0.52714(3) 0.36970(3)
+N1 N 0.05380(13) 0.26009(11) 0.35031(9)
+C1 C -0.0357(2) 0.23665(13) 0.41078(11)
+C2 C 0.0019(2) 0.16024(15) 0.48650(12)
+C3 C 0.1338(2) 0.10788(14) 0.49741(13)
+C4 C 0.2221(2) 0.12914(14) 0.43199(12)
+C5 C 0.17779(15) 0.20686(13) 0.35728(11)
+N2 N 0.20157(13) 0.33250(12) 0.21679(10)
+C6 C 0.2606(2) 0.2334(2) 0.27918(13)
+C7 C -0.1740(2) 0.3008(2) 0.38735(11)
+Cl2 Cl 0.00000 -0.04027(6) 0.25000
+H1 H 0.2638(26) 0.3847(20) 0.2262(18)
+H2 H -0.0555(29) 0.1417(23) 0.5339(20)
+H3 H 0.1642(27) 0.0578(22) 0.5512(19)
+H4 H 0.3172(32) 0.0907(24) 0.4427(21)
+H5 H 0.3494(34) 0.2549(29) 0.3055(21)
+H6 H 0.2685(32) 0.1675(25) 0.2451(21)
+H7 H -0.1699(26) 0.3695(22) 0.4248(18)
+H8 H -0.2539(25) 0.2517(22) 0.4034(17)
+Cl1E Cl -0.06240(4) 0.52714(3) 0.13030(3)
+N1E N -0.05380(13) 0.26009(11) 0.14969(9)
+C1E C 0.0357(2) 0.23665(13) 0.08922(11)
+C2E C -0.0019(2) 0.16024(15) 0.01350(12)
+C3E C -0.1338(2) 0.10788(14) 0.00259(13)
+C4E C -0.2221(2) 0.12914(14) 0.06801(12)
+C5E C -0.17779(15) 0.20686(13) 0.14272(11)
+C6E C -0.2606(2) 0.2334(2) 0.22082(13)
+N2E N -0.20157(13) 0.33250(12) 0.28321(10)
+H1E H -0.2638(26) 0.3847(20) 0.2738(18)
+H5E H -0.3494(34) 0.2549(29) 0.1945(21)
+H6E H -0.2685(32) 0.1675(25) 0.2549(21)
+H4E H -0.3172(32) 0.0907(24) 0.0573(21)
+H3E H -0.1642(27) 0.0578(22) -0.0512(19)
+H2E H 0.0555(29) 0.1417(23) -0.0339(20)
+C7E C 0.1740(2) 0.3008(2) 0.11265(11)
+H7E H 0.1699(26) 0.3695(22) 0.0752(18)
+H8E H 0.2539(25) 0.2517(22) 0.0966(17)
+#END

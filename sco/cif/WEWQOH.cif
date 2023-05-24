@@ -1,0 +1,116 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_WEWQOH
+_audit_creation_date 2018-05-18
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD WEWQOH
+_database_code_depnum_ccdc_archive 'CCDC 1577816'
+_chemical_formula_sum 'C8 H12 Cl4 Fe1 N6'
+_chemical_formula_moiety
+;
+C8 H12 Cl4 Fe1 N6
+;
+_journal_coden_Cambridge 222
+_journal_volume 47
+_journal_year 2018
+_journal_page_first 7644
+_journal_name_full 'Dalton Trans. '
+loop_
+_publ_author_name
+"E.K.Rusbridge"
+"Yan Peng"
+"A.K.Powell"
+"D.Robinson"
+"A.J.Fitzpatrick"
+_chemical_name_systematic
+;
+tetrachloro-bis(2-aminopyrazinium)-iron(ii)
+;
+_cell_volume    333.019
+_exptl_crystal_colour 'violet'
+_exptl_crystal_density_diffrn 1.944
+_exptl_special_details
+;
+Magnetic properties
+
+;
+_exptl_crystal_description 'block'
+_exptl_crystal_preparation 'Re-crystallisation from solvent'
+_diffrn_ambient_temperature 150.0
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0321
+_refine_ls_wR_factor_gt 0.0321
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 7.1768(5)
+_cell_length_b 7.3352(5)
+_cell_length_c 7.8852(6)
+_cell_angle_alpha 115.541(7)
+_cell_angle_beta 110.288(7)
+_cell_angle_gamma 96.890(6)
+_cell_formula_units_Z 1
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+Fe 1.52
+N 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe1 Fe 0.00000 0.50000 0.50000
+Cl1 Cl 0.21268(9) 0.64576(9) 0.36881(9)
+Cl2 Cl 0.11848(9) 0.18693(9) 0.41280(9)
+N1 N 0.2726(3) 0.6734(3) 0.8126(3)
+N2 N 0.8034(3) 0.6933(4) 1.0606(4)
+N3 N 0.6043(3) 0.8757(4) 1.2022(3)
+C1 C 0.4210(4) 0.9161(4) 1.1791(4)
+H1 H 0.40816 1.01293 1.29525
+C2 C 0.4507(4) 0.6375(4) 0.8363(4)
+H2 H 0.46286 0.54430 0.71809
+C3 C 0.2574(4) 0.8158(4) 0.9875(4)
+H3 H 0.13116 0.84312 0.97283
+C4 C 0.6286(4) 0.7360(4) 1.0371(4)
+H4 H 0.802(6) 0.587(6) 0.928(6)
+H5 H 0.716(6) 0.930(6) 1.325(6)
+H6 H 0.921(6) 0.760(5) 1.189(5)
+Cl1A Cl -0.21268(9) 0.35424(9) 0.63119(9)
+Cl2A Cl -0.11848(9) 0.81307(9) 0.58720(9)
+N1A N -0.2726(3) 0.3266(3) 0.1874(3)
+N2A N -0.8034(3) 0.3067(4) -0.0606(4)
+N3A N -0.6043(3) 0.1243(4) -0.2022(3)
+C1A C -0.4210(4) 0.0839(4) -0.1791(4)
+H1A H -0.40816 -0.01293 -0.29525
+C2A C -0.4507(4) 0.3625(4) 0.1637(4)
+H2A H -0.46286 0.45570 0.28191
+C3A C -0.2574(4) 0.1842(4) 0.0125(4)
+H3A H -0.13116 0.15688 0.02717
+C4A C -0.6286(4) 0.2640(4) -0.0371(4)
+H4A H -0.802(6) 0.413(6) 0.072(6)
+H5A H -0.716(6) 0.070(6) -0.325(6)
+H6A H -0.921(6) 0.240(5) -0.189(5)
+#END

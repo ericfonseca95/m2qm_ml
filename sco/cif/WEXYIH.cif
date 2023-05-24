@@ -1,0 +1,111 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_WEXYIH
+_audit_creation_date 1995-01-18
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD WEXYIH
+_chemical_formula_sum 'C10 H12 Cl2 Mn1 N2 O4'
+_chemical_formula_moiety
+;
+C10 H12 Cl2 Mn1 N2 O4
+;
+_journal_coden_Cambridge 447
+_journal_year 1992
+_journal_page_first 22
+_journal_name_full 'Uzb.Khim.Zh.(Russ.)(Uzbek Journal on Chemistry) '
+loop_
+_publ_author_name
+"S.A.Talipov"
+"B.A.Salakhutdinov"
+"K.M.Beketov"
+"T.F.Aripov"
+_chemical_name_systematic
+;
+Diaqua-dichloro-(\a-quinolylhydroxamic acid-O,N)-manganese(ii)
+;
+_cell_volume    648.536
+_exptl_crystal_density_diffrn 1.79
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.056
+_refine_ls_wR_factor_gt 0.056
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 8.134(2)
+_cell_length_b 6.782(2)
+_cell_length_c 12.001(2)
+_cell_angle_alpha 100.67(2)
+_cell_angle_beta 85.67(2)
+_cell_angle_gamma 92.17(2)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+Mn 1.35
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mn1 Mn 0.2122(1) 0.3236(1) 0.3378(1)
+Cl1 Cl 0.2902(2) 0.3553(2) 0.5394(1)
+Cl2 Cl 0.3683(2) 0.0121(2) 0.2612(1)
+O1 O 0.0902(5) 0.6219(6) 0.3705(3)
+O2 O 0.4181(5) 0.5327(6) 0.2982(3)
+C1 C -0.1057(7) 0.2065(8) 0.2092(4)
+C2 C -0.2270(7) 0.1787(8) 0.1303(5)
+C3 C -0.1830(7) 0.1938(8) 0.0217(5)
+C4 C -0.0198(7) 0.2452(8) -0.0115(4)
+C5 C 0.0350(8) 0.2654(9) -0.1242(4)
+C6 C 0.1961(8) 0.3091(9) -0.1498(5)
+C7 C 0.3124(8) 0.3381(9) -0.0659(5)
+C8 C 0.2642(7) 0.3228(9) 0.0445(5)
+C9 C 0.0942(7) 0.2755(8) 0.0742(4)
+C10 C -0.1357(7) 0.1753(8) 0.3306(4)
+O3 O -0.0198(5) 0.1993(6) 0.3940(3)
+O4 O -0.3138(5) 0.1081(6) 0.4788(3)
+N1 N 0.0505(5) 0.2579(6) 0.1840(3)
+N2 N -0.2847(6) 0.1196(7) 0.3640(4)
+H1 H -0.347(9) 0.12(1) 0.151(7)
+H2 H -0.256(7) 0.182(8) -0.031(4)
+H3 H -0.057(6) 0.244(7) -0.185(4)
+H4 H 0.222(6) 0.330(8) -0.226(4)
+H5 H 0.422(8) 0.36(1) -0.086(5)
+H6 H 0.346(7) 0.330(9) 0.100(5)
+H7 H -0.39(1) 0.12(1) 0.323(7)
+H8 H -0.322(7) -0.032(8) 0.485(5)
+H9 H -0.005(9) 0.63(1) 0.389(6)
+H10 H 0.150(7) 0.691(9) 0.420(5)
+H11 H 0.486(9) 0.54(1) 0.339(6)
+H12 H 0.388(8) 0.691(9) 0.278(5)
+#END

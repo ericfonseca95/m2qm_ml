@@ -1,0 +1,151 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_OKAXUT
+_audit_creation_date 2003-12-12
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD OKAXUT
+_database_code_depnum_ccdc_archive 'CCDC 207837'
+_chemical_formula_sum 'C16 H42 Cr1 N4 Si3'
+_chemical_formula_moiety
+;
+C16 H42 Cr1 N4 Si3
+;
+_journal_coden_Cambridge 579
+_journal_volume 22
+_journal_year 2003
+_journal_page_first 3010
+_journal_name_full 'Organometallics '
+loop_
+_publ_author_name
+"A.C.Filippou"
+"S.Schneider"
+_chemical_name_systematic
+;
+Methyl-(tris(2-N-(trimethylsilylamido)ethyl)amine-N,N',N',N'')-chromium(iv)
+;
+_chemical_melting_point 396.15
+_cell_volume   2482.599
+_exptl_crystal_colour 'green'
+_exptl_crystal_density_diffrn 1.142
+_exptl_special_details
+;
+Melting point range 396.15-398.15K
+
+;
+_exptl_crystal_description 'irregular'
+_exptl_crystal_preparation 'pentane'
+_diffrn_ambient_temperature 180
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0236
+_refine_ls_wR_factor_gt 0.0236
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C c'
+_symmetry_Int_Tables_number 9
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 x,-y,1/2+z
+3 1/2+x,1/2+y,z
+4 1/2+x,1/2-y,1/2+z
+_cell_length_a 17.337(5)
+_cell_length_b 9.7178(19)
+_cell_length_c 15.636(5)
+_cell_angle_alpha 90
+_cell_angle_beta 109.54(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cr 1.35
+N 0.68
+Si 1.20
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.20733(12) 0.3408(3) 0.02810(15)
+H1 H 0.15540 0.37750 -0.01450
+H2 H 0.19430 0.26180 0.06090
+C2 C 0.26219(12) 0.2943(2) -0.02404(13)
+H3 H 0.23840 0.21270 -0.06150
+H4 H 0.26810 0.36870 -0.06460
+C3 C 0.43144(11) 0.4459(2) 0.03288(12)
+H5 H 0.48200 0.47060 0.02040
+H6 H 0.38630 0.50410 -0.00580
+C4 C 0.41148(12) 0.2955(2) 0.01073(12)
+H7 H 0.39560 0.28020 -0.05550
+H8 H 0.45980 0.23760 0.04150
+C5 C 0.40273(14) 0.1203(2) 0.17643(14)
+H9 H 0.40190 0.02960 0.20500
+H10 H 0.45980 0.14060 0.18030
+C6 C 0.34792(14) 0.1171(2) 0.07815(14)
+H11 H 0.37120 0.05530 0.04270
+H12 H 0.29280 0.08300 0.07330
+C7 C 0.37058(13) 0.5232(2) 0.27468(13)
+H13 H 0.41570 0.48890 0.32680
+H14 H 0.31980 0.52270 0.28930
+H15 H 0.38270 0.61740 0.26060
+C8 C 0.11620(14) 0.6311(3) -0.01863(18)
+H16 H 0.13720 0.61500 -0.06870
+H17 H 0.09520 0.72540 -0.02220
+H18 H 0.07190 0.56600 -0.02300
+C9 C 0.27276(13) 0.7527(3) 0.10122(17)
+H19 H 0.30880 0.76250 0.16430
+H20 H 0.24140 0.83770 0.08160
+H21 H 0.30580 0.73470 0.06240
+C10 C 0.15309(18) 0.6182(3) 0.1834(2)
+H22 H 0.19610 0.62550 0.24280
+H23 H 0.12020 0.53560 0.18190
+H24 H 0.11790 0.69970 0.17300
+C11 C 0.60984(13) 0.5475(3) 0.13822(17)
+H25 H 0.61560 0.45200 0.12110
+H26 H 0.66260 0.58060 0.17950
+H27 H 0.59240 0.60510 0.08370
+C12 C 0.57651(14) 0.4713(3) 0.31006(15)
+H28 H 0.58230 0.37240 0.30150
+H29 H 0.54060 0.48590 0.34610
+H30 H 0.63040 0.51120 0.34190
+C13 C 0.51457(15) 0.7439(3) 0.21251(18)
+H31 H 0.48830 0.78700 0.15320
+H32 H 0.56740 0.78840 0.24280
+H33 H 0.47940 0.75440 0.24980
+C14 C 0.33276(15) -0.0066(3) 0.32266(15)
+H34 H 0.38270 -0.06030 0.33170
+H35 H 0.29230 -0.03000 0.26380
+H36 H 0.31050 -0.02800 0.37110
+C15 C 0.26783(13) 0.2759(3) 0.33939(15)
+H37 H 0.28680 0.36150 0.37290
+H38 H 0.24160 0.21800 0.37310
+H39 H 0.22830 0.29730 0.27950
+C16 C 0.45068(15) 0.2090(3) 0.42697(15)
+H40 H 0.46340 0.30750 0.43410
+H41 H 0.49690 0.15930 0.41880
+H42 H 0.44070 0.17460 0.48120
+Cr1 Cr 0.356841(14) 0.39753(3) 0.163018(14)
+N1 N 0.24973(9) 0.44862(18) 0.09342(11)
+N2 N 0.44283(9) 0.47101(18) 0.12964(10)
+N3 N 0.37288(10) 0.22798(18) 0.2245(1)
+N4 N 0.34262(9) 0.25972(17) 0.04304(10)
+Si1 Si 0.20093(3) 0.60634(6) 0.09249(4)
+Si2 Si 0.53108(3) 0.55656(6) 0.19662(4)
+Si3 Si 0.35726(3) 0.18177(6) 0.32542(3)
+#END

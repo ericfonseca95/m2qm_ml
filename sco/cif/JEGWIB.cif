@@ -1,0 +1,143 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_JEGWIB
+_audit_creation_date 1990-12-10
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD JEGWIB
+_chemical_formula_sum 'C20 H30 Cr1 I1'
+_chemical_formula_moiety
+;
+C20 H30 Cr1 1+,I1 1-
+;
+_journal_coeditor_code "IUCr TR0314"
+_journal_coden_Cambridge 591
+_journal_volume 46
+_journal_year 1990
+_journal_page_first 745
+_journal_name_full 'Acta Crystallogr.,Sect.C:Cryst.Struct.Commun. '
+loop_
+_publ_author_name
+"J.Darkwa"
+"J.F.Richardson"
+"T.S.Sorensen"
+_chemical_name_systematic
+;
+bis(\h^5^-Pentamethyl-cyclopentadienyl)-chromium(iii) iodide
+;
+_cell_volume   1021.841
+_exptl_crystal_density_diffrn 1.46
+_exptl_special_details
+;
+Highly air- and moisture-sensitive
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+Iodide ion is disordered over three sites with occupancies of 0.55:0.30:0.15. 
+Major site retained.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.036
+_refine_ls_wR_factor_gt 0.036
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 10.414(3)
+_cell_length_b 11.721(3)
+_cell_length_c 8.710(3)
+_cell_angle_alpha 100.96(2)
+_cell_angle_beta 98.99(2)
+_cell_angle_gamma 80.89(2)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cr 1.35
+I 1.40
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+I1 I 0.20738(8) 0.73293(7) 0.1561(1)
+I2? I 0.2137(1) 0.7105(1) 0.1152(2)
+I3? I 0.1888(3) 0.7670(3) 0.2229(5)
+Cr1 Cr 0.27226(7) 0.25155(7) 0.2666(1)
+C1 C 0.2901(5) 0.2987(5) 0.5250(6)
+C2 C 0.2038(5) 0.2126(5) 0.4760(6)
+C3 C 0.0938(5) 0.2611(5) 0.3789(6)
+C4 C 0.1123(5) 0.3756(5) 0.3657(6)
+C5 C 0.2337(5) 0.3987(5) 0.4571(6)
+C6 C 0.4201(6) 0.2870(6) 0.6315(7)
+C7 C 0.2220(7) 0.0943(5) 0.5240(7)
+C8 C -0.0246(6) 0.2007(6) 0.3102(8)
+C9 C 0.0189(6) 0.4595(5) 0.2764(7)
+C10 C 0.2913(6) 0.5130(5) 0.4857(8)
+C11 C 0.3938(5) 0.2870(4) 0.0986(6)
+C12 C 0.4614(5) 0.1931(4) 0.1729(6)
+C13 C 0.3856(5) 0.0993(4) 0.1368(6)
+C14 C 0.2685(5) 0.1350(4) 0.0385(6)
+C15 C 0.2751(5) 0.2516(4) 0.0155(6)
+C16 C 0.4442(6) 0.3999(5) 0.1008(7)
+C17 C 0.5974(5) 0.1922(5) 0.2686(8)
+C18 C 0.4244(6) -0.0176(5) 0.1897(7)
+C19 C 0.1603(6) 0.0613(5) -0.0315(7)
+C20 C 0.1728(6) 0.3232(5) -0.0812(6)
+H1 H 0.40600 0.27000 0.73200
+H2 H 0.45900 0.35800 0.64900
+H3 H 0.47400 0.22300 0.57800
+H4 H 0.26800 0.03900 0.44600
+H5 H 0.13700 0.07200 0.52400
+H6 H 0.27200 0.09600 0.62600
+H7 H 0.00500 0.12100 0.26100
+H8 H -0.07600 0.24200 0.23000
+H9 H -0.07700 0.19900 0.39400
+H10 H -0.04600 0.50000 0.34300
+H11 H -0.02300 0.41500 0.18300
+H12 H 0.06300 0.51800 0.24600
+H13 H 0.26000 0.55400 0.39700
+H14 H 0.38600 0.49700 0.49600
+H15 H 0.26400 0.56200 0.58300
+H16 H 0.49400 0.39300 0.01200
+H17 H 0.50000 0.42200 0.19800
+H18 H 0.36600 0.45800 0.08900
+H19 H 0.61500 0.12500 0.32200
+H20 H 0.60000 0.26400 0.34400
+H21 H 0.66400 0.18600 0.19700
+H22 H 0.34900 -0.06000 0.16700
+H23 H 0.45400 -0.00600 0.30100
+H24 H 0.49500 -0.06200 0.13200
+H25 H 0.08100 0.11200 -0.05300
+H26 H 0.15100 0.01300 0.04400
+H27 H 0.18400 0.01100 -0.12900
+H28 H 0.19100 0.30700 -0.18900
+H29 H 0.17600 0.40600 -0.03800
+H30 H 0.08500 0.30600 -0.07800
+#END

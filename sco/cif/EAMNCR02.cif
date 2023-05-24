@@ -1,0 +1,116 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_EAMNCR02
+_audit_creation_date 1996-01-30
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD EAMNCR02
+_chemical_formula_sum 'C10 H10 Cr1 N2 O5'
+_chemical_formula_moiety
+;
+C10 H10 Cr1 N2 O5
+;
+_journal_coden_Cambridge 36
+_journal_volume 490
+_journal_year 1995
+_journal_page_first 29
+_journal_name_full 'J.Organomet.Chem. '
+loop_
+_publ_author_name
+"M.-N.Ohnet"
+"A.Spasojevic-de Bire"
+"N.Q.Dao"
+"P.Schweiss"
+"J.-M.Kiat"
+"P.Gregoire"
+"H.Fischer"
+"D.Reindl"
+_chemical_name_systematic
+;
+Diethylcyanamide-pentacarbonyl-chromium
+;
+_cell_volume   1280.862
+_exptl_special_details
+;
+Crystal and powder data for room temperature determination are also included 
+in publication
+;
+_diffrn_ambient_temperature 110
+_refine_special_details
+;
+Methyl group hydrogens are disordered.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.066
+_refine_ls_wR_factor_gt 0.066
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,-1/2+z
+7 -1/2-x,-1/2-y,-z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 13.48(3)
+_cell_length_b 11.396(9)
+_cell_length_c 9.28(2)
+_cell_angle_alpha 90
+_cell_angle_beta 116.04(15)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cr 1.35
+N 0.68
+O 0.60
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cr1 Cr 0.00000 0.1578(4) 0.25000
+C1 C 0.00000 0.0008(17) 0.25000
+O1 O 0.00000 -0.1039(12) 0.25000
+N1 N 0.00000 0.3384(16) 0.25000
+C2 C 0.00000 0.4335(19) 0.25000
+N2 N 0.00000 0.5501(12) 0.25000
+C3 C 0.1075(13) 0.1583(15) 0.4677(16)
+O2 O 0.1703(8) 0.1615(13) 0.5943(11)
+C4 C 0.1178(13) 0.1499(17) 0.1841(17)
+O3 O 0.1728(10) 0.1440(14) 0.1482(15)
+C5 C -0.0785(16) 0.6116(12) 0.1187(20)
+C6 C -0.1661(15) 0.5481(15) -0.0139(22)
+H1 H -0.08100 0.64600 0.04400
+H2 H -0.11000 0.65100 0.16000
+C3A C -0.1075(13) 0.1583(15) 0.0323(16)
+C4A C -0.1178(13) 0.1499(17) 0.3159(17)
+C5A C 0.0785(16) 0.6116(12) 0.3813(20)
+O2A O -0.1703(8) 0.1615(13) -0.0943(11)
+O3A O -0.1728(10) 0.1440(14) 0.3518(15)
+C6A C 0.1661(15) 0.5481(15) 0.5139(22)
+H1A H 0.08100 0.64600 0.45600
+H2A H 0.11000 0.65100 0.34000
+#END

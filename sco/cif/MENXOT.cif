@@ -1,0 +1,151 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_MENXOT
+_audit_creation_date 2007-02-13
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD MENXOT
+_database_code_depnum_ccdc_archive 'CCDC 611362'
+_chemical_formula_sum 'C26 H34 Br2 Fe1 N6 O2'
+_chemical_formula_moiety
+;
+C24 H26 Fe1 N6 2+,2(Br1 1-),2(C1 H4 O1)
+;
+_journal_coden_Cambridge 29
+_journal_volume 632
+_journal_year 2006
+_journal_page_first 2355
+_journal_name_full 'Z.Anorg.Allg.Chem. '
+loop_
+_publ_author_name
+"A.Malassa"
+"H.Gorls"
+"A.Buchholz"
+"W.Plass"
+"M.Westerhausen"
+_chemical_name_systematic
+;
+bis(bis(2-Pyridylmethyl)amine-N,N',N'')-iron dibromide methanol solvate
+;
+_chemical_melting_point 523.15
+_cell_volume    704.643
+_exptl_crystal_colour 'brown'
+_exptl_crystal_density_diffrn 1.598
+_exptl_special_details
+;
+Melts with decomposition.
+magnetic properties
+
+;
+_exptl_crystal_description 'plate'
+_diffrn_ambient_temperature 183
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0576
+_refine_ls_wR_factor_gt 0.0576
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 8.7387(6)
+_cell_length_b 9.2175(9)
+_cell_length_c 9.7053(9)
+_cell_angle_alpha 76.643(4)
+_cell_angle_beta 84.627(6)
+_cell_angle_gamma 67.888(5)
+_cell_formula_units_Z 1
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Br 1.21
+Fe 1.34
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe1 Fe 0.50000 0.00000 0.00000
+N1 N 0.6923(5) 0.0256(5) 0.0724(4)
+N2 N 0.6555(5) -0.2318(5) 0.0197(5)
+N3 N 0.4510(5) -0.0750(5) 0.2030(4)
+C1 C 0.6921(6) 0.1524(6) 0.1192(5)
+H1 H 0.59670 0.24790 0.10420
+C2 C 0.8259(6) 0.1491(7) 0.1886(6)
+H2 H 0.82220 0.24120 0.21910
+C3 C 0.9635(6) 0.0110(7) 0.2124(6)
+H3 H 1.05520 0.00590 0.26130
+C4 C 0.9678(6) -0.1206(6) 0.1647(6)
+H4 H 1.06200 -0.21720 0.18010
+C5 C 0.8296(6) -0.1082(6) 0.0930(5)
+C6 C 0.8283(6) -0.2407(6) 0.0299(6)
+H5 H 0.89430 -0.34510 0.08930
+H6 H 0.87930 -0.23260 -0.06570
+C7 C 0.6059(7) -0.3313(6) 0.1457(6)
+H7 H 0.52960 -0.37530 0.11650
+H8 H 0.70490 -0.42250 0.18760
+C8 C 0.5237(6) -0.2355(6) 0.2530(5)
+C9 C 0.5184(7) -0.3030(7) 0.3956(6)
+H9 H 0.57400 -0.41500 0.42870
+C10 C 0.4332(7) -0.2088(7) 0.4895(6)
+H10 H 0.42760 -0.25470 0.58720
+C11 C 0.3563(7) -0.0467(7) 0.4390(6)
+H11 H 0.29500 0.02130 0.50100
+C12 C 0.3695(6) 0.0158(6) 0.2963(5)
+H12 H 0.31860 0.12820 0.26260
+Br1 Br -0.29130(6) 0.52947(6) -0.20902(6)
+O1 O 0.0307(7) 0.6257(7) 0.6836(5)
+H13 H -0.04290 0.58660 0.70710
+C13 C 0.0323(9) 0.6773(10) 0.5358(8)
+H14 H -0.07050 0.68450 0.49680
+H15 H 0.12650 0.60040 0.49560
+H16 H 0.04180 0.78280 0.51170
+H17 H 0.659(6) -0.274(7) -0.044(6)
+N1A N 0.3077(5) -0.0256(5) -0.0724(4)
+N2A N 0.3445(5) 0.2318(5) -0.0197(5)
+N3A N 0.5490(5) 0.0750(5) -0.2030(4)
+C1A C 0.3079(6) -0.1524(6) -0.1192(5)
+H1A H 0.40330 -0.24790 -0.10420
+C2A C 0.1741(6) -0.1491(7) -0.1886(6)
+H2A H 0.17780 -0.24120 -0.21910
+C3A C 0.0365(6) -0.0110(7) -0.2124(6)
+H3A H -0.05520 -0.00590 -0.26130
+C4A C 0.0322(6) 0.1206(6) -0.1647(6)
+H4A H -0.06200 0.21720 -0.18010
+C5A C 0.1704(6) 0.1082(6) -0.0930(5)
+C6A C 0.1717(6) 0.2407(6) -0.0299(6)
+H5A H 0.10570 0.34510 -0.08930
+H6A H 0.12070 0.23260 0.06570
+C7A C 0.3941(7) 0.3313(6) -0.1457(6)
+H7A H 0.47040 0.37530 -0.11650
+H8A H 0.29510 0.42250 -0.18760
+C8A C 0.4763(6) 0.2355(6) -0.2530(5)
+C9A C 0.4816(7) 0.3030(7) -0.3956(6)
+H9A H 0.42600 0.41500 -0.42870
+C10A C 0.5668(7) 0.2088(7) -0.4895(6)
+H10A H 0.57240 0.25470 -0.58720
+C11A C 0.6437(7) 0.0467(7) -0.4390(6)
+H11A H 0.70500 -0.02130 -0.50100
+C12A C 0.6305(6) -0.0158(6) -0.2963(5)
+H12A H 0.68140 -0.12820 -0.26260
+H17A H 0.341(6) 0.274(7) 0.044(6)
+#END

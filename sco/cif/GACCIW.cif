@@ -1,0 +1,119 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_GACCIW
+_audit_creation_date 1988-09-05
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD GACCIW
+_chemical_formula_sum 'C14 H18 Mn1 O1'
+_chemical_formula_moiety
+;
+C14 H18 Mn1 O1
+;
+_journal_coden_Cambridge 4
+_journal_volume 110
+_journal_year 1988
+_journal_page_first 137
+_journal_name_full 'J.Am.Chem.Soc. '
+loop_
+_publ_author_name
+"F.Bottomley"
+"P.N.Keizer"
+"P.S.White"
+_chemical_name_systematic
+;
+bis(\h^5^-Cyclopentadienyl)-(tetrahydrofuran-O)-manganese(ii)
+;
+_cell_volume   1280.836
+_exptl_crystal_colour 'light brown'
+_exptl_crystal_density_diffrn 1.33
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.025
+_refine_ls_wR_factor_gt 0.025
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 -x,y,1/2-z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -1/2-x,-1/2-y,-z
+7 x,-y,-1/2+z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 12.541(1)
+_cell_length_b 9.927(1)
+_cell_length_c 12.650(1)
+_cell_angle_alpha 90
+_cell_angle_beta 125.58(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Mn 1.42
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mn1 Mn 0.00000 0.10977(4) 0.25000
+O1 O 0.00000 -0.11449(17) 0.25000
+C1 C 0.11182(21) -0.19823(22) 0.33716(24)
+C2 C 0.05918(25) -0.33839(22) 0.31969(23)
+C3 C 0.09185(24) 0.29261(24) 0.1893(3)
+C4 C 0.06600(24) 0.1834(3) 0.11001(24)
+C5 C 0.14939(25) 0.07972(24) 0.1879(3)
+C6 C 0.22468(22) 0.1250(3) 0.3150(3)
+C7 C 0.18837(24) 0.2573(3) 0.3149(3)
+H1 H 0.168(3) -0.188(3) 0.3131(24)
+H2 H 0.1514(24) -0.1664(25) 0.4236(25)
+H3 H 0.0299(24) -0.347(3) 0.3732(24)
+H4 H 0.125(3) -0.405(3) 0.344(3)
+H5 H 0.054(3) 0.374(3) 0.162(3)
+H6 H 0.005(3) 0.179(3) 0.024(3)
+H7 H 0.161(3) -0.002(3) 0.165(3)
+H8 H 0.282(4) 0.080(3) 0.383(3)
+H9 H 0.215(3) 0.303(3) 0.384(3)
+C3B C -0.09185(24) 0.29261(24) 0.3107(3)
+C4B C -0.06600(24) 0.1834(3) 0.38999(24)
+C5B C -0.14939(25) 0.07972(24) 0.3121(3)
+C6B C -0.22468(22) 0.1250(3) 0.1850(3)
+C7B C -0.18837(24) 0.2573(3) 0.1851(3)
+C1B C -0.11182(21) -0.19823(22) 0.16284(24)
+C2B C -0.05918(25) -0.33839(22) 0.18031(23)
+H5B H -0.054(3) 0.374(3) 0.338(3)
+H6B H -0.005(3) 0.179(3) 0.476(3)
+H7B H -0.161(3) -0.002(3) 0.335(3)
+H8B H -0.282(4) 0.080(3) 0.117(3)
+H9B H -0.215(3) 0.303(3) 0.116(3)
+H1B H -0.168(3) -0.188(3) 0.1869(24)
+H2B H -0.1514(24) -0.1664(25) 0.0764(25)
+H3B H -0.0299(24) -0.347(3) 0.1268(24)
+H4B H -0.125(3) -0.405(3) 0.156(3)
+#END

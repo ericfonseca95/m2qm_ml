@@ -1,0 +1,127 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_TAVLUX
+_audit_creation_date 1997-01-23
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD TAVLUX
+_chemical_formula_sum 'C8 H24 Cl1 Co1 N4 O7'
+_chemical_formula_moiety
+;
+C8 H18 Co1 N4 O4 1+,Cl1 1-,3(H2 O1)
+;
+_journal_coden_Cambridge 9
+_journal_volume 35
+_journal_year 1996
+_journal_page_first 3031
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"E.C.Sheu"
+"Maoyu Shang"
+"A.G.Lappin"
+_chemical_name_systematic
+;
+rac-\L,\D-cis-\b(SS,RR)-(3,6-Diaza-1,8-octanediamine-N,N',N'',N''')-(oxalato-O
+,O')-cobalt(iii) chloride trihydrate
+;
+_cell_volume    786.976
+_exptl_crystal_colour 'orange'
+_exptl_crystal_density_diffrn 1.615
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0448
+_refine_ls_wR_factor_gt 0.0448
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 7.636(3)
+_cell_length_b 8.468(2)
+_cell_length_c 13.456(3)
+_cell_angle_alpha 107.45(2)
+_cell_angle_beta 102.00(3)
+_cell_angle_gamma 99.62(3)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+Co 1.33
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Co1 Co 0.49058(7) 0.68819(7) 0.71392(4)
+Cl1 Cl 0.0791(2) 0.9369(2) 0.3216(1)
+O1 O 0.6600(4) 0.6133(4) 0.6331(2)
+O2 O 0.7024(3) 0.7899(4) 0.8348(2)
+O3 O 0.9605(4) 0.6211(4) 0.6631(2)
+O4 O 1.0080(4) 0.8298(4) 0.8758(3)
+O5 O 0.1928(5) 0.2083(5) 0.5619(3)
+O6 O 0.7613(6) 0.4509(6) 0.9051(4)
+O7 O 0.9858(8) 0.7614(6) 1.0693(3)
+N1 N 0.2898(5) 0.5919(5) 0.5829(3)
+N2 N 0.5078(5) 0.9026(5) 0.6870(3)
+N3 N 0.3432(4) 0.7703(5) 0.8076(3)
+N4 N 0.4495(5) 0.4810(5) 0.7499(3)
+C1 C 0.2438(6) 0.7313(6) 0.5410(4)
+C2 C 0.4233(7) 0.8671(6) 0.5727(4)
+C3 C 0.4251(7) 1.0175(6) 0.7605(4)
+C4 C 0.4101(6) 0.9579(6) 0.8532(4)
+C5 C 0.3573(6) 0.6801(6) 0.8868(3)
+C6 C 0.3229(6) 0.4940(6) 0.8210(4)
+C7 C 0.8297(6) 0.6607(5) 0.6935(3)
+C8 C 0.8555(6) 0.7708(6) 0.8115(3)
+H1 H 0.33100 0.50500 0.52300
+H2 H 0.21800 0.53400 0.58500
+H3 H 0.61400 0.93800 0.70500
+H4 H 0.23900 0.74500 0.76700
+H5 H 0.39000 0.35200 0.67800
+H6 H 0.54700 0.47400 0.77500
+H7 H 0.24800 0.73600 0.46400
+H8 H 0.15600 0.79000 0.58000
+H9 H 0.42500 0.98800 0.55800
+H10 H 0.51000 0.80300 0.52100
+H11 H 0.50100 1.12100 0.78000
+H12 H 0.30500 1.01600 0.71400
+H13 H 0.34200 1.01200 0.89400
+H14 H 0.53600 0.98400 0.90000
+H15 H 0.48500 0.73100 0.93700
+H16 H 0.26500 0.70100 0.92800
+H17 H 0.36000 0.43900 0.86400
+H18 H 0.20100 0.44100 0.76800
+H19 H 0.19700 0.34000 0.58900
+H20 H 0.14200 0.15100 0.47000
+H21 H 0.79500 0.41200 0.83600
+H22 H 0.81100 0.55400 0.95100
+H23 H 0.99200 0.83300 1.03200
+H24 H 1.00300 0.85500 1.14800
+#END

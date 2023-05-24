@@ -1,0 +1,136 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_TOKRAN
+_audit_creation_date 2009-05-12
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD TOKRAN
+_database_code_depnum_ccdc_archive 'CCDC 692832'
+_chemical_formula_sum 'C12 H24 Cl2 Mn1 N6'
+_chemical_formula_moiety
+;
+C12 H24 Cl2 Mn1 N6
+;
+_journal_coden_Cambridge 29
+_journal_volume 634
+_journal_year 2008
+_journal_page_first 2511
+_journal_name_full 'Z.Anorg.Allg.Chem. '
+loop_
+_publ_author_name
+"A.Neuba"
+"R.Haase"
+"M.Bernard"
+"U.Florke"
+"S.Herres-Pawlis"
+_chemical_name_systematic
+;
+Dichloro-(N,N'-bis(1,3-dimethylimidazolidin-2-ylidene)ethylenediamine)-mangane
+se(ii)
+;
+_cell_volume   1674.918
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.5
+_exptl_special_details
+;
+isostructural with the Co analogue
+
+;
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 120
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0392
+_refine_ls_wR_factor_gt 0.0392
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 -x,y,1/2-z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -1/2-x,-1/2-y,-z
+7 x,-y,-1/2+z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 9.4873(8)
+_cell_length_b 13.4775(11)
+_cell_length_c 13.3413(11)
+_cell_angle_alpha 90
+_cell_angle_beta 100.934(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+Mn 1.35
+N 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mn1 Mn 0.00000 0.35666(3) 0.25000
+Cl1 Cl 0.20083(7) 0.45298(5) 0.23419(4)
+N1 N 0.00201(19) 0.23765(14) 0.35633(13)
+N2 N 0.0467(2) 0.31453(15) 0.51663(13)
+N3 N -0.0433(2) 0.16117(15) 0.51109(14)
+C1 C -0.0013(2) 0.23649(16) 0.45387(16)
+C2 C 0.1365(3) 0.3921(2) 0.48848(18)
+H1 H 0.21910 0.36250 0.46540
+H2 H 0.17020 0.43470 0.54770
+H3 H 0.08100 0.43190 0.43320
+C3 C -0.0276(3) 0.1931(2) 0.61774(17)
+H4 H 0.01650 0.14030 0.66510
+H5 H -0.12160 0.21150 0.63430
+C4 C 0.0704(3) 0.2826(2) 0.62332(17)
+H6 H 0.04250 0.33490 0.66780
+H7 H 0.17200 0.26410 0.64850
+C5 C -0.1659(3) 0.0959(2) 0.47676(19)
+H8 H -0.22110 0.12060 0.41190
+H9 H -0.22720 0.09480 0.52810
+H10 H -0.13150 0.02870 0.46720
+C6 C -0.0351(3) 0.14646(17) 0.29670(16)
+H11 H -0.14060 0.14190 0.27490
+H12 H -0.00210 0.08800 0.33970
+Cl1B Cl -0.20083(7) 0.45298(5) 0.26581(4)
+N1B N -0.00201(19) 0.23765(14) 0.14367(13)
+N2B N -0.0467(2) 0.31453(15) -0.01663(13)
+N3B N 0.0433(2) 0.16117(15) -0.01109(14)
+C1B C 0.0013(2) 0.23649(16) 0.04613(16)
+C2B C -0.1365(3) 0.3921(2) 0.01152(18)
+H1B H -0.21910 0.36250 0.03460
+H2B H -0.17020 0.43470 -0.04770
+H3B H -0.08100 0.43190 0.06680
+C3B C 0.0276(3) 0.1931(2) -0.11774(17)
+H4B H -0.01650 0.14030 -0.16510
+H5B H 0.12160 0.21150 -0.13430
+C4B C -0.0704(3) 0.2826(2) -0.12332(17)
+H6B H -0.04250 0.33490 -0.16780
+H7B H -0.17200 0.26410 -0.14850
+C5B C 0.1659(3) 0.0959(2) 0.02324(19)
+H8B H 0.22110 0.12060 0.08810
+H9B H 0.22720 0.09480 -0.02810
+H10B H 0.13150 0.02870 0.03280
+C6B C 0.0351(3) 0.14646(17) 0.20330(16)
+H11B H 0.14060 0.14190 0.22510
+H12B H 0.00210 0.08800 0.16030
+#END

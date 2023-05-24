@@ -1,0 +1,119 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_GAMFUV
+_audit_creation_date 1989-01-20
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD GAMFUV
+_database_code_depnum_ccdc_archive 'CCDC 1163527'
+_chemical_formula_sum 'C12 H32 B2 Mn1 O3'
+_chemical_formula_moiety
+;
+C12 H32 B2 Mn1 O3
+;
+_journal_coden_Cambridge 95
+_journal_year 1987
+_journal_page_first 1712
+_journal_name_full 'Izv.Akad.Nauk SSSR,Ser.Khim.(Russ.)(Russ.Chem.Bull.) '
+loop_
+_publ_author_name
+"V.D.Makhaev"
+"A.P.Borisov"
+"T.P.Gnilomedova"
+"E.B.Lobkovskii"
+"A.N.Chekhlov"
+_chemical_name_systematic
+;
+bis(Tetrahydroborato-H,H)-tris(tetrahydrofuran)-manganese(ii)
+;
+_cell_volume   1791.898
+_exptl_crystal_colour 'flesh'
+_exptl_crystal_density_diffrn 1.115
+_exptl_special_details
+;
+One of the two Mn-H bonds is not formed due to radius problems
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.044
+_refine_ls_wR_factor_gt 0.044
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 -x,y,1/2-z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -1/2-x,-1/2-y,-z
+7 x,-y,-1/2+z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 12.513(2)
+_cell_length_b 12.412(2)
+_cell_length_c 12.663(2)
+_cell_angle_alpha 90
+_cell_angle_beta 114.34(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.30
+B 0.63
+Mn 1.35
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mn1 Mn 0.00000 0.35791(4) 0.25000
+O1 O 0.00000 0.1820(2) 0.25000
+O2 O 0.0138(2) 0.3354(2) 0.0807(2)
+C1 C 0.0948(4) 0.1138(3) 0.3065(7)
+C2 C 0.0521(6) 0.0055(3) 0.3013(6)
+C3 C 0.1171(4) 0.3147(6) 0.0646(4)
+C4 C 0.0866(4) 0.2748(5) -0.0490(3)
+C5 C -0.0403(4) 0.2882(4) -0.1113(3)
+C6 C -0.0785(5) 0.3367(5) -0.0295(3)
+B1 B 0.1930(3) 0.4418(4) 0.3398(3)
+H1 H 0.112(3) 0.487(2) 0.303(2)
+H2 H 0.177(3) 0.348(2) 0.330(3)
+H3 H 0.234(2) 0.469(3) 0.428(2)
+H4 H 0.233(2) 0.455(3) 0.277(2)
+C2B C -0.0521(6) 0.0055(3) 0.1987(6)
+C1B C -0.0948(4) 0.1138(3) 0.1935(7)
+O2B O -0.0138(2) 0.3354(2) 0.4193(2)
+C3B C -0.1171(4) 0.3147(6) 0.4354(4)
+C4B C -0.0866(4) 0.2748(5) 0.5490(3)
+C5B C 0.0403(4) 0.2882(4) 0.6113(3)
+C6B C 0.0785(5) 0.3367(5) 0.5295(3)
+H1B H -0.112(3) 0.487(2) 0.197(2)
+B1B B -0.1930(3) 0.4418(4) 0.1602(3)
+H2B H -0.177(3) 0.348(2) 0.170(3)
+H3B H -0.234(2) 0.469(3) 0.072(2)
+H4B H -0.233(2) 0.455(3) 0.223(2)
+#END

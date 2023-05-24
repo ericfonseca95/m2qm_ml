@@ -1,0 +1,119 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_JOLNON
+_audit_creation_date 1992-10-02
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD JOLNON
+_database_code_depnum_ccdc_archive 'CCDC 1188690'
+_chemical_formula_sum 'C15 H14 Cr1 O6'
+_chemical_formula_moiety
+;
+C15 H14 Cr1 O6
+;
+_journal_coden_Cambridge 3075
+_journal_year 1991
+_journal_page_first 1713
+_journal_name_full 'J.Chem.Soc.Chem.Comm. '
+loop_
+_publ_author_name
+"E.P.Kundig"
+"G.Bernardinelli"
+"J.Leresche"
+_chemical_name_systematic
+;
+((4a,5,6,7,8,8a-\h)-2-endo-Carbomethoxy-1,2,3,4-tetrahydro-1-exo-naphthalenol)
+-tricarbonyl-chromium
+;
+_cell_volume    758.248
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.5
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.043
+_refine_ls_wR_factor_gt 0.043
+loop_
+_citation_database_id_CSD
+_citation_special_details
+JOLNIH "is a stereoisomer of this entry"
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 7.3633(11)
+_cell_length_b 8.0332(12)
+_cell_length_c 13.355(2)
+_cell_angle_alpha 96.23(1)
+_cell_angle_beta 102.16(1)
+_cell_angle_gamma 97.41(1)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cr 1.35
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cr1 Cr -0.0888(1) 0.1884(1) 0.66543(8)
+O1 O -0.1030(6) 0.2541(5) 0.9978(3)
+O2 O 0.3127(6) 0.4931(6) 1.0693(3)
+O3 O 0.4055(7) 0.2751(6) 1.1455(4)
+C1 C 0.0182(8) 0.2550(7) 0.9280(5)
+C2 C 0.2016(9) 0.2028(8) 0.9832(5)
+C3 C 0.3221(9) 0.1554(9) 0.9096(5)
+C4 C 0.2269(9) 0.0062(8) 0.8300(5)
+C5 C 0.0247(9) 0.0252(8) 0.7809(5)
+C6 C -0.067(1) -0.0788(8) 0.6866(5)
+C7 C -0.252(1) -0.0708(8) 0.6404(5)
+C8 C -0.3495(9) 0.0441(9) 0.6887(5)
+C9 C -0.2595(9) 0.1484(8) 0.7795(5)
+C10 C -0.0704(8) 0.1402(7) 0.8288(5)
+C11 C 0.3065(9) 0.344(1) 1.0676(5)
+C12 C 0.517(1) 0.3907(9) 1.2317(6)
+C13 C 0.137(1) 0.2211(8) 0.6290(5)
+C14 C -0.200(1) 0.217(1) 0.5354(6)
+C15 C -0.054(1) 0.412(1) 0.7059(6)
+O4 O 0.2792(7) 0.2463(6) 0.6065(4)
+O5 O -0.2670(8) 0.2408(8) 0.4530(4)
+O6 O -0.0306(8) 0.5582(7) 0.7348(5)
+H1 H 0.04560 0.38170 0.90720
+H2 H 0.16830 0.08860 1.01720
+H3 H 0.35420 0.26400 0.87050
+H4 H 0.45300 0.12500 0.95440
+H5 H 0.30700 -0.00410 0.77030
+H6 H 0.22630 -0.10800 0.86760
+H7 H 0.00810 -0.16560 0.64910
+H8 H -0.32340 -0.15160 0.56740
+H9 H -0.49540 0.05000 0.65360
+H10 H -0.33610 0.23820 0.81390
+H11 H 0.61710 0.47410 1.20310
+H12 H 0.42300 0.46510 1.26340
+H13 H 0.59540 0.33450 1.29430
+#END

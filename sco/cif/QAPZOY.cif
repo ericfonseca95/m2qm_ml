@@ -1,0 +1,127 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_QAPZOY
+_audit_creation_date 2012-07-18
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD QAPZOY
+_database_code_depnum_ccdc_archive 'CCDC 855903'
+_chemical_formula_sum 'C18 H22 Cl2 Co1 N2 O1'
+_chemical_formula_moiety
+;
+C18 H22 Cl2 Co1 N2 O1
+;
+_journal_coden_Cambridge 36
+_journal_volume 705
+_journal_year 2012
+_journal_page_first 51
+_journal_name_full 'J.Organomet.Chem. '
+loop_
+_publ_author_name
+"Pengfei Ai"
+"Lin Chen"
+"Yintian Guo"
+"Suyun Jie"
+"Bo-Geng Li"
+_chemical_name_systematic
+;
+Dichloro-((6-(1-((2,6-diethylphenyl)imino)ethyl)pyridin-2-yl)methanol)-cobalt(
+ii)
+;
+_cell_volume    975.334
+_exptl_crystal_colour 'blue'
+_exptl_crystal_density_diffrn 1.404
+_exptl_crystal_description 'platelet'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0413
+_refine_ls_wR_factor_gt 0.0413
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 7.2885(15)
+_cell_length_b 9.0459(18)
+_cell_length_c 16.274(3)
+_cell_angle_alpha 75.73(3)
+_cell_angle_beta 82.62(3)
+_cell_angle_gamma 69.89(3)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+Co 1.26
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Co1 Co 0.73482(6) 0.87054(5) 0.63885(3)
+Cl1 Cl 0.50522(14) 0.74929(12) 0.63503(6)
+Cl2 Cl 0.61316(17) 1.10954(12) 0.67586(8)
+N1 N 0.9005(4) 0.7198(3) 0.74649(18)
+N2 N 0.9765(4) 0.7252(3) 0.58496(19)
+C1 C 0.8554(6) 0.7475(5) 0.8313(2)
+C2 C 1.0568(5) 0.6100(4) 0.7285(3)
+C3 C 1.0965(5) 0.6010(4) 0.6384(3)
+C4 C 0.7232(6) 0.6810(6) 0.8845(3)
+C5 C 0.8662(6) 0.8827(5) 0.4480(2)
+H1 H 0.93890 0.94060 0.40610
+H2 H 0.78520 0.84930 0.41830
+C6 C 0.9331(7) 0.8504(6) 0.8554(3)
+C7 C 1.2033(6) 0.4941(5) 0.7913(3)
+H3 H 1.15990 0.51280 0.84720
+H4 H 1.32790 0.51000 0.77640
+H5 H 1.21530 0.38540 0.79030
+C8 C 0.6369(8) 0.5714(7) 0.8595(3)
+H6 H 0.50590 0.58890 0.88540
+H7 H 0.62540 0.60120 0.79840
+C9 C 0.8734(9) 0.8865(8) 0.9352(3)
+H8 H 0.92260 0.95500 0.95300
+C10 C 0.6714(9) 0.7208(8) 0.9630(3)
+H9 H 0.58530 0.67710 0.99970
+C11 C 0.7437(10) 0.8230(9) 0.9877(3)
+H10 H 0.70480 0.84950 1.04040
+C12 C 0.7491(10) 0.3973(8) 0.8835(6)
+H11 H 0.68360 0.33620 0.86510
+H12 H 0.75840 0.36520 0.94400
+H13 H 0.87810 0.37750 0.85680
+C13 C 1.0041(5) 0.7386(5) 0.5009(2)
+C14 C 1.2712(6) 0.4938(6) 0.5213(3)
+H14 H 1.36960 0.41380 0.49980
+C15 C 1.1523(6) 0.6225(6) 0.4672(3)
+H15 H 1.17080 0.63170 0.40880
+C16 C 1.2449(5) 0.4830(5) 0.6081(3)
+H16 H 1.32650 0.39730 0.64530
+C17 C 1.0769(8) 0.9191(7) 0.7962(3)
+H17 H 1.17280 0.83120 0.77430
+H18 H 1.00560 0.99460 0.74830
+O1 O 0.7469(5) 0.9843(4) 0.50178(18)
+H19 H 0.67170 1.05750 0.46870
+C18 C 1.1812(12) 0.9994(10) 0.8283(5)
+H20 H 1.28280 1.01810 0.78750
+H21 H 1.23800 0.93320 0.88050
+H22 H 1.09270 1.10060 0.83830
+#END

@@ -1,0 +1,130 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_QEHQEZ
+_audit_creation_date 2001-05-07
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD QEHQEZ
+_database_code_depnum_ccdc_archive 'CCDC 149744'
+_chemical_formula_sum 'C14 H11 Cr1 N1 O6'
+_chemical_formula_moiety
+;
+C14 H11 Cr1 N1 O6
+;
+_journal_coden_Cambridge 36
+_journal_volume 617
+_journal_year 2001
+_journal_page_first 182
+_journal_name_full 'J.Organomet.Chem. '
+loop_
+_publ_author_name
+"T.S.Powers"
+"W.D.Wulff"
+"J.Quinn"
+"Yan Shi"
+"Weiqin Jiang"
+"R.Hsung"
+"M.Parisi"
+"A.Rahm"
+"Xiao Wu Jiang"
+"G.P.A.Yap"
+"A.L.Rheingold"
+_chemical_name_systematic
+;
+E-Pentacarbonyl-((2-hydroxyethylamino)phenylmethylene)-chromium(0)
+;
+_chemical_melting_point 354.15
+_cell_volume    781.716
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.45
+_exptl_special_details
+;
+Melting point range 354.15-356.15K
+
+;
+_exptl_crystal_description 'needles'
+_exptl_crystal_preparation 'benzene/hexane'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0401
+_refine_ls_wR_factor_gt 0.0401
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 7.9192(11)
+_cell_length_b 8.4451(10)
+_cell_length_c 12.185(2)
+_cell_angle_alpha 99.375(13)
+_cell_angle_beta 97.677(10)
+_cell_angle_gamma 99.656(10)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cr 1.35
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cr1 Cr 0.07580(6) 0.30028(5) 0.22189(3)
+N1 N 0.3358(3) 0.5684(3) 0.1626(2)
+H1 H 0.3376(3) 0.4933(3) 0.1061(2)
+C1 C 0.3805(3) 0.6697(3) 0.4293(2)
+H2 H 0.4556(3) 0.5960(3) 0.4290(2)
+C2 C 0.3932(4) 0.7909(3) 0.52366(14)
+H3 H 0.4768(5) 0.7984(5) 0.5866(2)
+C3 C 0.2810(4) 0.9011(3) 0.5240(2)
+H4 H 0.2895(6) 0.9822(4) 0.5872(2)
+C4 C 0.1561(4) 0.8900(2) 0.4300(2)
+H5 H 0.0810(5) 0.9637(3) 0.4302(4)
+C5 C 0.1433(3) 0.7687(3) 0.3356(2)
+H6 H 0.0597(3) 0.7613(4) 0.2727(2)
+C6 C 0.2555(3) 0.6586(2) 0.33522(13)
+C7 C 0.2413(3) 0.5273(3) 0.2361(2)
+C8 C 0.4412(4) 0.7322(3) 0.1660(3)
+H7 H 0.5407(4) 0.7532(3) 0.2258(3)
+H8 H 0.3720(4) 0.8148(3) 0.1830(3)
+C9 C 0.5028(4) 0.7448(3) 0.0565(3)
+H9 H 0.4066(4) 0.7007(3) -0.0049(3)
+H10 H 0.5422(4) 0.8591(3) 0.0542(3)
+O1 O 0.6400(3) 0.6592(3) 0.0411(2)
+H11 H 0.7223(3) 0.6974(3) 0.0922(2)
+C10 C -0.1142(4) 0.4066(4) 0.2457(3)
+O2 O -0.2317(4) 0.4642(4) 0.2574(3)
+C11 C -0.0680(4) 0.0995(4) 0.2104(3)
+O3 O -0.1562(4) -0.0276(3) 0.2022(2)
+C12 C 0.0118(4) 0.2882(4) 0.0663(3)
+O4 O -0.0302(3) 0.2770(4) -0.0288(2)
+C13 C 0.1338(4) 0.3150(4) 0.3811(3)
+O5 O 0.1661(4) 0.3223(3) 0.4756(2)
+C14 C 0.2631(4) 0.1951(4) 0.1958(2)
+O6 O 0.3760(4) 0.1314(3) 0.1787(2)
+#END

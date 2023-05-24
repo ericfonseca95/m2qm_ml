@@ -1,0 +1,137 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_NUKCON
+_audit_creation_date 2015-04-30
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD NUKCON
+_database_code_depnum_ccdc_archive 'CCDC 1059105'
+_chemical_formula_sum 'C18 H28 Mn1 N6 O2 S2'
+_chemical_formula_moiety
+;
+C18 H28 Mn1 N6 O2 S2
+;
+_journal_coeditor_code "sj5446"
+_journal_coden_Cambridge 1828
+_journal_volume 71
+_journal_year 2015
+_journal_page_first m126
+_journal_name_full 'Acta Crystallogr.,Sect.E:Cryst.Commun. '
+loop_
+_publ_author_name
+"S.Suckert"
+"I.Jess"
+"C.Nather"
+_chemical_name_systematic
+;
+bis(N,N-Dimethylpyridin-4-amine)-bis(methanol)-bis(isothiocyanato)-manganese(i
+i)
+;
+_cell_volume    584.723
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.362
+_exptl_crystal_description 'plate'
+_diffrn_ambient_temperature 180
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0379
+_refine_ls_wR_factor_gt 0.0379
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 7.0771(7)
+_cell_length_b 8.1586(8)
+_cell_length_c 10.6491(10)
+_cell_angle_alpha 76.381(11)
+_cell_angle_beta 81.672(11)
+_cell_angle_gamma 79.809(11)
+_cell_formula_units_Z 1
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Mn 1.61
+N 0.68
+O 0.68
+S 1.02
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mn1 Mn 0.50000 0.00000 0.50000
+N1 N 0.6294(3) 0.0926(3) 0.63997(19)
+C1 C 0.7395(3) 0.1199(3) 0.7004(2)
+S1 S 0.89299(9) 0.15954(10) 0.78630(6)
+O1 O 0.2205(2) 0.1737(2) 0.53900(16)
+H1 H 0.14620 0.14440 0.60790
+C2 C 0.0945(4) 0.2643(4) 0.4439(3)
+H2 H -0.01360 0.33370 0.48470
+H3 H 0.04480 0.18280 0.40740
+H4 H 0.16590 0.33860 0.37430
+N2 N 0.5945(3) 0.2090(2) 0.33954(17)
+N3 N 0.7263(3) 0.6192(2) 0.03652(18)
+C3 C 0.5795(3) 0.3682(3) 0.3576(2)
+H5 H 0.53690 0.38660 0.44270
+C4 C 0.6210(3) 0.5063(3) 0.2624(2)
+H6 H 0.60570 0.61570 0.28250
+C5 C 0.6867(3) 0.4861(3) 0.1345(2)
+C6 C 0.7077(3) 0.3182(3) 0.1162(2)
+H7 H 0.75540 0.29420 0.03340
+C7 C 0.6594(3) 0.1895(3) 0.2177(2)
+H8 H 0.67270 0.07830 0.20110
+C8 C 0.6858(4) 0.7919(3) 0.0569(3)
+H9 H 0.72100 0.87130 -0.02430
+H10 H 0.76120 0.80150 0.12440
+H11 H 0.54790 0.81960 0.08440
+C9 C 0.7938(3) 0.5957(3) -0.0944(2)
+H12 H 0.81400 0.70590 -0.15140
+H13 H 0.69720 0.54820 -0.12670
+H14 H 0.91580 0.51710 -0.09340
+N1A N 0.3706(3) -0.0926(3) 0.36003(19)
+C1A C 0.2605(3) -0.1199(3) 0.2996(2)
+S1A S 0.10701(9) -0.15954(10) 0.21370(6)
+O1A O 0.7795(2) -0.1737(2) 0.46100(16)
+H1A H 0.85380 -0.14440 0.39210
+C2A C 0.9055(4) -0.2643(4) 0.5561(3)
+H2A H 1.01360 -0.33370 0.51530
+H3A H 0.95520 -0.18280 0.59260
+H4A H 0.83410 -0.33860 0.62570
+N2A N 0.4055(3) -0.2090(2) 0.66046(17)
+N3A N 0.2737(3) -0.6192(2) 0.96348(18)
+C3A C 0.4205(3) -0.3682(3) 0.6424(2)
+H5A H 0.46310 -0.38660 0.55730
+C4A C 0.3790(3) -0.5063(3) 0.7376(2)
+H6A H 0.39430 -0.61570 0.71750
+C5A C 0.3133(3) -0.4861(3) 0.8655(2)
+C6A C 0.2923(3) -0.3182(3) 0.8838(2)
+H7A H 0.24460 -0.29420 0.96660
+C7A C 0.3406(3) -0.1895(3) 0.7823(2)
+H8A H 0.32730 -0.07830 0.79890
+C8A C 0.3142(4) -0.7919(3) 0.9431(3)
+H9A H 0.27900 -0.87130 1.02430
+H10A H 0.23880 -0.80150 0.87560
+H11A H 0.45210 -0.81960 0.91560
+C9A C 0.2062(3) -0.5957(3) 1.0944(2)
+H12A H 0.18600 -0.70590 1.15140
+H13A H 0.30280 -0.54820 1.12670
+H14A H 0.08420 -0.51710 1.09340
+#END

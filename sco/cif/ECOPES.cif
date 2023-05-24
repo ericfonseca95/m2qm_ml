@@ -1,0 +1,122 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_ECOPES
+_audit_creation_date 2006-05-29
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD ECOPES
+_database_code_depnum_ccdc_archive 'CCDC 268049'
+_chemical_formula_sum 'C13 H11 Br1 Cl2 Fe1 N3 O3'
+_chemical_formula_moiety
+;
+C13 H9 Br1 Cl2 Fe1 N3 O2,H2 O1
+;
+_journal_coden_Cambridge 489
+_journal_volume 10
+_journal_year 2005
+_journal_page_first 761
+_journal_name_full 'J.Biol.Inorg.Chem.(JBIC) '
+loop_
+_publ_author_name
+"P.V.Bernhardt"
+"Piao Chin"
+"P.C.Sharpe"
+"Jing-Yan C.Wang"
+"D.R.Richardson"
+_chemical_name_systematic
+;
+(1-(4-bromobenzoyl)-2-picolinoylhydrazinato-N,N',O)-dichloro-iron(iii) 
+monohydrate
+;
+_cell_volume    832.316
+_exptl_crystal_colour 'green'
+_exptl_crystal_density_diffrn 1.851
+_exptl_special_details
+;
+In the paper the space group given is unclear but it should be P-1 as given 
+in CIF
+;
+_exptl_crystal_description 'prism'
+_exptl_crystal_preparation 'methanol/acetone'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0567
+_refine_ls_wR_factor_gt 0.0567
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 7.426(1)
+_cell_length_b 8.7207(8)
+_cell_length_c 13.6510(7)
+_cell_angle_alpha 94.640(8)
+_cell_angle_beta 90.884(9)
+_cell_angle_gamma 109.00(1)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Br 1.21
+Cl 0.99
+Fe 1.34
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 1.1346(19) 0.3492(17) 0.9362(10)
+H1 H 1.09780 0.27490 0.98330
+C2 C 1.2512(19) 0.5045(18) 0.9644(9)
+H2 H 1.29550 0.53280 1.02960
+C3 C 1.3031(17) 0.6182(15) 0.8982(9)
+H3 H 1.37800 0.72500 0.91750
+C4 C 1.2427(16) 0.5706(13) 0.8048(9)
+H4 H 1.27610 0.64480 0.75750
+C5 C 1.1278(14) 0.4077(14) 0.7771(8)
+C6 C 1.0548(17) 0.3506(15) 0.6744(8)
+C7 C 0.7390(16) -0.0346(14) 0.5924(9)
+C8 C 0.6342(17) -0.1360(15) 0.5057(9)
+C9 C 0.6661(16) -0.1005(15) 0.4088(10)
+H5 H 0.75550 -0.00220 0.39570
+C10 C 0.5658(16) -0.2100(15) 0.3308(9)
+H6 H 0.59160 -0.18710 0.26610
+C11 C 0.4291(16) -0.3515(14) 0.3505(8)
+C12 C 0.3901(16) -0.3858(14) 0.4457(9)
+H7 H 0.29430 -0.48030 0.45900
+C13 C 0.4943(17) -0.2788(15) 0.5209(8)
+H8 H 0.46890 -0.30400 0.58520
+N1 N 1.0735(13) 0.3026(12) 0.8443(6)
+N2 N 0.9438(13) 0.1912(11) 0.6715(6)
+N3 N 0.8580(12) 0.1136(12) 0.5834(6)
+H9 H 0.87920 0.15640 0.52830
+O1 O 0.7167(11) -0.0848(9) 0.6762(6)
+O2 O 1.0886(11) 0.4328(9) 0.6046(5)
+O3 O 0.9586(11) 0.2606(8) 0.4036(5)
+H10 H 0.95900 0.21850 0.34500
+H11 H 0.94530 0.35200 0.39640
+Cl1 Cl 1.0465(5) -0.0829(4) 0.8329(2)
+Cl2 Cl 0.6479(5) 0.0682(4) 0.8874(2)
+Fe1 Fe 0.8774(3) 0.0679(2) 0.78879(12)
+Br1 Br 0.3019(2) -0.50538(17) 0.24536(10)
+#END

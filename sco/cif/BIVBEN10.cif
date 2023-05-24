@@ -1,0 +1,126 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_BIVBEN10
+_audit_creation_date 1988-09-21
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD BIVBEN10
+_database_code_depnum_ccdc_archive 'CCDC 1111820'
+_chemical_formula_sum 'C6 H23 Cl2 Co1 N4 O4'
+_chemical_formula_moiety
+;
+C6 H19 Co1 N4 O2 2+,2(Cl1 1-),2(H2 O1)
+;
+_journal_coden_Cambridge 3
+_journal_volume 41
+_journal_year 1987
+_journal_page_first 441
+_journal_name_full 'Acta Chem.Scand. '
+loop_
+_publ_author_name
+"R.Kivekas"
+_chemical_name_systematic
+;
+trans-(1,3-Diamino-2-propanolato-O,N,N')-(1,3-diamino-2-propanol-O,N,N')-cobal
+t(iii) dichloride dihydrate
+;
+_cell_volume   1329.650
+_exptl_crystal_density_diffrn 1.72
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+The alcoholic H-atom is disordered. It has not been retained.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.022
+_refine_ls_wR_factor_gt 0.022
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 -x,y,1/2-z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -1/2-x,-1/2-y,-z
+7 x,-y,-1/2+z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 15.936(3)
+_cell_length_b 8.071(1)
+_cell_length_c 10.727(1)
+_cell_angle_alpha 90
+_cell_angle_beta 105.48(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+Co 1.33
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Co1 Co 0.50000 0.50000 0.50000
+O1 O 0.54688(7) 0.55016(13) 0.35934(10)
+N1 N 0.49323(9) 0.73936(16) 0.52421(13)
+N2 N 0.62104(8) 0.52096(17) 0.60361(12)
+C1 C 0.54563(11) 0.82086(19) 0.44536(16)
+C2 C 0.60236(10) 0.68823(20) 0.40974(14)
+C3 C 0.66929(10) 0.61908(23) 0.52704(16)
+H1 H 0.4421(14) 0.770(3) 0.506(2)
+H2 H 0.5126(13) 0.760(3) 0.607(2)
+H3 H 0.5094(13) 0.867(3) 0.367(2)
+H4 H 0.5778(14) 0.913(3) 0.490(2)
+H5 H 0.6280(11) 0.726(2) 0.344(2)
+H6 H 0.7029(13) 0.708(3) 0.581(2)
+H7 H 0.7082(13) 0.546(3) 0.503(2)
+H8 H 0.6229(13) 0.570(3) 0.674(2)
+H9 H 0.6467(13) 0.429(3) 0.622(2)
+Cl1 Cl 0.69955(3) 0.14049(6) 0.64415(4)
+O2 O 0.38275(10) 0.15044(24) 0.22033(16)
+H10 H 0.3422(21) 0.186(4) 0.182(3)
+H11 H 0.3604(18) 0.071(4) 0.254(3)
+O1D O 0.45312(7) 0.44984(13) 0.64066(10)
+N1D N 0.50677(9) 0.26064(16) 0.47579(13)
+N2D N 0.37896(8) 0.47904(17) 0.39639(12)
+C2D C 0.39764(10) 0.31177(20) 0.59026(14)
+C1D C 0.45437(11) 0.17914(19) 0.55464(16)
+H1D H 0.5579(14) 0.230(3) 0.494(2)
+H2D H 0.4874(13) 0.240(3) 0.393(2)
+C3D C 0.33071(10) 0.38092(23) 0.47296(16)
+H8D H 0.3771(13) 0.430(3) 0.326(2)
+H9D H 0.3533(13) 0.571(3) 0.378(2)
+H5D H 0.3720(11) 0.274(2) 0.656(2)
+H3D H 0.4906(13) 0.133(3) 0.633(2)
+H4D H 0.4222(14) 0.087(3) 0.510(2)
+H6D H 0.2971(13) 0.292(3) 0.419(2)
+H7D H 0.2918(13) 0.454(3) 0.497(2)
+#END

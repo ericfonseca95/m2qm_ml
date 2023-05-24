@@ -1,0 +1,135 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_JEHVAT
+_audit_creation_date 1990-12-10
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD JEHVAT
+_chemical_formula_sum 'C18 H20 Fe1 N2 O3 S2'
+_chemical_formula_moiety
+;
+C14 H12 Fe1 N2 O2 S2,C4 H8 O1
+;
+_journal_coden_Cambridge 155
+_journal_volume 166
+_journal_year 1989
+_journal_page_first 39
+_journal_name_full 'Inorg.Chim.Acta '
+loop_
+_publ_author_name
+"J.Takacs"
+"E.Soos"
+"Z.Nagy-Magos"
+"L.Marko"
+"G.Gervasio"
+"T.Hoffmann"
+_chemical_name_systematic
+;
+cis-Dicarbonyl-bis(o-aminophenylthiolato-N,S)-iron tetrahydrofuran solvate
+;
+_cell_volume    500.861
+_exptl_crystal_colour 'red'
+_exptl_crystal_density_diffrn 1.43
+_exptl_special_details
+;
+Absolute configuration
+y(C3) is 0.2444 not 0.1444
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.03
+_refine_ls_wR_factor_gt 0.03
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P 1'
+_symmetry_Int_Tables_number 1
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+_cell_length_a 5.659(3)
+_cell_length_b 8.960(6)
+_cell_length_c 10.624(6)
+_cell_angle_alpha 105.15(5)
+_cell_angle_beta 103.23(5)
+_cell_angle_gamma 94.35(5)
+_cell_formula_units_Z 1
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Fe 1.34
+N 0.68
+O 0.68
+S 1.02
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe1 Fe 1.00000 0.00000 0.00000
+S1 S 0.68110(19) 0.09337(14) -0.11717(12)
+S2 S 1.32958(19) -0.06886(14) 0.13219(12)
+N1 N 1.2051(7) 0.2046(4) 0.0156(4)
+N2 N 0.9162(7) 0.1038(4) 0.1763(4)
+C1 C 0.8168(8) -0.1773(5) -0.0160(5)
+C2 C 1.0704(9) -0.0935(5) -0.1519(5)
+C3 C 0.8542(8) 0.2444(5) -0.1483(4)
+C4 C 0.7516(9) 0.3225(5) -0.2409(5)
+C5 C 0.8955(6) 0.4390(6) -0.2637(5)
+C6 C 1.1397(10) 0.4792(6) -0.1974(6)
+C7 C 1.2433(8) 0.4042(5) -0.1054(5)
+C8 C 1.1009(7) 0.2865(4) -0.0821(4)
+C9 C 1.2518(7) -0.0121(5) 0.2868(4)
+C10 C 1.3808(8) -0.0465(5) 0.4013(5)
+C11 C 1.3112(10) -0.0045(6) 0.5197(5)
+C12 C 1.1099(10) 0.0738(6) 0.5274(5)
+C13 C 0.9799(9) 0.1090(5) 0.4152(5)
+C14 C 1.0493(7) 0.0672(4) 0.2950(4)
+C15 C 1.1381(20) 0.5153(9) 0.3962(8)
+C16 C 0.9078(23) 0.5795(11) 0.4073(9)
+C17 C 0.8113(16) 0.6202(9) 0.2785(8)
+C18 C 0.9655(15) 0.5409(7) 0.1877(7)
+O1 O 0.7031(7) -0.2937(4) -0.0323(4)
+O2 O 1.1013(8) -0.1577(4) -0.2533(4)
+O3 O 1.1056(9) 0.4449(4) 0.2545(4)
+H1 H 1.37340 0.18720 0.00510
+H2 H 1.24490 0.27780 0.10950
+H3 H 0.73500 0.06960 0.16050
+H4 H 0.91510 0.21850 0.18730
+H5 H 0.56000 0.29170 -0.29450
+H6 H 0.81470 0.49960 -0.33460
+H7 H 1.25060 0.56930 -0.21760
+H8 H 1.43460 0.43690 -0.05150
+H9 H 1.53790 -0.10700 0.39690
+H10 H 1.41330 -0.03280 0.60740
+H11 H 1.05620 0.10700 0.62090
+H12 H 0.82290 0.16940 0.42060
+H13 H 1.16520 0.42880 0.45040
+H14 H 1.29350 0.60720 0.43560
+H15 H 0.77650 0.49360 0.41930
+H16 H 0.94480 0.68280 0.49250
+H17 H 0.61900 0.57470 0.23600
+H18 H 0.83750 0.74510 0.29490
+H19 H 1.08640 0.62800 0.17000
+H20 H 0.84690 0.46970 0.09250
+#END

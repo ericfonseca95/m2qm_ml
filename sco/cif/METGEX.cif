@@ -1,0 +1,149 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_METGEX
+_audit_creation_date 2002-03-06
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD METGEX
+_database_code_depnum_ccdc_archive 'CCDC 177158'
+_chemical_formula_sum 'C7 H18 Cl2 Mn1 N2'
+_chemical_formula_moiety
+;
+C7 H18 Cl2 Mn1 N2
+;
+_journal_coden_Cambridge 155
+_journal_volume 314
+_journal_year 2001
+_journal_page_first 14
+_journal_name_full 'Inorg.Chim.Acta '
+loop_
+_publ_author_name
+"D.A.Handley"
+"P.B.Hitchcock"
+"Ting Huei Lee"
+"G.J.Leigh"
+_chemical_name_systematic
+;
+Dichloro-(1,3-bis(dimethylamino)propane-N,N')-manganese(ii)
+;
+_cell_volume   2401.343
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.417
+_exptl_special_details
+;
+isostructural with the Fe, Co, Co-Br, Ni, Ni-Br and Cu analogues
+
+;
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 173
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0279
+_refine_ls_wR_factor_gt 0.0279
+_symmetry_cell_setting orthorhombic
+_symmetry_space_group_name_H-M 'C m c 21'
+_symmetry_Int_Tables_number 36
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,1/2+z
+3 -x,y,z
+4 x,-y,1/2+z
+5 1/2+x,1/2+y,z
+6 1/2-x,1/2-y,1/2+z
+7 1/2-x,1/2+y,z
+8 1/2+x,1/2-y,1/2+z
+_cell_length_a 9.5984(3)
+_cell_length_b 11.1883(4)
+_cell_length_c 22.3610(6)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+Mn 1.35
+N 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mn1 Mn 0.00000 0.06613(5) 0.129842(19)
+Cl1 Cl 0.00000 0.02132(10) 0.02927(4)
+Cl2 Cl 0.00000 -0.07319(9) 0.20762(4)
+N1 N -0.1738(2) 0.18539(18) 0.15184(10)
+C1 C 0.00000 0.3369(3) 0.19237(17)
+H1 H 0.00000 0.36820 0.15100
+H2 H 0.00000 0.40640 0.21980
+C2 C -0.1339(2) 0.2663(2) 0.20220(11)
+H3 H -0.12330 0.21760 0.23890
+H4 H -0.21100 0.32340 0.20920
+C3 C -0.2182(3) 0.2563(3) 0.09935(12)
+H5 H -0.14010 0.30540 0.08540
+H6 H -0.29610 0.30820 0.11060
+H7 H -0.24770 0.20230 0.06730
+C4 C -0.2949(3) 0.1131(3) 0.17147(13)
+H8 H -0.32310 0.05920 0.13910
+H9 H -0.37260 0.16630 0.18150
+H10 H -0.26920 0.06610 0.20670
+Mn2 Mn 0.00000 0.50753(4) 0.42267(2)
+Cl3 Cl 0.00000 0.46891(10) 0.52400(4)
+Cl4 Cl 0.00000 0.36048(8) 0.34906(4)
+N2 N -0.1731(2) 0.62495(19) 0.39756(9)
+C5 C 0.00000 0.7746(3) 0.35510(18)
+H11 H 0.00000 0.80960 0.39580
+H12 H 0.00000 0.84170 0.32620
+C6 C -0.1344(3) 0.7036(2) 0.34689(12)
+H13 H -0.21160 0.76060 0.33990
+H14 H -0.12520 0.65380 0.31050
+C7 C -0.2174(3) 0.6982(3) 0.45013(13)
+H15 H -0.24300 0.64520 0.48320
+H16 H -0.29790 0.74740 0.43910
+H17 H -0.14050 0.75020 0.46250
+C8 C -0.2939(3) 0.5509(3) 0.37898(13)
+H18 H -0.32150 0.49860 0.41210
+H19 H -0.26790 0.50220 0.34430
+H20 H -0.37200 0.60310 0.36830
+C2B C 0.1339(2) 0.2663(2) 0.20220(11)
+N1B N 0.1738(2) 0.18539(18) 0.15184(10)
+C3B C 0.2182(3) 0.2563(3) 0.09935(12)
+H5B H 0.14010 0.30540 0.08540
+H6B H 0.29610 0.30820 0.11060
+H7B H 0.24770 0.20230 0.06730
+C4B C 0.2949(3) 0.1131(3) 0.17147(13)
+H8B H 0.32310 0.05920 0.13910
+H9B H 0.37260 0.16630 0.18150
+H10B H 0.26920 0.06610 0.20670
+H3B H 0.12330 0.21760 0.23890
+H4B H 0.21100 0.32340 0.20920
+C6B C 0.1344(3) 0.7036(2) 0.34689(12)
+N2B N 0.1731(2) 0.62495(19) 0.39756(9)
+C7B C 0.2174(3) 0.6982(3) 0.45013(13)
+H15B H 0.24300 0.64520 0.48320
+H16B H 0.29790 0.74740 0.43910
+H17B H 0.14050 0.75020 0.46250
+C8B C 0.2939(3) 0.5509(3) 0.37898(13)
+H18B H 0.32150 0.49860 0.41210
+H19B H 0.26790 0.50220 0.34430
+H20B H 0.37200 0.60310 0.36830
+H13B H 0.21160 0.76060 0.33990
+H14B H 0.12520 0.65380 0.31050
+#END

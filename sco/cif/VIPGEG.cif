@@ -1,0 +1,123 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_VIPGEG
+_audit_creation_date 1991-10-31
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD VIPGEG
+_chemical_formula_sum 'C13 H15 Mn1 O3'
+_chemical_formula_moiety
+;
+C13 H15 Mn1 O3
+;
+_journal_coden_Cambridge 4
+_journal_volume 113
+_journal_year 1991
+_journal_page_first 542
+_journal_name_full 'J.Am.Chem.Soc. '
+loop_
+_publ_author_name
+"S.Fortier"
+"M.C.Baird"
+"K.F.Preston"
+"J.R.Morton"
+"T.Ziegler"
+"T.J.Jaeger"
+"W.C.Watkins"
+"J.H.MacNeil"
+"K.A.Watson"
+"K.Hensel"
+"Y.Le Page"
+"J.-P.Charland"
+"A.J.Williams"
+_chemical_name_systematic
+;
+Tricarbonyl-(\h^5^-pentamethyl-cyclopentadienyl)-manganese
+;
+_cell_volume    668.453
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.362
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.05
+_refine_ls_wR_factor_gt 0.05
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/m'
+_symmetry_Int_Tables_number 11
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,-z
+3 -x,-y,-z
+4 x,-1/2-y,z
+_cell_length_a 6.7518(6)
+_cell_length_b 12.978(3)
+_cell_length_c 7.834(2)
+_cell_angle_alpha 90
+_cell_angle_beta 103.15(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Mn 1.35
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mn1 Mn 0.53006(22) 0.75000 0.18889(21)
+O1 O 0.3823(10) 0.5910(6) 0.3899(10)
+O2 O 0.1682(15) 0.75000 -0.0929(12)
+C1 C 0.4385(12) 0.6548(7) 0.3067(12)
+C2 C 0.3136(19) 0.75000 0.0251(15)
+C3 C 0.8480(16) 0.75000 0.3036(16)
+C4 C 0.7999(12) 0.8371(8) 0.1939(15)
+C5 C 0.7210(11) 0.8030(6) 0.0280(12)
+C6 C 0.9483(19) 0.75000 0.4838(20)
+C7 C 0.8400(17) 0.9457(10) 0.2553(25)
+C8 C 0.6626(19) 0.8645(13) -0.1353(18)
+H1 H 1.10900 0.75000 0.52500
+H2 H 0.89300 0.68200 0.53700
+H3 H 1.00100 0.95900 0.27100
+H4 H 0.80300 0.95200 0.38500
+H5 H 0.75100 0.99800 0.16700
+H6 H 0.80000 0.88900 -0.17700
+H7 H 0.58100 0.93200 -0.11100
+H8 H 0.57000 0.81900 -0.23900
+C1C C 0.4385(12) 0.8452(7) 0.3067(12)
+C4C C 0.7999(12) 0.6629(8) 0.1939(15)
+C5C C 0.7210(11) 0.6970(6) 0.0280(12)
+H2C H 0.89300 0.81800 0.53700
+O1C O 0.3823(10) 0.9090(6) 0.3899(10)
+C7C C 0.8400(17) 0.5543(10) 0.2553(25)
+C8C C 0.6626(19) 0.6355(13) -0.1353(18)
+H3C H 1.00100 0.54100 0.27100
+H4C H 0.80300 0.54800 0.38500
+H5C H 0.75100 0.50200 0.16700
+H6C H 0.80000 0.61100 -0.17700
+H7C H 0.58100 0.56800 -0.11100
+H8C H 0.57000 0.68100 -0.23900
+#END

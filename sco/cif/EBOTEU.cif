@@ -1,0 +1,149 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_EBOTEU
+_audit_creation_date 2001-10-02
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD EBOTEU
+_database_code_depnum_ccdc_archive 'CCDC 167364'
+_chemical_formula_sum 'C18 H42 Cr1 Si4'
+_chemical_formula_moiety
+;
+C18 H42 Cr1 Si4
+;
+_journal_coden_Cambridge 4
+_journal_volume 123
+_journal_year 2001
+_journal_page_first 6455
+_journal_name_full 'J.Am.Chem.Soc. '
+loop_
+_publ_author_name
+"J.D.Smith"
+"T.P.Hanusa"
+"V.G.Young Junior"
+_chemical_name_systematic
+;
+bis(\h^3^-1,3-bis(Trimethylsilyl)allyl)-chromium(ii)
+;
+_chemical_melting_point 327.15
+_cell_volume   1341.967
+_exptl_crystal_colour 'red'
+_exptl_crystal_density_diffrn 1.047
+_exptl_special_details
+;
+Melting point range 327.15-329.15K
+air-sensitive
+
+;
+_exptl_crystal_description 'block'
+_exptl_crystal_preparation 'hexane'
+_diffrn_ambient_temperature 173
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.037
+_refine_ls_wR_factor_gt 0.037
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 10.3040(7)
+_cell_length_b 10.9844(8)
+_cell_length_c 12.1807(9)
+_cell_angle_alpha 90.817(1)
+_cell_angle_beta 103.047(1)
+_cell_angle_gamma 91.924(1)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cr 1.35
+Si 1.20
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cr1 Cr 0.62139(3) 0.16372(3) 0.27292(3)
+Si1 Si 0.81687(6) 0.36294(5) 0.11745(5)
+C1 C 0.6635(3) 0.4510(3) 0.0738(5)
+H1 H 0.61670 0.45360 0.13550
+H2 H 0.60500 0.41170 0.00720
+H3 H 0.68770 0.53420 0.05580
+C2 C 0.8939(5) 0.3360(3) -0.0048(3)
+H4 H 0.82870 0.29380 -0.06570
+H5 H 0.97180 0.28580 0.01850
+H6 H 0.92160 0.41430 -0.03150
+C3 C 0.9402(3) 0.4516(3) 0.2267(2)
+H7 H 0.90700 0.45750 0.29590
+H8 H 0.95350 0.53350 0.19950
+H9 H 1.02510 0.41040 0.24250
+C4 C 0.77391(19) 0.21465(18) 0.17287(17)
+H10 H 0.82040 0.19190 0.24570
+C5 C 0.67424(19) 0.13476(18) 0.11000(16)
+H11 H 0.63030 0.15970 0.03710
+C6 C 0.6342(2) 0.02195(18) 0.14538(17)
+H12 H 0.54140 0.00170 0.12430
+Si2 Si 0.74052(6) -0.09385(6) 0.22896(6)
+C7 C 0.8786(3) -0.1315(4) 0.1604(3)
+H13 H 0.93410 -0.19220 0.20470
+H14 H 0.93310 -0.05760 0.15610
+H15 H 0.84140 -0.16440 0.08420
+C8 C 0.8186(4) -0.0482(3) 0.3770(2)
+H16 H 0.74900 -0.02950 0.41700
+H17 H 0.87740 0.02400 0.37800
+H18 H 0.87080 -0.11510 0.41420
+C9 C 0.6289(4) -0.2304(3) 0.2272(5)
+H19 H 0.55460 -0.20930 0.26090
+H20 H 0.67910 -0.29490 0.27060
+H21 H 0.59420 -0.25920 0.14920
+Si3 Si 0.72268(6) 0.36978(6) 0.51941(5)
+C10 C 0.7400(3) 0.5275(3) 0.4702(3)
+H22 H 0.66010 0.57190 0.47380
+H23 H 0.75070 0.52480 0.39230
+H24 H 0.81840 0.56910 0.51860
+C11 C 0.8830(3) 0.2910(3) 0.5368(3)
+H25 H 0.95100 0.33330 0.59560
+H26 H 0.91190 0.29170 0.46550
+H27 H 0.87060 0.20660 0.55860
+C12 C 0.6781(3) 0.3794(4) 0.6592(2)
+H28 H 0.59340 0.42010 0.65130
+H29 H 0.74820 0.42610 0.71250
+H30 H 0.66920 0.29710 0.68740
+C13 C 0.5900(2) 0.2848(2) 0.41504(18)
+H31 H 0.54720 0.32490 0.34880
+C14 C 0.5508(2) 0.1647(2) 0.42986(17)
+H32 H 0.58780 0.12960 0.50030
+C15 C 0.4616(2) 0.0907(2) 0.35001(18)
+H33 H 0.48440 0.00770 0.34760
+Si4 Si 0.30557(6) 0.12998(6) 0.24827(5)
+C16 C 0.2478(3) -0.0074(3) 0.1564(3)
+H34 H 0.16390 0.00900 0.10330
+H35 H 0.23380 -0.07630 0.20320
+H36 H 0.31530 -0.02720 0.11450
+C17 C 0.3255(3) 0.2621(3) 0.1568(3)
+H37 H 0.23990 0.27640 0.10510
+H38 H 0.39200 0.24380 0.11340
+H39 H 0.35500 0.33510 0.20430
+C18 C 0.1747(3) 0.1650(4) 0.3256(3)
+H40 H 0.09290 0.18570 0.27180
+H41 H 0.20540 0.23410 0.37790
+H42 H 0.15670 0.09360 0.36810
+#END

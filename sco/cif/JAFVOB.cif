@@ -1,0 +1,129 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_JAFVOB
+_audit_creation_date 1999-06-30
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD JAFVOB
+_database_code_depnum_ccdc_archive 'CCDC 1181834; CCDC 408465'
+_database_code_depnum_ccdc_fiz 'CSD 408465'
+_chemical_formula_sum 'C6 H26 F8 Mn2 N2 O4'
+_chemical_formula_moiety
+;
+C6 H18 N2 2+,2(H4 F4 Mn1 O2 1-)
+;
+_journal_coden_Cambridge 29
+_journal_volume 624
+_journal_year 1998
+_journal_page_first 1471
+_journal_name_full 'Z.Anorg.Allg.Chem. '
+loop_
+_publ_author_name
+"U.Jacobs"
+"L.Schroder"
+"W.Massa"
+"C.Elias"
+"J.Fuentes"
+"P.Nunez"
+"U.Bentrup"
+_chemical_name_systematic
+;
+N,N,N',N'-Tetramethyl-1,2-ethanediammonium 
+bis(diaqua-tetrafluoro-manganese(iii))
+;
+_cell_volume    832.592
+_exptl_crystal_colour 'red-brown'
+_exptl_crystal_density_diffrn 1.804
+_exptl_crystal_description 'block'
+_exptl_crystal_preparation 'ethanol'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0305
+_refine_ls_wR_factor_gt 0.0305
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21/c'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+_cell_length_a 5.4208(4)
+_cell_length_b 15.9698(15)
+_cell_length_c 9.6774(7)
+_cell_angle_alpha 90
+_cell_angle_beta 96.370(9)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+F 0.64
+Mn 1.35
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mn1 Mn 0.15808(5) 0.18201(2) 0.27733(3)
+F1 F 0.2397(3) 0.28053(8) 0.36694(13)
+F2 F 0.0713(2) 0.08204(8) 0.19050(14)
+F3 F -0.0862(2) 0.23586(8) 0.16090(12)
+F4 F 0.4125(2) 0.12814(9) 0.38267(14)
+O1 O -0.1006(3) 0.15850(11) 0.4374(2)
+O2 O 0.4246(3) 0.20421(15) 0.1264(2)
+H1 H -0.0875(61) 0.1938(13) 0.5035(19)
+H2 H -0.2546(13) 0.1476(19) 0.4214(30)
+H3 H 0.5785(15) 0.2143(23) 0.1459(36)
+H4 H 0.3741(53) 0.2156(17) 0.0422(9)
+N1 N 0.4391(4) -0.03330(11) 0.1822(2)
+C1 C 0.5828(4) -0.01558(13) 0.0629(2)
+C2 C 0.2581(5) -0.1037(2) 0.1553(3)
+C3 C 0.6122(6) -0.0503(2) 0.3099(3)
+H5 H 0.3661(54) 0.0076(18) 0.1956(29)
+H6 H 0.6627(49) -0.0653(16) 0.0416(25)
+H7 H 0.6882(58) 0.0246(17) 0.0948(29)
+H8 H 0.1489(62) -0.1059(19) 0.2353(35)
+H9 H 0.1338(65) -0.0932(21) 0.0693(33)
+H10 H 0.3292(68) -0.1497(25) 0.1348(37)
+H11 H 0.5186(69) -0.0529(21) 0.3801(36)
+H12 H 0.6825(54) -0.1021(19) 0.2988(28)
+H13 H 0.7311(73) -0.0076(23) 0.3250(35)
+C1B C 0.4172(4) 0.01558(13) -0.0629(2)
+N1B N 0.5609(4) 0.03330(11) -0.1822(2)
+C2B C 0.7419(5) 0.1037(2) -0.1553(3)
+H8B H 0.8511(62) 0.1059(19) -0.2353(35)
+H9B H 0.8662(65) 0.0932(21) -0.0693(33)
+H10B H 0.6708(68) 0.1497(25) -0.1348(37)
+C3B C 0.3878(6) 0.0503(2) -0.3099(3)
+H11B H 0.4814(69) 0.0529(21) -0.3801(36)
+H12B H 0.3175(54) 0.1021(19) -0.2988(28)
+H13B H 0.2689(73) 0.0076(23) -0.3250(35)
+H5B H 0.6339(54) -0.0076(18) -0.1956(29)
+H6B H 0.3373(49) 0.0653(16) -0.0416(25)
+H7B H 0.3118(58) -0.0246(17) -0.0948(29)
+#END

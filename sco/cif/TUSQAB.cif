@@ -1,0 +1,123 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_TUSQAB
+_audit_creation_date 2015-10-01
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD TUSQAB
+_database_code_depnum_ccdc_archive 'CCDC 1413370'
+_chemical_formula_sum 'C18 H14 Br2 Co1 N2'
+_chemical_formula_moiety
+;
+C18 H14 Br2 Co1 N2
+;
+_journal_coden_Cambridge 580
+_journal_volume 102
+_journal_year 2015
+_journal_page_first 147
+_journal_name_full 'Polyhedron '
+loop_
+_publ_author_name
+"D.V.Korchagin"
+"G.V.Shilov"
+"S.M.Aldoshin"
+"R.B.Morgunov"
+"A.D.Talantsev"
+"E.A.Yureva"
+_chemical_name_systematic
+;
+dibromo-bis(quinoline)-cobalt(ii)
+;
+_cell_volume    847.525
+_exptl_crystal_colour 'blue'
+_exptl_crystal_density_diffrn 1.869
+_exptl_special_details
+;
+Magnetic properties
+triclinic polymorph
+
+;
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 150
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0304
+_refine_ls_wR_factor_gt 0.0304
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 8.6156(5)
+_cell_length_b 9.5964(6)
+_cell_length_c 11.1442(5)
+_cell_angle_alpha 80.400(4)
+_cell_angle_beta 74.437(4)
+_cell_angle_gamma 73.643(5)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Br 1.21
+Co 1.26
+N 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Br1 Br 0.79782(3) 0.55628(3) 0.40674(2)
+Br2 Br 0.69236(3) 0.85041(3) 0.12245(2)
+Co1 Co 0.58996(4) 0.69441(4) 0.29830(3)
+N1 N 0.5002(2) 0.5515(2) 0.23716(17)
+N2 N 0.4110(2) 0.8241(2) 0.42400(17)
+C1 C 0.3411(3) 0.5538(3) 0.2751(2)
+H1 H 0.27340 0.62200 0.32960
+C2 C 0.2673(3) 0.4598(3) 0.2385(3)
+H2 H 0.15420 0.46570 0.26850
+C3 C 0.3642(3) 0.3602(3) 0.1584(2)
+H3 H 0.31740 0.29760 0.13250
+C4 C 0.5358(3) 0.3516(3) 0.1145(2)
+C5 C 0.6020(3) 0.4497(3) 0.1564(2)
+C6 C 0.7729(3) 0.4430(3) 0.1150(2)
+H4 H 0.81710 0.50760 0.14100
+C7 C 0.8746(3) 0.3412(3) 0.0363(2)
+H5 H 0.98760 0.33710 0.00960
+C8 C 0.8100(4) 0.2430(3) -0.0044(2)
+H6 H 0.88060 0.17400 -0.05720
+C9 C 0.6445(4) 0.2483(3) 0.0332(2)
+H7 H 0.60270 0.18350 0.00510
+C10 C 0.4347(3) 0.8127(3) 0.5390(2)
+H8 H 0.51330 0.73200 0.56340
+C11 C 0.3482(3) 0.9150(3) 0.6251(2)
+H9 H 0.36940 0.90190 0.70430
+C12 C 0.2325(3) 1.0340(3) 0.5913(2)
+H10 H 0.17600 1.10440 0.64650
+C13 C 0.1989(3) 1.0496(3) 0.4721(2)
+C14 C 0.2890(3) 0.9409(3) 0.3902(2)
+C15 C 0.2534(3) 0.9521(3) 0.2716(2)
+H11 H 0.31180 0.88140 0.21700
+C16 C 0.1325(3) 1.0675(3) 0.2377(2)
+H12 H 0.10830 1.07380 0.16030
+C17 C 0.0447(3) 1.1764(3) 0.3180(2)
+H13 H -0.03640 1.25430 0.29310
+C18 C 0.0775(3) 1.1689(3) 0.4321(2)
+H14 H 0.01990 1.24240 0.48410
+#END

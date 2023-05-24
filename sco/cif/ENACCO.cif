@@ -1,0 +1,131 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_ENACCO
+_audit_creation_date 1982-02-03
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD ENACCO
+_database_code_depnum_ccdc_archive 'CCDC 1149629'
+_chemical_formula_sum 'C10 H20 Co1 N2 O11'
+_chemical_formula_moiety
+;
+C10 H16 Co1 N2 O9,2(H2 O1)
+;
+_journal_coden_Cambridge 233
+_journal_volume 26
+_journal_year 1981
+_journal_page_first 1141
+_journal_name_full 'Zh.Neorg.Khim.(Russ.)(Russ.J.Inorg.Chem.) '
+loop_
+_publ_author_name
+"Ya.M.Nesterova"
+"M.A.Porai-Koshits"
+"V.A.Logvinenko"
+_chemical_name_systematic
+;
+Aqua-(ethylenediaminetriacetatoacetic acid)-cobalt(ii) dihydrate
+;
+_cell_volume    771.120
+_exptl_special_details
+;
+H4 and H6 lie on special positions and connect O atoms of neighboring 
+complexes. H1' and H7' have identical coordinates in the paper. H5', H9, H9' 
+were missing from the coordinate table. Coordinates for H1', H5', H9, H9' 
+have been supplied by the author
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.033
+_refine_ls_wR_factor_gt 0.033
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 13.792(6)
+_cell_length_b 7.762(3)
+_cell_length_c 7.435(3)
+_cell_angle_alpha 97.98(2)
+_cell_angle_beta 96.95(2)
+_cell_angle_gamma 79.43(2)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Co 1.41
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Co1 Co 0.24250 0.26150 0.09350
+O1 O 0.10670 0.20960 0.14320
+O2 O 0.03210 0.02060 0.25170
+O3 O 0.34740 0.13810 0.31860
+O4 O 0.47320 -0.08350 0.35490
+O5 O 0.37830 0.32580 0.04230
+O6 O 0.44330 0.46930 -0.13840
+O7 O 0.12230 0.50110 -0.03590
+O8 O 0.01400 0.53740 -0.28220
+O9 O 0.23710 0.47190 0.29830
+N1 N 0.25840 -0.03140 0.03100
+N2 N 0.23710 0.22960 -0.21300
+C1 C 0.23280 -0.07620 -0.16710
+C2 C 0.27470 0.04000 -0.27320
+C3 C 0.18860 -0.08790 0.13810
+C4 C 0.10120 0.05590 0.18000
+C5 C 0.36100 -0.10950 0.09090
+C6 C 0.39410 -0.00700 0.26780
+C7 C 0.30300 0.34350 -0.26140
+C8 C 0.37980 0.37920 -0.10640
+C9 C 0.13520 0.28420 -0.29520
+C10 C 0.08990 0.45310 -0.19050
+H1 H 0.26100 -0.20000 -0.20920
+H2 H 0.15770 -0.06610 -0.18980
+H3 H 0.35250 0.01410 -0.25690
+H4 H 0.26140 0.01320 -0.40720
+H5 H 0.22280 -0.11750 0.25890
+H6 H 0.16000 -0.19240 0.07120
+H7 H 0.36580 -0.24550 0.10200
+H8 H 0.40280 -0.09790 -0.00420
+H9 H 0.34030 0.28370 -0.37910
+H10 H 0.26430 0.45570 -0.27980
+H11 H -0.02820 0.64210 -0.21180
+H12 H 0.10070 0.19820 -0.27870
+H13 H 0.13640 0.29070 -0.43910
+H14 H 0.18110 0.54990 0.33490
+H15 H 0.28360 0.49680 0.35220
+O10 O 0.39590 0.62260 0.51010
+H16 H 0.37650 0.59940 0.36060
+H17 H 0.43900 0.66220 0.48180
+O11 O 0.11230 0.74830 0.46880
+H18 H 0.08300 0.81730 0.41020
+H19 H 0.06400 0.76120 0.54840
+H20? H 0.50000 0.00000 0.50000
+H21? H 0.50000 0.50000 0.00000
+#END

@@ -1,0 +1,133 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_PIYYON
+_audit_creation_date 2014-05-22
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD PIYYON
+_database_code_depnum_ccdc_archive 'CCDC 1004525'
+_chemical_formula_sum 'C16 H24 Cl2 Fe1 N3 P1'
+_chemical_formula_moiety
+;
+C16 H24 Cl2 Fe1 N3 P1
+;
+_journal_coden_Cambridge 1078
+_journal_year 2014
+_journal_name_full 'CSD Communication(Private Communication) '
+loop_
+_publ_author_name
+"K.Mereiter"
+"C.Holzhacker"
+"K.Kirchner"
+_chemical_name_systematic
+;
+dichloro-(P,P-diisopropyl-N-pyridin-2-ylphosphinous amide)-pyridine-iron(ii)
+;
+_chemical_name_common
+;
+dichloro-(N-diisopropylphosphanylpyridin-2-amine)-pyridine-iron(ii)
+;
+_cell_volume    963.565
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.434
+_exptl_special_details
+;
+contribution from Vienna University of Technology, Department of Chemistry, 
+Getreidemarkt 9/164SC, A-1060 Vienna, Austria
+;
+_exptl_crystal_description 'prism'
+_exptl_crystal_preparation 'dichloromethane/diethyl ether'
+_diffrn_ambient_temperature 100
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0287
+_refine_ls_wR_factor_gt 0.0287
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 7.911(2)
+_cell_length_b 8.991(3)
+_cell_length_c 13.914(4)
+_cell_angle_alpha 92.242(6)
+_cell_angle_beta 99.496(6)
+_cell_angle_gamma 98.417(6)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+Fe 1.52
+N 0.68
+P 1.05
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe1 Fe 0.40682(2) 0.299927(19) 0.190525(12)
+Cl1 Cl 0.35735(4) 0.19093(3) 0.03454(2)
+Cl2 Cl 0.65344(4) 0.46319(3) 0.27146(2)
+P1 P 0.15929(4) 0.26733(4) 0.27959(2)
+N1 N 0.26254(13) 0.48482(12) 0.14094(8)
+N2 N 0.03911(13) 0.39136(12) 0.22407(8)
+H1 H -0.06730 0.39110 0.23520
+N3 N 0.52369(14) 0.10457(12) 0.25514(8)
+C1 C 0.10388(15) 0.49335(13) 0.16150(8)
+C2 C 0.00258(16) 0.59957(14) 0.12070(9)
+H2 H -0.10910 0.60370 0.13650
+C3 C 0.06895(17) 0.69711(14) 0.05754(9)
+H3 H 0.00270 0.76890 0.02860
+C4 C 0.23457(17) 0.68999(15) 0.03609(9)
+H4 H 0.28330 0.75700 -0.00670
+C5 C 0.32504(16) 0.58253(14) 0.07904(9)
+H5 H 0.43710 0.57700 0.06430
+C6 C 0.00750(16) 0.08899(14) 0.26429(9)
+H6 H -0.09950 0.10570 0.29000
+C7 C -0.04245(19) 0.04052(16) 0.15546(10)
+H7 H 0.06240 0.03030 0.12850
+H8 H -0.10190 0.11660 0.12140
+H9 H -0.11990 -0.05640 0.14680
+C8 C 0.08935(18) -0.03278(16) 0.32155(11)
+H10 H 0.00880 -0.12800 0.31050
+H11 H 0.11380 -0.00170 0.39140
+H12 H 0.19770 -0.04630 0.29930
+C9 C 0.19636(16) 0.32807(15) 0.41078(9)
+H13 H 0.28040 0.26690 0.44550
+C10 C 0.28340(19) 0.49350(17) 0.42414(11)
+H14 H 0.20200 0.55730 0.39370
+H15 H 0.38690 0.50540 0.39330
+H16 H 0.31690 0.52340 0.49400
+C11 C 0.03353(18) 0.30477(17) 0.45808(10)
+H17 H 0.06290 0.34450 0.52640
+H18 H -0.01180 0.19700 0.45530
+H19 H -0.05470 0.35800 0.42280
+C12 C 0.52660(16) -0.02474(14) 0.20396(9)
+H20 H 0.49230 -0.02990 0.13500
+C13 C 0.57790(19) -0.15176(16) 0.24780(11)
+H21 H 0.58030 -0.24060 0.20910
+C14 C 0.62529(18) -0.14650(16) 0.34836(11)
+H22 H 0.65860 -0.23210 0.37990
+C15 C 0.62321(17) -0.01422(17) 0.40198(10)
+H23 H 0.65540 -0.00720 0.47110
+C16 C 0.57311(16) 0.10856(15) 0.35285(9)
+H24 H 0.57380 0.19960 0.39000
+#END

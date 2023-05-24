@@ -1,0 +1,120 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_EBUFIQ
+_audit_creation_date 2001-10-02
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD EBUFIQ
+_database_code_depnum_ccdc_archive 'CCDC 158000'
+_chemical_formula_sum 'C11 H18 B1 Cr1 N1 O5 Si2'
+_chemical_formula_moiety
+;
+C11 H18 B1 Cr1 N1 O5 Si2
+;
+_journal_coden_Cambridge 179
+_journal_volume 40
+_journal_year 2001
+_journal_page_first 2298
+_journal_name_full 'Angew.Chem.,Int.Ed. '
+loop_
+_publ_author_name
+"H.Braunschweig"
+"M.Colling"
+"C.Kollann"
+"H.G.Stammler"
+"B.Neumann"
+_chemical_name_systematic
+;
+Pentacarbonyl-bis(trimethylsilyl)iminoborylene-chromium
+;
+_cell_volume    909.823
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.326
+_exptl_crystal_description 'plates'
+_diffrn_ambient_temperature 173
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.059
+_refine_ls_wR_factor_gt 0.059
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 9.135(5)
+_cell_length_b 9.201(6)
+_cell_length_c 12.002(8)
+_cell_angle_alpha 109.17(5)
+_cell_angle_beta 97.37(5)
+_cell_angle_gamma 102.18(4)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+B 0.83
+Cr 1.35
+N 0.68
+O 0.68
+Si 1.20
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cr1 Cr 0.42995(9) 0.98172(10) 0.71581(7)
+Si1 Si -0.02989(16) 0.71601(17) 0.74384(14)
+Si2 Si 0.22702(16) 0.54772(16) 0.79457(13)
+B1 B 0.2698(6) 0.8125(7) 0.7351(5)
+N1 N 0.1643(4) 0.7001(4) 0.7535(3)
+O1 O 0.3206(4) 1.2229(4) 0.9025(3)
+O2 O 0.1928(5) 0.9877(5) 0.5150(4)
+O3 O 0.5251(5) 0.7192(5) 0.5341(4)
+O4 O 0.6385(5) 0.9515(5) 0.9209(4)
+O5 O 0.6790(4) 1.2501(5) 0.7021(4)
+C1 C 0.3616(6) 1.1317(6) 0.8316(4)
+C2 C 0.2836(6) 0.9851(6) 0.5892(5)
+C3 C 0.4878(6) 0.8182(6) 0.6011(5)
+C4 C 0.5593(6) 0.9626(6) 0.8419(5)
+C5 C 0.5848(6) 1.1481(6) 0.7043(5)
+C6 C -0.0345(7) 0.9179(7) 0.7474(6)
+H1 H -0.00220 0.93290 0.67620
+H2 H 0.03530 0.99890 0.82070
+H3 H -0.13900 0.92880 0.74710
+C7 C -0.0976(7) 0.6867(8) 0.8757(5)
+H4 H -0.10230 0.57760 0.87140
+H5 H -0.19990 0.70400 0.87540
+H6 H -0.02640 0.76310 0.95010
+C8 C -0.1519(6) 0.5641(7) 0.6000(5)
+H7 H -0.14970 0.45710 0.59770
+H8 H -0.11290 0.58220 0.53200
+H9 H -0.25750 0.57270 0.59430
+C9 C 0.4080(6) 0.5286(6) 0.7443(6)
+H10 H 0.48770 0.62970 0.78590
+H11 H 0.39150 0.50300 0.65690
+H12 H 0.44040 0.44300 0.76350
+C10 C 0.2610(7) 0.6093(7) 0.9614(5)
+H13 H 0.33980 0.71170 0.99900
+H14 H 0.29560 0.52790 0.98540
+H15 H 0.16550 0.62070 0.98800
+C11 C 0.0778(6) 0.3543(6) 0.7194(5)
+H16 H 0.06130 0.32470 0.63160
+H17 H -0.01830 0.36470 0.74520
+H18 H 0.11140 0.27130 0.74170
+#END

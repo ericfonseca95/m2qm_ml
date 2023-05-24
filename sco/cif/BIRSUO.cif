@@ -1,0 +1,108 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_BIRSUO
+_audit_creation_date 1983-04-12
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD BIRSUO
+_database_code_depnum_ccdc_archive 'CCDC 1111549'
+_chemical_formula_sum 'C6 H30 As1 Co1 N6 O7'
+_chemical_formula_moiety
+;
+C6 H24 Co1 N6 3+,As1 O4 3-,3(H2 O1)
+;
+_journal_coden_Cambridge 189
+_journal_volume 11
+_journal_year 1982
+_journal_page_first 829
+_journal_name_full 'Cryst.Struct.Commun. '
+loop_
+_publ_author_name
+"J.Rius"
+"S.Gali"
+_chemical_name_systematic
+;
+tris(Ethylenediamine)-cobalt(iii) arsenate trihydrate
+;
+_cell_volume    783.839
+_exptl_crystal_density_diffrn 1.829
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.084
+_refine_ls_wR_factor_gt 0.084
+_symmetry_cell_setting hexagonal
+_symmetry_space_group_name_H-M 'P -3'
+_symmetry_Int_Tables_number 147
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x-y,z
+3 -x+y,-x,z
+4 -x,-y,-z
+5 y,-x+y,-z
+6 x-y,x,-z
+_cell_length_a 8.723(4)
+_cell_length_b 8.723(4)
+_cell_length_c 11.895(6)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+As 1.21
+Co 1.33
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Co1 Co 0.66670 0.33330 0.31310
+N1 N 0.46680 0.16170 0.22050
+N2 N 0.48400 0.34090 0.40390
+C1 C 0.30830 0.17900 0.24480
+C2 C 0.30660 0.19980 0.36960
+H1 H 0.47500 0.15500 0.14500
+As1 As 0.66670 0.33330 0.70210
+O1 O 0.66670 0.33330 0.84230
+O2 O 0.66410 0.15350 0.65420
+O3 O 0.38570 0.18610 -0.01900
+H2 H 0.40500 0.31500 -0.00500
+H3 H 0.47500 0.15500 -0.06000
+N1A N 0.83830 0.30510 0.22050
+N1B N 0.69490 0.53320 0.22050
+N2A N 0.65910 0.14310 0.40390
+N2B N 0.85690 0.51600 0.40390
+C1A C 0.82100 0.12930 0.24480
+H1A H 0.84500 0.32000 0.14500
+C1B C 0.87070 0.69170 0.24480
+H1B H 0.68000 0.52500 0.14500
+C2A C 0.80020 0.10680 0.36960
+C2B C 0.89320 0.69340 0.36960
+O2A O 0.84650 0.51060 0.65420
+O2B O 0.48940 0.33590 0.65420
+#END

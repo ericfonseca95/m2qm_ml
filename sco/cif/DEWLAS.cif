@@ -1,0 +1,134 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_DEWLAS
+_audit_creation_date 1986-09-02
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD DEWLAS
+_database_code_depnum_ccdc_archive 'CCDC 1139505'
+_chemical_formula_sum 'C9 H27 Br2 Co1 N4 O7'
+_chemical_formula_moiety
+;
+C9 H23 Co1 N4 O5 2+,2(Br1 1-),2(H2 O1)
+;
+_journal_coden_Cambridge 4
+_journal_volume 107
+_journal_year 1985
+_journal_page_first 6231
+_journal_name_full 'J.Am.Chem.Soc. '
+loop_
+_publ_author_name
+"L.R.Gahan"
+"J.M.Harrowfield"
+"A.J.Herlt"
+"L.F.Lindoy"
+"P.O.Whimp"
+"A.M.Sargeson"
+_chemical_name_systematic
+;
+\D(S),\L(R)-bis(Ethylenediamine)-methylmalato-cobalt(iii) dibromide dihydrate
+;
+_cell_volume   1869.059
+_exptl_crystal_colour 'pink'
+_exptl_crystal_density_diffrn 1.84
+_exptl_special_details
+;
+y(C2)=.4781, not .4871
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.054
+_refine_ls_wR_factor_gt 0.054
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C c'
+_symmetry_Int_Tables_number 9
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 x,-y,1/2+z
+4 1/2+x,1/2-y,1/2+z
+_cell_length_a 11.200(4)
+_cell_length_b 19.921(8)
+_cell_length_c 11.043(4)
+_cell_angle_alpha 90
+_cell_angle_beta 130.66(2)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Br 1.21
+Co 1.33
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Co1 Co 0.39975(36) 0.58923(10) 0.38135(33)
+O1 O 0.3419(10) 0.5437(4) 0.4885(10)
+O2 O 0.3006(11) 0.5142(4) 0.2364(11)
+N1 N 0.4684(13) 0.6293(5) 0.2739(12)
+N2 N 0.5914(14) 0.5387(5) 0.4986(14)
+N3 N 0.2064(13) 0.6415(5) 0.2604(13)
+N4 N 0.4860(13) 0.6603(5) 0.5369(12)
+C1 C 0.2529(15) 0.4941(6) 0.4165(16)
+C2 C 0.1956(17) 0.4781(7) 0.2489(16)
+C3 C 0.6248(23) 0.6086(10) 0.3462(25)
+C4 C 0.6586(29) 0.5463(13) 0.4173(36)
+C5 C 0.2357(15) 0.7074(6) 0.3299(17)
+C6 C 0.3578(18) 0.6983(8) 0.5095(18)
+O3 O 0.2002(12) 0.4590(4) 0.4656(11)
+C7 C 0.1946(18) 0.4043(7) 0.2218(17)
+C8 C 0.347(2) 0.3710(7) 0.3504(21)
+O4 O 0.4530(14) 0.3958(5) 0.4741(16)
+O5 O 0.3495(16) 0.3053(6) 0.3190(15)
+C9 C 0.4808(26) 0.2659(9) 0.4491(28)
+H1 H 0.46600 0.67300 0.27900
+H2 H 0.40600 0.61700 0.17500
+H3 H 0.57300 0.49700 0.50100
+H4 H 0.65700 0.55400 0.59500
+H5 H 0.13800 0.62100 0.26100
+H6 H 0.17000 0.64600 0.16300
+H7 H 0.54200 0.68700 0.52800
+H8 H 0.54500 0.64300 0.63100
+H9 H 0.09000 0.49200 0.17000
+H10 H 0.69600 0.64100 0.42400
+H11 H 0.63500 0.60600 0.26700
+H12 H 0.61600 0.51200 0.33900
+H13 H 0.76900 0.54100 0.49300
+H14 H 0.18200 0.72600 0.30200
+H15 H 0.27400 0.73700 0.29400
+H16 H 0.39400 0.74100 0.56100
+H17 H 0.31500 0.67400 0.54800
+H18 H 0.17300 0.39800 0.12400
+H19 H 0.11500 0.38400 0.21700
+Br1 Br 0.60404 0.78667(8) 0.42565
+Br2 Br 0.91288(34) 0.58860(9) 0.25486(32)
+O6 O 0.1961(16) 0.1209(8) 0.8770(15)
+O7 O 0.3855(16) 0.0766(9) 0.8232(21)
+#END

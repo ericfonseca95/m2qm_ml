@@ -1,0 +1,102 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_MBSECR
+_audit_creation_date 1979-03-22
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD MBSECR
+_database_code_depnum_ccdc_archive 'CCDC 1209938'
+_chemical_formula_sum 'C11 H8 Cr1 O4 Se1'
+_chemical_formula_moiety
+;
+C11 H8 Cr1 O4 Se1
+;
+_journal_coeditor_code "IUCr A16677"
+_journal_coden_Cambridge 107
+_journal_volume 34
+_journal_year 1978
+_journal_page_first 3772
+_journal_name_full 'Acta Crystallogr.,Sect.B:Struct.Crystallogr.Cryst.Chem. '
+loop_
+_publ_author_name
+"J.-Y.Saillard"
+"D.Grandjean"
+_chemical_name_systematic
+;
+(1-6-\h^6^-Methylbenzoato)dicarbonyl-selenocarbonyl-chromium
+;
+_cell_volume    625.719
+_exptl_crystal_density_diffrn 1.78
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.108
+_refine_ls_wR_factor_gt 0.108
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 7.259(3)
+_cell_length_b 10.519(7)
+_cell_length_c 8.536(5)
+_cell_angle_alpha 89.50(6)
+_cell_angle_beta 96.00(4)
+_cell_angle_gamma 105.10(6)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cr 1.35
+O 0.68
+Se 1.22
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cr1 Cr -0.01660 0.20850 0.21220
+Se1 Se 0.36230 0.05830 0.28640
+O1 O -0.26240 -0.07000 0.21370
+O2 O 0.01460 0.23430 0.56580
+C1 C -0.17080 0.03750 0.21590
+C2 C -0.00290 0.22370 0.43110
+C3 C 0.17710 0.13300 0.24880
+C4 C -0.03380 0.24770 -0.04760
+C5 C 0.13450 0.32960 0.02860
+C6 C 0.12580 0.41430 0.15260
+C7 C -0.05690 0.41150 0.20060
+C8 C -0.21980 0.32830 0.12530
+C9 C -0.20720 0.24380 0.00150
+C10 C 0.31040 0.50490 0.23230
+O3 O 0.27530 0.57480 0.34440
+O4 O 0.46420 0.50260 0.19480
+C11 C 0.44870 0.67000 0.41930
+H1 H -0.01800 0.19500 -0.13400
+H2 H 0.25300 0.32500 -0.00400
+H3 H -0.06100 0.46400 0.28700
+H4 H -0.34600 0.32600 0.15800
+H5 H -0.33300 0.17700 -0.04300
+#END

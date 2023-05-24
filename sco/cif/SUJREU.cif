@@ -1,0 +1,189 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_SUJREU
+_audit_creation_date 1993-09-30
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD SUJREU
+_chemical_formula_sum 'C39 H54 Fe1 N3 O3'
+_chemical_formula_moiety
+;
+C39 H54 Fe1 N3 O3
+;
+_journal_coden_Cambridge 9
+_journal_volume 32
+_journal_year 1993
+_journal_page_first 508
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"U.Auerbach"
+"T.Weyhermuller"
+"K.Wieghardt"
+"B.Nuber"
+"E.Bill"
+"C.Butzlaff"
+"A.X.Trautwein"
+_chemical_name_systematic
+;
+(1,4,7-tris(5-t-Butyl-2-hydroxybenzyl)-1,4,7-triazacyclononane)-iron(iii)
+;
+_cell_volume   3193.770
+_exptl_crystal_colour 'red'
+_exptl_crystal_density_diffrn 1.04
+_exptl_special_details
+;
+Isostructural with the titanium and chromium analogues
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+There is some disorder of the t-butyl groups.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.066
+_refine_ls_wR_factor_gt 0.066
+_symmetry_cell_setting rhombohedral
+_symmetry_space_group_name_H-M 'R 3'
+_symmetry_Int_Tables_number 146
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/3+x,2/3+y,2/3+z
+3 2/3+x,1/3+y,1/3+z
+4 -y,x-y,z
+5 -x+y,-x,z
+6 1/3-y,2/3+x-y,2/3+z
+7 1/3-x+y,2/3-x,2/3+z
+8 2/3-y,1/3+x-y,1/3+z
+9 2/3-x+y,1/3-x,1/3+z
+_cell_length_a 23.64(2)
+_cell_length_b 23.64(2)
+_cell_length_c 6.599(7)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_formula_units_Z 3
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Fe 1.34
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe1 Fe 1.00000 1.00000 1.00000
+O1 O 0.9196(3) 0.9746(3) 1.1395(8)
+N1 N 0.9432(3) 0.9234(3) 0.7694(10)
+C1 C 0.9144(4) 0.9492(4) 0.6100(11)
+C2 C 0.9902(4) 0.9050(4) 0.6772(12)
+C3 C 0.8911(4) 0.8671(4) 0.8813(13)
+C4 C 0.8386(4) 0.8781(4) 0.9712(13)
+C5 C 0.8573(4) 0.9325(4) 1.1028(12)
+C6 C 0.8074(4) 0.9375(5) 1.1851(13)
+C7 C 0.7423(5) 0.8951(6) 1.1466(15)
+C8 C 0.7243(5) 0.8433(6) 1.0176(17)
+C9 C 0.7729(4) 0.8360(4) 0.9325(15)
+C10 C 0.6544(7) 0.7972(10) 0.9580(32)
+C11 C 0.6439(9) 0.7953(15) 0.7540(28)
+C12 C 0.6101(7) 0.8094(10) 1.0359(38)
+C13 C 0.6337(9) 0.7341(9) 1.0263(45)
+H1 H 0.87050 0.83090 0.78940
+H2 H 0.91120 0.85650 0.98980
+H3 H 0.81820 0.97310 1.27640
+H4 H 0.70950 0.90170 1.20990
+H5 H 0.76100 0.79990 0.84200
+H6 H 0.67440 0.78640 0.68550
+H7 H 0.64980 0.83650 0.70890
+H8 H 0.60020 0.76140 0.72410
+H9 H 0.61410 0.81180 1.18090
+H10 H 0.56730 0.77510 0.99910
+H11 H 0.61690 0.85030 0.98400
+H12 H 0.66300 0.72000 0.97790
+H13 H 0.59050 0.70510 0.97660
+H14 H 0.63330 0.73370 1.17180
+O1C O 1.0254(3) 0.9450(3) 1.1395(8)
+O1D O 1.0550(3) 1.0804(3) 1.1395(8)
+N1C N 1.0766(3) 1.0198(3) 0.7694(10)
+N1D N 0.9802(3) 1.0568(3) 0.7694(10)
+C2D C 0.9148(4) 1.0098(4) 0.6772(12)
+C1C C 1.0508(4) 0.9652(4) 0.6100(11)
+C5C C 1.0675(4) 0.9248(4) 1.1028(12)
+C5D C 1.0752(4) 1.1427(4) 1.1028(12)
+C2C C 1.0950(4) 1.0852(4) 0.6772(12)
+C3C C 1.1329(4) 1.0240(4) 0.8813(13)
+C1D C 1.0348(4) 1.0856(4) 0.6100(11)
+C3D C 0.9760(4) 1.1089(4) 0.8813(13)
+C4C C 1.1219(4) 0.9605(4) 0.9712(13)
+C6C C 1.0625(4) 0.8699(5) 1.1851(13)
+C4D C 1.0395(4) 1.1614(4) 0.9712(13)
+C6D C 1.1301(4) 1.1926(5) 1.1851(13)
+H1C H 1.16910 1.03960 0.78940
+H2C H 1.14350 1.05470 0.98980
+H1D H 0.96040 1.12950 0.78940
+H2D H 0.94530 1.08880 0.98980
+C9C C 1.1640(4) 0.9369(4) 0.9325(15)
+C7C C 1.1049(5) 0.8472(6) 1.1466(15)
+H3C H 1.02690 0.84510 1.27640
+C9D C 1.0631(4) 1.2271(4) 0.9325(15)
+C7D C 1.1528(5) 1.2577(6) 1.1466(15)
+H3D H 1.15490 1.18180 1.27640
+C8C C 1.1567(5) 0.8810(6) 1.0176(17)
+H5C H 1.20010 0.96110 0.84200
+H4C H 1.09830 0.80780 1.20990
+C8D C 1.1190(5) 1.2757(6) 1.0176(17)
+H5D H 1.03890 1.23900 0.84200
+H4D H 1.19220 1.29050 1.20990
+C10C C 1.2028(7) 0.8572(10) 0.9580(32)
+C10D C 1.1428(7) 1.3456(10) 0.9580(32)
+C11C C 1.2047(9) 0.8486(15) 0.7540(28)
+C12C C 1.1906(7) 0.8007(10) 1.0359(38)
+C13C C 1.2659(9) 0.8996(9) 1.0263(45)
+C11D C 1.1514(9) 1.3561(15) 0.7540(28)
+C12D C 1.1993(7) 1.3899(10) 1.0359(38)
+C13D C 1.1004(9) 1.3663(9) 1.0263(45)
+H6C H 1.21360 0.88800 0.68550
+H7C H 1.16350 0.81330 0.70890
+H8C H 1.23860 0.83880 0.72410
+H9C H 1.18820 0.80230 1.18090
+H10C H 1.22490 0.79220 0.99910
+H11C H 1.14970 0.76660 0.98400
+H12C H 1.28000 0.94300 0.97790
+H13C H 1.29490 0.88540 0.97660
+H14C H 1.26630 0.89960 1.17180
+H6D H 1.11200 1.32560 0.68550
+H7D H 1.18670 1.35020 0.70890
+H8D H 1.16120 1.39980 0.72410
+H9D H 1.19770 1.38590 1.18090
+H10D H 1.20780 1.43270 0.99910
+H11D H 1.23340 1.38310 0.98400
+H12D H 1.05700 1.33700 0.97790
+H13D H 1.11460 1.40950 0.97660
+H14D H 1.10040 1.36670 1.17180
+#END

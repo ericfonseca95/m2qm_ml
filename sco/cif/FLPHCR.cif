@@ -1,0 +1,110 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_FLPHCR
+_audit_creation_date 1981-07-07
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD FLPHCR
+_database_code_depnum_ccdc_archive 'CCDC 1157835'
+_chemical_formula_sum 'C10 H8 Cr1 F3 O4 P1'
+_chemical_formula_moiety
+;
+C10 H8 Cr1 F3 O4 P1
+;
+_journal_coden_Cambridge 36
+_journal_volume 204
+_journal_year 1981
+_journal_page_first 197
+_journal_name_full 'J.Organomet.Chem. '
+loop_
+_publ_author_name
+"J.Y.Saillard"
+"D.Grandjean"
+"A.Le Beuze"
+"G.Simonneaux"
+_chemical_name_systematic
+;
+Dicarbonyl-trifluorophosphine-chromium methylbenzoate
+;
+_cell_volume    607.350
+_exptl_crystal_colour 'yellow-orange'
+_exptl_crystal_density_diffrn 1.82
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.067
+_refine_ls_wR_factor_gt 0.067
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 7.172(1)
+_cell_length_b 10.253(2)
+_cell_length_c 8.406(3)
+_cell_angle_alpha 90.31(3)
+_cell_angle_beta 92.64(3)
+_cell_angle_gamma 100.36(2)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cr 1.35
+F 0.64
+O 0.68
+P 1.05
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cr1 Cr 0.33800 0.21610 0.27240
+P1 P 0.06400 0.09360 0.26210
+O1 O 0.49580 -0.02680 0.19550
+O2 O 0.28510 0.27180 -0.07280
+C1 C 0.43640 0.06760 0.22140
+C2 C 0.30790 0.24880 0.06110
+C3 C 0.35570 0.24750 0.53440
+C4 C 0.25340 0.33740 0.46270
+C5 C 0.32310 0.42080 0.34140
+C6 C 0.51220 0.41830 0.28920
+C7 C 0.61080 0.32950 0.36400
+C8 C 0.53540 0.24280 0.48100
+C9 C 0.20740 0.50730 0.26420
+C10 C 0.19340 0.67370 0.07530
+O3 O 0.29340 0.58170 0.15460
+O4 O 0.04360 0.51050 0.29810
+F1 F -0.08990 0.10450 0.37980
+F2 F 0.03490 -0.05960 0.27330
+F3 F -0.07830 0.09370 0.11920
+H1 H 0.30100 0.19500 0.62100
+H2 H 0.11700 0.34000 0.50400
+H3 H 0.58300 0.49200 0.20800
+H4 H 0.74900 0.32600 0.33200
+H5 H 0.60500 0.17700 0.52500
+H6 H 0.12100 0.63200 -0.01200
+H7 H 0.31900 0.71800 0.03400
+H8 H 0.12300 0.71900 0.12900
+#END

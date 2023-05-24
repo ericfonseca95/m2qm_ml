@@ -1,0 +1,131 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_EVIKUR
+_audit_creation_date 2016-09-05
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD EVIKUR
+_database_code_depnum_ccdc_archive 'CCDC 1442010'
+_chemical_formula_sum 'C14 H16 Cl2 Fe1 N3 O2 S1'
+_chemical_formula_moiety
+;
+C13 H12 Cl2 Fe1 N3 O1 S1,C1 H4 O1
+;
+_journal_coden_Cambridge 151
+_journal_volume 59
+_journal_year 2016
+_journal_page_first 7497
+_journal_name_full 'J.Med.Chem. '
+loop_
+_publ_author_name
+"Jinxu Qi"
+"Yi Gou"
+"Yao Zhang"
+"Kun Yang"
+"Shifang Chen"
+"Li Liu"
+"Xiaoyang Wu"
+"Tao Wang"
+"Wei Zhang"
+"Feng Yang"
+_chemical_name_systematic
+;
+dichloro-(2-((2-oxy-1-naphthyl)methylene)-N-methylhydrazinecarbothioamidato)-i
+ron(iii) methanol solvate
+;
+_cell_volume    877.753
+_exptl_crystal_colour 'metallic dark black'
+_exptl_crystal_density_diffrn 1.578
+_exptl_special_details
+;
+antitumour activity
+
+;
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 296.1
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0367
+_refine_ls_wR_factor_gt 0.0367
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 8.2827(19)
+_cell_length_b 10.360(2)
+_cell_length_c 11.007(3)
+_cell_angle_alpha 110.901(3)
+_cell_angle_beta 91.223(3)
+_cell_angle_gamma 94.904(3)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+Fe 1.52
+N 0.68
+O 0.68
+S 1.02
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe1 Fe 0.29484(4) 0.66626(4) 0.22085(3)
+Cl1 Cl 0.11697(9) 0.82195(8) 0.24262(7)
+S1 S 0.19908(9) 0.45556(8) 0.04920(7)
+Cl2 Cl 0.22284(9) 0.56036(8) 0.36519(7)
+O1 O 0.4895(2) 0.7590(2) 0.31312(18)
+N1 N 0.4153(2) 0.6913(2) 0.06008(19)
+N2 N 0.3570(3) 0.6100(2) -0.0650(2)
+H1 H 0.38790 0.63060 -0.13050
+C1 C 0.6158(3) 0.8785(3) 0.1851(2)
+C2 C 0.2521(3) 0.4993(3) -0.0824(3)
+C3 C 0.5943(3) 0.8567(3) 0.3025(3)
+C4 C 0.7337(3) 0.9880(3) 0.1807(3)
+C5 C 0.5319(3) 0.7870(3) 0.0674(2)
+H2 H 0.56280 0.79630 -0.01010
+C6 C 0.8270(3) 1.0698(3) 0.2966(3)
+N3 N 0.1923(3) 0.4223(3) -0.1995(2)
+H3 H 0.12810 0.34990 -0.20650
+C7 C 0.6905(3) 0.9408(3) 0.4161(3)
+H4 H 0.67660 0.92610 0.49390
+C8 C 0.8031(4) 1.0428(3) 0.4119(3)
+H5 H 0.86580 1.09590 0.48710
+C9 C 0.7590(4) 1.0218(3) 0.0691(3)
+H6 H 0.69760 0.97210 -0.00770
+C10 C 0.8737(4) 1.1274(4) 0.0722(3)
+H7 H 0.89080 1.14600 -0.00340
+C11 C 0.9398(4) 1.1796(3) 0.2947(3)
+H8 H 0.99890 1.23460 0.37110
+C12 C 0.9637(4) 1.2064(3) 0.1853(3)
+H9 H 1.04040 1.27760 0.18570
+C13 C 0.2248(4) 0.4480(4) -0.3196(3)
+H10 H 0.14430 0.39420 -0.38660
+H11 H 0.33040 0.42170 -0.34660
+H12 H 0.22110 0.54490 -0.30420
+O2 O 0.4478(3) 0.3125(3) 0.2451(2)
+H13 H 0.41180 0.38790 0.27790
+C14 C 0.4502(6) 0.2466(5) 0.3358(4)
+H14 H 0.45770 0.14920 0.29140
+H15 H 0.35240 0.25950 0.38210
+H16 H 0.54220 0.28590 0.39630
+#END

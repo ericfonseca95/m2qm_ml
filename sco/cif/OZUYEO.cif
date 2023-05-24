@@ -1,0 +1,125 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_OZUYEO
+_audit_creation_date 2011-11-29
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD OZUYEO
+_database_code_depnum_ccdc_archive 'CCDC 849383'
+_chemical_formula_sum 'C13 H14 Mn1 N1 O3'
+_chemical_formula_moiety
+;
+C13 H14 Mn1 N1 O3
+;
+_journal_coden_Cambridge 579
+_journal_volume 30
+_journal_year 2011
+_journal_page_first 4342
+_journal_name_full 'Organometallics '
+loop_
+_publ_author_name
+"E.S.Kelbysheva"
+"M.G.Ezernitskaya"
+"T.V.Strelkova"
+"Y.A.Borisov"
+"A.F.Smol'yakov"
+"Z.A.Starikova"
+"F.M.Dolgushin"
+"A.N.Rodionov"
+"B.V.Lokshin"
+"N.M.Loim"
+_chemical_name_systematic
+;
+(\h^5^,\h^2^-((N-Acetyl-N-allylamino)methyl)cyclopentadienyl)-dicarbonyl-manga
+nese
+;
+_chemical_melting_point 393.15
+_cell_volume   1205.240
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.583
+_exptl_special_details
+;
+Melting point range 393.15-394.15K
+
+;
+_exptl_crystal_description 'plate'
+_diffrn_ambient_temperature 100
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0341
+_refine_ls_wR_factor_gt 0.0341
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2'
+_symmetry_Int_Tables_number 5
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,-z
+_cell_length_a 13.2155(10)
+_cell_length_b 7.4788(5)
+_cell_length_c 13.0612(15)
+_cell_angle_alpha 90
+_cell_angle_beta 110.992(1)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Mn 1.47
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mn1 Mn 0.86507(2) 0.87996(6) 0.66727(2)
+O1 O 0.87090(13) 0.8949(4) 0.44545(13)
+O2 O 0.62981(14) 0.9251(3) 0.56818(15)
+O3 O 1.15353(16) 1.0785(3) 1.02134(16)
+N1 N 1.10075(17) 1.0784(3) 0.83620(17)
+C1 C 1.01389(19) 0.7845(3) 0.7913(2)
+C2 C 0.93034(19) 0.7870(3) 0.8364(2)
+H1 H 0.93160 0.85640 0.90230
+C3 C 0.8477(2) 0.6722(4) 0.7746(2)
+H2 H 0.78000 0.64510 0.78930
+C4 C 0.8766(2) 0.5962(4) 0.6887(2)
+H3 H 0.83470 0.50430 0.63450
+C5 C 0.9802(2) 0.6665(4) 0.6997(2)
+H4 H 1.02350 0.63330 0.65350
+C6 C 0.86930(16) 0.8937(4) 0.53333(17)
+C7 C 0.72265(18) 0.9086(3) 0.60818(18)
+C8 C 0.8582(2) 1.1419(4) 0.7314(2)
+H5 H 0.78960 1.20860 0.69750
+H6 H 0.89000 1.15510 0.81210
+C9 C 0.9310(2) 1.1456(3) 0.6752(2)
+H7 H 0.90150 1.21060 0.60370
+C10 C 1.05260(19) 1.1642(4) 0.7295(2)
+H8 H 1.08670 1.11370 0.67970
+H9 H 1.07060 1.29310 0.73820
+C11 C 1.11836(15) 0.8873(6) 0.83320(17)
+H10 H 1.16170 0.84520 0.90800
+H11 H 1.16050 0.86330 0.78550
+C12 C 1.12014(19) 1.1622(4) 0.9342(2)
+C13 C 1.1023(2) 1.3627(5) 0.9327(2)
+H12 H 1.11050 1.40350 1.00650
+H13 H 1.02920 1.39100 0.88190
+H14 H 1.15580 1.42310 0.90870
+#END

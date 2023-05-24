@@ -1,0 +1,117 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_EQIVOP
+_audit_creation_date 2004-05-05
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD EQIVOP
+_database_code_depnum_ccdc_archive 'CCDC 216349'
+_chemical_formula_sum 'C14 H18 Cl2 Cr1 N2'
+_chemical_formula_moiety
+;
+C14 H18 Cl2 Cr1 N2
+;
+_journal_coden_Cambridge 222
+_journal_year 2003
+_journal_page_first 4612
+_journal_name_full 'Dalton Trans. '
+loop_
+_publ_author_name
+"V.C.Gibson"
+"C.Newton"
+"C.Redshaw"
+"G.A.Solan"
+"A.J.P.White"
+"D.J.Williams"
+_chemical_name_systematic
+;
+trans-Dichloro-bis(2,6-dimethylpyridine)-chromium(ii)
+;
+_cell_volume    385.559
+_exptl_crystal_colour 'purple'
+_exptl_crystal_density_diffrn 1.452
+_exptl_crystal_description 'platy rhomboids'
+_exptl_crystal_preparation 'acetonitrile'
+_diffrn_ambient_temperature 203
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0274
+_refine_ls_wR_factor_gt 0.0274
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 7.712(2)
+_cell_length_b 7.8885(7)
+_cell_length_c 8.0404(13)
+_cell_angle_alpha 116.841(9)
+_cell_angle_beta 112.573(13)
+_cell_angle_gamma 93.814(11)
+_cell_formula_units_Z 1
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+Cr 1.35
+N 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cr1 Cr 0.00000 0.00000 0.50000
+Cl1 Cl 0.11460(7) 0.20444(8) 0.40327(8)
+N1 N 0.2812(2) 0.1037(2) 0.7599(2)
+C1 C 0.4231(3) 0.0184(3) 0.7357(3)
+C2 C 0.6138(3) 0.0975(3) 0.8973(3)
+H1 H 0.7108(3) 0.0368(3) 0.8777(3)
+C3 C 0.6606(3) 0.2655(3) 1.0868(3)
+H2 H 0.7901(3) 0.3221(3) 1.1967(3)
+C4 C 0.5144(3) 0.3493(3) 1.1129(3)
+H3 H 0.5429(3) 0.4626(3) 1.2417(3)
+C5 C 0.3260(3) 0.2653(3) 0.9480(3)
+C6 C 0.3618(3) -0.1664(4) 0.5277(3)
+H4 H 0.4750(3) -0.2127(4) 0.5267(3)
+H5 H 0.3073(3) -0.1376(4) 0.4160(3)
+H6 H 0.2635(3) -0.2683(4) 0.5057(3)
+C7 C 0.1602(3) 0.3465(4) 0.9692(4)
+H7 H 0.2105(3) 0.4664(4) 1.1063(4)
+H8 H 0.0639(3) 0.2485(4) 0.9550(4)
+H9 H 0.0990(3) 0.3773(4) 0.8601(4)
+Cl1A Cl -0.11460(7) -0.20444(8) 0.59673(8)
+N1A N -0.2812(2) -0.1037(2) 0.2401(2)
+C1A C -0.4231(3) -0.0184(3) 0.2643(3)
+C2A C -0.6138(3) -0.0975(3) 0.1027(3)
+H1A H -0.7108(3) -0.0368(3) 0.1223(3)
+C3A C -0.6606(3) -0.2655(3) -0.0868(3)
+H2A H -0.7901(3) -0.3221(3) -0.1967(3)
+C4A C -0.5144(3) -0.3493(3) -0.1129(3)
+H3A H -0.5429(3) -0.4626(3) -0.2417(3)
+C5A C -0.3260(3) -0.2653(3) 0.0520(3)
+C7A C -0.1602(3) -0.3465(4) 0.0308(4)
+H7A H -0.2105(3) -0.4664(4) -0.1063(4)
+H8A H -0.0639(3) -0.2485(4) 0.0450(4)
+H9A H -0.0990(3) -0.3773(4) 0.1399(4)
+C6A C -0.3618(3) 0.1664(4) 0.4723(3)
+H4A H -0.4750(3) 0.2127(4) 0.4733(3)
+H5A H -0.3073(3) 0.1376(4) 0.5840(3)
+H6A H -0.2635(3) 0.2683(4) 0.4943(3)
+#END

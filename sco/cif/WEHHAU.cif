@@ -1,0 +1,111 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_WEHHAU
+_audit_creation_date 2012-11-29
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD WEHHAU
+_database_code_depnum_ccdc_archive 'CCDC 879751'
+_chemical_formula_sum 'C12 H11 Fe1 N1 O5 S1'
+_chemical_formula_moiety
+;
+C12 H11 Fe1 N1 O5 S1
+;
+_journal_coden_Cambridge 9
+_journal_volume 51
+_journal_year 2012
+_journal_page_first 7466
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"Li-Cheng Song"
+"Zhao-Jun Xie"
+"Miao-Miao Wang"
+"Gao-Yu Zhao"
+"Hai-Bin Song"
+_chemical_name_systematic
+;
+ethanethioatato-dicarbonyl-(2-(6-((hydroxy)methyl)pyridin-2-yl)acetyl)-iron
+;
+_cell_volume    661.522
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.693
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 113
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0295
+_refine_ls_wR_factor_gt 0.0295
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 7.732(12)
+_cell_length_b 8.188(12)
+_cell_length_c 10.990(17)
+_cell_angle_alpha 98.916(15)
+_cell_angle_beta 103.93(3)
+_cell_angle_gamma 94.99(3)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Fe 1.42
+N 0.68
+O 0.68
+S 1.02
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe1 Fe 0.16738(4) 0.67968(4) 0.70866(3)
+S1 S 0.34168(6) 0.94137(7) 0.76018(5)
+O1 O 0.33997(18) 0.59302(19) 0.50297(14)
+O2 O 0.02606(18) 0.32591(19) 0.66923(14)
+O3 O 0.1897(2) 0.9733(2) 0.52530(14)
+O4 O -0.06839(15) 0.77783(17) 0.62226(12)
+H1 H -0.09210 0.80010 0.53790
+O5 O 0.49476(16) 0.55861(17) 0.81643(13)
+N1 N 0.06556(19) 0.7399(2) 0.85259(15)
+C1 C 0.2704(2) 0.6308(3) 0.58178(19)
+C2 C 0.0702(3) 0.4670(3) 0.68164(19)
+C3 C 0.3067(3) 1.0312(3) 0.62390(19)
+C4 C 0.4328(3) 1.1863(3) 0.6322(2)
+H2 H 0.53910 1.15490 0.60510
+H3 H 0.46970 1.24700 0.72040
+H4 H 0.37150 1.25760 0.57650
+C5 C -0.1878(3) 0.8073(3) 0.70178(19)
+H5 H -0.29740 0.72500 0.66910
+H6 H -0.22410 0.92010 0.69990
+C6 C -0.0978(2) 0.7931(2) 0.83740(19)
+C7 C -0.1721(3) 0.8265(3) 0.9386(2)
+H7 H -0.28590 0.86580 0.92720
+C8 C -0.0795(3) 0.8022(3) 1.0572(2)
+H8 H -0.13040 0.82290 1.12780
+C9 C 0.0893(3) 0.7471(3) 1.07305(19)
+H9 H 0.15420 0.72930 1.15400
+C10 C 0.1598(2) 0.7192(2) 0.96916(19)
+C11 C 0.3403(2) 0.6646(3) 0.96841(18)
+H10 H 0.35490 0.56640 1.01060
+H11 H 0.43590 0.75540 1.01780
+C12 C 0.3621(3) 0.6197(3) 0.83220(19)
+#END

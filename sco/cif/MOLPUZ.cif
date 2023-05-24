@@ -1,0 +1,125 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_MOLPUZ
+_audit_creation_date 2009-06-23
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD MOLPUZ
+_database_code_depnum_ccdc_archive 'CCDC 679242'
+_chemical_formula_sum 'C7 H20 Cl3 Cr1 N4 O4'
+_chemical_formula_moiety
+;
+C7 H20 Cl2 Cr1 N4 1+,Cl1 O4 1-
+;
+_journal_coden_Cambridge 587
+_journal_volume 29
+_journal_year 2008
+_journal_page_first 1399
+_journal_name_full 'Bull.Korean Chem.Soc. '
+loop_
+_publ_author_name
+"Jong-Ha Choi"
+"Hag-Sung Kim"
+"M.H.Habibi"
+_chemical_name_systematic
+;
+cis-\b-(Dichloro-(1,4,8,11-tetra-azaundecane)-chromium(iii)) perchlorate
+;
+_chemical_name_common
+;
+cis-beta-(Dichloro-(3,7-diazanonane-1,9-diamine)-chromium(iii)) perchlorate
+;
+_cell_volume    744.988
+_exptl_crystal_colour 'violet'
+_exptl_crystal_density_diffrn 1.706
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 150
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.092
+_refine_ls_wR_factor_gt 0.092
+loop_
+_citation_database_id_CSD
+_citation_special_details
+MABBOJ "is a stereoisomer of this entry"
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21'
+_symmetry_Int_Tables_number 4
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,-z
+_cell_length_a 6.4704(13)
+_cell_length_b 11.801(2)
+_cell_length_c 9.778(2)
+_cell_angle_alpha 90
+_cell_angle_beta 93.79(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+Cr 1.35
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cr1 Cr 0.0609(2) 0.23154(13) 0.16563(14)
+Cl1 Cl -0.2494(4) 0.1311(2) 0.1925(3)
+Cl2 Cl -0.1247(4) 0.3904(2) 0.0872(3)
+N1 N 0.2153(15) 0.0897(8) 0.2459(10)
+H1 H 0.16390 0.02520 0.20330
+H2 H 0.35440 0.09480 0.23270
+N2 N 0.0970(15) 0.2864(8) 0.3714(8)
+H3 H -0.03410 0.28220 0.40480
+N3 N 0.3356(13) 0.3130(8) 0.1238(9)
+H4 H 0.44540 0.26830 0.15830
+N4 N 0.0813(13) 0.1702(8) -0.0321(9)
+H5 H 0.06390 0.09290 -0.03270
+H6 H -0.02200 0.20160 -0.08920
+C1 C 0.181(2) 0.0858(10) 0.3974(12)
+H7 H 0.03640 0.06430 0.41200
+H8 H 0.27510 0.02980 0.44430
+C2 C 0.226(2) 0.2022(10) 0.4519(10)
+H9 H 0.19560 0.20590 0.54960
+H10 H 0.37490 0.21990 0.44510
+C3 C 0.170(2) 0.4044(10) 0.3994(11)
+H11 H 0.18640 0.41600 0.49980
+H12 H 0.06370 0.45810 0.36180
+C4 C 0.377(2) 0.4320(11) 0.3378(12)
+H13 H 0.42330 0.50820 0.36930
+H14 H 0.48290 0.37670 0.37320
+C5 C 0.3670(19) 0.4295(9) 0.1799(11)
+H15 H 0.25170 0.47850 0.14380
+H16 H 0.49730 0.46090 0.14790
+C6 C 0.3428(19) 0.3174(10) -0.0298(10)
+H17 H 0.48340 0.33800 -0.05550
+H18 H 0.24320 0.37410 -0.06940
+C7 C 0.2848(18) 0.1988(10) -0.0819(11)
+H19 H 0.27780 0.19730 -0.18340
+H20 H 0.39010 0.14320 -0.04720
+Cl3 Cl 0.2668(4) 0.7792(2) 0.3280(2)
+O1 O 0.0714(15) 0.8374(8) 0.2939(10)
+O2 O 0.4384(14) 0.8574(9) 0.3266(9)
+O3 O 0.2584(13) 0.7273(10) 0.4622(8)
+O4 O 0.2928(14) 0.6913(8) 0.2289(8)
+#END

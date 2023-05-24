@@ -1,0 +1,118 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_VEWVEA
+_audit_creation_date 2013-05-24
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD VEWVEA
+_database_code_depnum_ccdc_archive 'CCDC 865751'
+_chemical_formula_sum 'C16 H12 Fe1 N4'
+_chemical_formula_moiety
+;
+C16 H12 Fe1 N4
+;
+_journal_coden_Cambridge 920
+_journal_volume 8
+_journal_year 2013
+_journal_page_first 465
+_journal_name_full 'Chem.Asian J. '
+loop_
+_publ_author_name
+"Jiri Kulhanek"
+"F.Bures"
+"W.Kuznik"
+"I.V.Kityk"
+"T.Mikysek"
+"A.Ruzicka"
+_chemical_name_systematic
+;
+2-Ferrocenyl-1-methylimidazole-4,5-dicarbonitrile
+;
+_chemical_melting_point 475.15
+_cell_volume    674.721
+_exptl_crystal_colour 'orange'
+_exptl_crystal_density_diffrn 1.556
+_exptl_special_details
+;
+Melting point range 475.15-477.15K
+
+;
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 150
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0309
+_refine_ls_wR_factor_gt 0.0309
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 8.2900(3)
+_cell_length_b 9.3981(5)
+_cell_length_c 9.8950(3)
+_cell_angle_alpha 91.579(4)
+_cell_angle_beta 113.953(3)
+_cell_angle_gamma 104.514(4)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Fe 1.52
+N 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe1 Fe -0.01964(3) -0.27453(3) 0.69821(3)
+N1 N 0.34904(19) 0.12628(17) 0.85332(17)
+N2 N 0.4697(2) -0.02006(18) 0.76567(18)
+C1 C 0.5170(2) 0.3741(2) 0.8301(2)
+N3 N 0.5546(2) 0.50129(19) 0.8431(2)
+C2 C 0.2401(3) -0.2956(2) 0.8041(2)
+H1 H 0.31060 -0.31810 0.75820
+C3 C 0.1083(3) -0.1664(2) 0.9118(2)
+H2 H 0.07760 -0.09010 0.94870
+C4 C 0.3495(2) -0.0159(2) 0.82155(19)
+C5 C 0.1172(3) -0.3993(2) 0.8442(2)
+H3 H 0.09380 -0.50200 0.82950
+C6 C 0.5469(2) 0.1245(2) 0.7599(2)
+C7 C 0.2369(2) -0.1492(2) 0.84637(19)
+C8 C 0.6871(3) 0.1705(2) 0.7083(2)
+N4 N 0.8010(3) 0.2097(2) 0.6699(2)
+C9 C -0.0928(3) -0.2008(3) 0.4952(2)
+H4 H -0.01670 -0.12890 0.46770
+C10 C 0.4750(2) 0.2170(2) 0.81351(19)
+C11 C 0.0364(3) -0.3211(2) 0.9104(2)
+H5 H -0.04920 -0.36360 0.94670
+C12 C -0.2012(3) -0.1717(3) 0.5638(3)
+H6 H -0.21110 -0.07940 0.58950
+C13 C -0.1151(3) -0.3518(3) 0.4749(2)
+H7 H -0.05720 -0.39830 0.43190
+C14 C 0.2418(3) 0.1787(2) 0.9191(3)
+H8 H 0.11290 0.13130 0.86010
+H9 H 0.26580 0.28430 0.92180
+H10 H 0.27650 0.15500 1.01900
+C15 C -0.2394(3) -0.4222(3) 0.5297(3)
+H11 H -0.27910 -0.52400 0.52910
+C16 C -0.2967(3) -0.3149(4) 0.5868(3)
+H12 H -0.37880 -0.33200 0.63050
+#END

@@ -1,0 +1,139 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_PAGYUU
+_audit_creation_date 2017-02-01
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD PAGYUU
+_database_code_depnum_ccdc_archive 'CCDC 1505789'
+_chemical_formula_sum 'C16 H26 Fe1 Ge1 N2 Si2'
+_chemical_formula_moiety
+;
+C16 H26 Fe1 Ge1 N2 Si2
+;
+_journal_coden_Cambridge 1220
+_journal_volume 23
+_journal_year 2017
+_journal_page_first 1187
+_journal_name_full 'Chem.-Eur.J. '
+loop_
+_publ_author_name
+"Jan Oetzel"
+"N.Weyer"
+"C.Bruhn"
+"M.Leibold"
+"B.Gerke"
+"R.Pottgen"
+"M.Maier"
+"R.F.Winter"
+"M.C.Holthausen"
+"Ulrich Siemeling"
+_chemical_name_systematic
+;
+(1,1'-bis((trimethylsilyl)amino)ferrocene)-germanium
+;
+_cell_volume   1970.219
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.453
+_exptl_crystal_description 'plate'
+_diffrn_ambient_temperature 173
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0298
+_refine_ls_wR_factor_gt 0.0298
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,-1/2+z
+7 -1/2-x,-1/2-y,-z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 18.8623(10)
+_cell_length_b 9.8801(7)
+_cell_length_c 11.1408(7)
+_cell_angle_alpha 90
+_cell_angle_beta 108.387(4)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Fe 1.52
+Ge 1.17
+N 0.68
+Si 1.20
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.42133(12) 0.1948(3) 0.2629(2)
+C2 C 0.43823(14) 0.1004(3) 0.3657(2)
+H1 H 0.45650 0.12250 0.45300
+C3 C 0.42299(15) -0.0321(3) 0.3142(3)
+H2 H 0.42980 -0.11390 0.36120
+C4 C 0.39594(15) -0.0212(3) 0.1812(3)
+H3 H 0.38150 -0.09440 0.12330
+C5 C 0.39408(13) 0.1180(3) 0.1488(2)
+H4 H 0.37750 0.15400 0.06550
+C6 C 0.26820(16) 0.4021(3) 0.1446(3)
+H5 H 0.28000 0.45500 0.07890
+H6 H 0.22290 0.43810 0.15800
+H7 H 0.26010 0.30730 0.11790
+C7 C 0.32084(18) 0.3227(3) 0.4194(3)
+H8 H 0.31200 0.22700 0.39650
+H9 H 0.27530 0.36280 0.42850
+H10 H 0.36150 0.33050 0.49970
+C8 C 0.3663(2) 0.5935(3) 0.3396(4)
+H11 H 0.41000 0.59950 0.41570
+H12 H 0.32290 0.63330 0.35670
+H13 H 0.37630 0.64300 0.27040
+N1 N 0.42713(11) 0.3380(2) 0.27349(18)
+Si1 Si 0.34699(4) 0.41316(7) 0.29406(7)
+Fe1 Fe 0.50000 0.06370(5) 0.25000
+Ge1 Ge 0.50000 0.44975(4) 0.25000
+C1A C 0.57867(12) 0.1948(3) 0.2371(2)
+C2A C 0.56177(14) 0.1004(3) 0.1343(2)
+H1A H 0.54350 0.12250 0.04700
+C3A C 0.57701(15) -0.0321(3) 0.1858(3)
+H2A H 0.57020 -0.11390 0.13880
+C4A C 0.60406(15) -0.0212(3) 0.3188(3)
+H3A H 0.61850 -0.09440 0.37670
+C5A C 0.60592(13) 0.1180(3) 0.3512(2)
+H4A H 0.62250 0.15400 0.43450
+C6A C 0.73180(16) 0.4021(3) 0.3554(3)
+H5A H 0.72000 0.45500 0.42110
+H6A H 0.77710 0.43810 0.34200
+H7A H 0.73990 0.30730 0.38210
+C7A C 0.67916(18) 0.3227(3) 0.0806(3)
+H8A H 0.68800 0.22700 0.10350
+H9A H 0.72470 0.36280 0.07150
+H10A H 0.63850 0.33050 0.00030
+C8A C 0.6337(2) 0.5935(3) 0.1604(4)
+H11A H 0.59000 0.59950 0.08430
+H12A H 0.67710 0.63330 0.14330
+H13A H 0.62370 0.64300 0.22960
+N1A N 0.57287(11) 0.3380(2) 0.22651(18)
+Si1A Si 0.65301(4) 0.41316(7) 0.20594(7)
+#END

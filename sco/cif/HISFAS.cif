@@ -1,0 +1,117 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_HISFAS
+_audit_creation_date 2013-11-19
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD HISFAS
+_database_code_depnum_ccdc_archive 'CCDC 971855'
+_chemical_formula_sum 'C14 H13 Fe1 N1 O1'
+_chemical_formula_moiety
+;
+C14 H13 Fe1 N1 O1
+;
+_journal_coeditor_code "IUCr zq2212"
+_journal_coden_Cambridge 1370
+_journal_volume 69
+_journal_year 2013
+_journal_page_first m669
+_journal_name_full 'Acta Crystallogr.,Sect.E:Struct.Rep.Online '
+loop_
+_publ_author_name
+"S.Selvanayagam"
+"K.Ravikumar"
+"S.Kathiravan"
+"R.Raghunathan"
+_chemical_name_systematic
+;
+2-((ferrocen-1-yl)(hydroxy)methyl)prop-2-enenitrile
+;
+_cell_volume    587.237
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.511
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 292
+_refine_special_details
+;
+O1 and O1' disordered over two sites with occupancies 0.744:0.256.
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0413
+_refine_ls_wR_factor_gt 0.0413
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 7.4317(15)
+_cell_length_b 8.0137(16)
+_cell_length_c 10.083(2)
+_cell_angle_alpha 92.09(3)
+_cell_angle_beta 93.81(3)
+_cell_angle_gamma 101.09(3)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Fe 1.52
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe1 Fe 0.12344(3) 0.78280(3) 0.68844(3)
+O1 O 0.1780(3) 1.2232(3) 0.8242(3)
+H1 H 0.08080 1.15760 0.83340
+N1 N 0.7948(3) 1.1554(3) 0.8583(3)
+C1 C -0.0590(3) 0.7684(3) 0.8309(2)
+H2 H -0.05330 0.84940 0.90700
+C2 C -0.1490(3) 0.7765(3) 0.7047(3)
+H3 H -0.21690 0.86430 0.67700
+C3 C -0.1239(4) 0.6360(4) 0.6253(3)
+H4 H -0.17110 0.60940 0.53230
+C4 C -0.0192(4) 0.5410(3) 0.7013(3)
+H5 H 0.01910 0.43640 0.67130
+C5 C 0.0208(4) 0.6227(3) 0.8283(3)
+H6 H 0.09250 0.58500 0.90250
+C6 C 0.3135(3) 0.9999(3) 0.7279(2)
+C7 C 0.2271(3) 0.9998(3) 0.5987(2)
+H7 H 0.15740 1.08400 0.56590
+C8 C 0.2586(4) 0.8557(4) 0.5254(3)
+H8 H 0.21320 0.82250 0.43290
+C9 C 0.3633(4) 0.7675(4) 0.6070(3)
+H9 H 0.40430 0.66250 0.58170
+C10 C 0.3985(3) 0.8559(3) 0.7331(3)
+H10 H 0.46850 0.82320 0.81040
+C11 C 0.3231(3) 1.1352(3) 0.8366(2)
+H11 H 0.32180 1.08220 0.92270
+C12 C 0.4964(3) 1.2685(3) 0.8351(2)
+C13 C 0.6643(3) 1.2065(3) 0.8478(2)
+C14 C 0.5015(4) 1.4309(4) 0.8248(4)
+H12 H 0.61410 1.50580 0.82570
+H13 H 0.39270 1.47190 0.81650
+O2? O 0.3410(9) 1.0729(9) 0.9630(6)
+H14? H 0.42040 1.01450 0.96530
+H15? H 0.21470 1.18800 0.82760
+#END

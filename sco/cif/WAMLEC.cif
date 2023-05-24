@@ -1,0 +1,119 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_WAMLEC
+_audit_creation_date 2005-09-01
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD WAMLEC
+_database_code_depnum_ccdc_archive 'CCDC 261539'
+_chemical_formula_sum 'C12 H20 Mn1 N6 O8 S2'
+_chemical_formula_moiety
+;
+C2 H8 Mn1 N2 O4 S2,2(C5 H6 N2 O2)
+;
+_journal_coeditor_code "IUCr CV6483"
+_journal_coden_Cambridge 1370
+_journal_volume 61
+_journal_year 2005
+_journal_page_first m854
+_journal_name_full 'Acta Crystallogr.,Sect.E:Struct.Rep.Online '
+loop_
+_publ_author_name
+"Xu Wen"
+"Jing Min Shi"
+"Zhang Xia"
+_chemical_name_systematic
+;
+Tetra-aqua-bis(isothiocyanato)-manganese(ii) bis(2-methylpyrazine-1,4-dioxide)
+;
+_cell_volume   1092.726
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.506
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.035
+_refine_ls_wR_factor_gt 0.035
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/m'
+_symmetry_Int_Tables_number 12
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2+y,z
+3 -x,y,-z
+4 1/2-x,1/2+y,-z
+5 -x,-y,-z
+6 -1/2-x,-1/2-y,-z
+7 x,-y,z
+8 -1/2+x,-1/2-y,z
+_cell_length_a 17.027(6)
+_cell_length_b 6.828(3)
+_cell_length_c 10.126(4)
+_cell_angle_alpha 90
+_cell_angle_beta 111.844(4)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Mn 1.35
+N 0.68
+O 0.68
+S 1.02
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mn1 Mn 0.00000 0.00000 0.00000
+S1 S 0.30988(5) 0.00000 0.25895(8)
+O1 O 0.08661(12) 0.50000 0.2745(2)
+O2 O 0.39904(12) 0.50000 0.2718(2)
+O3 O 0.02988(8) 0.23135(19) -0.12391(14)
+H1 H 0.05670 0.18460 -0.16890
+N1 N 0.13467(17) 0.00000 0.1344(3)
+N2 N 0.16342(13) 0.50000 0.2711(2)
+N3 N 0.32236(14) 0.50000 0.2712(2)
+C1 C 0.25567(19) 0.50000 0.1496(3)
+H2 H 0.26420 0.50000 0.06410
+C2 C 0.20717(18) 0.00000 0.1864(3)
+C3 C 0.3880(2) 0.50000 0.5300(3)
+H3 H 0.41930 0.38410 0.52360
+H4 H 0.37990 0.50000 0.61510
+C4 C 0.31129(17) 0.50000 0.3967(3)
+C5 C 0.23007(16) 0.50000 0.3933(3)
+H5 H 0.22130 0.50000 0.47860
+C6 C 0.17508(18) 0.50000 0.1471(3)
+H6 H 0.12900 0.50000 0.06110
+H7 H -0.01110 0.30800 -0.17970
+S1D S -0.30988(5) 0.00000 -0.25895(8)
+O3F O 0.02988(8) -0.23135(19) -0.12391(14)
+O3D O -0.02988(8) -0.23135(19) 0.12391(14)
+O3B O -0.02988(8) 0.23135(19) 0.12391(14)
+H1F H 0.05670 -0.18460 -0.16890
+H1D H -0.05670 -0.18460 0.16890
+H1B H -0.05670 0.18460 0.16890
+N1D N -0.13467(17) 0.00000 -0.1344(3)
+C2D C -0.20717(18) 0.00000 -0.1864(3)
+H3F H 0.41930 0.61590 0.52360
+H7F H -0.01110 -0.30800 -0.17970
+H7D H 0.01110 -0.30800 0.17970
+H7B H 0.01110 0.30800 0.17970
+#END

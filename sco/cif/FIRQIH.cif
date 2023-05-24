@@ -1,0 +1,133 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_FIRQIH
+_audit_creation_date 2005-06-08
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD FIRQIH
+_database_code_depnum_ccdc_archive 'CCDC 241329'
+_database_code_depnum_ccdc_journal 1267/1355
+_chemical_formula_sum 'C6 H24 Co1 F6 Ga1 N6'
+_chemical_formula_moiety
+;
+C6 H24 Co1 N6 3+,F6 Ga1 3-
+;
+_journal_coden_Cambridge 1267
+_journal_volume 219
+_journal_year 2004
+_journal_page_first 469
+_journal_name_full 'Z.Kristallogr.-New Cryst.Struct. '
+loop_
+_publ_author_name
+"T.Loiseau"
+"F.Serpaggi"
+"G.Ferey"
+_chemical_name_systematic
+;
+tris(Ethylendiamine-N,N')-cobalt(iii) hexafluoro-gallate
+;
+_cell_volume    663.522
+_exptl_crystal_colour 'orange'
+_exptl_crystal_density_diffrn 2.117
+_exptl_crystal_description 'needle'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0227
+_refine_ls_wR_factor_gt 0.0227
+_symmetry_cell_setting hexagonal
+_symmetry_space_group_name_H-M 'P 63 2 2'
+_symmetry_Int_Tables_number 182
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x-y,z
+3 -x+y,-x,z
+4 -x,-y,1/2+z
+5 y,-x+y,1/2+z
+6 x-y,x,1/2+z
+7 y,x,-z
+8 x-y,-y,-z
+9 -x,-x+y,-z
+10 -y,-x,1/2-z
+11 -x+y,y,1/2-z
+12 x,x-y,1/2-z
+_cell_length_a 8.9594(1)
+_cell_length_b 8.9594(1)
+_cell_length_c 9.5448(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Co 1.33
+F 0.64
+Ga 1.22
+N 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ga1 Ga 0.66670 0.33330 0.75000
+F1 F 0.66169(14) 0.50098(14) 0.63278(10)
+Co1 Co 0.33330 0.66670 0.75000
+N1 N 0.32559(17) 0.48103(17) 0.63412(13)
+H1 H 0.31980 0.50340 0.54300
+H2 H 0.42240 0.47600 0.64730
+C1 C 0.17272(17) 0.31250(16) 0.67226(14)
+H3 H 0.19400 0.21920 0.64960
+H4 H 0.07270 0.29560 0.61980
+F1A F 0.49902(14) 0.16071(14) 0.63278(10)
+F1B F 0.83929(14) 0.33831(14) 0.63278(10)
+F1I F 0.49902(14) 0.33831(14) 0.86722(10)
+F1J F 0.83929(14) 0.50098(14) 0.86722(10)
+F1K F 0.66169(14) 0.16071(14) 0.86722(10)
+N1J N 0.15544(17) 0.48103(17) 0.86588(13)
+N1A N 0.51897(17) 0.84456(17) 0.63412(13)
+N1I N 0.51897(17) 0.67441(17) 0.86588(13)
+N1B N 0.15544(17) 0.67441(17) 0.63412(13)
+N1K N 0.32559(17) 0.84456(17) 0.86588(13)
+H1A H 0.49660 0.81640 0.54300
+H1B H 0.18360 0.68020 0.54300
+H1K H 0.31980 0.81640 0.95700
+H1I H 0.49660 0.68020 0.95700
+H1J H 0.18360 0.50340 0.95700
+H2A H 0.52400 0.94640 0.64730
+H2B H 0.05360 0.57760 0.64730
+H2K H 0.42240 0.94640 0.85270
+H2I H 0.52400 0.57760 0.85270
+H2J H 0.05360 0.47600 0.85270
+C1J C 0.13978(17) 0.31250(16) 0.82774(14)
+C1A C 0.68750(17) 0.86022(16) 0.67226(14)
+C1I C 0.68750(17) 0.82728(16) 0.82774(14)
+C1B C 0.13978(17) 0.82728(16) 0.67226(14)
+C1K C 0.17272(17) 0.86022(16) 0.82774(14)
+H3K H 0.19400 0.97480 0.85040
+H3B H 0.02520 0.80600 0.64960
+H3I H 0.78080 0.80600 0.85040
+H3A H 0.78080 0.97480 0.64960
+H3J H 0.02520 0.21920 0.85040
+H4K H 0.07270 0.77710 0.88020
+H4B H 0.22290 0.92730 0.61980
+H4I H 0.70440 0.92730 0.88020
+H4A H 0.70440 0.77710 0.61980
+H4J H 0.22290 0.29560 0.88020
+#END

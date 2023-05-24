@@ -1,0 +1,121 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_PIWKEN
+_audit_creation_date 2013-12-12
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD PIWKEN
+_database_code_depnum_ccdc_archive 'CCDC 976869; CCDC 424300'
+_chemical_formula_sum 'H26 B10 Mn1 O8'
+_chemical_formula_moiety
+;
+H10 B10 2-,H12 Mn1 O6 2+,2(H2 O1)
+;
+_journal_coden_Cambridge 643
+_journal_volume 228
+_journal_year 2013
+_journal_page_first 558
+_journal_name_full 'Z.Krist.Cryst.Mater. '
+loop_
+_publ_author_name
+"L.W.Zimmermann"
+"T.Schleid"
+_chemical_name_systematic
+;
+hexa-aqua-manganese(ii) closo-decaborate dihydrate
+;
+_cell_volume   1532.099
+_exptl_crystal_density_diffrn 1.375
+_diffrn_ambient_temperature 100
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0235
+_refine_ls_wR_factor_gt 0.0235
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C 2/c'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2+y,1/2-z
+5 -x,-y,-z
+6 x,-y,-1/2+z
+7 -1/2-x,-1/2-y,-z
+8 -1/2+x,-1/2-y,-1/2+z
+_cell_length_a 12.9456(6)
+_cell_length_b 6.5528(3)
+_cell_length_c 18.6380(9)
+_cell_angle_alpha 90
+_cell_angle_beta 104.296(3)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+H 0.23
+B 0.83
+Mn 1.61
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mn1 Mn 0.25000 0.25000 0.00000
+O1 O 0.39492(7) 0.42379(14) 0.04543(5)
+H1 H 0.3931(14) 0.514(3) 0.0756(11)
+H2 H 0.4552(14) 0.381(3) 0.0557(11)
+O2 O 0.23015(7) 0.17118(14) 0.11234(5)
+H3 H 0.1881(14) 0.226(3) 0.1300(11)
+H4 H 0.2871(14) 0.154(3) 0.1463(11)
+O3 O 0.34177(7) -0.02071(14) 0.00822(5)
+H5 H 0.3780(14) -0.059(3) 0.0486(11)
+H6 H 0.3531(14) -0.095(3) -0.0244(11)
+B1 B 0.01958(9) 0.3317(2) 0.15471(7)
+H7 H 0.0288(11) 0.329(2) 0.0983(8)
+B2 B 0.04746(9) 0.1484(2) 0.22132(7)
+H8 H 0.0811(11) 0.002(2) 0.2116(8)
+B3 B 0.10310(9) 0.4093(2) 0.23588(7)
+H9 H 0.1830(11) 0.477(2) 0.2368(8)
+B4 B -0.03089(9) 0.5160(2) 0.20099(7)
+H10 H -0.0577(11) 0.660(2) 0.1739(8)
+B5 B 0.08700(9) 0.2561(2) 0.31345(7)
+H11 H 0.1602(11) 0.194(2) 0.3529(8)
+O4 O 0.39432(7) 0.27351(14) 0.40979(5)
+H12 H 0.3617(14) 0.367(3) 0.4027(11)
+H13 H 0.3903(14) 0.222(3) 0.3684(11)
+O1F O 0.10508(7) 0.07621(14) -0.04543(5)
+H1F H 0.1069(14) -0.014(3) -0.0756(11)
+H2F H 0.0448(14) 0.119(3) -0.0557(11)
+O2F O 0.26985(7) 0.32882(14) -0.11234(5)
+H3F H 0.3119(14) 0.274(3) -0.1300(11)
+H4F H 0.2129(14) 0.346(3) -0.1463(11)
+O3F O 0.15823(7) 0.52071(14) -0.00822(5)
+H5F H 0.1220(14) 0.559(3) -0.0486(11)
+H6F H 0.1469(14) 0.595(3) 0.0244(11)
+B1A B -0.01958(9) 0.3317(2) 0.34529(7)
+H7A H -0.0288(11) 0.329(2) 0.4017(8)
+B2A B -0.04746(9) 0.1484(2) 0.27868(7)
+H8A H -0.0811(11) 0.002(2) 0.2884(8)
+B3A B -0.10310(9) 0.4093(2) 0.26412(7)
+H9A H -0.1830(11) 0.477(2) 0.2632(8)
+B5A B -0.08700(9) 0.2561(2) 0.18655(7)
+H11A H -0.1602(11) 0.194(2) 0.1471(8)
+B4A B 0.03089(9) 0.5160(2) 0.29901(7)
+H10A H 0.0577(11) 0.660(2) 0.3261(8)
+#END

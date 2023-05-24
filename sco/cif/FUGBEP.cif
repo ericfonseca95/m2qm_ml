@@ -1,0 +1,122 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_FUGBEP
+_audit_creation_date 2010-01-11
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD FUGBEP
+_database_code_depnum_ccdc_archive 'CCDC 754100'
+_chemical_formula_sum 'C18 H10 Cr1 O5'
+_chemical_formula_moiety
+;
+C18 H10 Cr1 O5
+;
+_journal_coeditor_code "IUCr NG2657"
+_journal_coden_Cambridge 1370
+_journal_volume 65
+_journal_year 2009
+_journal_page_first m1346
+_journal_name_full 'Acta Crystallogr.,Sect.E:Struct.Rep.Online '
+loop_
+_publ_author_name
+"J.H.van Tonder"
+"B.C.B.Bezuidenhoudt"
+"J.M.J.van Rensburg"
+_chemical_name_systematic
+;
+(\h^6^-Flavone)-tricarbonyl-chromium(0)
+;
+_chemical_name_common
+;
+(eta$6!-2-Phenyl-4H-chromen-4-one)-tricarbonyl-chromium(0)
+;
+_chemical_melting_point 433.75
+_cell_volume    747.807
+_exptl_crystal_colour 'orange'
+_exptl_crystal_density_diffrn 1.591
+_exptl_crystal_description 'irregular'
+_exptl_crystal_preparation 'diethyl ether'
+_diffrn_ambient_temperature 173
+_refine_special_details
+;
+The authors state slight molecular disorder is displayed by the dihedral 
+angle between the gamma-pyrone and the phenyl ring.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0366
+_refine_ls_wR_factor_gt 0.0366
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 7.2853(2)
+_cell_length_b 9.6427(3)
+_cell_length_c 11.6466(4)
+_cell_angle_alpha 78.545(1)
+_cell_angle_beta 79.554(1)
+_cell_angle_gamma 70.005(1)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cr 1.39
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cr1 Cr 0.44722(4) 0.35008(3) 0.85182(3)
+O1 O 0.6342(2) 0.24078(16) 0.52790(12)
+O2 O 1.1793(2) 0.29078(17) 0.44675(15)
+O3 O 0.2698(2) 0.3373(2) 1.10514(14)
+C1 C 0.6832(3) 0.3367(2) 0.57827(16)
+C2 C 0.8617(3) 0.3562(2) 0.55295(18)
+H1 H 0.88790 0.42470 0.59100
+C3 C 0.9548(3) 0.1789(2) 0.41199(17)
+C4 C 0.3382(3) 0.3412(2) 1.00763(19)
+O4 O 0.4968(3) 0.02553(19) 0.86574(17)
+C5 C 0.7671(3) 0.1667(2) 0.44291(18)
+C6 C 0.6912(3) 0.2990(2) 0.90154(18)
+O5 O 0.8445(2) 0.26801(19) 0.93196(16)
+C7 C 1.0793(3) 0.1028(2) 0.32237(19)
+H2 H 1.20830 0.10970 0.29990
+C8 C 0.5336(3) 0.5228(2) 0.72042(18)
+H3 H 0.65300 0.54610 0.70820
+C9 C 0.5171(3) 0.4148(2) 0.65939(17)
+C10 C 1.0145(3) 0.2762(2) 0.46978(17)
+C11 C 0.3370(3) 0.3817(2) 0.68058(18)
+H4 H 0.32260 0.30990 0.64060
+C12 C 0.4775(3) 0.1501(2) 0.86148(18)
+C13 C 0.3758(3) 0.5956(2) 0.79855(19)
+H5 H 0.38720 0.67000 0.83690
+C14 C 0.7000(4) 0.0807(2) 0.3874(2)
+H6 H 0.57120 0.07330 0.40940
+C15 C 0.2009(3) 0.5587(3) 0.8202(2)
+H7 H 0.09640 0.60490 0.87600
+C16 C 0.1799(3) 0.4541(3) 0.7601(2)
+H8 H 0.05970 0.43190 0.77280
+C17 C 0.8262(4) 0.0070(3) 0.3002(2)
+H9 H 0.78390 -0.05280 0.26170
+C18 C 1.0148(4) 0.0180(2) 0.2667(2)
+H10 H 1.09900 -0.03320 0.20550
+#END

@@ -1,0 +1,98 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_TALYIO
+_audit_creation_date 1992-02-25
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD TALYIO
+_database_code_depnum_ccdc_fiz 'CSD 55146'
+_chemical_formula_sum 'C9 H6 Cr1 O3'
+_chemical_formula_moiety
+;
+C9 H6 Cr1 O3
+;
+_journal_coden_Cambridge 179
+_journal_volume 30
+_journal_year 1991
+_journal_page_first 870
+_journal_name_full 'Angew.Chem.,Int.Ed. '
+loop_
+_publ_author_name
+"D.Rau"
+"U.Behrens"
+_chemical_name_systematic
+;
+(\h^6^-3,4-Dimethylenecyclobutene)-tricarbonyl-chromium(0)
+;
+_cell_volume    445.565
+_exptl_crystal_colour 'orange'
+_exptl_crystal_density_diffrn 1.596
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.032
+_refine_ls_wR_factor_gt 0.032
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 6.355(1)
+_cell_length_b 7.255(1)
+_cell_length_c 9.940(2)
+_cell_angle_alpha 86.74(1)
+_cell_angle_beta 81.40(1)
+_cell_angle_gamma 79.66(1)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cr 1.35
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cr1 Cr 0.23567(5) 0.80944(4) 0.75207(3)
+C1 C 0.1520(4) 0.7293(3) 0.9661(2)
+C2 C -0.0354(4) 0.7596(4) 0.9049(3)
+C3 C 0.0522(4) 0.6071(3) 0.8104(3)
+C4 C 0.2519(4) 0.5758(3) 0.8763(2)
+C5 C 0.4587(5) 0.5357(3) 0.8089(3)
+C6 C 0.0467(5) 0.6015(4) 0.6734(3)
+C7 C 0.3964(4) 0.9706(3) 0.8095(2)
+O1 O 0.4925(3) 1.0742(3) 0.8464(2)
+C8 C 0.4129(4) 0.7832(3) 0.5837(2)
+O2 O 0.5244(3) 0.7628(3) 0.4825(2)
+C9 C 0.0568(4) 1.0190(3) 0.6895(2)
+O3 O -0.0528(3) 1.1498(3) 0.6526(2)
+H1 H 0.193(4) 0.784(3) 1.042(2)
+H2 H -0.172(2) 0.843(3) 0.917(3)
+H3 H 0.491(4) 0.456(3) 0.732(2)
+H4 H 0.570(3) 0.565(4) 0.855(3)
+H5 H 0.147(3) 0.508(3) 0.621(2)
+H6 H -0.081(3) 0.668(4) 0.640(3)
+#END

@@ -1,0 +1,144 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_HUKSUB
+_audit_creation_date 2003-02-11
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD HUKSUB
+_database_code_depnum_ccdc_archive 'CCDC 183384'
+_chemical_formula_sum 'C15 H39 Br1 Cr1 N4 Si3'
+_chemical_formula_moiety
+;
+C15 H39 Br1 Cr1 N4 Si3
+;
+_journal_coden_Cambridge 1290
+_journal_year 2002
+_journal_page_first 2928
+_journal_name_full 'Eur.J.Inorg.Chem. '
+loop_
+_publ_author_name
+"A.C.Filippou"
+"S.Schneider"
+"B.Ziemer"
+_chemical_name_systematic
+;
+Bromo-(tris(2-(N-trimethylsilylamido)ethyl)amine-N,N',N'',N''')-chromium(iv)
+;
+_chemical_melting_point 448
+_cell_volume   2444.479
+_exptl_crystal_colour 'black'
+_exptl_crystal_density_diffrn 1.336
+_exptl_crystal_description 'cube'
+_exptl_crystal_preparation 'pentane'
+_diffrn_ambient_temperature 180
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0341
+_refine_ls_wR_factor_gt 0.0341
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'C c'
+_symmetry_Int_Tables_number 9
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 x,-y,1/2+z
+3 1/2+x,1/2+y,z
+4 1/2+x,1/2-y,1/2+z
+_cell_length_a 17.210(2)
+_cell_length_b 9.5736(14)
+_cell_length_c 15.835(2)
+_cell_angle_alpha 90
+_cell_angle_beta 110.456(14)
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Br 1.21
+Cr 1.35
+N 0.68
+Si 1.20
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.6877(3) 0.8871(5) 0.6912(3)
+H1 H 0.62840 0.87820 0.68380
+H2 H 0.69560 0.97690 0.66420
+C2 C 0.7399(4) 0.8839(5) 0.7888(3)
+H3 H 0.79720 0.91300 0.79710
+H4 H 0.71720 0.94920 0.82290
+C3 C 0.6443(3) 0.5660(5) 0.8342(3)
+H5 H 0.59050 0.54980 0.84210
+H6 H 0.68630 0.50470 0.87670
+C4 C 0.6691(3) 0.7142(6) 0.8528(3)
+H7 H 0.62210 0.77600 0.82020
+H8 H 0.68540 0.73340 0.91810
+C5 C 0.8777(3) 0.6511(5) 0.8513(3)
+H9 H 0.89670 0.72930 0.82250
+H10 H 0.92690 0.60780 0.89670
+C6 C 0.8200(3) 0.7042(6) 0.8957(3)
+H11 H 0.84380 0.78780 0.93250
+H12 H 0.81070 0.63160 0.93570
+C7 C 0.7475(3) 0.9965(5) 0.5387(3)
+H13 H 0.79840 1.02020 0.58880
+H14 H 0.70120 1.05100 0.54370
+H15 H 0.75480 1.01810 0.48140
+C8 C 0.8162(3) 0.7127(6) 0.5304(3)
+H16 H 0.80800 0.61160 0.53190
+H17 H 0.86670 0.73950 0.57980
+H18 H 0.82140 0.73860 0.47270
+C9 C 0.6282(3) 0.7690(6) 0.4467(3)
+H19 H 0.61430 0.66970 0.44640
+H20 H 0.63630 0.79270 0.39010
+H21 H 0.58290 0.82540 0.45270
+C10 C 0.4707(3) 0.4424(6) 0.7301(3)
+H22 H 0.45650 0.53950 0.73790
+H23 H 0.49360 0.39720 0.78920
+H24 H 0.42070 0.39250 0.69300
+C11 C 0.5009(3) 0.5226(6) 0.5594(3)
+H25 H 0.54030 0.52130 0.52730
+H26 H 0.48610 0.61940 0.56710
+H27 H 0.45080 0.47080 0.52450
+C12 C 0.5709(3) 0.2502(5) 0.6614(4)
+H28 H 0.61180 0.24110 0.63150
+H29 H 0.51940 0.20320 0.62530
+H30 H 0.59270 0.20720 0.72130
+C13 C 0.9729(3) 0.3661(6) 0.8910(3)
+H31 H 1.01260 0.44260 0.89870
+H32 H 1.00060 0.27680 0.89060
+H33 H 0.95160 0.36710 0.94090
+C14 C 0.8133(3) 0.2390(5) 0.7739(3)
+H34 H 0.79080 0.24570 0.82270
+H35 H 0.84410 0.15130 0.77960
+H36 H 0.76770 0.24100 0.71570
+C15 C 0.9302(3) 0.3831(6) 0.6909(4)
+H37 H 0.96700 0.46370 0.69720
+H38 H 0.88590 0.38610 0.63180
+H39 H 0.96210 0.29670 0.69640
+Br1 Br 0.70849(2) 0.44830(4) 0.58417(2)
+Cr1 Cr 0.72635(3) 0.60333(6) 0.71190(4)
+N1 N 0.7129(2) 0.7697(4) 0.6458(2)
+N2 N 0.63714(19) 0.5329(4) 0.7401(2)
+N3 N 0.83385(18) 0.5475(4) 0.7833(2)
+N4 N 0.73979(18) 0.7406(3) 0.8224(2)
+Si1 Si 0.72519(6) 0.80544(13) 0.54301(7)
+Si2 Si 0.54961(6) 0.43850(12) 0.67306(7)
+Si3 Si 0.88408(6) 0.38880(12) 0.78091(8)
+#END

@@ -1,0 +1,128 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_IVEVIQ
+_audit_creation_date 2016-09-13
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD IVEVIQ
+_database_code_depnum_ccdc_archive 'CCDC 1454744'
+_chemical_formula_sum 'C14 H18 B1 Cl2 Fe1 N1 O2'
+_chemical_formula_moiety
+;
+C14 H18 B1 Cl2 Fe1 N1 O2
+;
+_journal_coden_Cambridge 1220
+_journal_volume 22
+_journal_year 2016
+_journal_page_first 11736
+_journal_name_full 'Chem.-Eur.J. '
+loop_
+_publ_author_name
+"H.Braunschweig"
+"Mehmet Ali Celik"
+"R.D.Dewhurst"
+"K.Ferkinghoff"
+"A.Hermann"
+"J.Oscar C.Jimenez-Halla"
+"T.Kramer"
+"K.Radacki"
+"Rong Shang"
+"E.Siedler"
+"F.Weienberger"
+"C.Werner"
+_chemical_name_systematic
+;
+(2,2-dichloro-3-methyl-2-bora-3-azacyclopropylidene)-dicarbonyl-(pentamethyl-c
+yclopentadienyl)-iron
+;
+_cell_volume    815.130
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.507
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 100
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0354
+_refine_ls_wR_factor_gt 0.0354
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 8.0705(19)
+_cell_length_b 8.614(2)
+_cell_length_c 13.292(4)
+_cell_angle_alpha 106.353(12)
+_cell_angle_beta 93.907(15)
+_cell_angle_gamma 110.653(13)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+B 0.83
+Cl 0.99
+Fe 1.52
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe1 Fe 0.24063(5) 0.36928(5) 0.72741(3)
+O1 O -0.1216(2) 0.3110(3) 0.63380(16)
+C1 C 0.2436(3) 0.5170(3) 0.8520(2)
+O2 O 0.2498(3) 0.6135(2) 0.93241(15)
+C2 C 0.0196(4) 0.3313(3) 0.6713(2)
+C3 C 0.4348(3) 0.2709(3) 0.6644(2)
+C4 C 0.5215(3) 0.4389(3) 0.7430(2)
+C5 C 0.4721(3) 0.5619(3) 0.7062(2)
+C6 C 0.3512(3) 0.4672(3) 0.6074(2)
+C7 C 0.3251(3) 0.2853(3) 0.5817(2)
+C8 C 0.4557(4) 0.1056(3) 0.6651(2)
+H1 H 0.54470 0.08710 0.62170
+H2 H 0.33960 0.00620 0.63560
+H3 H 0.49660 0.11520 0.73860
+C9 C 0.6536(4) 0.4845(4) 0.8423(2)
+H4 H 0.77610 0.52020 0.82720
+H5 H 0.62670 0.38170 0.86600
+H6 H 0.64420 0.58120 0.89850
+C10 C 0.5463(4) 0.7559(3) 0.7616(2)
+H7 H 0.66200 0.81030 0.74130
+H8 H 0.56420 0.78020 0.83900
+H9 H 0.46150 0.80440 0.74080
+C11 C 0.2708(4) 0.5426(4) 0.5374(2)
+H10 H 0.35200 0.57680 0.48890
+H11 H 0.25420 0.64600 0.58200
+H12 H 0.15400 0.45430 0.49570
+C12 C 0.2202(4) 0.1415(3) 0.4801(2)
+H13 H 0.29880 0.13560 0.42740
+H14 H 0.11910 0.16540 0.45270
+H15 H 0.17390 0.02930 0.49380
+C13 C 0.1595(3) 0.1802(3) 0.7842(2)
+N1 N 0.0477(3) 0.1311(3) 0.84560(17)
+C14 C -0.0726(4) 0.1954(4) 0.9054(2)
+H16 H -0.19090 0.09950 0.89100
+H17 H -0.08550 0.29070 0.88350
+H18 H -0.02220 0.23930 0.98180
+B1 B 0.1587(4) 0.0236(4) 0.8234(2)
+Cl1 Cl 0.04884(9) -0.20987(8) 0.73938(5)
+Cl2 Cl 0.33980(9) 0.05814(9) 0.92829(5)
+#END

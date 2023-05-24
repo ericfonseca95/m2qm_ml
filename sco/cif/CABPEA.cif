@@ -1,0 +1,151 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CABPEA
+_audit_creation_date 1984-04-14
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CABPEA
+_database_code_depnum_ccdc_archive 'CCDC 1118634'
+_chemical_formula_sum 'C18 H32 Cl2 Mn1 N12 O4'
+_chemical_formula_moiety
+;
+C18 H24 Mn1 N12 2+,2(Cl1 1-),4(H2 O1)
+;
+_journal_coeditor_code "IUCr A22596"
+_journal_coden_Cambridge 591
+_journal_volume 39
+_journal_year 1983
+_journal_page_first 1027
+_journal_name_full 'Acta Crystallogr.,Sect.C:Cryst.Struct.Commun. '
+loop_
+_publ_author_name
+"T.P.J.Garrett"
+"J.M.Guss"
+"H.C.Freeman"
+_chemical_name_systematic
+;
+hexakis(Imidazole)-manganese(ii) dichloride tetrahydrate
+;
+_cell_volume    740.319
+_exptl_crystal_density_diffrn 1.36
+_exptl_special_details
+;
+Isomorphous with the zinc analogue
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.03
+_refine_ls_wR_factor_gt 0.03
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 10.726(3)
+_cell_length_b 9.275(2)
+_cell_length_c 8.846(2)
+_cell_angle_alpha 119.65(1)
+_cell_angle_beta 96.87(2)
+_cell_angle_gamma 97.62(2)
+_cell_formula_units_Z 1
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+Mn 1.35
+N 0.68
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mn1 Mn 0.00000 0.00000 0.00000
+N1 N 0.12250 0.24280 0.24070
+N2 N 0.27310 0.47610 0.40440
+N3 N 0.13020 -0.15430 0.04870
+N4 N 0.28480 -0.21340 0.18010
+N5 N 0.12460 0.03630 -0.17480
+N6 N 0.28290 0.02850 -0.31170
+C1 C 0.22580 0.33850 0.24250
+C2 C 0.19770 0.46960 0.51300
+C3 C 0.10500 0.32630 0.41210
+C4 C 0.23430 -0.09070 0.17660
+C5 C 0.21060 -0.36480 0.04780
+C6 C 0.11540 -0.32770 -0.03240
+C7 C 0.22790 -0.02390 -0.21470
+C8 C 0.21250 0.12860 -0.33590
+C9 C 0.11470 0.13200 -0.25290
+H1 H 0.26700 0.31400 0.14400
+H2 H 0.33600 0.55500 0.43100
+H3 H 0.21300 0.55400 0.63300
+H4 H 0.03600 0.28400 0.44400
+H5 H 0.26800 0.02700 0.25500
+H6 H 0.34600 -0.19900 0.25100
+H7 H 0.22600 -0.47100 0.02100
+H8 H 0.04500 -0.40500 -0.13300
+H9 H 0.26100 -0.09300 -0.17900
+H10 H 0.34200 0.00200 -0.35200
+H11 H 0.23100 0.17800 -0.39800
+H12 H 0.04700 0.18700 -0.24300
+Cl1 Cl 0.50247 0.20603 0.50706
+O1 O 0.52590 0.17240 0.13220
+H13 H 0.50700 0.18200 0.21200
+H14 H 0.51400 0.25500 0.13000
+O2 O 0.48640 0.45600 0.12320
+H15 H 0.48900 0.54100 0.21600
+H16 H 0.49800 0.37400 0.12600
+H17? H 0.49400 0.48200 0.05000
+H18? H 0.51100 0.07400 0.05700
+N1A N -0.12250 -0.24280 -0.24070
+N2A N -0.27310 -0.47610 -0.40440
+N3A N -0.13020 0.15430 -0.04870
+N4A N -0.28480 0.21340 -0.18010
+N5A N -0.12460 -0.03630 0.17480
+N6A N -0.28290 -0.02850 0.31170
+C1A C -0.22580 -0.33850 -0.24250
+C2A C -0.19770 -0.46960 -0.51300
+C3A C -0.10500 -0.32630 -0.41210
+C4A C -0.23430 0.09070 -0.17660
+C5A C -0.21060 0.36480 -0.04780
+C6A C -0.11540 0.32770 0.03240
+C7A C -0.22790 0.02390 0.21470
+C8A C -0.21250 -0.12860 0.33590
+C9A C -0.11470 -0.13200 0.25290
+H1A H -0.26700 -0.31400 -0.14400
+H2A H -0.33600 -0.55500 -0.43100
+H3A H -0.21300 -0.55400 -0.63300
+H4A H -0.03600 -0.28400 -0.44400
+H5A H -0.26800 -0.02700 -0.25500
+H6A H -0.34600 0.19900 -0.25100
+H7A H -0.22600 0.47100 -0.02100
+H8A H -0.04500 0.40500 0.13300
+H9A H -0.26100 0.09300 0.17900
+H10A H -0.34200 -0.00200 0.35200
+H11A H -0.23100 -0.17800 0.39800
+H12A H -0.04700 -0.18700 0.24300
+#END

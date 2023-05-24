@@ -1,0 +1,125 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_VOJMUC
+_audit_creation_date 1992-05-28
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD VOJMUC
+_database_code_depnum_ccdc_fiz 'CSD 55130'
+_chemical_formula_sum 'C11 H11 Cr1 F3 N1 O6 P1'
+_chemical_formula_moiety
+;
+C11 H11 Cr1 F3 N1 O6 P1
+;
+_journal_coden_Cambridge 1093
+_journal_volume 2
+_journal_year 1991
+_journal_page_first 385
+_journal_name_full 'Heteroat.Chem. '
+loop_
+_publ_author_name
+"J.Grobe"
+"D.le Van"
+"U.Althoff"
+"B.Krebs"
+"M.Dartmann"
+"R.Gleiter"
+_chemical_name_systematic
+;
+Pentacarbonyl-((dimethylamino(ethoxy)methylidene)trifluoromethyl 
+phosphine-P)-chromium
+;
+_cell_volume    815.868
+_exptl_crystal_density_diffrn 1.6
+_exptl_special_details
+;
+x(C10) is 0.5034 not 0.5334
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.058
+_refine_ls_wR_factor_gt 0.058
+_symmetry_cell_setting monoclinic
+_symmetry_space_group_name_H-M 'P 21'
+_symmetry_Int_Tables_number 4
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,-z
+_cell_length_a 6.672(4)
+_cell_length_b 12.080(7)
+_cell_length_c 10.126(6)
+_cell_angle_alpha 90
+_cell_angle_beta 91.46(5)
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cr 1.35
+F 0.64
+N 0.68
+O 0.68
+P 1.05
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cr1 Cr 0.8908(1) 0.79880 0.3790(7)
+P1 P 1.0180(2) 0.9153(1) 0.1992(1)
+C1 C 1.0109(10) 0.8974(5) 0.5033(6)
+C2 C 1.1326(9) 0.7173(5) 0.3798(5)
+C3 C 0.6460(9) 0.8766(5) 0.3848(5)
+C4 C 0.7977(9) 0.7131(5) 0.5139(5)
+C5 C 0.7746(10) 0.6964(5) 0.2594(6)
+C6 C 0.8013(8) 0.9691(4) 0.1093(5)
+C7 C 1.1149(11) 0.8238(5) 0.0655(7)
+C8 C 0.7255(11) 0.9780(5) -0.1262(5)
+C9 C 0.6241(14) 0.9067(7) -0.2236(6)
+C10 C 0.5034(9) 1.0859(5) 0.1056(6)
+C11 C 0.786(1) 1.1245(5) 0.2580(6)
+N1 N 0.7055(7) 1.0564(4) 0.1509(4)
+F1 F 1.2967(7) 0.7857(5) 0.1088(4)
+F2 F 1.0108(8) 0.7360(3) 0.0264(4)
+F3 F 1.1532(7) 0.8803(4) -0.0463(4)
+O1 O 1.0820(9) 0.9513(5) 0.5837(5)
+O2 O 1.2730(8) 0.6641(4) 0.3863(5)
+O3 O 0.4945(8) 0.9205(5) 0.3908(5)
+O4 O 0.7338(8) 0.6595(5) 0.5983(4)
+O5 O 0.7023(8) 0.6292(5) 0.1930(5)
+O6 O 0.7350(6) 0.9175(3) 0.0014(3)
+H1 H 0.859(1) 0.9946(5) -0.1541(5)
+H2 H 0.652(1) 1.0456(5) -0.1165(5)
+H3 H 0.616(1) 0.9440(7) -0.3073(6)
+H4 H 0.491(1) 0.8901(7) -0.1950(6)
+H5 H 0.698(1) 0.8391(7) -0.2326(6)
+H6 H 0.4625(9) 1.1526(5) 0.1486(6)
+H7 H 0.4126(9) 1.0271(5) 0.1265(6)
+H8 H 0.5018(9) 1.0972(5) 0.0117(6)
+H9 H 0.695(1) 1.1844(5) 0.2744(6)
+H10 H 0.914(1) 1.1538(5) 0.2340(6)
+H11 H 0.802(1) 1.0803(5) 0.3363(6)
+#END

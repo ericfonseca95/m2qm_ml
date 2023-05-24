@@ -1,0 +1,107 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_QUWCUH
+_audit_creation_date 2010-08-29
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD QUWCUH
+_database_code_depnum_ccdc_archive 'CCDC 766449'
+_chemical_formula_sum 'C10 H8 Cl2 Co1 N2 Se2'
+_chemical_formula_moiety
+;
+C10 H8 Cl2 Co1 N2 Se2
+;
+_journal_coden_Cambridge 1078
+_journal_year 2010
+_journal_name_full 'CSD Communication(Private Communication) '
+loop_
+_publ_author_name
+"C.Thone"
+"F.Vancea"
+"P.G.Jones"
+_chemical_name_systematic
+;
+Dichloro-(2,2'-diselane-1,2-diylbispyridine-N,N')-cobalt(ii)
+;
+_cell_volume    647.735
+_exptl_crystal_colour 'dark blue'
+_exptl_crystal_density_diffrn 2.276
+_exptl_special_details
+;
+contribution from Institut fur Anorganische und Analytische Chemie, 
+Technische Universitat Braunschweig, Postfach 3329, 38023 Braunschweig, 
+Germany
+;
+_exptl_crystal_description 'tablet'
+_diffrn_ambient_temperature 133
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.019
+_refine_ls_wR_factor_gt 0.019
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 7.9293(6)
+_cell_length_b 8.1474(8)
+_cell_length_c 11.9742(11)
+_cell_angle_alpha 93.618(3)
+_cell_angle_beta 107.923(3)
+_cell_angle_gamma 115.368(3)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+Co 1.26
+N 0.68
+Se 1.22
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Se1 Se 0.48102(2) 0.06531(2) 0.268607(15)
+Se2 Se 0.72615(2) 0.20780(2) 0.460377(15)
+Co1 Co 0.69365(3) 0.49161(3) 0.229295(19)
+Cl1 Cl 0.96740(6) 0.74875(5) 0.23227(4)
+Cl2 Cl 0.39408(6) 0.47431(5) 0.12985(4)
+N1 N 0.7363(2) 0.28510(18) 0.15836(12)
+N2 N 0.7324(2) 0.54899(18) 0.40858(12)
+C1 C 0.6484(2) 0.1103(2) 0.17495(14)
+C2 C 0.6653(2) -0.0360(2) 0.12231(15)
+H1 H 0.60320 -0.15700 0.13680
+C3 C 0.7752(3) -0.0011(2) 0.04808(15)
+H2 H 0.78820 -0.09860 0.01010
+C4 C 0.8661(2) 0.1781(2) 0.02984(15)
+H3 H 0.94150 0.20480 -0.02090
+C5 C 0.8444(2) 0.3174(2) 0.08734(15)
+H4 H 0.90840 0.44030 0.07600
+C6 C 0.7406(2) 0.4486(2) 0.49339(14)
+C7 C 0.7703(3) 0.5150(2) 0.61177(15)
+H5 H 0.77170 0.43910 0.66880
+C8 C 0.7979(3) 0.6933(2) 0.64465(15)
+H6 H 0.82190 0.74310 0.72520
+C9 C 0.7900(3) 0.7986(2) 0.55802(15)
+H7 H 0.80870 0.92150 0.57830
+C10 C 0.7546(3) 0.7213(2) 0.44230(15)
+H8 H 0.74510 0.79230 0.38290
+#END

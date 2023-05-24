@@ -1,0 +1,115 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_VAGKUJ
+_audit_creation_date 1989-09-22
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD VAGKUJ
+_chemical_formula_sum 'C10 H7 Cl1 Cr1 O3'
+_chemical_formula_moiety
+;
+C10 H7 Cl1 Cr1 O3
+;
+_journal_coden_Cambridge 36
+_journal_volume 363
+_journal_year 1989
+_journal_page_first 103
+_journal_name_full 'J.Organomet.Chem. '
+loop_
+_publ_author_name
+"F.Rose-Munch"
+"E.Rose"
+"A.Semra"
+"C.Bois"
+_chemical_name_systematic
+;
+Tricarbonyl-(\h^6^-p-chlorotoluene)-chromium
+;
+_cell_volume    524.178
+_exptl_crystal_colour 'pale yellow'
+_exptl_crystal_density_diffrn 1.66
+_exptl_special_details
+;
+Author has sent correction to gamma - 76.38 not 79.38
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+_refine_special_details
+;
+The chloro and methyl substituents are disordered about the same sites; 
+occupancy factors are 0.72 and 0.28.
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0247
+_refine_ls_wR_factor_gt 0.0247
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 6.198(1)
+_cell_length_b 6.682(2)
+_cell_length_c 13.252(4)
+_cell_angle_alpha 81.09(2)
+_cell_angle_beta 82.24(2)
+_cell_angle_gamma 76.38(2)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+Cr 1.35
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cr1 Cr 0.67862(6) 0.96855(6) -0.24874(3)
+Cl1 Cl 0.6970(3) 0.6961(2) 0.00732(9)
+Cl2? Cl 0.570(1) 0.7274(7) -0.4614(3)
+O1 O 0.8957(4) 1.1564(4) -0.1105(2)
+O2 O 0.9356(4) 1.1712(4) -0.4255(2)
+O3 O 0.3214(3) 1.3539(3) -0.2707(2)
+C1 C 0.6602(4) 0.7106(4) -0.1222(2)
+C2 C 0.8448(4) 0.6466(4) -0.1930(2)
+C3 C 0.8155(5) 0.6561(4) -0.2955(2)
+C4 C 0.6022(5) 0.7274(4) -0.3296(2)
+C5 C 0.4218(4) 0.7967(4) -0.2589(2)
+C6 C 0.4485(4) 0.7881(4) -0.1547(2)
+C7 C 0.573(1) 0.7264(8) -0.4370(4)
+C8? C 0.691(3) 0.701(2) -0.013(1)
+C9 C 0.8125(5) 1.0854(4) -0.1644(2)
+C10 C 0.8387(5) 1.0892(4) -0.3584(2)
+C11 C 0.4596(4) 1.2066(4) -0.2618(2)
+H1 H 0.99450 0.59900 -0.16730
+H2 H 0.94350 0.61350 -0.34500
+H3 H 0.27200 0.85100 -0.28450
+H4 H 0.31700 0.84550 -0.10250
+H5 H 0.41340 0.78210 -0.44520
+H6 H 0.66670 0.81670 -0.47880
+H7 H 0.62260 0.58190 -0.45180
+#END

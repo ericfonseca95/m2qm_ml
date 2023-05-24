@@ -1,0 +1,146 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_QIWCOO
+_audit_creation_date 2001-07-19
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD QIWCOO
+_database_code_depnum_ccdc_archive 'CCDC 162930'
+_chemical_formula_sum 'C33 H25 Fe1 N1 O3 P2'
+_chemical_formula_moiety
+;
+C33 H25 Fe1 N1 O3 P2
+;
+_journal_coden_Cambridge 9
+_journal_volume 40
+_journal_year 2001
+_journal_page_first 1962
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"J.T.Mague"
+"J.L.Krinsky"
+_chemical_name_systematic
+;
+Tricarbonyl-(2-pyridyl-bis(diphenylphosphino)methane-P,P')-iron(0)
+;
+_cell_volume    705.658
+_exptl_crystal_colour 'orange'
+_exptl_crystal_density_diffrn 1.415
+_exptl_crystal_description 'plate'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.031
+_refine_ls_wR_factor_gt 0.031
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P 1'
+_symmetry_Int_Tables_number 1
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+_cell_length_a 9.2281(12)
+_cell_length_b 9.3040(19)
+_cell_length_c 9.4420(13)
+_cell_angle_alpha 114.054(14)
+_cell_angle_beta 93.112(11)
+_cell_angle_gamma 104.440(14)
+_cell_formula_units_Z 1
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Fe 1.34
+N 0.68
+O 0.68
+P 1.05
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe1 Fe 0.74567(5) 0.55624(5) 0.13983(5)
+P1 P 0.49733(12) 0.50525(12) 0.13973(11)
+P2 P 0.64270(12) 0.54472(12) -0.08260(11)
+O1 O 0.8011(7) 0.4105(9) 0.3500(8)
+O2 O 0.9992(5) 0.4588(8) 0.0013(5)
+O3 O 0.8762(6) 0.9081(5) 0.3357(6)
+N1 N 0.2575(5) 0.5760(5) -0.1853(5)
+C1 C 0.7762(7) 0.4673(9) 0.2676(7)
+C2 C 0.8980(6) 0.4968(8) 0.0547(6)
+C3 C 0.8201(6) 0.7715(7) 0.2587(6)
+C4 C 0.4234(5) 0.6380(5) 0.3013(5)
+C5 C 0.4843(6) 0.6758(5) 0.4539(5)
+H1 H 0.56490 0.63880 0.47220
+C6 C 0.4250(7) 0.7686(7) 0.5790(6)
+H2 H 0.46620 0.79420 0.68160
+C7 C 0.3059(7) 0.8228(7) 0.5523(7)
+H3 H 0.26570 0.88390 0.63680
+C8 C 0.2461(7) 0.7880(8) 0.4034(7)
+H4 H 0.16570 0.82610 0.38690
+C9 C 0.3037(6) 0.6961(7) 0.2753(6)
+H5 H 0.26300 0.67350 0.17350
+C10 C 0.3786(5) 0.2999(5) 0.1034(5)
+C11 C 0.2429(6) 0.2746(6) 0.1587(6)
+H6 H 0.20660 0.36350 0.21150
+C12 C 0.1612(6) 0.1190(7) 0.1361(8)
+H7 H 0.07060 0.10350 0.17430
+C13 C 0.2133(7) -0.0137(7) 0.0571(7)
+H8 H 0.15790 -0.11880 0.04160
+C14 C 0.3472(7) 0.0098(6) 0.0015(6)
+H9 H 0.38160 -0.08000 -0.05340
+C15 C 0.4312(6) 0.1658(6) 0.0264(5)
+H10 H 0.52360 0.18100 -0.00870
+C16 C 0.6100(5) 0.3675(5) -0.2724(5)
+C17 C 0.6718(6) 0.2421(5) -0.2887(5)
+H11 H 0.72520 0.24470 -0.20080
+C18 C 0.6548(7) 0.1127(6) -0.4350(6)
+H12 H 0.69930 0.03010 -0.44630
+C19 C 0.5727(7) 0.1067(7) -0.5623(6)
+H13 H 0.56080 0.01900 -0.66050
+C20 C 0.5070(6) 0.2274(7) -0.5484(6)
+H14 H 0.44930 0.22030 -0.63620
+C21 C 0.5268(6) 0.3590(6) -0.4045(5)
+H15 H 0.48460 0.44270 -0.39530
+C22 C 0.7213(5) 0.7192(5) -0.1277(5)
+C23 C 0.7145(6) 0.8749(6) -0.0293(6)
+H16 H 0.66180 0.88880 0.05420
+C24 C 0.7851(7) 1.0092(7) -0.0543(8)
+H17 H 0.77900 1.11290 0.01210
+C25 C 0.8643(6) 0.9919(7) -0.1758(8)
+H18 H 0.91240 1.08330 -0.19160
+C26 C 0.8721(6) 0.8393(8) -0.2734(7)
+H19 H 0.92620 0.82780 -0.35570
+C27 C 0.8011(6) 0.7010(7) -0.2525(6)
+H20 H 0.80650 0.59760 -0.32070
+C28 C 0.4539(5) 0.5542(5) -0.0275(5)
+H21 H 0.46130 0.67170 0.02090
+C29 C 0.3115(5) 0.4717(5) -0.1513(4)
+C30 C 0.2483(6) 0.3018(6) -0.2317(5)
+H22 H 0.28850 0.23180 -0.20540
+C31 C 0.1250(6) 0.2389(7) -0.3512(6)
+H23 H 0.07990 0.12570 -0.40640
+C32 C 0.0698(6) 0.3462(8) -0.3873(7)
+H24 H -0.01290 0.30720 -0.46770
+C33 C 0.1380(7) 0.5092(8) -0.3039(7)
+H25 H 0.10000 0.58060 -0.33000
+#END

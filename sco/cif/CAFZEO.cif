@@ -1,0 +1,123 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CAFZEO
+_audit_creation_date 1984-04-14
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CAFZEO
+_database_code_depnum_ccdc_archive 'CCDC 1119118'
+_chemical_formula_sum 'C16 H18 Cr1 O5'
+_chemical_formula_moiety
+;
+C16 H18 Cr1 O5
+;
+_journal_coden_Cambridge 35
+_journal_volume 48
+_journal_year 1983
+_journal_page_first 2349
+_journal_name_full 'J.Org.Chem. '
+loop_
+_publ_author_name
+"M.Uemura"
+"N.Nishikawa"
+"K.Take"
+"M.Ohnishi"
+"K.Hirotsu"
+"T.Higuchi"
+"Y.Hayashi"
+_chemical_name_systematic
+;
+endo-(7-Methoxy-2,2-dimethyl-1-tetralol)-tricarbonyl-chromium
+;
+_chemical_melting_point 418.15
+_cell_volume    765.430
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.033
+_refine_ls_wR_factor_gt 0.033
+_symmetry_cell_setting triclinic
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+_cell_length_a 11.581(3)
+_cell_length_b 10.491(2)
+_cell_length_c 6.550(2)
+_cell_angle_alpha 91.50(2)
+_cell_angle_beta 93.30(1)
+_cell_angle_gamma 105.35(2)
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cr 1.35
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cr1 Cr 0.22521 0.67061 0.49500
+C1 C 0.32910 0.98060 0.29600
+C2 C 0.23880 1.05680 0.22390
+C3 C 0.11790 0.99400 0.31050
+C4 C 0.06390 0.85310 0.23280
+C5 C 0.15370 0.77130 0.23640
+C6 C 0.11400 0.63280 0.20200
+C7 C 0.19510 0.55560 0.19740
+C8 C 0.31950 0.61580 0.22300
+C9 C 0.35880 0.75040 0.26840
+C10 C 0.27760 0.83130 0.26920
+C11 C 0.28310 1.20210 0.29440
+C12 C 0.22890 1.04820 -0.01100
+C13 C 0.51620 0.58520 0.24800
+C14 C 0.33800 0.74930 0.70120
+C15 C 0.10480 0.69810 0.64600
+C16 C 0.21080 0.51460 0.62370
+O1 O 0.37660 1.01820 0.50040
+O2 O 0.39020 0.53200 0.20470
+O3 O 0.41010 0.79530 0.83010
+O4 O 0.02780 0.71630 0.73810
+O5 O 0.20010 0.41650 0.70610
+H1 H 0.39800 1.00800 0.21400
+H2 H 0.06700 1.04600 0.27200
+H3 H 0.13100 1.00100 0.46400
+H4 H 0.03000 0.84800 0.09000
+H5 H -0.00700 0.80800 0.30600
+H6 H 0.03300 0.59200 0.18300
+H7 H 0.17000 0.46400 0.18000
+H8 H 0.43900 0.79400 0.30100
+H9 H 0.28000 1.20800 0.43900
+H10 H 0.36500 1.24700 0.25600
+H11 H 0.23200 1.24900 0.23100
+H12 H 0.17500 1.09400 -0.06200
+H13 H 0.30600 1.09400 -0.05200
+H14 H 0.20800 0.95900 -0.06600
+H15 H 0.53300 0.62300 0.38200
+H16 H 0.54600 0.50800 0.23900
+H17 H 0.55500 0.65500 0.15600
+H18 H 0.33900 1.00400 0.55700
+#END
